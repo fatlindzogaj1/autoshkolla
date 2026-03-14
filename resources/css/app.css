@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700;900&display=swap');
 @import 'tailwindcss';
 @import '../../vendor/livewire/flux/dist/flux.css';
 
@@ -10,8 +11,15 @@
 
 @theme {
   --font-sans:
-    'Instrument Sans', ui-sans-serif, system-ui, sans-serif,
+    'Outfit', ui-sans-serif, system-ui, sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+  --color-bauhaus-canvas: #f0f0f0;
+  --color-bauhaus-ink: #121212;
+  --color-bauhaus-red: #d02020;
+  --color-bauhaus-blue: #1040c0;
+  --color-bauhaus-yellow: #f0c020;
+  --color-bauhaus-muted: #e0e0e0;
 
   --color-zinc-50: #fafafa;
   --color-zinc-100: #f5f5f5;
@@ -25,9 +33,9 @@
   --color-zinc-900: #171717;
   --color-zinc-950: #0a0a0a;
 
-  --color-accent: var(--color-neutral-800);
-  --color-accent-content: var(--color-neutral-800);
-  --color-accent-foreground: var(--color-white);
+  --color-accent: var(--color-bauhaus-ink);
+  --color-accent-content: var(--color-bauhaus-ink);
+  --color-accent-foreground: #ffffff;
 }
 
 /*
@@ -46,6 +54,25 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentcolor);
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans;
+    background: var(--color-bauhaus-canvas);
+    color: var(--color-bauhaus-ink);
+  }
+
+  ::selection {
+    background: var(--color-bauhaus-yellow);
+    color: var(--color-bauhaus-ink);
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
 }
 
 @layer theme {
@@ -56,14 +83,113 @@
     }
 }
 
-@layer base {
+@layer components {
+    .bauhaus-shell {
+        background:
+            linear-gradient(to right, transparent 0, transparent calc(100% - 4px), var(--color-bauhaus-ink) calc(100% - 4px), var(--color-bauhaus-ink) 100%),
+            linear-gradient(to bottom, transparent 0, transparent calc(100% - 4px), var(--color-bauhaus-ink) calc(100% - 4px), var(--color-bauhaus-ink) 100%),
+            var(--color-bauhaus-canvas);
+        min-height: 100vh;
+    }
 
-    *,
-    ::after,
-    ::before,
-    ::backdrop,
-    ::file-selector-button {
-        border-color: var(--color-gray-200, currentColor);
+    .bauhaus-container {
+        @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+    }
+
+    .bauhaus-section {
+        @apply border-b-4 border-black py-12 sm:py-16 lg:py-24;
+    }
+
+    .bauhaus-display {
+        @apply text-4xl font-black uppercase tracking-[-0.08em] leading-[0.9] sm:text-6xl lg:text-8xl;
+    }
+
+    .bauhaus-subheading {
+        @apply text-2xl font-bold uppercase tracking-[-0.04em] sm:text-3xl lg:text-4xl;
+    }
+
+    .bauhaus-kicker {
+        @apply text-xs font-bold uppercase tracking-[0.35em] sm:text-sm;
+    }
+
+    .bauhaus-card {
+        @apply relative overflow-hidden border-2 border-black bg-white p-6 transition duration-200 ease-out lg:border-4 lg:p-8;
+        box-shadow: 6px 6px 0 0 var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-card:hover {
+        transform: translateY(-4px);
+    }
+
+    .bauhaus-button {
+        @apply inline-flex items-center justify-center gap-3 border-2 border-black px-5 py-3 text-sm font-bold uppercase tracking-[0.22em] transition duration-200 ease-out lg:px-6 lg:py-4;
+        box-shadow: 4px 4px 0 0 var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-button:hover {
+        opacity: 0.92;
+    }
+
+    .bauhaus-button:active {
+        transform: translate(2px, 2px);
+        box-shadow: none;
+    }
+
+    .bauhaus-button:focus-visible,
+    .bauhaus-link:focus-visible,
+    .bauhaus-menu-button:focus-visible {
+        outline: 2px solid var(--color-bauhaus-ink);
+        outline-offset: 4px;
+    }
+
+    .bauhaus-link {
+        @apply text-sm font-bold uppercase tracking-[0.24em] transition duration-200 ease-out;
+    }
+
+    .bauhaus-link:hover {
+        color: var(--color-bauhaus-red);
+    }
+
+    .bauhaus-button--red {
+        background: var(--color-bauhaus-red);
+        color: white;
+    }
+
+    .bauhaus-button--blue {
+        background: var(--color-bauhaus-blue);
+        color: white;
+    }
+
+    .bauhaus-button--yellow {
+        background: var(--color-bauhaus-yellow);
+        color: var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-button--outline {
+        background: white;
+        color: var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-shadow-lg {
+        box-shadow: 8px 8px 0 0 var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-shadow-sm {
+        box-shadow: 4px 4px 0 0 var(--color-bauhaus-ink);
+    }
+
+    .bauhaus-dot-grid {
+        background-image: radial-gradient(var(--color-bauhaus-ink) 1.5px, transparent 1.5px);
+        background-size: 20px 20px;
+    }
+
+    .bauhaus-triangle {
+        clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    }
+
+    .bauhaus-menu-button {
+        @apply inline-flex items-center gap-3 border-2 border-black bg-white px-4 py-3 text-sm font-bold uppercase tracking-[0.24em] md:hidden;
+        box-shadow: 4px 4px 0 0 var(--color-bauhaus-ink);
     }
 }
 
@@ -72,7 +198,7 @@
 }
 
 [data-flux-label] {
-    @apply  mb-0! leading-tight!;
+    @apply mb-0! leading-tight!;
 }
 
 input:focus[data-flux-control],
