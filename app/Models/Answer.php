@@ -10,6 +10,7 @@ class Answer extends Model
         'question_id',
         'answer_text',
         'is_correct',
+        'image',
     ];
 
     public function question()
