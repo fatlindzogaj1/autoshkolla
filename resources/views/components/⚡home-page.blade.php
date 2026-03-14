@@ -140,7 +140,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                     </p>
                 </article>
 
-                <article class="bauhaus-card bg-[var(--color-bauhaus-yellow)] xl:translate-y-8">
+                <article class="bauhaus-card bg-[var(--color-bauhaus-yellow)] ">
                     <div class="bauhaus-triangle absolute right-5 top-5 size-4 border-2 border-black bg-[var(--color-bauhaus-red)]"></div>
                     <p class="bauhaus-kicker text-[var(--color-bauhaus-red)]">03</p>
                     <h3 class="mt-4 text-2xl font-black uppercase tracking-[-0.05em]">Mëso rregullat</h3>
@@ -158,7 +158,6 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                 <p class="bauhaus-kicker text-[var(--color-bauhaus-yellow)]">Si funksionon</p>
                 <h2 class="bauhaus-subheading">Proces i thjeshtë, mekanik dhe i përsëritshëm.</h2>
                 <p class="text-lg font-medium leading-relaxed text-white/80">
-                    Ky seksion ndjek ritmin Bauhaus: hapa të qartë, numra të mëdhenj dhe asnjë element dekorativ pa funksion.
                 </p>
             </div>
 
