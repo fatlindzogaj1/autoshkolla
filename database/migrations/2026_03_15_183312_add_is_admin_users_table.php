@@ -11,11 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('question_test', function (Blueprint $table) {
-            $table->id();
-            $table->foreignId('question_id')->constrained('questions');
-            $table->foreignId('test_id')->constrained('tests');
-            $table->timestamps();
+        Schema::table('users', function (Blueprint $table) {
+            $table->boolean('is_admin')->default(false);
         });
     }
 
@@ -24,6 +21,5 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('questions_tests');
     }
 };
