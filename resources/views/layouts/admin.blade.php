@@ -49,10 +49,16 @@
             </a>
         </nav>
 
-        <div class="border-t-4 border-white/15 px-5 py-4">
-            <a href="{{ route('home') }}" class="text-xs font-bold uppercase tracking-[0.22em] text-white/40 transition hover:text-[#f0c020]">
+        <div class="border-t-4 border-white/15 px-5 py-4 space-y-2">
+            <a href="{{ route('home') }}" class="block text-xs font-bold uppercase tracking-[0.22em] text-white/40 transition hover:text-[#f0c020]">
                 ← Faqja
             </a>
+            <form method="POST" action="{{ route('logout') }}">
+                @csrf
+                <button type="submit" class="w-full border-2 border-white/30 px-3 py-2 text-xs font-bold uppercase tracking-[0.22em] text-white/80 transition hover:border-[#d02020] hover:text-[#d02020]">
+                    Logout
+                </button>
+            </form>
         </div>
     </aside>
 
@@ -78,6 +84,12 @@
                     <a href="{{ route('admin.answers') }}" class="border-2 border-black px-2 py-2 text-center text-[10px] font-bold uppercase tracking-[0.2em] {{ request()->routeIs('admin.answers') ? 'bg-[#f0c020]' : 'bg-white' }}">Pergjigje</a>
                     <a href="{{ route('admin.tests') }}" class="border-2 border-black px-2 py-2 text-center text-[10px] font-bold uppercase tracking-[0.2em] {{ request()->routeIs('admin.tests') ? 'bg-[#d02020] text-white' : 'bg-white' }}">Teste</a>
                     <a href="{{ route('home') }}" class="border-2 border-black bg-white px-2 py-2 text-center text-[10px] font-bold uppercase tracking-[0.2em]">Faqja</a>
+                    <form method="POST" action="{{ route('logout') }}" class="col-span-3">
+                        @csrf
+                        <button type="submit" class="w-full border-2 border-black bg-[#d02020] px-2 py-2 text-center text-[10px] font-bold uppercase tracking-[0.2em] text-white">
+                            Logout
+                        </button>
+                    </form>
                 </div>
             </div>
         </header>

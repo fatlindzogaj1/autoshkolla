@@ -38,9 +38,34 @@
                 <a href="{{ $home }}#kontakt" class="bauhaus-link">Kontakt</a>
             </div>
 
-            <a href="{{ $home }}#fillo" class="bauhaus-button bauhaus-button--red hidden md:inline-flex">
-                Fillo Praktikën
-            </a>
+            <div class="hidden items-center gap-3 md:flex">
+                <a href="{{ $home }}#fillo" class="bauhaus-button bauhaus-button--red">
+                    Fillo Praktikën
+                </a>
+
+                @guest
+                    <a href="{{ route('login') }}" class="bauhaus-button bauhaus-button--outline" wire:navigate>
+                        <svg class="size-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                            <circle cx="12" cy="8" r="4"></circle>
+                            <path d="M4 20a8 8 0 0 1 16 0"></path>
+                        </svg>
+                        Login
+                    </a>
+                @endguest
+
+                @auth
+                    <form method="POST" action="{{ route('logout') }}">
+                        @csrf
+                        <button type="submit" class="bauhaus-button bauhaus-button--outline">
+                            <svg class="size-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                <circle cx="12" cy="8" r="4"></circle>
+                                <path d="M4 20a8 8 0 0 1 16 0"></path>
+                            </svg>
+                            Logout
+                        </button>
+                    </form>
+                @endauth
+            </div>
 
             <details class="relative md:hidden">
                 <summary class="bauhaus-menu-button cursor-pointer list-none" aria-label="Hap menunë">
@@ -55,6 +80,29 @@
                         <a href="{{ $home }}#avantazhet" class="bauhaus-link">Avantazhet</a>
                         <a href="{{ $home }}#kontakt" class="bauhaus-link">Kontakt</a>
                         <a href="{{ $home }}#fillo" class="bauhaus-button bauhaus-button--red w-full">Fillo Praktikën</a>
+
+                        @guest
+                            <a href="{{ route('login') }}" class="bauhaus-button bauhaus-button--outline w-full" wire:navigate>
+                                <svg class="size-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                    <circle cx="12" cy="8" r="4"></circle>
+                                    <path d="M4 20a8 8 0 0 1 16 0"></path>
+                                </svg>
+                                Login
+                            </a>
+                        @endguest
+
+                        @auth
+                            <form method="POST" action="{{ route('logout') }}">
+                                @csrf
+                                <button type="submit" class="bauhaus-button bauhaus-button--outline w-full">
+                                    <svg class="size-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                        <circle cx="12" cy="8" r="4"></circle>
+                                        <path d="M4 20a8 8 0 0 1 16 0"></path>
+                                    </svg>
+                                    Logout
+                                </button>
+                            </form>
+                        @endauth
                     </div>
                 </div>
             </details>
