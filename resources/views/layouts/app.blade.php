@@ -39,7 +39,7 @@
             </div>
 
             <div class="hidden items-center gap-3 md:flex">
-                <a href="{{ $home }}#fillo" class="bauhaus-button bauhaus-button--red">
+                <a href="{{ route('testet.index') }}" class="bauhaus-button bauhaus-button--red" wire:navigate>
                     Fillo Praktikën
                 </a>
 
@@ -79,7 +79,7 @@
                         <a href="{{ $home }}#metoda" class="bauhaus-link">Metoda</a>
                         <a href="{{ $home }}#avantazhet" class="bauhaus-link">Avantazhet</a>
                         <a href="{{ $home }}#kontakt" class="bauhaus-link">Kontakt</a>
-                        <a href="{{ $home }}#fillo" class="bauhaus-button bauhaus-button--red w-full">Fillo Praktikën</a>
+                        <a href="{{ route('testet.index') }}" class="bauhaus-button bauhaus-button--red w-full" wire:navigate>Fillo Praktikën</a>
 
                         @guest
                             <a href="{{ route('login') }}" class="bauhaus-button bauhaus-button--outline w-full" wire:navigate>

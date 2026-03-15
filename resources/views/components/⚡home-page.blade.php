@@ -30,7 +30,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                 </div>
 
                 <div class="flex flex-col gap-4 sm:flex-row">
-                    <a id="fillo" href="#testet" class="bauhaus-button bauhaus-button--red">
+                    <a id="fillo" href="{{ route('testet.index') }}" class="bauhaus-button bauhaus-button--red" wire:navigate>
                         Fillo Praktikën
                         <span aria-hidden="true">→</span>
                     </a>
