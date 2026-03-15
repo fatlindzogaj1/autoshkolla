@@ -1,22 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" class="dark">
-    <head>
-        @include('partials.head')
-    </head>
-    <body class="min-h-screen bg-white antialiased dark:bg-linear-to-b dark:from-neutral-950 dark:to-neutral-900">
-        <div class="bg-background flex min-h-svh flex-col items-center justify-center gap-6 p-6 md:p-10">
-            <div class="flex w-full max-w-sm flex-col gap-2">
-                <a href="{{ route('home') }}" class="flex flex-col items-center gap-2 font-medium" wire:navigate>
-                    <span class="flex h-9 w-9 mb-1 items-center justify-center rounded-md">
-                        <x-app-logo-icon class="size-15 fill-current text-black dark:text-white" />
-                    </span>
-                    <span class="sr-only">{{ config('app.name', 'Laravel') }}</span>
-                </a>
-                <div class="flex flex-col gap-6">
-                    {{ $slot }}
-                </div>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<head>
+    @include('partials.head')
+</head>
+<body class="bauhaus-shell min-h-screen antialiased">
+    <div class="flex min-h-svh items-center justify-center px-4 py-8 sm:px-6 md:px-8">
+        <div class="w-full max-w-md border-4 border-black bg-white p-6 sm:p-8 bauhaus-shadow-lg">
+            <a href="{{ route('home') }}" class="mb-6 inline-flex items-center gap-3 font-black uppercase tracking-[-0.04em]" wire:navigate>
+                <span class="size-4 rounded-full border-2 border-black bg-(--color-bauhaus-red)"></span>
+                <span class="size-4 border-2 border-black bg-(--color-bauhaus-yellow)"></span>
+                <span class="bauhaus-triangle block size-4 border-2 border-black bg-(--color-bauhaus-blue)"></span>
+                <span class="text-lg">Auto Test</span>
+            </a>
+
+            <div class="flex flex-col gap-6">
+                {{ $slot }}
             </div>
         </div>
-        @fluxScripts
-    </body>
+    </div>
+
+    @fluxScripts
+</body>
 </html>

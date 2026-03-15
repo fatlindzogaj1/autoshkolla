@@ -18,9 +18,10 @@
                 autocomplete="current-password"
                 :placeholder="__('Password')"
                 viewable
+                class="border-2 border-black bg-white"
             />
 
-            <flux:button variant="primary" type="submit" class="w-full" data-test="confirm-password-button">
+            <flux:button variant="primary" type="submit" class="w-full border-2 border-black text-xs font-bold uppercase tracking-[0.22em]" data-test="confirm-password-button">
                 {{ __('Confirm') }}
             </flux:button>
         </form>
