@@ -77,7 +77,10 @@ class extends Component {
     public function delete(): void
     {
         if ($this->confirmDeleteId) {
-            Test::findOrFail($this->confirmDeleteId)->delete();
+            $test = Test::findOrFail($this->confirmDeleteId);
+            $test->questions()->detach();
+            $test->delete();
+
         }
         $this->confirmDeleteId = null;
         $this->resetPage();
