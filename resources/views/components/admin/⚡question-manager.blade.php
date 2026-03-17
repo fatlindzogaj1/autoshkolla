@@ -29,8 +29,8 @@ class extends Component {
     public int $minAnswers = self::MIN_ANSWERS;
 
     public array $answers = [
-        ['answer_text' => '', 'is_correct' => true, 'image' => null],
-        ['answer_text' => '', 'is_correct' => false, 'image' => null],
+        ['answer_text' => '', 'is_correct' => true, 'image' => null, 'existingImg' => null],
+        ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null],
     ];
 
 
@@ -90,8 +90,8 @@ class extends Component {
     {
         $this->reset('question_text', 'question_number', 'category_id', 'questionImage', 'existingImage', 'editingId');
         $this->answers = [
-            ['answer_text' => '', 'is_correct' => true, 'image' => null],
-            ['answer_text' => '', 'is_correct' => false, 'image' => null],
+            ['answer_text' => '', 'is_correct' => true, 'image' => null, 'existingImg' => null],
+            ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null],
         ];
         $this->resetValidation();
     }
@@ -165,8 +165,9 @@ class extends Component {
             if (trim($slot['answer_text']) === '') continue;
 
             $ansImgPath = $slot['existingImg'] ?? null;
-            if (!empty($slot['image']) && $slot['image'] instanceof \Livewire\Features\SupportFileUploads\TemporaryUploadedFile) {
-                $ansImgPath = $slot['image']->store('answers', 'public');
+            $uploadedImage = $slot['image'] ?? null;
+            if (is_object($uploadedImage) && method_exists($uploadedImage, 'store')) {
+                $ansImgPath = $uploadedImage->store('answers', 'public');
             }
 
             if (!empty($slot['id'])) {
@@ -367,7 +368,7 @@ class extends Component {
 
                         <div class="grid gap-4">
                             @foreach($this->answers as $idx => $slot)
-                                <div class="relative border-2 border-black p-4 transition {{ $slot['is_correct'] ? 'bg-[#1040c0]/8 border-[#1040c0]' : 'bg-[#f9f9f9]' }}" style="{{ $slot['is_correct'] ? 'box-shadow:3px 3px 0 0 #1040c0' : 'box-shadow:3px 3px 0 0 #e0e0e0' }}">
+                                <div wire:key="answer-row-{{ $slot['id'] ?? 'new-' . $idx }}" class="relative border-2 border-black p-4 transition {{ $slot['is_correct'] ? 'bg-[#1040c0]/8 border-[#1040c0]' : 'bg-[#f9f9f9]' }}" style="{{ $slot['is_correct'] ? 'box-shadow:3px 3px 0 0 #1040c0' : 'box-shadow:3px 3px 0 0 #e0e0e0' }}">
                                     <div class="mb-3 flex items-center justify-between gap-3">
                                         <p class="text-[10px] font-black uppercase tracking-[0.3em] {{ $slot['is_correct'] ? 'text-[#1040c0]' : 'text-black/40' }}">Pergjigja {{ chr(65 + $idx) }} @if($slot['is_correct'])<span class="ml-1 text-[#1040c0]">✓ E sakte</span>@endif</p>
                                         <div class="flex items-center gap-2">
@@ -396,7 +397,10 @@ class extends Component {
                                                 @if(!empty($slot['existingImg']))
                                                     <img src="{{ Storage::url($slot['existingImg']) }}" alt="Foto pergjigje" class="mb-1 size-10 border-2 border-black object-cover"/>
                                                 @endif
-                                                <input wire:model="answers.{{ $idx }}.image" type="file" accept="image/*" class="w-full max-w-[180px] border-2 border-black bg-white px-2 py-1.5 text-[10px] font-medium"/>
+                                                <input wire:model.live="answers.{{ $idx }}.image" wire:key="answer-image-{{ $slot['id'] ?? 'new-' . $idx }}" type="file" accept="image/*" class="w-full max-w-[180px] border-2 border-black bg-white px-2 py-1.5 text-[10px] font-medium"/>
+                                                @error("answers.{$idx}.image")
+                                                    <p class="mt-1 text-xs font-bold text-[#d02020]">{{ $message }}</p>
+                                                @enderror
                                             </div>
                                         </div>
                                     </div>
