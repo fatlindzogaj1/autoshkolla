@@ -7,6 +7,7 @@ use Livewire\WithFileUploads;
 use App\Models\Question;
 use App\Models\Answer;
 use App\Models\Category;
+use Illuminate\Support\Str;
 
 new #[\Livewire\Attributes\Layout('layouts::admin', ['title' => 'Pyetjet'])]
 class extends Component {
@@ -29,16 +30,25 @@ class extends Component {
     public int $minAnswers = self::MIN_ANSWERS;
 
     public array $answers = [
-        ['answer_text' => '', 'is_correct' => true, 'image' => null, 'existingImg' => null],
-        ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null],
+        ['row_key' => 'tmp' , 'answer_text' => '', 'is_correct' => true, 'existingImg' => null],
+        ['row_key' => 'tmp2', 'answer_text' => '', 'is_correct' => false, 'existingImg' => null],
     ];
+    public array $answerUploads = [];
 
 
     protected function rules(): array
     {
         $rules = (new QuestionRequest())->rules();
+        unset($rules['answers.*.image']);
         $rules['answers'] .= '|min:' . self::MIN_ANSWERS;
+        $rules['answerUploads'] = 'array';
+        $rules['answerUploads.*'] = 'nullable|image|max:2048';
         return $rules;
+    }
+
+    private function makeRowKey(?int $id = null): string
+    {
+        return $id ? 'id' . $id : 'tmp' . Str::lower(Str::random(12));
     }
 
     public function openCreate(): void
@@ -58,17 +68,18 @@ class extends Component {
 
         $existing = $question->answers()->get();
         $this->answers = [];
+        $this->answerUploads = [];
         foreach ($existing as $ans) {
             $this->answers[] = [
                 'id' => $ans->id,
+                'row_key' => $this->makeRowKey($ans->id),
                 'answer_text' => $ans->answer_text,
                 'is_correct' => (bool)$ans->is_correct,
-                'image' => null,
                 'existingImg' => $ans->image,
             ];
         }
         while (count($this->answers) < self::MIN_ANSWERS) {
-            $this->answers[] = ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null];
+            $this->answers[] = ['row_key' => $this->makeRowKey(), 'answer_text' => '', 'is_correct' => false, 'existingImg' => null];
         }
 
         if (count(array_filter($this->answers, fn($a) => !empty($a['is_correct']))) !== 1) {
@@ -88,10 +99,10 @@ class extends Component {
 
     private function resetModal(): void
     {
-        $this->reset('question_text', 'question_number', 'category_id', 'questionImage', 'existingImage', 'editingId');
+        $this->reset('question_text', 'question_number', 'category_id', 'questionImage', 'existingImage', 'editingId', 'answerUploads');
         $this->answers = [
-            ['answer_text' => '', 'is_correct' => true, 'image' => null, 'existingImg' => null],
-            ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null],
+            ['row_key' => $this->makeRowKey(), 'answer_text' => '', 'is_correct' => true, 'existingImg' => null],
+            ['row_key' => $this->makeRowKey(), 'answer_text' => '', 'is_correct' => false, 'existingImg' => null],
         ];
         $this->resetValidation();
     }
@@ -110,7 +121,7 @@ class extends Component {
 
     public function addAnswer(): void
     {
-        $this->answers[] = ['answer_text' => '', 'is_correct' => false, 'image' => null, 'existingImg' => null];
+        $this->answers[] = ['row_key' => $this->makeRowKey(), 'answer_text' => '', 'is_correct' => false, 'existingImg' => null];
     }
 
     public function removeAnswer(int $index): void
@@ -120,8 +131,12 @@ class extends Component {
         }
 
         $removedWasCorrect = !empty($this->answers[$index]['is_correct']);
+        $removedKey = $this->answers[$index]['row_key'] ?? null;
         unset($this->answers[$index]);
         $this->answers = array_values($this->answers);
+        if ($removedKey) {
+            unset($this->answerUploads[$removedKey]);
+        }
 
         if ($removedWasCorrect && !collect($this->answers)->contains(fn($a) => !empty($a['is_correct']))) {
             $this->answers[0]['is_correct'] = true;
@@ -165,7 +180,8 @@ class extends Component {
             if (trim($slot['answer_text']) === '') continue;
 
             $ansImgPath = $slot['existingImg'] ?? null;
-            $uploadedImage = $slot['image'] ?? null;
+            $rowKey = $slot['row_key'] ?? null;
+            $uploadedImage = $rowKey ? ($this->answerUploads[$rowKey] ?? null) : null;
             if (is_object($uploadedImage) && method_exists($uploadedImage, 'store')) {
                 $ansImgPath = $uploadedImage->store('answers', 'public');
             }
@@ -368,7 +384,7 @@ class extends Component {
 
                         <div class="grid gap-4">
                             @foreach($this->answers as $idx => $slot)
-                                <div wire:key="answer-row-{{ $slot['id'] ?? 'new-' . $idx }}" class="relative border-2 border-black p-4 transition {{ $slot['is_correct'] ? 'bg-[#1040c0]/8 border-[#1040c0]' : 'bg-[#f9f9f9]' }}" style="{{ $slot['is_correct'] ? 'box-shadow:3px 3px 0 0 #1040c0' : 'box-shadow:3px 3px 0 0 #e0e0e0' }}">
+                                <div wire:key="answer-row-{{ $slot['row_key'] }}" class="relative border-2 border-black p-4 transition {{ $slot['is_correct'] ? 'bg-[#1040c0]/8 border-[#1040c0]' : 'bg-[#f9f9f9]' }}" style="{{ $slot['is_correct'] ? 'box-shadow:3px 3px 0 0 #1040c0' : 'box-shadow:3px 3px 0 0 #e0e0e0' }}">
                                     <div class="mb-3 flex items-center justify-between gap-3">
                                         <p class="text-[10px] font-black uppercase tracking-[0.3em] {{ $slot['is_correct'] ? 'text-[#1040c0]' : 'text-black/40' }}">Pergjigja {{ chr(65 + $idx) }} @if($slot['is_correct'])<span class="ml-1 text-[#1040c0]">✓ E sakte</span>@endif</p>
                                         <div class="flex items-center gap-2">
@@ -397,8 +413,8 @@ class extends Component {
                                                 @if(!empty($slot['existingImg']))
                                                     <img src="{{ Storage::url($slot['existingImg']) }}" alt="Foto pergjigje" class="mb-1 size-10 border-2 border-black object-cover"/>
                                                 @endif
-                                                <input wire:model.live="answers.{{ $idx }}.image" wire:key="answer-image-{{ $slot['id'] ?? 'new-' . $idx }}" type="file" accept="image/*" class="w-full max-w-[180px] border-2 border-black bg-white px-2 py-1.5 text-[10px] font-medium"/>
-                                                @error("answers.{$idx}.image")
+                                                <input wire:model="answerUploads.{{ $slot['row_key'] }}" wire:key="answer-image-{{ $slot['row_key'] }}" type="file" accept="image/*" class="w-full max-w-[180px] border-2 border-black bg-white px-2 py-1.5 text-[10px] font-medium"/>
+                                                @error("answerUploads.{$slot['row_key']}")
                                                     <p class="mt-1 text-xs font-bold text-[#d02020]">{{ $message }}</p>
                                                 @enderror
                                             </div>
