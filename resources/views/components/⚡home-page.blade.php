@@ -20,7 +20,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                 </div>
 
                 <div class="space-y-6">
-                    <h1 class="bauhaus-display max-w-4xl">
+                    <h1 class="bauhaus-display max-w-3xl leading-25 tracking-wide">
                         Praktiko patentën me formë të qartë dhe ritëm të fortë.
                     </h1>
 
@@ -66,20 +66,22 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                 <div class="absolute bottom-6 left-6 size-28 border-4 border-black bg-[var(--color-bauhaus-red)] sm:size-36"></div>
                 <div class="bauhaus-triangle absolute bottom-8 right-8 h-32 w-32 border-4 border-black bg-[var(--color-bauhaus-yellow)] sm:h-44 sm:w-44"></div>
 
-                <div class="relative z-10 flex h-full flex-col justify-between">
+                <div class="relative z-10 flex h-full flex-col">
                     <div class="flex justify-between text-xs font-bold uppercase tracking-[0.35em] text-white/80 sm:text-sm">
                         <span>Form</span>
                         <span>Function</span>
                     </div>
 
-                    <div class="ml-auto max-w-sm space-y-4 border-4 border-black bg-white p-5 text-black bauhaus-shadow-sm sm:p-6">
-                        <p class="bauhaus-kicker text-[var(--color-bauhaus-blue)]">Simulim modernist</p>
-                        <h2 class="bauhaus-subheading">
-                            Pyetje të qarta. Navigim i shpejtë. Vendime të sakta.
-                        </h2>
-                        <p class="text-base font-medium leading-relaxed text-black/70">
-                            Çdo seksion është ndërtuar si kompozim: pyetje, ritëm, përsëritje dhe përqendrim total te rezultatet.
-                        </p>
+                    <div class="flex flex-1 items-center justify-center">
+                        <div class="mx-auto max-w-sm space-y-4 border-4 border-black bg-white p-5 text-black bauhaus-shadow-sm sm:p-6">
+                            <p class="bauhaus-kicker text-[var(--color-bauhaus-blue)]">Simulim modernist</p>
+                            <h2 class="bauhaus-subheading">
+                                Pyetje të qarta. Navigim i shpejtë. Vendime të sakta.
+                            </h2>
+                            <p class="text-base font-medium leading-relaxed text-black/70">
+                                Çdo seksion është ndërtuar si kompozim: pyetje, ritëm, përsëritje dhe përqendrim total te rezultatet.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
