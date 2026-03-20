@@ -2,16 +2,24 @@
 
 use Livewire\Component;
 use App\Models\Test;
+use App\Models\Question;
 
 new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
     public Test $test;
     public int $currentIndex = 0;
     public array $selectedAnswers = [];
     public bool $finished = false;
+    public array $questionIds = [];
 
     public function mount(Test $test): void
     {
         $this->test = $test;
+        $this->questionIds = $this->test->questions()
+            ->orderBy('question_number')
+            ->orderBy('questions.id')
+            ->pluck('questions.id')
+            ->values()
+            ->all();
     }
 
     public function selectAnswer(int $answerId): void
@@ -69,7 +77,18 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
 
     protected function questions()
     {
-        return $this->test->questions;
+        if ($this->questionIds === []) {
+            return collect();
+        }
+
+        $order = array_flip($this->questionIds);
+
+        return Question::query()
+            ->whereIn('id', $this->questionIds)
+            ->with(['answers' => fn ($q) => $q->orderBy('id')])
+            ->get()
+            ->sortBy(fn ($question) => $order[$question->id] ?? PHP_INT_MAX)
+            ->values();
     }
 
     protected function currentQuestion()
@@ -95,11 +114,6 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
 
     public function render()
     {
-        $this->test->loadMissing([
-            'questions' => fn ($q) => $q->orderBy('question_number'),
-            'questions.answers' => fn ($q) => $q->orderBy('id'),
-        ]);
-
         $questions = $this->questions();
         $currentQuestion = $this->currentQuestion();
 
@@ -205,7 +219,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                                 $correct = $question->answers->firstWhere('is_correct', true)?->id;
                                 $isOk = $selected && $correct && ((int)$selected === (int)$correct);
                             @endphp
-                            <article class="border-4 border-black p-5 sm:p-6 {{ $isOk ? 'bg-white' : 'bg-bauhaus-yellow' }} bauhaus-shadow-sm">
+                            <article wire:key="result-question-{{ $question->id }}" class="border-4 border-black p-5 sm:p-6 {{ $isOk ? 'bg-white' : 'bg-bauhaus-yellow' }} bauhaus-shadow-sm">
                                 <div class="flex items-start justify-between gap-4">
                                     <p class="text-sm font-black uppercase tracking-[0.2em]">Pyetja #{{ $question->question_number }}</p>
                                     <span class="inline-flex items-center border-2 border-black px-3 py-1 text-xs font-bold uppercase {{ $isOk ? 'bg-bauhaus-blue text-white' : 'bg-bauhaus-red text-white' }}">{{ $isOk ? 'Saktë' : 'Gabim' }}</span>
@@ -222,7 +236,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                                             $isSelected = ((int)$selected === (int)$answer->id);
                                             $isCorrect = (bool)$answer->is_correct;
                                         @endphp
-                                        <div class="border-2 border-black p-3 {{ $isCorrect ? 'bg-bauhaus-blue text-white' : ($isSelected ? 'bg-bauhaus-red text-white' : 'bg-white text-black') }}">
+                                        <div wire:key="result-answer-{{ $question->id }}-{{ $answer->id }}" class="border-2 border-black p-3 {{ $isCorrect ? 'bg-bauhaus-blue text-white' : ($isSelected ? 'bg-bauhaus-red text-white' : 'bg-white text-black') }}">
                                             <p class="text-sm font-bold">{{ $answer->answer_text }}</p>
                                             @if($answer->image)
                                                 <div class="mt-2 h-28 w-full border-2 border-black bg-bauhaus-canvas p-1.5 sm:h-32">
@@ -246,7 +260,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                     </div>
 
                     @if($currentQuestion)
-                        <article class="border-4 border-black bg-white p-5 sm:p-8 bauhaus-shadow-lg">
+                        <article wire:key="current-question-{{ $currentQuestion->id }}" class="border-4 border-black bg-white p-5 sm:p-8 bauhaus-shadow-lg">
                             <p class="bauhaus-kicker text-bauhaus-blue">Pyetja #{{ $currentQuestion->question_number }}</p>
                             <h2 class="mt-3 text-xl font-black uppercase tracking-[-0.04em] sm:text-2xl">{{ $currentQuestion->question_text }}</h2>
                             @if($currentQuestion->image)
@@ -257,7 +271,7 @@ new #[\Livewire\Attributes\Layout('layouts::app')] class extends Component {
                             <div class="mt-6 grid gap-3">
                                 @foreach($currentQuestion->answers as $answer)
                                     @php($isSelected = ((int)($selectedAnswers[$currentQuestion->id] ?? 0) === (int)$answer->id))
-                                    <button type="button" wire:click="selectAnswer({{ $answer->id }})" class="w-full border-2 border-black p-4 text-left transition {{ $isSelected ? 'bg-bauhaus-blue text-white' : 'bg-white hover:bg-bauhaus-canvas' }}">
+                                    <button wire:key="current-answer-{{ $currentQuestion->id }}-{{ $answer->id }}" type="button" wire:click="selectAnswer({{ $answer->id }})" class="w-full border-2 border-black p-4 text-left transition {{ $isSelected ? 'bg-bauhaus-blue text-white' : 'bg-white hover:bg-bauhaus-canvas' }}">
                                         <p class="text-sm font-bold">{{ $answer->answer_text }}</p>
                                         @if($answer->image)
                                             <div class="mt-3 h-28 w-full border-2 border-black bg-bauhaus-canvas p-1.5 sm:h-40">
