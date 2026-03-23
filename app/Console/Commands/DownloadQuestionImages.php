@@ -22,7 +22,7 @@ class DownloadQuestionImages extends Command
                 // Filter already downloaded
                 $questions = $questions->filter(function ($q) {
                     return !Storage::disk('public')->exists($q->image);
-                });
+                })->values();
 
                 if ($questions->isEmpty()) return;
 
