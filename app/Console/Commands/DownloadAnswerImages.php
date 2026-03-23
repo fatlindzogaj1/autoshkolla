@@ -4,6 +4,7 @@ namespace App\Console\Commands;
 
 use App\Models\Answer;
 use Illuminate\Console\Command;
+use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Storage;
 
@@ -28,22 +29,24 @@ class DownloadAnswerImages extends Command
      */
     public function handle()
     {
-        $baseUrl = "https://ik.imagekit.io/phihyapwi/";
+        $baseUrl = 'https://ik.imagekit.io/phihyapwi/';
         Answer::whereNotNull('image')
             ->where('image', '!=', '')
             ->chunk(50, function ($answers) use ($baseUrl) {
 
                 $answers = $answers->filter(function ($a) {
-                    return !Storage::disk('public')->exists($a->image);
+                    return ! Storage::disk('public')->exists($a->image);
                 })->values();
 
-                if ($answers->isEmpty()) return;
+                if ($answers->isEmpty()) {
+                    return;
+                }
 
-                $responses = Http::pool(fn($pool) => $answers->map(function($a) use ($baseUrl, $pool) {
+                $responses = Http::pool(fn ($pool) => $answers->map(function ($a) use ($baseUrl, $pool) {
                     try {
-                        return $pool->retry(3, 100)->get($baseUrl . $a->image);
+                        return $pool->retry(3, 100)->get($baseUrl.$a->image);
                     } catch (\Throwable $e) {
-                        return $e;
+                        return null;
                     }
                 })->all());
 
@@ -51,7 +54,7 @@ class DownloadAnswerImages extends Command
 
                     $response = $responses[$index];
 
-                    if ($response instanceof \Illuminate\Http\Client\Response && $response->successful()) {
+                    if ($response instanceof Response && $response->successful()) {
                         Storage::disk('public')->put($answer->image, $response->body());
                     } else {
                         $this->error("Failed to download image: {$answer->image}");
@@ -59,6 +62,6 @@ class DownloadAnswerImages extends Command
                 }
             });
 
-        $this->info("Done!");
+        $this->info('Done!');
     }
 }
