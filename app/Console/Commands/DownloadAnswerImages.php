@@ -39,16 +39,22 @@ class DownloadAnswerImages extends Command
 
                 if ($answers->isEmpty()) return;
 
-                $responses = Http::pool(fn($pool) => $answers->map(fn($a) => $pool->get($baseUrl . $a->image)
-                )
-                );
+                $responses = Http::pool(fn($pool) => $answers->map(function($a) use ($baseUrl, $pool) {
+                    try {
+                        return $pool->retry(3, 100)->get($baseUrl . $a->image);
+                    } catch (\Throwable $e) {
+                        return $e;
+                    }
+                })->all());
 
                 foreach ($answers as $index => $answer) {
 
                     $response = $responses[$index];
 
-                    if ($response->successful()) {
+                    if ($response instanceof \Illuminate\Http\Client\Response && $response->successful()) {
                         Storage::disk('public')->put($answer->image, $response->body());
+                    } else {
+                        $this->error("Failed to download image: {$answer->image}");
                     }
                 }
             });
