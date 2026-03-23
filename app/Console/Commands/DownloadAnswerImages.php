@@ -35,7 +35,7 @@ class DownloadAnswerImages extends Command
 
                 $answers = $answers->filter(function ($a) {
                     return !Storage::disk('public')->exists($a->image);
-                });
+                })->values();
 
                 if ($answers->isEmpty()) return;
 
