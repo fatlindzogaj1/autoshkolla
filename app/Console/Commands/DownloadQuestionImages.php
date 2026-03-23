@@ -22,35 +22,38 @@ class DownloadQuestionImages extends Command
             ->where('image', '!=', '')
             ->chunk(50, function ($questions) use ($baseUrl) {
 
-                // Filter already downloaded
-                $questions = $questions->filter(function ($q) {
-                    return ! Storage::disk('public')->exists($q->image);
-                })->values();
+                // Filter out images already downloaded
+                $questions = $questions->filter(fn($q) => !Storage::disk('public')->exists($q->image))
+                    ->values();
 
                 if ($questions->isEmpty()) {
                     return;
                 }
 
-                $responses = Http::pool(fn ($pool) => $questions->map(function ($q) use ($baseUrl, $pool) {
+                // Use HTTP pool safely
+                $responses = Http::pool(fn($pool) => $questions->map(function ($q) use ($baseUrl, $pool) {
                     try {
-                        return $pool->retry(3, 100)->get($baseUrl.$q->image);
+                        // Attempt to download with retry
+                        return $pool->retry(3, 100)->get($baseUrl . $q->image);
                     } catch (\Throwable $e) {
+                        // Return null on failure
                         return null;
                     }
                 })->all());
 
                 foreach ($questions as $index => $question) {
-
                     $response = $responses[$index];
 
+                    // Only save if it's a valid successful response
                     if ($response instanceof Response && $response->successful()) {
                         Storage::disk('public')->put($question->image, $response->body());
+                        $this->info("Downloaded: {$question->image}");
                     } else {
-                        $this->error("Failed to download image: {$question->image}");
+                        $this->error("Failed to download: {$question->image}");
                     }
                 }
             });
 
-        $this->info('Done!');
+        $this->info('All done!');
     }
 }
