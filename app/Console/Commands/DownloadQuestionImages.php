@@ -17,43 +17,55 @@ class DownloadQuestionImages extends Command
     public function handle()
     {
         $baseUrl = 'https://ik.imagekit.io/phihyapwi/';
+        $query = Question::whereNotNull('image')->where('image', '!=', '');
+        $total = (clone $query)->count();
 
-        Question::whereNotNull('image')
-            ->where('image', '!=', '')
-            ->chunk(10, function ($questions) use ($baseUrl) {
+        if ($total === 0) {
+            $this->info('No question images found.');
 
-                // Filter out images already downloaded
-                $questions = $questions->filter(fn($q) => !Storage::disk('public')->exists($q->image))
-                    ->values();
+            return self::SUCCESS;
+        }
 
-                if ($questions->isEmpty()) {
-                    return;
-                }
+        $downloaded = 0;
+        $failed = 0;
+        $skipped = 0;
 
-                // Use HTTP pool safely
-                $responses = Http::pool(fn($pool) => $questions->map(function ($q) use ($baseUrl, $pool) {
+        $this->line("Processing {$total} question images...");
+        $bar = $this->output->createProgressBar($total);
+        $bar->start();
+
+        $query->chunk(10, function ($questions) use ($baseUrl, $bar, &$downloaded, &$failed, &$skipped) {
+            $questionsToDownload = $questions->filter(fn($q) => !Storage::disk('public')->exists($q->image))->values();
+            $skipped += $questions->count() - $questionsToDownload->count();
+
+            if ($questionsToDownload->isNotEmpty()) {
+                $responses = Http::pool(fn($pool) => $questionsToDownload->map(function ($q) use ($baseUrl, $pool) {
                     try {
-                        // Attempt to download with retry
                         return $pool->retry(3, 100)->get($baseUrl . $q->image);
                     } catch (\Throwable $e) {
-                        // Return null on failure
                         return null;
                     }
                 })->all());
 
-                foreach ($questions as $index => $question) {
-                    $response = $responses[$index];
+                foreach ($questionsToDownload as $index => $question) {
+                    $response = $responses[$index] ?? null;
 
-                    // Only save if it's a valid successful response
                     if ($response instanceof Response && $response->successful()) {
                         Storage::disk('public')->put($question->image, $response->body());
-                        $this->info("Downloaded: {$question->image}");
+                        $downloaded++;
                     } else {
-                        $this->error("Failed to download: {$question->image}");
+                        $failed++;
                     }
                 }
-            });
+            }
 
-        $this->info('All done!');
+            $bar->advance($questions->count());
+        });
+
+        $bar->finish();
+        $this->newLine(2);
+        $this->info("Done. Downloaded: {$downloaded}, skipped: {$skipped}, failed: {$failed}");
+
+        return self::SUCCESS;
     }
 }

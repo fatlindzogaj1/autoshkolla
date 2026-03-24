@@ -2,17 +2,19 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Artisan;
 
 class QuestionImageSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
     public function run(): void
     {
+        if ($this->command) {
+            Artisan::call('questions:download-images', [], $this->command->getOutput());
+
+            return;
+        }
+
         Artisan::call('questions:download-images');
     }
 }
