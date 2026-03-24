@@ -26,8 +26,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, vetëm nëse vetura zhvillon shpejtësi maksimale',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:32:22',
-                'updated_at' => '2026-03-15 22:32:22',
+                'created_at' => '2026-03-15 23:32:22',
+                'updated_at' => '2026-03-15 23:32:22',
             ),
             1 => 
             array (
@@ -36,8 +36,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo, në asnjë rast',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:32:22',
-                'updated_at' => '2026-03-15 22:32:22',
+                'created_at' => '2026-03-15 23:32:22',
+                'updated_at' => '2026-03-15 23:32:22',
             ),
             2 => 
             array (
@@ -46,8 +46,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Po, duke vështruar trafikun nga prapa (pasqyret, këndin e vdekur) dhe sinjalizuar me tregues të drejtimit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:32:22',
-                'updated_at' => '2026-03-15 22:32:22',
+                'created_at' => '2026-03-15 23:32:22',
+                'updated_at' => '2026-03-15 23:32:22',
             ),
             3 => 
             array (
@@ -56,8 +56,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Të largoj këmbën nga pedalja e gazit (nuk i jap gaz)',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:33:44',
-                'updated_at' => '2026-03-15 23:19:08',
+                'created_at' => '2026-03-15 23:33:44',
+                'updated_at' => '2026-03-16 00:19:08',
             ),
             4 => 
             array (
@@ -66,8 +66,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj me të njëjtën shpejtësi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:33:44',
-                'updated_at' => '2026-03-15 23:19:08',
+                'created_at' => '2026-03-15 23:33:44',
+                'updated_at' => '2026-03-16 00:19:08',
             ),
             5 => 
             array (
@@ -76,8 +76,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë pasi që këmbësori është i moshuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:33:44',
-                'updated_at' => '2026-03-15 23:19:08',
+                'created_at' => '2026-03-15 23:33:44',
+                'updated_at' => '2026-03-16 00:19:08',
             ),
             6 => 
             array (
@@ -86,8 +86,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lëviz me shpejtësi të rritur pranë autobusit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:36:29',
-                'updated_at' => '2026-03-15 23:18:55',
+                'created_at' => '2026-03-15 23:36:29',
+                'updated_at' => '2026-03-16 00:18:55',
             ),
             7 => 
             array (
@@ -96,8 +96,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndalem prapa autobusit derisa të zbresin dhe të hyjnë udhëtarët',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:36:29',
-                'updated_at' => '2026-03-15 23:18:55',
+                'created_at' => '2026-03-15 23:36:29',
+                'updated_at' => '2026-03-16 00:18:55',
             ),
             8 => 
             array (
@@ -106,8 +106,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Këmbësorët që mund të dalin përpara dhe prapa autobusit dhe të kalojnë rrugën',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:36:29',
-                'updated_at' => '2026-03-15 23:18:55',
+                'created_at' => '2026-03-15 23:36:29',
+                'updated_at' => '2026-03-16 00:18:55',
             ),
             9 => 
             array (
@@ -116,8 +116,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të zvogëloj distancën anësore të sigurisë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:37:31',
-                'updated_at' => '2026-03-15 22:37:31',
+                'created_at' => '2026-03-15 23:37:31',
+                'updated_at' => '2026-03-15 23:37:31',
             ),
             10 => 
             array (
@@ -126,8 +126,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të jem i gatshëm për të reaguar në rast nevoje',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:37:31',
-                'updated_at' => '2026-03-15 22:37:31',
+                'created_at' => '2026-03-15 23:37:31',
+                'updated_at' => '2026-03-15 23:37:31',
             ),
             11 => 
             array (
@@ -136,8 +136,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Të përdor shenjën akustike (borinë) që këmbësorët të largohen nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:37:31',
-                'updated_at' => '2026-03-15 22:37:31',
+                'created_at' => '2026-03-15 23:37:31',
+                'updated_at' => '2026-03-15 23:37:31',
             ),
             12 => 
             array (
@@ -146,8 +146,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndalem për t\'i dhënë përparësi kalimi këmbësorit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:38:34',
-                'updated_at' => '2026-03-15 22:38:34',
+                'created_at' => '2026-03-15 23:38:34',
+                'updated_at' => '2026-03-15 23:38:34',
             ),
             13 => 
             array (
@@ -156,8 +156,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen djathtas pa u ndalur, por me kujdes të shtuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:38:34',
-                'updated_at' => '2026-03-15 22:38:34',
+                'created_at' => '2026-03-15 23:38:34',
+                'updated_at' => '2026-03-15 23:38:34',
             ),
             14 => 
             array (
@@ -166,8 +166,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen drejtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:38:34',
-                'updated_at' => '2026-03-15 22:38:34',
+                'created_at' => '2026-03-15 23:38:34',
+                'updated_at' => '2026-03-15 23:38:34',
             ),
             15 => 
             array (
@@ -176,8 +176,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të frenoj',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:39:23',
-                'updated_at' => '2026-03-15 22:39:23',
+                'created_at' => '2026-03-15 23:39:23',
+                'updated_at' => '2026-03-15 23:39:23',
             ),
             16 => 
             array (
@@ -186,8 +186,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lëviz me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:39:23',
-                'updated_at' => '2026-03-15 22:39:23',
+                'created_at' => '2026-03-15 23:39:23',
+                'updated_at' => '2026-03-15 23:39:23',
             ),
             17 => 
             array (
@@ -196,8 +196,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërmarr asgjë, biçiklisti nuk duhet të lëvizë në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:39:23',
-                'updated_at' => '2026-03-15 22:39:23',
+                'created_at' => '2026-03-15 23:39:23',
+                'updated_at' => '2026-03-15 23:39:23',
             ),
             18 => 
             array (
@@ -206,8 +206,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndërroj shiritin e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:40:55',
-                'updated_at' => '2026-03-15 22:40:55',
+                'created_at' => '2026-03-15 23:40:55',
+                'updated_at' => '2026-03-15 23:40:55',
             ),
             19 => 
             array (
@@ -216,8 +216,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të rris shpejtësinë e lëvizjes pasi nuk ka këmbësorë në vendkalim',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:40:55',
-                'updated_at' => '2026-03-15 22:40:55',
+                'created_at' => '2026-03-15 23:40:55',
+                'updated_at' => '2026-03-15 23:40:55',
             ),
             20 => 
             array (
@@ -226,8 +226,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Sipas nevojës, do të zvogëloj shpejtësinë dhe do jem i gatshëm për frenim',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:40:55',
-                'updated_at' => '2026-03-15 22:40:55',
+                'created_at' => '2026-03-15 23:40:55',
+                'updated_at' => '2026-03-15 23:40:55',
             ),
             21 => 
             array (
@@ -236,8 +236,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fushëpamjen e kufizuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:42:01',
-                'updated_at' => '2026-03-15 22:42:01',
+                'created_at' => '2026-03-15 23:42:01',
+                'updated_at' => '2026-03-15 23:42:01',
             ),
             22 => 
             array (
@@ -246,8 +246,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e tejkalimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:42:01',
-                'updated_at' => '2026-03-15 22:42:01',
+                'created_at' => '2026-03-15 23:42:01',
+                'updated_at' => '2026-03-15 23:42:01',
             ),
             23 => 
             array (
@@ -256,8 +256,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e kthimit gjysmërrethor',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:42:01',
-                'updated_at' => '2026-03-15 22:42:01',
+                'created_at' => '2026-03-15 23:42:01',
+                'updated_at' => '2026-03-15 23:42:01',
             ),
             24 => 
             array (
@@ -266,8 +266,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndalem për t\'i dhënë përparësi kalimi këmbësorit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:44:09',
-                'updated_at' => '2026-03-15 22:44:09',
+                'created_at' => '2026-03-15 23:44:09',
+                'updated_at' => '2026-03-15 23:44:09',
             ),
             25 => 
             array (
@@ -276,8 +276,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen pa u ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:44:09',
-                'updated_at' => '2026-03-15 22:44:09',
+                'created_at' => '2026-03-15 23:44:09',
+                'updated_at' => '2026-03-15 23:44:09',
             ),
             26 => 
             array (
@@ -286,8 +286,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Do të përdor shenjën akustike (borinë) që këmbësori të largohet nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:44:09',
-                'updated_at' => '2026-03-15 22:44:09',
+                'created_at' => '2026-03-15 23:44:09',
+                'updated_at' => '2026-03-15 23:44:09',
             ),
             27 => 
             array (
@@ -296,8 +296,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lëviz me shpejtësi të njëjtë pasi kafshët në rrugë nuk paraqesin rrezik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:45:06',
-                'updated_at' => '2026-03-15 22:45:06',
+                'created_at' => '2026-03-15 23:45:06',
+                'updated_at' => '2026-03-15 23:45:06',
             ),
             28 => 
             array (
@@ -306,8 +306,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Do të përdor shenjën akustike (borinë) për t\'u larguar kafshët nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:45:06',
-                'updated_at' => '2026-03-15 22:45:06',
+                'created_at' => '2026-03-15 23:45:06',
+                'updated_at' => '2026-03-15 23:45:06',
             ),
             29 => 
             array (
@@ -316,8 +316,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të zvogëloj shpejtësinë sipas nevojës dhe do të jem i gatshëm për frenim',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:45:06',
-                'updated_at' => '2026-03-15 22:45:06',
+                'created_at' => '2026-03-15 23:45:06',
+                'updated_at' => '2026-03-15 23:45:06',
             ),
             30 => 
             array (
@@ -326,8 +326,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimin e dritave të gjata',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:49:58',
-                'updated_at' => '2026-03-15 22:49:58',
+                'created_at' => '2026-03-15 23:49:58',
+                'updated_at' => '2026-03-15 23:49:58',
             ),
             31 => 
             array (
@@ -336,8 +336,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e tejkalimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:49:58',
-                'updated_at' => '2026-03-15 22:49:58',
+                'created_at' => '2026-03-15 23:49:58',
+                'updated_at' => '2026-03-15 23:49:58',
             ),
             32 => 
             array (
@@ -346,8 +346,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përshtatjen e shpejtësisë dhe adaptimin e syve nga drita në errësirë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:49:58',
-                'updated_at' => '2026-03-15 22:49:58',
+                'created_at' => '2026-03-15 23:49:58',
+                'updated_at' => '2026-03-15 23:49:58',
             ),
             33 => 
             array (
@@ -356,8 +356,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndalem për t’i dhënë përparësi kalimi autobusit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:51:06',
-                'updated_at' => '2026-03-15 22:51:06',
+                'created_at' => '2026-03-15 23:51:06',
+                'updated_at' => '2026-03-15 23:51:06',
             ),
             34 => 
             array (
@@ -366,8 +366,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndërroj shiritin e trafikut majtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:51:06',
-                'updated_at' => '2026-03-15 22:51:06',
+                'created_at' => '2026-03-15 23:51:06',
+                'updated_at' => '2026-03-15 23:51:06',
             ),
             35 => 
             array (
@@ -376,8 +376,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kam përparësi kalimi ndaj autobusit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:51:06',
-                'updated_at' => '2026-03-15 22:51:06',
+                'created_at' => '2026-03-15 23:51:06',
+                'updated_at' => '2026-03-15 23:51:06',
             ),
             36 => 
             array (
@@ -386,8 +386,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të reagoj me kohë, në rast nevoje frenoj',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:55:56',
-                'updated_at' => '2026-03-15 22:55:56',
+                'created_at' => '2026-03-15 23:55:56',
+                'updated_at' => '2026-03-15 23:55:56',
             ),
             37 => 
             array (
@@ -396,8 +396,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:55:56',
-                'updated_at' => '2026-03-15 22:55:56',
+                'created_at' => '2026-03-15 23:55:56',
+                'updated_at' => '2026-03-15 23:55:56',
             ),
             38 => 
             array (
@@ -406,8 +406,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmar asgjë, biçiklisti është në trotuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:55:56',
-                'updated_at' => '2026-03-15 22:55:56',
+                'created_at' => '2026-03-15 23:55:56',
+                'updated_at' => '2026-03-15 23:55:56',
             ),
             39 => 
             array (
@@ -416,8 +416,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngushtimin e rrugës nga ana e majtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:56:43',
-                'updated_at' => '2026-03-15 22:57:25',
+                'created_at' => '2026-03-15 23:56:43',
+                'updated_at' => '2026-03-15 23:57:25',
             ),
             40 => 
             array (
@@ -426,8 +426,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kthesën e rrezikshme majtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:56:43',
-                'updated_at' => '2026-03-15 22:57:26',
+                'created_at' => '2026-03-15 23:56:43',
+                'updated_at' => '2026-03-15 23:57:26',
             ),
             41 => 
             array (
@@ -436,8 +436,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Qafëmalin',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:56:43',
-                'updated_at' => '2026-03-15 22:57:26',
+                'created_at' => '2026-03-15 23:56:43',
+                'updated_at' => '2026-03-15 23:57:26',
             ),
             42 => 
             array (
@@ -446,8 +446,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Çdo herë duhet të ndalem para shenjës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:58:24',
-                'updated_at' => '2026-03-15 22:58:24',
+                'created_at' => '2026-03-15 23:58:24',
+                'updated_at' => '2026-03-15 23:58:24',
             ),
             43 => 
             array (
@@ -456,8 +456,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do t’i jap përparësi kalimi mjeteve të cilat lëvizin në kryqëzim',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:58:24',
-                'updated_at' => '2026-03-15 22:58:24',
+                'created_at' => '2026-03-15 23:58:24',
+                'updated_at' => '2026-03-15 23:58:24',
             ),
             44 => 
             array (
@@ -466,8 +466,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kam përparësi kalimi ndaj mjeteve që lëvizin në kryqëzim',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:58:24',
-                'updated_at' => '2026-03-15 22:58:24',
+                'created_at' => '2026-03-15 23:58:24',
+                'updated_at' => '2026-03-15 23:58:24',
             ),
             45 => 
             array (
@@ -476,8 +476,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Po, pasi fushëpamja e rrugës është zvogëluar (kufizuar)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:59:36',
-                'updated_at' => '2026-03-15 22:59:36',
+                'created_at' => '2026-03-15 23:59:36',
+                'updated_at' => '2026-03-15 23:59:36',
             ),
             46 => 
             array (
@@ -486,8 +486,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po , pasi rruga e frenimit zgjatet',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:59:36',
-                'updated_at' => '2026-03-15 22:59:36',
+                'created_at' => '2026-03-15 23:59:36',
+                'updated_at' => '2026-03-15 23:59:36',
             ),
             47 => 
             array (
@@ -496,8 +496,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, pasi rruga e frenimit zvogëlohet',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 22:59:36',
-                'updated_at' => '2026-03-15 22:59:36',
+                'created_at' => '2026-03-15 23:59:36',
+                'updated_at' => '2026-03-15 23:59:36',
             ),
             48 => 
             array (
@@ -506,8 +506,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lëviz me kujdes të shtuar, pasi këmbësorët mund të dalin në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:00:39',
-                'updated_at' => '2026-03-15 23:00:39',
+                'created_at' => '2026-03-16 00:00:39',
+                'updated_at' => '2026-03-16 00:00:39',
             ),
             49 => 
             array (
@@ -516,8 +516,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lejoj autobusin të hyjë në trafik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:00:39',
-                'updated_at' => '2026-03-15 23:00:39',
+                'created_at' => '2026-03-16 00:00:39',
+                'updated_at' => '2026-03-16 00:00:39',
             ),
             50 => 
             array (
@@ -526,8 +526,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndalem derisa autobusi të shkyç treguesin e drejtimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:00:39',
-                'updated_at' => '2026-03-15 23:00:39',
+                'created_at' => '2026-03-16 00:00:39',
+                'updated_at' => '2026-03-16 00:00:39',
             ),
             51 => 
             array (
@@ -536,8 +536,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me të njëjtën shpejtësi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:01:41',
-                'updated_at' => '2026-03-15 23:01:41',
+                'created_at' => '2026-03-16 00:01:41',
+                'updated_at' => '2026-03-21 20:06:20',
             ),
             52 => 
             array (
@@ -546,8 +546,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Të largoj këmbën nga pedalja e gazit (nuk i jap gaz)',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:01:41',
-                'updated_at' => '2026-03-15 23:01:41',
+                'created_at' => '2026-03-16 00:01:41',
+                'updated_at' => '2026-03-21 20:06:20',
             ),
             53 => 
             array (
@@ -556,8 +556,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërmarr asgjë pasi që fëmija është në trotuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:01:41',
-                'updated_at' => '2026-03-15 23:01:41',
+                'created_at' => '2026-03-16 00:01:41',
+                'updated_at' => '2026-03-21 20:06:20',
             ),
             54 => 
             array (
@@ -566,8 +566,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do t’i jap përparësi kalimi këmbësorit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:02:51',
-                'updated_at' => '2026-03-15 23:11:18',
+                'created_at' => '2026-03-16 00:02:51',
+                'updated_at' => '2026-03-16 00:11:18',
             ),
             55 => 
             array (
@@ -576,8 +576,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:02:51',
-                'updated_at' => '2026-03-15 23:11:18',
+                'created_at' => '2026-03-16 00:02:51',
+                'updated_at' => '2026-03-16 00:11:18',
             ),
             56 => 
             array (
@@ -586,8 +586,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Do të përdor shenjën akustike (borinë) që këmbësori të largohet nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:02:51',
-                'updated_at' => '2026-03-15 23:11:18',
+                'created_at' => '2026-03-16 00:02:51',
+                'updated_at' => '2026-03-16 00:11:18',
             ),
             57 => 
             array (
@@ -596,8 +596,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Jo, do të përdor shenjën akustike (borinë)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:12:31',
-                'updated_at' => '2026-03-15 23:12:31',
+                'created_at' => '2026-03-16 00:12:31',
+                'updated_at' => '2026-03-16 00:12:31',
             ),
             58 => 
             array (
@@ -606,8 +606,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:12:32',
-                'updated_at' => '2026-03-15 23:12:32',
+                'created_at' => '2026-03-16 00:12:32',
+                'updated_at' => '2026-03-16 00:12:32',
             ),
             59 => 
             array (
@@ -616,8 +616,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, vetëm nëse janë fëmijë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:12:32',
-                'updated_at' => '2026-03-15 23:12:32',
+                'created_at' => '2026-03-16 00:12:32',
+                'updated_at' => '2026-03-16 00:12:32',
             ),
             60 => 
             array (
@@ -626,8 +626,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:14:09',
-                'updated_at' => '2026-03-15 23:14:27',
+                'created_at' => '2026-03-16 00:14:09',
+                'updated_at' => '2026-03-16 00:14:27',
             ),
             61 => 
             array (
@@ -636,8 +636,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:14:09',
-                'updated_at' => '2026-03-15 23:14:27',
+                'created_at' => '2026-03-16 00:14:09',
+                'updated_at' => '2026-03-16 00:14:27',
             ),
             62 => 
             array (
@@ -646,8 +646,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, vetëm natën',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-15 23:14:09',
-                'updated_at' => '2026-03-15 23:14:27',
+                'created_at' => '2026-03-16 00:14:09',
+                'updated_at' => '2026-03-16 00:14:27',
             ),
             63 => 
             array (
@@ -656,8 +656,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Për mjete të cilat nuk mund të lëvizin me shpejtësi më të madhe se 60 km/h',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:38:47',
-                'updated_at' => '2026-03-16 08:38:47',
+                'created_at' => '2026-03-16 09:38:47',
+                'updated_at' => '2026-03-16 09:38:47',
             ),
             64 => 
             array (
@@ -666,8 +666,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Për tejkalim të automjeteve të cilat lëvizin shumë ngadalë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:38:47',
-                'updated_at' => '2026-03-16 08:38:47',
+                'created_at' => '2026-03-16 09:38:47',
+                'updated_at' => '2026-03-16 09:38:47',
             ),
             65 => 
             array (
@@ -676,8 +676,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Për ndalje emergjente në rast të defektit në automjet',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:38:47',
-                'updated_at' => '2026-03-16 08:38:47',
+                'created_at' => '2026-03-16 09:38:47',
+                'updated_at' => '2026-03-16 09:38:47',
             ),
             66 => 
             array (
@@ -686,8 +686,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në shiritin 1',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:40:01',
-                'updated_at' => '2026-03-19 20:44:09',
+                'created_at' => '2026-03-16 09:40:01',
+                'updated_at' => '2026-03-19 21:44:09',
             ),
             67 => 
             array (
@@ -696,8 +696,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në shiritin 2',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:40:01',
-                'updated_at' => '2026-03-19 20:44:09',
+                'created_at' => '2026-03-16 09:40:01',
+                'updated_at' => '2026-03-19 21:44:09',
             ),
             68 => 
             array (
@@ -706,8 +706,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në shiritin 3 nëse është i lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:40:01',
-                'updated_at' => '2026-03-19 20:44:09',
+                'created_at' => '2026-03-16 09:40:01',
+                'updated_at' => '2026-03-19 21:44:09',
             ),
             69 => 
             array (
@@ -716,8 +716,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:43:18',
-                'updated_at' => '2026-03-16 08:43:18',
+                'created_at' => '2026-03-16 09:43:18',
+                'updated_at' => '2026-03-16 09:43:18',
             ),
             70 => 
             array (
@@ -726,8 +726,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, këmbësori nuk paraqet rrezik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:43:18',
-                'updated_at' => '2026-03-16 08:43:18',
+                'created_at' => '2026-03-16 09:43:18',
+                'updated_at' => '2026-03-16 09:43:18',
             ),
             71 => 
             array (
@@ -736,8 +736,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vëzhgoj këmbësorin në trotuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:43:18',
-                'updated_at' => '2026-03-16 08:43:18',
+                'created_at' => '2026-03-16 09:43:18',
+                'updated_at' => '2026-03-16 09:43:18',
             ),
             72 => 
             array (
@@ -746,8 +746,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndalem derisa të kalojnë këmbësorët',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:44:30',
-                'updated_at' => '2026-03-16 08:44:30',
+                'created_at' => '2026-03-16 09:44:30',
+                'updated_at' => '2026-03-16 09:44:30',
             ),
             73 => 
             array (
@@ -756,8 +756,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të lëviz me shpejtësi maksimale që zhvillon vetura',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:44:30',
-                'updated_at' => '2026-03-16 08:44:30',
+                'created_at' => '2026-03-16 09:44:30',
+                'updated_at' => '2026-03-16 09:44:30',
             ),
             74 => 
             array (
@@ -766,8 +766,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vëzhgoj këmbësorët në trotuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:44:30',
-                'updated_at' => '2026-03-16 08:44:30',
+                'created_at' => '2026-03-16 09:44:30',
+                'updated_at' => '2026-03-16 09:44:30',
             ),
             75 => 
             array (
@@ -776,8 +776,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Largoj këmbën nga pedalja e gazit (nuk jap gaz)',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:45:36',
-                'updated_at' => '2026-03-16 08:45:36',
+                'created_at' => '2026-03-16 09:45:36',
+                'updated_at' => '2026-03-16 09:45:36',
             ),
             76 => 
             array (
@@ -786,8 +786,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të lëviz me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:45:36',
-                'updated_at' => '2026-03-16 08:45:36',
+                'created_at' => '2026-03-16 09:45:36',
+                'updated_at' => '2026-03-16 09:45:36',
             ),
             77 => 
             array (
@@ -796,8 +796,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Frenimi i vrullshëm',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:45:36',
-                'updated_at' => '2026-03-16 08:45:36',
+                'created_at' => '2026-03-16 09:45:36',
+                'updated_at' => '2026-03-16 09:45:36',
             ),
             78 => 
             array (
@@ -806,8 +806,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndalem për t’i dhënë përparësi kalimi veturës e cila vjen nga kahu i kundërt i lëvizjes',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:46:38',
-                'updated_at' => '2026-03-16 08:46:38',
+                'created_at' => '2026-03-16 09:46:38',
+                'updated_at' => '2026-03-16 09:46:38',
             ),
             79 => 
             array (
@@ -816,8 +816,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e trafikut në dy kahe',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:46:38',
-                'updated_at' => '2026-03-16 08:46:38',
+                'created_at' => '2026-03-16 09:46:38',
+                'updated_at' => '2026-03-16 09:46:38',
             ),
             80 => 
             array (
@@ -826,8 +826,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën ku trafiku zhvillohet në një kah',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:46:38',
-                'updated_at' => '2026-03-16 08:46:38',
+                'created_at' => '2026-03-16 09:46:38',
+                'updated_at' => '2026-03-16 09:46:38',
             ),
             81 => 
             array (
@@ -836,8 +836,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen para veturës së kuqe',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:47:39',
-                'updated_at' => '2026-03-16 08:47:39',
+                'created_at' => '2026-03-16 09:47:39',
+                'updated_at' => '2026-03-16 09:47:39',
             ),
             82 => 
             array (
@@ -846,8 +846,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do t’i jap përparësi kalimi veturës së kuqe',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:47:39',
-                'updated_at' => '2026-03-16 08:47:39',
+                'created_at' => '2026-03-16 09:47:39',
+                'updated_at' => '2026-03-16 09:47:39',
             ),
             83 => 
             array (
@@ -856,8 +856,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shenjën “Rruga me përparësi kalimi”',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:47:39',
-                'updated_at' => '2026-03-16 08:47:39',
+                'created_at' => '2026-03-16 09:47:39',
+                'updated_at' => '2026-03-16 09:47:39',
             ),
             84 => 
             array (
@@ -866,8 +866,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Afërsinë e ngushtimit të rrugës në anën e djathtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:48:45',
-                'updated_at' => '2026-03-16 08:48:45',
+                'created_at' => '2026-03-16 09:48:45',
+                'updated_at' => '2026-03-16 09:48:45',
             ),
             85 => 
             array (
@@ -876,8 +876,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e trafikut për vetura',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:48:45',
-                'updated_at' => '2026-03-16 08:48:45',
+                'created_at' => '2026-03-16 09:48:45',
+                'updated_at' => '2026-03-16 09:48:45',
             ),
             86 => 
             array (
@@ -886,8 +886,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e tejkalimit të automjeteve, përveç motoçikletave pa rimorkio anësore',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:48:45',
-                'updated_at' => '2026-03-16 08:48:45',
+                'created_at' => '2026-03-16 09:48:45',
+                'updated_at' => '2026-03-16 09:48:45',
             ),
             87 => 
             array (
@@ -896,8 +896,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk duhet të ndërmarr asnjë veprim pasi pengesën e kaloj lehtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:49:53',
-                'updated_at' => '2026-03-16 08:49:53',
+                'created_at' => '2026-03-16 09:49:53',
+                'updated_at' => '2026-03-16 09:49:53',
             ),
             88 => 
             array (
@@ -906,8 +906,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Me kujdes të shtuar e kaloj vendkalimin për këmbësorë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:49:53',
-                'updated_at' => '2026-03-16 08:49:53',
+                'created_at' => '2026-03-16 09:49:53',
+                'updated_at' => '2026-03-16 09:49:53',
             ),
             89 => 
             array (
@@ -916,8 +916,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me të njëjtën shpejtësi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:49:53',
-                'updated_at' => '2026-03-16 08:49:53',
+                'created_at' => '2026-03-16 09:49:53',
+                'updated_at' => '2026-03-16 09:49:53',
             ),
             90 => 
             array (
@@ -926,8 +926,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Devijimin e rrugës',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:50:46',
-                'updated_at' => '2026-03-16 08:50:46',
+                'created_at' => '2026-03-16 09:50:46',
+                'updated_at' => '2026-03-16 09:50:46',
             ),
             91 => 
             array (
@@ -936,8 +936,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën pa dalje',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:50:46',
-                'updated_at' => '2026-03-16 08:50:46',
+                'created_at' => '2026-03-16 09:50:46',
+                'updated_at' => '2026-03-16 09:50:46',
             ),
             92 => 
             array (
@@ -946,8 +946,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Qafëmalin',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:50:46',
-                'updated_at' => '2026-03-16 08:50:46',
+                'created_at' => '2026-03-16 09:50:46',
+                'updated_at' => '2026-03-16 09:50:46',
             ),
             93 => 
             array (
@@ -956,8 +956,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Qafëmalin',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:52:01',
-                'updated_at' => '2026-03-16 08:52:01',
+                'created_at' => '2026-03-16 09:52:01',
+                'updated_at' => '2026-03-16 09:52:01',
             ),
             94 => 
             array (
@@ -966,8 +966,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Tunelin në largësi 500 m nga shenja e trafikut',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:52:01',
-                'updated_at' => '2026-03-16 08:52:01',
+                'created_at' => '2026-03-16 09:52:01',
+                'updated_at' => '2026-03-16 09:52:01',
             ),
             95 => 
             array (
@@ -976,8 +976,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesën e rrugës ku lejohet tejkalimi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:52:01',
-                'updated_at' => '2026-03-16 08:52:01',
+                'created_at' => '2026-03-16 09:52:01',
+                'updated_at' => '2026-03-16 09:52:01',
             ),
             96 => 
             array (
@@ -986,8 +986,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Duhet të largoj këmbën nga gazi (nuk i jap gaz)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:53:01',
-                'updated_at' => '2026-03-16 08:53:01',
+                'created_at' => '2026-03-16 09:53:01',
+                'updated_at' => '2026-03-16 09:53:01',
             ),
             97 => 
             array (
@@ -996,8 +996,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Duhet të largoj këmbën nga gazi (nuk i jap gaz)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:53:01',
-                'updated_at' => '2026-03-16 08:53:01',
+                'created_at' => '2026-03-16 09:53:01',
+                'updated_at' => '2026-03-16 09:53:01',
             ),
             98 => 
             array (
@@ -1006,8 +1006,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të kem kujdes pasi që mjetet mund të vijnë nga rrugët dytësore',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:53:01',
-                'updated_at' => '2026-03-16 08:53:01',
+                'created_at' => '2026-03-16 09:53:01',
+                'updated_at' => '2026-03-16 09:53:01',
             ),
             99 => 
             array (
@@ -1016,8 +1016,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem prapa autobusit dhe të pres derisa të niset nga vendndalja për autobusë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:54:11',
-                'updated_at' => '2026-03-16 08:54:11',
+                'created_at' => '2026-03-16 09:54:11',
+                'updated_at' => '2026-03-16 09:54:11',
             ),
             100 => 
             array (
@@ -1026,8 +1026,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj lëvizjen me shpetësi të rritur, pasi autobusi është ndalur në vendaljen për autobusë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:54:11',
-                'updated_at' => '2026-03-16 08:54:11',
+                'created_at' => '2026-03-16 09:54:11',
+                'updated_at' => '2026-03-16 09:54:11',
             ),
             101 => 
             array (
@@ -1036,8 +1036,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen me kujdes të shtuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:54:11',
-                'updated_at' => '2026-03-16 08:54:11',
+                'created_at' => '2026-03-16 09:54:11',
+                'updated_at' => '2026-03-16 09:54:11',
             ),
             102 => 
             array (
@@ -1046,8 +1046,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në rrugën me lugje, do të zvogëloj shpejtësinë sipas nevojës',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:55:13',
-                'updated_at' => '2026-03-16 08:55:13',
+                'created_at' => '2026-03-16 09:55:13',
+                'updated_at' => '2026-03-16 09:55:13',
             ),
             103 => 
             array (
@@ -1056,8 +1056,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngushtimin e rrugës në anën e majtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:55:14',
-                'updated_at' => '2026-03-16 08:55:14',
+                'created_at' => '2026-03-16 09:55:14',
+                'updated_at' => '2026-03-16 09:55:14',
             ),
             104 => 
             array (
@@ -1066,8 +1066,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Afërsinë e tunelit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:55:14',
-                'updated_at' => '2026-03-16 08:55:14',
+                'created_at' => '2026-03-16 09:55:14',
+                'updated_at' => '2026-03-16 09:55:14',
             ),
             105 => 
             array (
@@ -1076,8 +1076,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e trafikut në dy kahe',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:56:17',
-                'updated_at' => '2026-03-16 08:56:17',
+                'created_at' => '2026-03-16 09:56:17',
+                'updated_at' => '2026-03-16 09:56:17',
             ),
             106 => 
             array (
@@ -1086,8 +1086,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën ku trafiku zhvillohet në një kah',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:56:17',
-                'updated_at' => '2026-03-16 08:56:17',
+                'created_at' => '2026-03-16 09:56:17',
+                'updated_at' => '2026-03-16 09:56:17',
             ),
             107 => 
             array (
@@ -1096,8 +1096,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përparësinë e kalimit ndaj veturës e cila lëviz nga kahu i kundërt',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:56:17',
-                'updated_at' => '2026-03-16 08:56:17',
+                'created_at' => '2026-03-16 09:56:17',
+                'updated_at' => '2026-03-16 09:56:17',
             ),
             108 => 
             array (
@@ -1106,8 +1106,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para kryqëzimit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:57:18',
-                'updated_at' => '2026-03-16 08:57:18',
+                'created_at' => '2026-03-16 09:57:18',
+                'updated_at' => '2026-03-16 09:57:18',
             ),
             109 => 
             array (
@@ -1116,8 +1116,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj lëvizjen pa u ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:57:18',
-                'updated_at' => '2026-03-16 08:57:18',
+                'created_at' => '2026-03-16 09:57:18',
+                'updated_at' => '2026-03-16 09:57:18',
             ),
             110 => 
             array (
@@ -1126,8 +1126,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndez të gjithë treguesit e drejtimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:57:18',
-                'updated_at' => '2026-03-16 08:57:18',
+                'created_at' => '2026-03-16 09:57:18',
+                'updated_at' => '2026-03-16 09:57:18',
             ),
             111 => 
             array (
@@ -1136,8 +1136,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rritja e distancës anësore nëse nuk ka mjete nga prapa',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:58:14',
-                'updated_at' => '2026-03-16 08:58:14',
+                'created_at' => '2026-03-16 09:58:14',
+                'updated_at' => '2026-03-16 09:58:14',
             ),
             112 => 
             array (
@@ -1146,8 +1146,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me të njëjtën shpejtësi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:58:14',
-                'updated_at' => '2026-03-16 08:58:14',
+                'created_at' => '2026-03-16 09:58:14',
+                'updated_at' => '2026-03-16 09:58:14',
             ),
             113 => 
             array (
@@ -1156,8 +1156,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, këmbësori duhet të largohet nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:58:14',
-                'updated_at' => '2026-03-16 08:58:14',
+                'created_at' => '2026-03-16 09:58:14',
+                'updated_at' => '2026-03-16 09:58:14',
             ),
             114 => 
             array (
@@ -1166,8 +1166,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Sipas nevojës, do të zvogëloj shpejtësinë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:59:14',
-                'updated_at' => '2026-03-16 08:59:14',
+                'created_at' => '2026-03-16 09:59:14',
+                'updated_at' => '2026-03-16 09:59:14',
             ),
             115 => 
             array (
@@ -1176,8 +1176,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem në vend që t’i vëzhgoj sjelljet e këmbësorëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:59:14',
-                'updated_at' => '2026-03-16 08:59:14',
+                'created_at' => '2026-03-16 09:59:14',
+                'updated_at' => '2026-03-16 09:59:14',
             ),
             116 => 
             array (
@@ -1186,8 +1186,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdojë lëvizjen me shpetësi të rritur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 08:59:14',
-                'updated_at' => '2026-03-16 08:59:14',
+                'created_at' => '2026-03-16 09:59:14',
+                'updated_at' => '2026-03-16 09:59:14',
             ),
             117 => 
             array (
@@ -1196,8 +1196,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndez treguesin e majtë të drejtimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:00:44',
-                'updated_at' => '2026-03-16 09:00:44',
+                'created_at' => '2026-03-16 10:00:44',
+                'updated_at' => '2026-03-16 10:00:44',
             ),
             118 => 
             array (
@@ -1206,8 +1206,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vendos trekëndëshin e sigurisë prapa mjetit në distancë së paku 200 m',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:00:44',
-                'updated_at' => '2026-03-16 09:00:44',
+                'created_at' => '2026-03-16 10:00:44',
+                'updated_at' => '2026-03-16 10:00:44',
             ),
             119 => 
             array (
@@ -1216,8 +1216,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vendos trekëndëshin e sigurisë prapa mjetit në distancë prej 30 - 50 m',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:00:44',
-                'updated_at' => '2026-03-16 09:00:44',
+                'created_at' => '2026-03-16 10:00:44',
+                'updated_at' => '2026-03-16 10:00:44',
             ),
             120 => 
             array (
@@ -1226,8 +1226,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para shenjës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:03:00',
-                'updated_at' => '2026-03-16 09:03:00',
+                'created_at' => '2026-03-16 10:03:00',
+                'updated_at' => '2026-03-16 10:03:00',
             ),
             121 => 
             array (
@@ -1236,8 +1236,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndërrimi i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:03:00',
-                'updated_at' => '2026-03-16 09:03:00',
+                'created_at' => '2026-03-16 10:03:00',
+                'updated_at' => '2026-03-16 10:03:00',
             ),
             122 => 
             array (
@@ -1246,8 +1246,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimi i ndaljes dhe i parkimit vlen nga vendi i vendosjes së shenjës',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:03:00',
-                'updated_at' => '2026-03-16 09:03:00',
+                'created_at' => '2026-03-16 10:03:00',
+                'updated_at' => '2026-03-16 10:03:00',
             ),
             123 => 
             array (
@@ -1256,8 +1256,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet lëvizja drejt dhe djathtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:04:00',
-                'updated_at' => '2026-03-16 09:04:00',
+                'created_at' => '2026-03-16 10:04:00',
+                'updated_at' => '2026-03-16 10:04:00',
             ),
             124 => 
             array (
@@ -1266,8 +1266,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet trafiku për këmbësorë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:04:00',
-                'updated_at' => '2026-03-16 09:04:00',
+                'created_at' => '2026-03-16 10:04:00',
+                'updated_at' => '2026-03-16 10:04:00',
             ),
             125 => 
             array (
@@ -1276,8 +1276,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet ndërrimi i shiritit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:04:00',
-                'updated_at' => '2026-03-16 09:04:00',
+                'created_at' => '2026-03-16 10:04:00',
+                'updated_at' => '2026-03-16 10:04:00',
             ),
             126 => 
             array (
@@ -1286,8 +1286,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimi i borisë që këmbësori të largohet nga rruga qarkulluese',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:05:10',
-                'updated_at' => '2026-03-16 09:05:10',
+                'created_at' => '2026-03-16 10:05:10',
+                'updated_at' => '2026-03-16 10:05:10',
             ),
             127 => 
             array (
@@ -1296,8 +1296,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Duhet të largohet këmba nga pedalja e gazit (nuk jepet gaz)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:05:10',
-                'updated_at' => '2026-03-16 09:05:10',
+                'created_at' => '2026-03-16 10:05:10',
+                'updated_at' => '2026-03-16 10:05:10',
             ),
             128 => 
             array (
@@ -1306,8 +1306,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vazhdimi i ngasjes me kujdes të shtuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:05:10',
-                'updated_at' => '2026-03-16 09:05:10',
+                'created_at' => '2026-03-16 10:05:10',
+                'updated_at' => '2026-03-16 10:05:10',
             ),
             129 => 
             array (
@@ -1316,8 +1316,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen pasi në semafor është ndezur drita e gjelbër',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:08:02',
-                'updated_at' => '2026-03-16 09:08:02',
+                'created_at' => '2026-03-16 10:08:02',
+                'updated_at' => '2026-03-16 10:08:02',
             ),
             130 => 
             array (
@@ -1326,8 +1326,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndalem para kryqëzimit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:08:02',
-                'updated_at' => '2026-03-16 09:08:02',
+                'created_at' => '2026-03-16 10:08:02',
+                'updated_at' => '2026-03-16 10:08:02',
             ),
             131 => 
             array (
@@ -1336,8 +1336,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk më lejohet t’i pengoja automjetet nga mbrapa',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:08:02',
-                'updated_at' => '2026-03-16 09:08:02',
+                'created_at' => '2026-03-16 10:08:02',
+                'updated_at' => '2026-03-16 10:08:02',
             ),
             132 => 
             array (
@@ -1346,8 +1346,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Distancën 80 m nga vendkalimi hekurudhor pa mbrojtëse ose gjysmëmbrojtëse',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:09:27',
-                'updated_at' => '2026-03-16 09:09:27',
+                'created_at' => '2026-03-16 10:09:27',
+                'updated_at' => '2026-03-16 10:09:27',
             ),
             133 => 
             array (
@@ -1356,8 +1356,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Distancën 240 m nga vendkalimi hekurudhor pa mbrojtëse ose gjysmëmbrojtëse',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:09:27',
-                'updated_at' => '2026-03-16 09:09:27',
+                'created_at' => '2026-03-16 10:09:27',
+                'updated_at' => '2026-03-16 10:09:27',
             ),
             134 => 
             array (
@@ -1366,8 +1366,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Afërsinë e vendkalimit për tramvaj',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:09:27',
-                'updated_at' => '2026-03-16 09:09:27',
+                'created_at' => '2026-03-16 10:09:27',
+                'updated_at' => '2026-03-16 10:09:27',
             ),
             135 => 
             array (
@@ -1376,8 +1376,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo, në asnjë rast',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:10:51',
-                'updated_at' => '2026-03-16 09:10:51',
+                'created_at' => '2026-03-16 10:10:51',
+                'updated_at' => '2026-03-16 10:10:51',
             ),
             136 => 
             array (
@@ -1386,8 +1386,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:10:51',
-                'updated_at' => '2026-03-16 09:10:51',
+                'created_at' => '2026-03-16 10:10:51',
+                'updated_at' => '2026-03-16 10:10:51',
             ),
             137 => 
             array (
@@ -1396,8 +1396,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo, vetëm jashtë vendbanimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:10:51',
-                'updated_at' => '2026-03-16 09:10:51',
+                'created_at' => '2026-03-16 10:10:51',
+                'updated_at' => '2026-03-16 10:10:51',
             ),
             138 => 
             array (
@@ -1406,8 +1406,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo, në asnjë rast',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:12:46',
-                'updated_at' => '2026-03-16 09:12:46',
+                'created_at' => '2026-03-16 10:12:46',
+                'updated_at' => '2026-03-16 10:12:46',
             ),
             139 => 
             array (
@@ -1416,8 +1416,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, por duhet të pres deri sa të ndizet drita e gjelbër në semafor',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:12:46',
-                'updated_at' => '2026-03-16 09:12:46',
+                'created_at' => '2026-03-16 10:12:46',
+                'updated_at' => '2026-03-16 10:12:46',
             ),
             140 => 
             array (
@@ -1426,8 +1426,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, por duhet t‘u jepet përparësi kalimi këmbësorëve',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:12:46',
-                'updated_at' => '2026-03-16 09:12:46',
+                'created_at' => '2026-03-16 10:12:46',
+                'updated_at' => '2026-03-16 10:12:46',
             ),
             141 => 
             array (
@@ -1436,8 +1436,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vëzhgoj sjelljen e këmbësorit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:13:48',
-                'updated_at' => '2026-03-16 09:13:48',
+                'created_at' => '2026-03-16 10:13:48',
+                'updated_at' => '2026-03-16 10:13:48',
             ),
             142 => 
             array (
@@ -1446,8 +1446,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të rris shpejtësinë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:13:48',
-                'updated_at' => '2026-03-16 09:13:48',
+                'created_at' => '2026-03-16 10:13:48',
+                'updated_at' => '2026-03-16 10:13:48',
             ),
             143 => 
             array (
@@ -1456,8 +1456,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem në vend',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:13:48',
-                'updated_at' => '2026-03-16 09:13:48',
+                'created_at' => '2026-03-16 10:13:48',
+                'updated_at' => '2026-03-16 10:13:48',
             ),
             144 => 
             array (
@@ -1466,8 +1466,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e trafikut për fëmijë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:15:32',
-                'updated_at' => '2026-03-16 09:15:32',
+                'created_at' => '2026-03-16 10:15:32',
+                'updated_at' => '2026-03-16 10:15:32',
             ),
             145 => 
             array (
@@ -1476,8 +1476,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shtegun për vrapim të fëmijëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:15:32',
-                'updated_at' => '2026-03-16 09:15:32',
+                'created_at' => '2026-03-16 10:15:32',
+                'updated_at' => '2026-03-16 10:15:32',
             ),
             146 => 
             array (
@@ -1486,8 +1486,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E zvogëloj shpejtësinë sipas nevojës, pasi mund të has fëmijë në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:15:32',
-                'updated_at' => '2026-03-16 09:15:32',
+                'created_at' => '2026-03-16 10:15:32',
+                'updated_at' => '2026-03-16 10:15:32',
             ),
             147 => 
             array (
@@ -1496,8 +1496,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Gjatë ndaljes së veturës për zbritjen e udhëtarëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:17:53',
-                'updated_at' => '2026-03-16 09:17:53',
+                'created_at' => '2026-03-16 10:17:53',
+                'updated_at' => '2026-03-16 10:17:53',
             ),
             148 => 
             array (
@@ -1506,8 +1506,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Me rastin e ndaljes së mjetit në rrugë, i cili bart materie të rrezikshme, për shkak të defektit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:17:53',
-                'updated_at' => '2026-03-16 09:17:53',
+                'created_at' => '2026-03-16 10:17:53',
+                'updated_at' => '2026-03-16 10:17:53',
             ),
             149 => 
             array (
@@ -1516,8 +1516,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Gjatë punimeve në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:17:53',
-                'updated_at' => '2026-03-16 09:17:53',
+                'created_at' => '2026-03-16 10:17:53',
+                'updated_at' => '2026-03-16 10:17:53',
             ),
             150 => 
             array (
@@ -1526,8 +1526,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën e rrëshqitshme për shkak të borës',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:19:17',
-                'updated_at' => '2026-03-16 09:19:17',
+                'created_at' => '2026-03-16 10:19:17',
+                'updated_at' => '2026-03-16 10:19:17',
             ),
             151 => 
             array (
@@ -1536,8 +1536,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Frenimin e vrullshëm gjatë kthimit djathtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:19:17',
-                'updated_at' => '2026-03-16 09:19:17',
+                'created_at' => '2026-03-16 10:19:17',
+                'updated_at' => '2026-03-16 10:19:17',
             ),
             152 => 
             array (
@@ -1546,8 +1546,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para shenjës së trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:19:17',
-                'updated_at' => '2026-03-16 09:19:17',
+                'created_at' => '2026-03-16 10:19:17',
+                'updated_at' => '2026-03-16 10:19:17',
             ),
             153 => 
             array (
@@ -1556,8 +1556,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'E largoj këmbën nga pedalja e gazit (nuk i jap gaz)',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:20:52',
-                'updated_at' => '2026-03-16 09:20:52',
+                'created_at' => '2026-03-16 10:20:52',
+                'updated_at' => '2026-03-16 10:20:52',
             ),
             154 => 
             array (
@@ -1566,8 +1566,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:20:52',
-                'updated_at' => '2026-03-16 09:20:52',
+                'created_at' => '2026-03-16 10:20:52',
+                'updated_at' => '2026-03-16 10:20:52',
             ),
             155 => 
             array (
@@ -1576,8 +1576,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, këmbësorët duhet të lëvizin në trotuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:20:52',
-                'updated_at' => '2026-03-16 09:20:52',
+                'created_at' => '2026-03-16 10:20:52',
+                'updated_at' => '2026-03-16 10:20:52',
             ),
             156 => 
             array (
@@ -1586,8 +1586,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Përdorimin e pajisjeve akustike të zërit (borinë)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:22:33',
-                'updated_at' => '2026-03-16 09:22:33',
+                'created_at' => '2026-03-16 10:22:33',
+                'updated_at' => '2026-03-16 10:22:33',
             ),
             157 => 
             array (
@@ -1596,8 +1596,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem në vend që të vëzhgoj lëvizjen e kafshëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:22:33',
-                'updated_at' => '2026-03-16 09:22:33',
+                'created_at' => '2026-03-16 10:22:33',
+                'updated_at' => '2026-03-16 10:22:33',
             ),
             158 => 
             array (
@@ -1606,8 +1606,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të rris kujdesin, në rast nevoje do të ndal veturën',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:22:33',
-                'updated_at' => '2026-03-16 09:22:33',
+                'created_at' => '2026-03-16 10:22:33',
+                'updated_at' => '2026-03-16 10:22:33',
             ),
             159 => 
             array (
@@ -1616,8 +1616,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të frenoj',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:23:14',
-                'updated_at' => '2026-03-16 09:23:14',
+                'created_at' => '2026-03-16 10:23:14',
+                'updated_at' => '2026-03-16 10:23:14',
             ),
             160 => 
             array (
@@ -1626,8 +1626,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:23:14',
-                'updated_at' => '2026-03-16 09:23:14',
+                'created_at' => '2026-03-16 10:23:14',
+                'updated_at' => '2026-03-16 10:23:14',
             ),
             161 => 
             array (
@@ -1636,8 +1636,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, këmbësori nuk duhet të lëvizë në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:23:14',
-                'updated_at' => '2026-03-16 09:23:14',
+                'created_at' => '2026-03-16 10:23:14',
+                'updated_at' => '2026-03-16 10:23:14',
             ),
             162 => 
             array (
@@ -1646,8 +1646,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fushëpamjen e kufizuar të rrugës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:25:17',
-                'updated_at' => '2026-03-16 09:25:17',
+                'created_at' => '2026-03-16 10:25:17',
+                'updated_at' => '2026-03-16 10:25:17',
             ),
             163 => 
             array (
@@ -1656,8 +1656,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kujdesin e shtuar, rruga e frenimit zgjatet',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:25:17',
-                'updated_at' => '2026-03-16 09:25:17',
+                'created_at' => '2026-03-16 10:25:17',
+                'updated_at' => '2026-03-16 10:25:17',
             ),
             164 => 
             array (
@@ -1666,8 +1666,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vazhdoj lëvizjen duke e rritur shpejtësinë pasi rruga është e lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:25:17',
-                'updated_at' => '2026-03-16 09:25:17',
+                'created_at' => '2026-03-16 10:25:17',
+                'updated_at' => '2026-03-16 10:25:17',
             ),
             165 => 
             array (
@@ -1676,8 +1676,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Afërsinë e qafëmalit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:28:21',
-                'updated_at' => '2026-03-16 09:28:21',
+                'created_at' => '2026-03-16 10:28:21',
+                'updated_at' => '2026-03-16 10:28:21',
             ),
             166 => 
             array (
@@ -1686,8 +1686,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngushtimin e rrugës në të dyja anët, do të përshtas shpejtësinë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:28:21',
-                'updated_at' => '2026-03-16 09:28:21',
+                'created_at' => '2026-03-16 10:28:21',
+                'updated_at' => '2026-03-16 10:28:21',
             ),
             167 => 
             array (
@@ -1696,8 +1696,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nga shenja fillon të zhvillohet trafiku në një kah',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:28:21',
-                'updated_at' => '2026-03-16 09:28:21',
+                'created_at' => '2026-03-16 10:28:21',
+                'updated_at' => '2026-03-16 10:28:21',
             ),
             168 => 
             array (
@@ -1706,8 +1706,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Gjatë ndaljes së veturës për zbritjen e udhëtarëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:32:20',
-                'updated_at' => '2026-03-16 09:32:20',
+                'created_at' => '2026-03-16 10:32:20',
+                'updated_at' => '2026-03-16 10:32:20',
             ),
             169 => 
             array (
@@ -1716,8 +1716,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Gjatë punimeve në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:32:20',
-                'updated_at' => '2026-03-16 09:32:20',
+                'created_at' => '2026-03-16 10:32:20',
+                'updated_at' => '2026-03-16 10:32:20',
             ),
             170 => 
             array (
@@ -1726,8 +1726,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Me rastin e ndaljes së kolonës në rrugë për shkak të defektit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:32:20',
-                'updated_at' => '2026-03-16 09:32:20',
+                'created_at' => '2026-03-16 10:32:20',
+                'updated_at' => '2026-03-16 10:32:20',
             ),
             171 => 
             array (
@@ -1736,8 +1736,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fushëpamjen e kufizuar të rrugës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:33:17',
-                'updated_at' => '2026-03-16 09:33:17',
+                'created_at' => '2026-03-16 10:33:17',
+                'updated_at' => '2026-03-16 10:33:17',
             ),
             172 => 
             array (
@@ -1746,8 +1746,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Përdorimin e shenjës akustike (borisë) dhe vazhdimin e lëvizjes me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:33:17',
-                'updated_at' => '2026-03-16 09:33:17',
+                'created_at' => '2026-03-16 10:33:17',
+                'updated_at' => '2026-03-16 10:33:17',
             ),
             173 => 
             array (
@@ -1756,8 +1756,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Këmbësorët mund të dalin në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:33:17',
-                'updated_at' => '2026-03-16 09:33:17',
+                'created_at' => '2026-03-16 10:33:17',
+                'updated_at' => '2026-03-16 10:33:17',
             ),
             174 => 
             array (
@@ -1766,8 +1766,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mund të dalë ndonjë këmbësor ndërmjet mjeteve të parkuara',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:34:08',
-                'updated_at' => '2026-03-16 09:34:08',
+                'created_at' => '2026-03-16 10:34:08',
+                'updated_at' => '2026-03-16 10:34:08',
             ),
             175 => 
             array (
@@ -1776,8 +1776,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet ndërrimi i shiritit majtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:34:08',
-                'updated_at' => '2026-03-16 09:34:08',
+                'created_at' => '2026-03-16 10:34:08',
+                'updated_at' => '2026-03-16 10:34:08',
             ),
             176 => 
             array (
@@ -1786,8 +1786,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të zvogëloj distancën e sigurisë ndaj mjetit që lëviz përpara',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:34:08',
-                'updated_at' => '2026-03-16 09:34:08',
+                'created_at' => '2026-03-16 10:34:08',
+                'updated_at' => '2026-03-16 10:34:08',
             ),
             177 => 
             array (
@@ -1796,8 +1796,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Frenimi në rast nevoje',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:35:59',
-                'updated_at' => '2026-03-16 09:35:59',
+                'created_at' => '2026-03-16 10:35:59',
+                'updated_at' => '2026-03-16 10:35:59',
             ),
             178 => 
             array (
@@ -1806,8 +1806,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:35:59',
-                'updated_at' => '2026-03-16 09:35:59',
+                'created_at' => '2026-03-16 10:35:59',
+                'updated_at' => '2026-03-16 10:35:59',
             ),
             179 => 
             array (
@@ -1816,8 +1816,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, trotineti nuk paraqet rrezik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:35:59',
-                'updated_at' => '2026-03-16 09:35:59',
+                'created_at' => '2026-03-16 10:35:59',
+                'updated_at' => '2026-03-16 10:35:59',
             ),
             180 => 
             array (
@@ -1826,8 +1826,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të frenoj',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:37:07',
-                'updated_at' => '2026-03-16 09:37:07',
+                'created_at' => '2026-03-16 10:37:07',
+                'updated_at' => '2026-03-16 10:37:07',
             ),
             181 => 
             array (
@@ -1836,8 +1836,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:37:07',
-                'updated_at' => '2026-03-16 09:37:07',
+                'created_at' => '2026-03-16 10:37:07',
+                'updated_at' => '2026-03-16 10:37:07',
             ),
             182 => 
             array (
@@ -1846,8 +1846,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmar asgjë, këmbësorët lëvizin jo drejt',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:37:07',
-                'updated_at' => '2026-03-16 09:37:07',
+                'created_at' => '2026-03-16 10:37:07',
+                'updated_at' => '2026-03-16 10:37:07',
             ),
             183 => 
             array (
@@ -1856,8 +1856,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të përdor borinë për shoferin që nuk i respekton rregullat e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:39:47',
-                'updated_at' => '2026-03-16 09:39:47',
+                'created_at' => '2026-03-16 10:39:47',
+                'updated_at' => '2026-03-16 10:39:47',
             ),
             184 => 
             array (
@@ -1866,8 +1866,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Të largoj këmbën nga pedalja e gazit (nuk i jap gaz) dhe t’ia mundësoj veturës hyrjen në trafik',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:39:47',
-                'updated_at' => '2026-03-16 09:39:47',
+                'created_at' => '2026-03-16 10:39:47',
+                'updated_at' => '2026-03-16 10:39:47',
             ),
             185 => 
             array (
@@ -1876,8 +1876,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj lëvizjen me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:39:47',
-                'updated_at' => '2026-03-16 09:39:47',
+                'created_at' => '2026-03-16 10:39:47',
+                'updated_at' => '2026-03-16 10:39:47',
             ),
             186 => 
             array (
@@ -1886,8 +1886,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Të largoj këmbën nga pedalja e gazit (nuk i jap gaz)',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:40:56',
-                'updated_at' => '2026-03-16 09:40:56',
+                'created_at' => '2026-03-16 10:40:56',
+                'updated_at' => '2026-03-16 10:40:56',
             ),
             187 => 
             array (
@@ -1896,8 +1896,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj lëvizjen me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:40:56',
-                'updated_at' => '2026-03-16 09:40:56',
+                'created_at' => '2026-03-16 10:40:56',
+                'updated_at' => '2026-03-16 10:40:56',
             ),
             188 => 
             array (
@@ -1906,8 +1906,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë, këmbësori duhet të largohet nga rruga',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:40:56',
-                'updated_at' => '2026-03-16 09:40:56',
+                'created_at' => '2026-03-16 10:40:56',
+                'updated_at' => '2026-03-16 10:40:56',
             ),
             189 => 
             array (
@@ -1916,8 +1916,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen pa u ndalur pasi është ndezur drita e gjelbër në semafor',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:43:13',
-                'updated_at' => '2026-03-16 09:43:13',
+                'created_at' => '2026-03-16 10:43:13',
+                'updated_at' => '2026-03-16 10:43:13',
             ),
             190 => 
             array (
@@ -1926,8 +1926,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para kryqëzimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:43:13',
-                'updated_at' => '2026-03-16 09:43:13',
+                'created_at' => '2026-03-16 10:43:13',
+                'updated_at' => '2026-03-16 10:43:13',
             ),
             191 => 
             array (
@@ -1936,8 +1936,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet ndërrimi i shiritave të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:43:13',
-                'updated_at' => '2026-03-16 09:43:13',
+                'created_at' => '2026-03-16 10:43:13',
+                'updated_at' => '2026-03-16 10:43:13',
             ),
             192 => 
             array (
@@ -1946,8 +1946,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën ku mund të hasni biçiklistë dhe këmbësorë, sepse shtegu i tyre përfundon',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:44:54',
-                'updated_at' => '2026-03-16 09:44:54',
+                'created_at' => '2026-03-16 10:44:54',
+                'updated_at' => '2026-03-16 10:44:54',
             ),
             193 => 
             array (
@@ -1956,8 +1956,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesën e rrugës ku ndalohet trafiku për biçiklistë dhe këmbësorë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:44:54',
-                'updated_at' => '2026-03-16 09:44:54',
+                'created_at' => '2026-03-16 10:44:54',
+                'updated_at' => '2026-03-16 10:44:54',
             ),
             194 => 
             array (
@@ -1966,8 +1966,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shtegun e vrapimit për biçiklistë dhe këmbësorë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:44:54',
-                'updated_at' => '2026-03-16 09:44:54',
+                'created_at' => '2026-03-16 10:44:54',
+                'updated_at' => '2026-03-16 10:44:54',
             ),
             195 => 
             array (
@@ -1976,8 +1976,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Drejt',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:47:34',
-                'updated_at' => '2026-03-16 09:47:34',
+                'created_at' => '2026-03-16 10:47:34',
+                'updated_at' => '2026-03-16 10:47:34',
             ),
             196 => 
             array (
@@ -1986,8 +1986,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo drejt',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:47:34',
-                'updated_at' => '2026-03-16 09:47:34',
+                'created_at' => '2026-03-16 10:47:34',
+                'updated_at' => '2026-03-16 10:47:34',
             ),
             197 => 
             array (
@@ -1996,8 +1996,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Drejt vetëm ditën',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:47:34',
-                'updated_at' => '2026-03-16 09:47:34',
+                'created_at' => '2026-03-16 10:47:34',
+                'updated_at' => '2026-03-16 10:47:34',
             ),
             198 => 
             array (
@@ -2006,8 +2006,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet hyrja në këtë rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:48:49',
-                'updated_at' => '2026-03-16 09:48:49',
+                'created_at' => '2026-03-16 10:48:49',
+                'updated_at' => '2026-03-16 10:48:49',
             ),
             199 => 
             array (
@@ -2016,8 +2016,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndez të gjithë treguesit e drejtimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:48:49',
-                'updated_at' => '2026-03-16 09:48:49',
+                'created_at' => '2026-03-16 10:48:49',
+                'updated_at' => '2026-03-16 10:48:49',
             ),
             200 => 
             array (
@@ -2026,8 +2026,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vazhdoj lëvizjen drejt, këmbësorët duhet të lëvizin në trotuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:48:49',
-                'updated_at' => '2026-03-16 09:48:49',
+                'created_at' => '2026-03-16 10:48:49',
+                'updated_at' => '2026-03-16 10:48:49',
             ),
             201 => 
             array (
@@ -2036,8 +2036,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet parkimi i veturave në trotuar',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:59:16',
-                'updated_at' => '2026-03-16 09:59:16',
+                'created_at' => '2026-03-16 10:59:16',
+                'updated_at' => '2026-03-16 10:59:16',
             ),
             202 => 
             array (
@@ -2046,8 +2046,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndalja dhe parkimi në dy anët e rrugës ',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:59:16',
-                'updated_at' => '2026-03-16 09:59:16',
+                'created_at' => '2026-03-16 10:59:16',
+                'updated_at' => '2026-03-16 10:59:16',
             ),
             203 => 
             array (
@@ -2056,8 +2056,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndaljen para shenjave të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 09:59:16',
-                'updated_at' => '2026-03-16 09:59:16',
+                'created_at' => '2026-03-16 10:59:16',
+                'updated_at' => '2026-03-16 10:59:16',
             ),
             204 => 
             array (
@@ -2066,8 +2066,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vendoset trekëndëshi i sigurisë në largësi prej së paku 200 m, pas mjetit të ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:00:39',
-                'updated_at' => '2026-03-16 10:00:39',
+                'created_at' => '2026-03-16 11:00:39',
+                'updated_at' => '2026-03-16 11:00:39',
             ),
             205 => 
             array (
@@ -2076,8 +2076,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të vendoset trekëndëshi i sigurisë në largësi prej së paku 50 m, pas mjetit të ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:00:39',
-                'updated_at' => '2026-03-16 10:00:39',
+                'created_at' => '2026-03-16 11:00:39',
+                'updated_at' => '2026-03-16 11:00:39',
             ),
             206 => 
             array (
@@ -2086,8 +2086,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të ndez të gjithë treguesit e drejtimit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:00:39',
-                'updated_at' => '2026-03-16 10:00:39',
+                'created_at' => '2026-03-16 11:00:39',
+                'updated_at' => '2026-03-16 11:00:39',
             ),
             207 => 
             array (
@@ -2096,8 +2096,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pas kthesës mund të has në ndonjë mjet që lëviz ngadalë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:03:09',
-                'updated_at' => '2026-03-16 10:03:09',
+                'created_at' => '2026-03-16 11:03:09',
+                'updated_at' => '2026-03-16 11:03:09',
             ),
             208 => 
             array (
@@ -2106,8 +2106,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Frenimin e vrullshëm në mes të kthesës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:03:09',
-                'updated_at' => '2026-03-16 10:03:09',
+                'created_at' => '2026-03-16 11:03:09',
+                'updated_at' => '2026-03-16 11:03:09',
             ),
             209 => 
             array (
@@ -2116,8 +2116,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet ndërrimi me kujdes i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:03:09',
-                'updated_at' => '2026-03-16 10:03:09',
+                'created_at' => '2026-03-16 11:03:09',
+                'updated_at' => '2026-03-16 11:03:09',
             ),
             210 => 
             array (
@@ -2126,8 +2126,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mund të has kafshë shtëpiake në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:04:37',
-                'updated_at' => '2026-03-16 10:04:37',
+                'created_at' => '2026-03-16 11:04:37',
+                'updated_at' => '2026-03-16 11:04:37',
             ),
             211 => 
             array (
@@ -2136,8 +2136,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Zvogëlimin e distancës së sigurisë ndaj mjetit që lëviz përpara',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:04:37',
-                'updated_at' => '2026-03-16 10:04:37',
+                'created_at' => '2026-03-16 11:04:37',
+                'updated_at' => '2026-03-16 11:04:37',
             ),
             212 => 
             array (
@@ -2146,8 +2146,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kafshët e egra në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:04:37',
-                'updated_at' => '2026-03-16 10:04:37',
+                'created_at' => '2026-03-16 11:04:37',
+                'updated_at' => '2026-03-16 11:04:37',
             ),
             213 => 
             array (
@@ -2156,8 +2156,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të zvogëloj shpejtësinë dhe do të jem i gatshëm për frenim pasi fëmijët mund të vrapojnë pas topit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:05:57',
-                'updated_at' => '2026-03-16 10:05:57',
+                'created_at' => '2026-03-16 11:05:57',
+                'updated_at' => '2026-03-16 11:05:57',
             ),
             214 => 
             array (
@@ -2166,8 +2166,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Do të përdor shenjën akustike (borinë) dhe do të vazhdoj lëvizjen me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:05:57',
-                'updated_at' => '2026-03-16 10:05:57',
+                'created_at' => '2026-03-16 11:05:57',
+                'updated_at' => '2026-03-16 11:05:57',
             ),
             215 => 
             array (
@@ -2176,8 +2176,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj me shpejtësi të rritur pasi nuk ka fëmijë në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:05:57',
-                'updated_at' => '2026-03-16 10:05:57',
+                'created_at' => '2026-03-16 11:05:57',
+                'updated_at' => '2026-03-16 11:05:57',
             ),
             216 => 
             array (
@@ -2186,8 +2186,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kthesën e rrezikshme majtas dhe përshtatjen e shpejtësisë varësisht nga ashpërsia e kthesës',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:07:01',
-                'updated_at' => '2026-03-16 10:07:01',
+                'created_at' => '2026-03-16 11:07:01',
+                'updated_at' => '2026-03-16 11:07:01',
             ),
             217 => 
             array (
@@ -2196,8 +2196,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kthesën e rrezikshme djathtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:07:01',
-                'updated_at' => '2026-03-16 10:07:01',
+                'created_at' => '2026-03-16 11:07:01',
+                'updated_at' => '2026-03-16 11:07:01',
             ),
             218 => 
             array (
@@ -2206,8 +2206,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rritjen e shpejtësisë në hyrje të kthesës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:07:01',
-                'updated_at' => '2026-03-16 10:07:01',
+                'created_at' => '2026-03-16 11:07:01',
+                'updated_at' => '2026-03-16 11:07:01',
             ),
             219 => 
             array (
@@ -2216,8 +2216,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që lëvizin prapa autobusit duhet të ndalen derisa fëmijët të hyjnë ose të dalin nga autobusi',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:08:16',
-                'updated_at' => '2026-03-16 10:08:16',
+                'created_at' => '2026-03-16 11:08:16',
+                'updated_at' => '2026-03-16 11:08:16',
             ),
             220 => 
             array (
@@ -2226,8 +2226,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Autobusi duhet të lëviz prapa',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:08:16',
-                'updated_at' => '2026-03-16 10:08:16',
+                'created_at' => '2026-03-16 11:08:16',
+                'updated_at' => '2026-03-16 11:08:16',
             ),
             221 => 
             array (
@@ -2236,8 +2236,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që lëvizin përballë autobusit duhet të vazhdojnë lëvizjen me shpejtësi të rritur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:08:16',
-                'updated_at' => '2026-03-16 10:08:16',
+                'created_at' => '2026-03-16 11:08:16',
+                'updated_at' => '2026-03-16 11:08:16',
             ),
             222 => 
             array (
@@ -2246,8 +2246,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndërrimi i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:10:01',
-                'updated_at' => '2026-03-16 10:10:01',
+                'created_at' => '2026-03-16 11:10:01',
+                'updated_at' => '2026-03-16 11:10:01',
             ),
             223 => 
             array (
@@ -2256,8 +2256,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lëviz me kujdes të shtuar duke përshtatur shpejtësinë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:10:01',
-                'updated_at' => '2026-03-16 10:10:01',
+                'created_at' => '2026-03-16 11:10:01',
+                'updated_at' => '2026-03-16 11:10:01',
             ),
             224 => 
             array (
@@ -2266,8 +2266,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të përdor dritat e gjata për ndriçim që rruga të shihet më mirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:10:01',
-                'updated_at' => '2026-03-16 10:10:01',
+                'created_at' => '2026-03-16 11:10:01',
+                'updated_at' => '2026-03-16 11:10:01',
             ),
             225 => 
             array (
@@ -2276,8 +2276,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që lëvizin përballë autobusit duhet të ndalen derisa fëmijët hyjnë ose dalin nga autobusi',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:11:32',
-                'updated_at' => '2026-03-16 10:11:32',
+                'created_at' => '2026-03-16 11:11:32',
+                'updated_at' => '2026-03-16 11:11:32',
             ),
             226 => 
             array (
@@ -2286,8 +2286,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Autobusi duhet të lëviz prapa',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:11:32',
-                'updated_at' => '2026-03-16 10:11:32',
+                'created_at' => '2026-03-16 11:11:32',
+                'updated_at' => '2026-03-16 11:11:32',
             ),
             227 => 
             array (
@@ -2296,8 +2296,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që lëvizin përballë autobusit duhet të vazhdojnë lëvizjen me shpejtësi të rritur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:11:32',
-                'updated_at' => '2026-03-16 10:11:32',
+                'created_at' => '2026-03-16 11:11:32',
+                'updated_at' => '2026-03-16 11:11:32',
             ),
             228 => 
             array (
@@ -2306,8 +2306,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendparkimin për kamionë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:12:16',
-                'updated_at' => '2026-03-16 10:12:16',
+                'created_at' => '2026-03-16 11:12:16',
+                'updated_at' => '2026-03-16 11:12:16',
             ),
             229 => 
             array (
@@ -2316,8 +2316,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kujdesin e shtuar ndaj këmbësorëve',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:12:16',
-                'updated_at' => '2026-03-16 10:12:16',
+                'created_at' => '2026-03-16 11:12:16',
+                'updated_at' => '2026-03-16 11:12:16',
             ),
             230 => 
             array (
@@ -2326,8 +2326,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendndaljen për autobusë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:12:16',
-                'updated_at' => '2026-03-16 10:12:16',
+                'created_at' => '2026-03-16 11:12:16',
+                'updated_at' => '2026-03-16 11:12:16',
             ),
             231 => 
             array (
@@ -2336,8 +2336,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet lëvizja majtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:13:05',
-                'updated_at' => '2026-03-16 10:13:05',
+                'created_at' => '2026-03-16 11:13:05',
+                'updated_at' => '2026-03-16 11:13:05',
             ),
             232 => 
             array (
@@ -2346,8 +2346,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rruga është e lirë, do të vazhdoj lëvizjen pa u ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:13:05',
-                'updated_at' => '2026-03-16 10:13:05',
+                'created_at' => '2026-03-16 11:13:05',
+                'updated_at' => '2026-03-16 11:13:05',
             ),
             233 => 
             array (
@@ -2356,8 +2356,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet lëvizja drejt dhe djathtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:13:05',
-                'updated_at' => '2026-03-16 10:13:05',
+                'created_at' => '2026-03-16 11:13:05',
+                'updated_at' => '2026-03-16 11:13:05',
             ),
             234 => 
             array (
@@ -2366,8 +2366,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet të vazhdoj lëvizjen vetëm drejt',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:03',
-                'updated_at' => '2026-03-16 10:14:03',
+                'created_at' => '2026-03-16 11:14:03',
+                'updated_at' => '2026-03-16 11:14:03',
             ),
             235 => 
             array (
@@ -2376,8 +2376,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet ndërrimi i shiritit majtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:03',
-                'updated_at' => '2026-03-16 10:14:03',
+                'created_at' => '2026-03-16 11:14:03',
+                'updated_at' => '2026-03-16 11:14:03',
             ),
             236 => 
             array (
@@ -2386,8 +2386,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet ndërrimi i shiritit djathtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:03',
-                'updated_at' => '2026-03-16 10:14:03',
+                'created_at' => '2026-03-16 11:14:03',
+                'updated_at' => '2026-03-16 11:14:03',
             ),
             237 => 
             array (
@@ -2396,8 +2396,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të kaloj në shiritin e majtë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:49',
-                'updated_at' => '2026-03-16 10:14:49',
+                'created_at' => '2026-03-16 11:14:49',
+                'updated_at' => '2026-03-16 11:14:49',
             ),
             238 => 
             array (
@@ -2406,8 +2406,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem në vend derisa nuk ka vetura në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:49',
-                'updated_at' => '2026-03-16 10:14:49',
+                'created_at' => '2026-03-16 11:14:49',
+                'updated_at' => '2026-03-16 11:14:49',
             ),
             239 => 
             array (
@@ -2416,8 +2416,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndërrimi i shiritit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:14:49',
-                'updated_at' => '2026-03-16 10:14:49',
+                'created_at' => '2026-03-16 11:14:49',
+                'updated_at' => '2026-03-16 11:14:49',
             ),
             240 => 
             array (
@@ -2426,8 +2426,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përshtatjen e shpejtësisë së lëvizjes pasi këmbësori mund të hyjë papritur në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:16:11',
-                'updated_at' => '2026-03-16 10:16:11',
+                'created_at' => '2026-03-16 11:16:11',
+                'updated_at' => '2026-03-16 11:16:11',
             ),
             241 => 
             array (
@@ -2436,8 +2436,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën ku trafiku zhvillohet në një kah',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:16:11',
-                'updated_at' => '2026-03-16 10:16:11',
+                'created_at' => '2026-03-16 11:16:11',
+                'updated_at' => '2026-03-16 11:16:11',
             ),
             242 => 
             array (
@@ -2446,8 +2446,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet lëvizja drejt',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:16:11',
-                'updated_at' => '2026-03-16 10:16:11',
+                'created_at' => '2026-03-16 11:16:11',
+                'updated_at' => '2026-03-16 11:16:11',
             ),
             243 => 
             array (
@@ -2456,8 +2456,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:17:39',
-                'updated_at' => '2026-03-16 10:17:39',
+                'created_at' => '2026-03-16 11:17:39',
+                'updated_at' => '2026-03-16 11:17:39',
             ),
             244 => 
             array (
@@ -2466,8 +2466,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:17:39',
-                'updated_at' => '2026-03-16 10:17:39',
+                'created_at' => '2026-03-16 11:17:39',
+                'updated_at' => '2026-03-16 11:17:39',
             ),
             245 => 
             array (
@@ -2476,8 +2476,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po, nëse nuk pengohen pjesëmarrësit e tjerë në trafik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:17:39',
-                'updated_at' => '2026-03-16 10:17:39',
+                'created_at' => '2026-03-16 11:17:39',
+                'updated_at' => '2026-03-16 11:17:39',
             ),
             246 => 
             array (
@@ -2486,8 +2486,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vazhdimin e lëvizjes pa u ndalur pasi rruga është e lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:18:34',
-                'updated_at' => '2026-03-16 10:18:34',
+                'created_at' => '2026-03-16 11:18:34',
+                'updated_at' => '2026-03-16 11:18:34',
             ),
             247 => 
             array (
@@ -2496,8 +2496,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të respektoj shenjën “Ndalim kthimi majtas”',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:18:34',
-                'updated_at' => '2026-03-16 10:18:34',
+                'created_at' => '2026-03-16 11:18:34',
+                'updated_at' => '2026-03-16 11:18:34',
             ),
             248 => 
             array (
@@ -2506,8 +2506,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të kthehem majtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:18:34',
-                'updated_at' => '2026-03-16 10:18:34',
+                'created_at' => '2026-03-16 11:18:34',
+                'updated_at' => '2026-03-16 11:18:34',
             ),
             249 => 
             array (
@@ -2516,8 +2516,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Duhet të largoj këmbën nga pedalja e gazit (nuk i jap gaz)',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:19:59',
-                'updated_at' => '2026-03-16 10:19:59',
+                'created_at' => '2026-03-16 11:19:59',
+                'updated_at' => '2026-03-16 11:19:59',
             ),
             250 => 
             array (
@@ -2526,8 +2526,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me shpejtësi të rritur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:19:59',
-                'updated_at' => '2026-03-16 10:19:59',
+                'created_at' => '2026-03-16 11:19:59',
+                'updated_at' => '2026-03-16 11:19:59',
             ),
             251 => 
             array (
@@ -2536,8 +2536,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë pasi rruga është e lirë, vazhdoj lëvzijen duke e respekuar kufzimin maksimal të shpejtësisë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:19:59',
-                'updated_at' => '2026-03-16 10:19:59',
+                'created_at' => '2026-03-16 11:19:59',
+                'updated_at' => '2026-03-16 11:19:59',
             ),
             252 => 
             array (
@@ -2546,8 +2546,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të kthehem djathtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:20:42',
-                'updated_at' => '2026-03-16 10:20:42',
+                'created_at' => '2026-03-16 11:20:42',
+                'updated_at' => '2026-03-16 11:20:42',
             ),
             253 => 
             array (
@@ -2556,8 +2556,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të lëviz drejt',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:20:42',
-                'updated_at' => '2026-03-16 10:20:42',
+                'created_at' => '2026-03-16 11:20:42',
+                'updated_at' => '2026-03-16 11:20:42',
             ),
             254 => 
             array (
@@ -2566,8 +2566,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mund të ndërroj shiritin e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:20:42',
-                'updated_at' => '2026-03-16 10:20:42',
+                'created_at' => '2026-03-16 11:20:42',
+                'updated_at' => '2026-03-16 11:20:42',
             ),
             255 => 
             array (
@@ -2576,8 +2576,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Distancën e sigurisë gjatësore',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:22:24',
-                'updated_at' => '2026-03-16 10:22:24',
+                'created_at' => '2026-03-16 11:22:24',
+                'updated_at' => '2026-03-16 11:22:24',
             ),
             256 => 
             array (
@@ -2586,8 +2586,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Distancën e sigurisë së paku 200 m.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:22:24',
-                'updated_at' => '2026-03-16 10:22:24',
+                'created_at' => '2026-03-16 11:22:24',
+                'updated_at' => '2026-03-16 11:22:24',
             ),
             257 => 
             array (
@@ -2596,8 +2596,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet tejkalimi i kamionit, rruga është e lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:22:24',
-                'updated_at' => '2026-03-16 10:22:24',
+                'created_at' => '2026-03-16 11:22:24',
+                'updated_at' => '2026-03-16 11:22:24',
             ),
             258 => 
             array (
@@ -2606,8 +2606,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Do të përdor shenjën akustike (borinë) për t’ua tërhequr vërjetjen këmbësorëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:23:26',
-                'updated_at' => '2026-03-16 10:23:26',
+                'created_at' => '2026-03-16 11:23:26',
+                'updated_at' => '2026-03-16 11:23:26',
             ),
             259 => 
             array (
@@ -2616,8 +2616,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndalem për t’i dhënë përparësi kalimi këmbësorëve',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:23:26',
-                'updated_at' => '2026-03-16 10:23:26',
+                'created_at' => '2026-03-16 11:23:26',
+                'updated_at' => '2026-03-16 11:23:26',
             ),
             260 => 
             array (
@@ -2626,8 +2626,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen pa u ndalur',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:23:26',
-                'updated_at' => '2026-03-16 10:23:26',
+                'created_at' => '2026-03-16 11:23:26',
+                'updated_at' => '2026-03-16 11:23:26',
             ),
             261 => 
             array (
@@ -2636,8 +2636,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kthesën e dyfishtë ose kthesën e shumëfishtë ku kthesa e parë është në të majtë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:24:26',
-                'updated_at' => '2026-03-16 10:24:26',
+                'created_at' => '2026-03-16 11:24:26',
+                'updated_at' => '2026-03-16 11:24:26',
             ),
             262 => 
             array (
@@ -2646,8 +2646,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesën e rrugës ku ndalohet tejkalimi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:24:26',
-                'updated_at' => '2026-03-16 10:24:26',
+                'created_at' => '2026-03-16 11:24:26',
+                'updated_at' => '2026-03-16 11:24:26',
             ),
             263 => 
             array (
@@ -2656,8 +2656,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shpejtësinë e rekomanduar të lëvizjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:24:26',
-                'updated_at' => '2026-03-16 10:24:26',
+                'created_at' => '2026-03-16 11:24:26',
+                'updated_at' => '2026-03-16 11:24:26',
             ),
             264 => 
             array (
@@ -2666,8 +2666,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendparkimin për automjete',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:04',
-                'updated_at' => '2026-03-16 10:33:04',
+                'created_at' => '2026-03-16 11:33:04',
+                'updated_at' => '2026-03-16 11:33:04',
             ),
             265 => 
             array (
@@ -2676,8 +2676,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fushën sportive ku luajnë fëmijët',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:04',
-                'updated_at' => '2026-03-16 10:33:04',
+                'created_at' => '2026-03-16 11:33:04',
+                'updated_at' => '2026-03-16 11:33:04',
             ),
             266 => 
             array (
@@ -2686,8 +2686,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesën e rrugës ku mund të luajnë fëmijët',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:04',
-                'updated_at' => '2026-03-16 10:33:04',
+                'created_at' => '2026-03-16 11:33:04',
+                'updated_at' => '2026-03-16 11:33:04',
             ),
             267 => 
             array (
@@ -2696,8 +2696,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet lëvizja drejt ose djathtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:46',
-                'updated_at' => '2026-03-16 10:33:46',
+                'created_at' => '2026-03-16 11:33:46',
+                'updated_at' => '2026-03-16 11:33:46',
             ),
             268 => 
             array (
@@ -2706,8 +2706,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Më lejohet ndërrimi i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:46',
-                'updated_at' => '2026-03-16 10:33:46',
+                'created_at' => '2026-03-16 11:33:46',
+                'updated_at' => '2026-03-16 11:33:46',
             ),
             269 => 
             array (
@@ -2716,8 +2716,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para kryqëzimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:33:46',
-                'updated_at' => '2026-03-16 10:33:46',
+                'created_at' => '2026-03-16 11:33:46',
+                'updated_at' => '2026-03-16 11:33:46',
             ),
             270 => 
             array (
@@ -2726,8 +2726,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para kryqëzimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:34:40',
-                'updated_at' => '2026-03-16 10:34:40',
+                'created_at' => '2026-03-16 11:34:40',
+                'updated_at' => '2026-03-16 11:34:40',
             ),
             271 => 
             array (
@@ -2736,8 +2736,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen drejt ose djathtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:34:40',
-                'updated_at' => '2026-03-16 10:34:40',
+                'created_at' => '2026-03-16 11:34:40',
+                'updated_at' => '2026-03-16 11:34:40',
             ),
             272 => 
             array (
@@ -2746,8 +2746,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjen vetëm majtas',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:34:40',
-                'updated_at' => '2026-03-16 10:34:40',
+                'created_at' => '2026-03-16 11:34:40',
+                'updated_at' => '2026-03-16 11:34:40',
             ),
             273 => 
             array (
@@ -2756,8 +2756,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesën e rrugës ku ndalohet tejkalimi',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:35:54',
-                'updated_at' => '2026-03-16 10:35:54',
+                'created_at' => '2026-03-16 11:35:54',
+                'updated_at' => '2026-03-16 11:35:54',
             ),
             274 => 
             array (
@@ -2766,8 +2766,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Kontakti i gomave me rrugën zvogëlohet dukshëm (rrëshqitëshme).',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:35:54',
-                'updated_at' => '2026-03-16 10:35:54',
+                'created_at' => '2026-03-16 11:35:54',
+                'updated_at' => '2026-03-16 11:35:54',
             ),
             275 => 
             array (
@@ -2776,8 +2776,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndërrimi i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:35:54',
-                'updated_at' => '2026-03-16 10:35:54',
+                'created_at' => '2026-03-16 11:35:54',
+                'updated_at' => '2026-03-16 11:35:54',
             ),
             276 => 
             array (
@@ -2786,8 +2786,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të frenoj',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:37:43',
-                'updated_at' => '2026-03-16 10:37:43',
+                'created_at' => '2026-03-16 11:37:43',
+                'updated_at' => '2026-03-16 11:37:43',
             ),
             277 => 
             array (
@@ -2796,8 +2796,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Afërsinë e vendit ku mund të has fëmijë në rrugë dhe do të vazhdoj ngasjen me kujdes të shtuar',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:37:43',
-                'updated_at' => '2026-03-16 10:37:43',
+                'created_at' => '2026-03-16 11:37:43',
+                'updated_at' => '2026-03-16 11:37:43',
             ),
             278 => 
             array (
@@ -2806,8 +2806,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem te shenja e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:37:43',
-                'updated_at' => '2026-03-16 10:37:43',
+                'created_at' => '2026-03-16 11:37:43',
+                'updated_at' => '2026-03-16 11:37:43',
             ),
             279 => 
             array (
@@ -2816,8 +2816,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Drejt, nëse nuk i pengon pjesëmarrësit tjerë në trafik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:38:34',
-                'updated_at' => '2026-03-16 10:38:34',
+                'created_at' => '2026-03-16 11:38:34',
+                'updated_at' => '2026-03-16 11:38:34',
             ),
             280 => 
             array (
@@ -2826,8 +2826,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Drejt, nëse i ndez të gjithë treguesit e drejtimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:38:34',
-                'updated_at' => '2026-03-16 10:38:34',
+                'created_at' => '2026-03-16 11:38:34',
+                'updated_at' => '2026-03-16 11:38:34',
             ),
             281 => 
             array (
@@ -2836,8 +2836,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo, drejt',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:38:34',
-                'updated_at' => '2026-03-16 10:38:34',
+                'created_at' => '2026-03-16 11:38:34',
+                'updated_at' => '2026-03-16 11:38:34',
             ),
             282 => 
             array (
@@ -2846,8 +2846,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të frenoj',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:39:31',
-                'updated_at' => '2026-03-16 10:39:31',
+                'created_at' => '2026-03-16 11:39:31',
+                'updated_at' => '2026-03-16 11:39:31',
             ),
             283 => 
             array (
@@ -2856,8 +2856,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj me shpejtësi të njëjtë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:39:31',
-                'updated_at' => '2026-03-16 10:39:31',
+                'created_at' => '2026-03-16 11:39:31',
+                'updated_at' => '2026-03-16 11:39:31',
             ),
             284 => 
             array (
@@ -2866,8 +2866,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk ndërrmarr asgjë pasi rruga është e lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:39:31',
-                'updated_at' => '2026-03-16 10:39:31',
+                'created_at' => '2026-03-16 11:39:31',
+                'updated_at' => '2026-03-16 11:39:31',
             ),
             285 => 
             array (
@@ -2876,8 +2876,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do t’i jap përparësi kalimi të gjitha mjeteve të cilat lëvizin në rrugë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:40:53',
-                'updated_at' => '2026-03-16 10:40:53',
+                'created_at' => '2026-03-16 11:40:53',
+                'updated_at' => '2026-03-16 11:40:53',
             ),
             286 => 
             array (
@@ -2886,8 +2886,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kam përparësi kalimi ndaj mjeteve të cilat lëvizin në rrugë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:40:54',
-                'updated_at' => '2026-03-16 10:40:54',
+                'created_at' => '2026-03-16 11:40:54',
+                'updated_at' => '2026-03-16 11:40:54',
             ),
             287 => 
             array (
@@ -2896,8 +2896,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të hyj në rrugë pa sinjalizuar me tregues të drejtimit, pasi rruga është e lirë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:40:54',
-                'updated_at' => '2026-03-16 10:40:54',
+                'created_at' => '2026-03-16 11:40:54',
+                'updated_at' => '2026-03-16 11:40:54',
             ),
             288 => 
             array (
@@ -2906,8 +2906,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të lëviz me shpejtësi maksimale që zhvillon vetura',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:43:18',
-                'updated_at' => '2026-03-16 10:43:18',
+                'created_at' => '2026-03-16 11:43:18',
+                'updated_at' => '2026-03-16 11:43:18',
             ),
             289 => 
             array (
@@ -2916,8 +2916,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet lëvizja mbi binar të tramvajit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:43:18',
-                'updated_at' => '2026-03-16 10:43:18',
+                'created_at' => '2026-03-16 11:43:18',
+                'updated_at' => '2026-03-16 11:43:18',
             ),
             290 => 
             array (
@@ -2926,8 +2926,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet lëvizja mbi binar të tramvajit',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:43:18',
-                'updated_at' => '2026-03-16 10:43:18',
+                'created_at' => '2026-03-16 11:43:18',
+                'updated_at' => '2026-03-16 11:43:18',
             ),
             291 => 
             array (
@@ -2936,8 +2936,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj ngasjen vetëm me dritat e pozicionit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:45:41',
-                'updated_at' => '2026-03-16 10:45:41',
+                'created_at' => '2026-03-16 11:45:41',
+                'updated_at' => '2026-03-16 11:45:41',
             ),
             292 => 
             array (
@@ -2946,8 +2946,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mund të mos vërehen me kohë këmbësorët dhe mjetet që nuk kanë ndriçim vetanak',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:45:41',
-                'updated_at' => '2026-03-16 10:45:41',
+                'created_at' => '2026-03-16 11:45:41',
+                'updated_at' => '2026-03-16 11:45:41',
             ),
             293 => 
             array (
@@ -2956,8 +2956,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të përdor dritat e gjata',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:45:41',
-                'updated_at' => '2026-03-16 10:45:41',
+                'created_at' => '2026-03-16 11:45:41',
+                'updated_at' => '2026-03-16 11:45:41',
             ),
             294 => 
             array (
@@ -2966,8 +2966,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalohet ndërrimi i shiritit të trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:46:52',
-                'updated_at' => '2026-03-16 10:46:52',
+                'created_at' => '2026-03-16 11:46:52',
+                'updated_at' => '2026-03-16 11:46:52',
             ),
             295 => 
             array (
@@ -2976,8 +2976,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të zvogëloj shpejtësinë dhe do të jem i gatshëm për frenim',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:46:52',
-                'updated_at' => '2026-03-16 10:46:52',
+                'created_at' => '2026-03-16 11:46:52',
+                'updated_at' => '2026-03-16 11:46:52',
             ),
             296 => 
             array (
@@ -2986,8 +2986,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem në vend derisa të kalojnë fëmijët',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:46:52',
-                'updated_at' => '2026-03-16 10:46:52',
+                'created_at' => '2026-03-16 11:46:52',
+                'updated_at' => '2026-03-16 11:46:52',
             ),
             297 => 
             array (
@@ -2996,8 +2996,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimi i pajisjeve dimërore',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:47:42',
-                'updated_at' => '2026-03-16 10:47:42',
+                'created_at' => '2026-03-16 11:47:42',
+                'updated_at' => '2026-03-16 11:47:42',
             ),
             298 => 
             array (
@@ -3006,8 +3006,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Zgjatja e kohës së reagimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:47:42',
-                'updated_at' => '2026-03-16 10:47:42',
+                'created_at' => '2026-03-16 11:47:42',
+                'updated_at' => '2026-03-16 11:47:42',
             ),
             299 => 
             array (
@@ -3016,8 +3016,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mbulimi me borë i shenjave të trafikut',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:47:42',
-                'updated_at' => '2026-03-16 10:47:42',
+                'created_at' => '2026-03-16 11:47:42',
+                'updated_at' => '2026-03-16 11:47:42',
             ),
             300 => 
             array (
@@ -3026,8 +3026,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Respektimin e shenjës së trafikut për kthim djathtas',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:48:31',
-                'updated_at' => '2026-03-16 10:48:31',
+                'created_at' => '2026-03-16 11:48:31',
+                'updated_at' => '2026-03-16 11:48:31',
             ),
             301 => 
             array (
@@ -3036,8 +3036,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para kryqëzimit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:48:31',
-                'updated_at' => '2026-03-16 10:48:31',
+                'created_at' => '2026-03-16 11:48:31',
+                'updated_at' => '2026-03-16 11:48:31',
             ),
             302 => 
             array (
@@ -3046,8 +3046,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të frenoj vrullshëm',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:48:31',
-                'updated_at' => '2026-03-16 10:48:31',
+                'created_at' => '2026-03-16 11:48:31',
+                'updated_at' => '2026-03-16 11:48:31',
             ),
             303 => 
             array (
@@ -3056,8 +3056,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Qafë mali',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:49:40',
-                'updated_at' => '2026-03-16 10:49:40',
+                'created_at' => '2026-03-16 11:49:40',
+                'updated_at' => '2026-03-16 11:49:40',
             ),
             304 => 
             array (
@@ -3066,8 +3066,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në afërsi të rrethrrotullimit, në përshtatje të shpejtësisë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:49:40',
-                'updated_at' => '2026-03-16 10:49:40',
+                'created_at' => '2026-03-16 11:49:40',
+                'updated_at' => '2026-03-16 11:49:40',
             ),
             305 => 
             array (
@@ -3076,8 +3076,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shpejtësinë minimale të lëvizjës',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 10:49:40',
-                'updated_at' => '2026-03-16 10:49:40',
+                'created_at' => '2026-03-16 11:49:40',
+                'updated_at' => '2026-03-16 11:49:40',
             ),
             306 => 
             array (
@@ -3086,8 +3086,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:57:05',
-                'updated_at' => '2026-03-16 11:57:05',
+                'created_at' => '2026-03-16 12:57:05',
+                'updated_at' => '2026-03-16 12:57:05',
             ),
             307 => 
             array (
@@ -3096,8 +3096,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:57:05',
-                'updated_at' => '2026-03-16 11:57:05',
+                'created_at' => '2026-03-16 12:57:05',
+                'updated_at' => '2026-03-16 12:57:05',
             ),
             308 => 
             array (
@@ -3106,8 +3106,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:57:55',
-                'updated_at' => '2026-03-16 11:57:55',
+                'created_at' => '2026-03-16 12:57:55',
+                'updated_at' => '2026-03-16 12:57:55',
             ),
             309 => 
             array (
@@ -3116,8 +3116,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:57:55',
-                'updated_at' => '2026-03-16 11:57:55',
+                'created_at' => '2026-03-16 12:57:55',
+                'updated_at' => '2026-03-16 12:57:55',
             ),
             310 => 
             array (
@@ -3126,8 +3126,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:59:19',
-                'updated_at' => '2026-03-16 11:59:33',
+                'created_at' => '2026-03-16 12:59:19',
+                'updated_at' => '2026-03-16 12:59:33',
             ),
             311 => 
             array (
@@ -3136,8 +3136,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 11:59:19',
-                'updated_at' => '2026-03-16 11:59:33',
+                'created_at' => '2026-03-16 12:59:19',
+                'updated_at' => '2026-03-16 12:59:33',
             ),
             312 => 
             array (
@@ -3146,8 +3146,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:00:35',
-                'updated_at' => '2026-03-16 12:00:35',
+                'created_at' => '2026-03-16 13:00:35',
+                'updated_at' => '2026-03-16 13:00:35',
             ),
             313 => 
             array (
@@ -3156,8 +3156,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:00:35',
-                'updated_at' => '2026-03-16 12:00:35',
+                'created_at' => '2026-03-16 13:00:35',
+                'updated_at' => '2026-03-16 13:00:35',
             ),
             314 => 
             array (
@@ -3166,8 +3166,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:01:56',
-                'updated_at' => '2026-03-16 12:24:30',
+                'created_at' => '2026-03-16 13:01:56',
+                'updated_at' => '2026-03-16 13:24:30',
             ),
             315 => 
             array (
@@ -3176,8 +3176,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:01:56',
-                'updated_at' => '2026-03-16 12:24:30',
+                'created_at' => '2026-03-16 13:01:56',
+                'updated_at' => '2026-03-16 13:24:30',
             ),
             316 => 
             array (
@@ -3186,8 +3186,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:02:43',
-                'updated_at' => '2026-03-16 12:26:44',
+                'created_at' => '2026-03-16 13:02:43',
+                'updated_at' => '2026-03-16 13:26:44',
             ),
             317 => 
             array (
@@ -3196,8 +3196,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:02:43',
-                'updated_at' => '2026-03-16 12:26:44',
+                'created_at' => '2026-03-16 13:02:43',
+                'updated_at' => '2026-03-16 13:26:44',
             ),
             318 => 
             array (
@@ -3206,8 +3206,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:03:28',
-                'updated_at' => '2026-03-16 12:25:13',
+                'created_at' => '2026-03-16 13:03:28',
+                'updated_at' => '2026-03-16 13:25:13',
             ),
             319 => 
             array (
@@ -3216,8 +3216,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:03:28',
-                'updated_at' => '2026-03-16 12:25:13',
+                'created_at' => '2026-03-16 13:03:28',
+                'updated_at' => '2026-03-16 13:25:13',
             ),
             320 => 
             array (
@@ -3226,8 +3226,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:04:17',
-                'updated_at' => '2026-03-16 12:25:46',
+                'created_at' => '2026-03-16 13:04:17',
+                'updated_at' => '2026-03-16 13:25:46',
             ),
             321 => 
             array (
@@ -3236,8 +3236,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 12:04:17',
-                'updated_at' => '2026-03-16 12:25:46',
+                'created_at' => '2026-03-16 13:04:17',
+                'updated_at' => '2026-03-16 13:25:46',
             ),
             322 => 
             array (
@@ -3246,8 +3246,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:15:11',
-                'updated_at' => '2026-03-16 13:15:11',
+                'created_at' => '2026-03-16 14:15:11',
+                'updated_at' => '2026-03-16 14:15:11',
             ),
             323 => 
             array (
@@ -3256,8 +3256,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:15:11',
-                'updated_at' => '2026-03-16 13:15:11',
+                'created_at' => '2026-03-16 14:15:11',
+                'updated_at' => '2026-03-16 14:15:11',
             ),
             324 => 
             array (
@@ -3266,8 +3266,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:16:21',
-                'updated_at' => '2026-03-16 13:16:21',
+                'created_at' => '2026-03-16 14:16:21',
+                'updated_at' => '2026-03-16 14:16:21',
             ),
             325 => 
             array (
@@ -3276,8 +3276,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:16:21',
-                'updated_at' => '2026-03-16 13:16:21',
+                'created_at' => '2026-03-16 14:16:21',
+                'updated_at' => '2026-03-16 14:16:21',
             ),
             326 => 
             array (
@@ -3286,8 +3286,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:17:04',
-                'updated_at' => '2026-03-16 13:17:04',
+                'created_at' => '2026-03-16 14:17:04',
+                'updated_at' => '2026-03-16 14:17:04',
             ),
             327 => 
             array (
@@ -3296,8 +3296,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:17:04',
-                'updated_at' => '2026-03-16 13:17:04',
+                'created_at' => '2026-03-16 14:17:04',
+                'updated_at' => '2026-03-16 14:17:04',
             ),
             328 => 
             array (
@@ -3306,8 +3306,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:18:02',
-                'updated_at' => '2026-03-16 13:18:02',
+                'created_at' => '2026-03-16 14:18:02',
+                'updated_at' => '2026-03-16 14:18:02',
             ),
             329 => 
             array (
@@ -3316,8 +3316,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:18:02',
-                'updated_at' => '2026-03-16 13:18:02',
+                'created_at' => '2026-03-16 14:18:02',
+                'updated_at' => '2026-03-16 14:18:02',
             ),
             330 => 
             array (
@@ -3326,8 +3326,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:18:49',
-                'updated_at' => '2026-03-16 13:18:49',
+                'created_at' => '2026-03-16 14:18:49',
+                'updated_at' => '2026-03-16 14:18:49',
             ),
             331 => 
             array (
@@ -3336,8 +3336,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:18:49',
-                'updated_at' => '2026-03-16 13:18:49',
+                'created_at' => '2026-03-16 14:18:49',
+                'updated_at' => '2026-03-16 14:18:49',
             ),
             332 => 
             array (
@@ -3346,8 +3346,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:19:54',
-                'updated_at' => '2026-03-16 13:19:54',
+                'created_at' => '2026-03-16 14:19:54',
+                'updated_at' => '2026-03-16 14:19:54',
             ),
             333 => 
             array (
@@ -3356,8 +3356,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:19:54',
-                'updated_at' => '2026-03-16 13:19:54',
+                'created_at' => '2026-03-16 14:19:54',
+                'updated_at' => '2026-03-16 14:19:54',
             ),
             334 => 
             array (
@@ -3366,8 +3366,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:20:38',
-                'updated_at' => '2026-03-16 13:20:38',
+                'created_at' => '2026-03-16 14:20:38',
+                'updated_at' => '2026-03-16 14:20:38',
             ),
             335 => 
             array (
@@ -3376,8 +3376,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:20:38',
-                'updated_at' => '2026-03-16 13:20:38',
+                'created_at' => '2026-03-16 14:20:38',
+                'updated_at' => '2026-03-16 14:20:38',
             ),
             336 => 
             array (
@@ -3386,8 +3386,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:21:18',
-                'updated_at' => '2026-03-16 13:21:18',
+                'created_at' => '2026-03-16 14:21:18',
+                'updated_at' => '2026-03-16 14:21:18',
             ),
             337 => 
             array (
@@ -3396,8 +3396,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:21:18',
-                'updated_at' => '2026-03-16 13:21:18',
+                'created_at' => '2026-03-16 14:21:18',
+                'updated_at' => '2026-03-16 14:21:18',
             ),
             338 => 
             array (
@@ -3406,8 +3406,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:22:05',
-                'updated_at' => '2026-03-16 13:22:05',
+                'created_at' => '2026-03-16 14:22:05',
+                'updated_at' => '2026-03-16 14:22:05',
             ),
             339 => 
             array (
@@ -3416,8 +3416,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:22:05',
-                'updated_at' => '2026-03-16 13:22:05',
+                'created_at' => '2026-03-16 14:22:05',
+                'updated_at' => '2026-03-16 14:22:05',
             ),
             340 => 
             array (
@@ -3426,8 +3426,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:22:50',
-                'updated_at' => '2026-03-16 13:22:50',
+                'created_at' => '2026-03-16 14:22:50',
+                'updated_at' => '2026-03-16 14:22:50',
             ),
             341 => 
             array (
@@ -3436,8 +3436,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasakë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:22:50',
-                'updated_at' => '2026-03-16 13:22:50',
+                'created_at' => '2026-03-16 14:22:50',
+                'updated_at' => '2026-03-16 14:22:50',
             ),
             342 => 
             array (
@@ -3446,8 +3446,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:23:19',
-                'updated_at' => '2026-03-16 13:27:15',
+                'created_at' => '2026-03-16 14:23:19',
+                'updated_at' => '2026-03-16 14:27:15',
             ),
             343 => 
             array (
@@ -3456,8 +3456,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:23:19',
-                'updated_at' => '2026-03-16 13:27:15',
+                'created_at' => '2026-03-16 14:23:19',
+                'updated_at' => '2026-03-16 14:27:15',
             ),
             344 => 
             array (
@@ -3466,8 +3466,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:24:07',
-                'updated_at' => '2026-03-16 13:27:34',
+                'created_at' => '2026-03-16 14:24:07',
+                'updated_at' => '2026-03-16 14:27:34',
             ),
             345 => 
             array (
@@ -3476,8 +3476,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:24:07',
-                'updated_at' => '2026-03-16 13:27:34',
+                'created_at' => '2026-03-16 14:24:07',
+                'updated_at' => '2026-03-16 14:27:34',
             ),
             346 => 
             array (
@@ -3486,8 +3486,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:24:48',
-                'updated_at' => '2026-03-16 13:24:48',
+                'created_at' => '2026-03-16 14:24:48',
+                'updated_at' => '2026-03-16 14:24:48',
             ),
             347 => 
             array (
@@ -3496,8 +3496,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:24:48',
-                'updated_at' => '2026-03-16 13:24:48',
+                'created_at' => '2026-03-16 14:24:48',
+                'updated_at' => '2026-03-16 14:24:48',
             ),
             348 => 
             array (
@@ -3506,8 +3506,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:25:26',
-                'updated_at' => '2026-03-16 13:25:26',
+                'created_at' => '2026-03-16 14:25:26',
+                'updated_at' => '2026-03-16 14:25:26',
             ),
             349 => 
             array (
@@ -3516,8 +3516,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:25:26',
-                'updated_at' => '2026-03-16 13:25:26',
+                'created_at' => '2026-03-16 14:25:26',
+                'updated_at' => '2026-03-16 14:25:26',
             ),
             350 => 
             array (
@@ -3526,8 +3526,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:26:04',
-                'updated_at' => '2026-03-16 13:26:04',
+                'created_at' => '2026-03-16 14:26:04',
+                'updated_at' => '2026-03-16 14:26:04',
             ),
             351 => 
             array (
@@ -3536,8 +3536,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:26:04',
-                'updated_at' => '2026-03-16 13:26:04',
+                'created_at' => '2026-03-16 14:26:04',
+                'updated_at' => '2026-03-16 14:26:04',
             ),
             352 => 
             array (
@@ -3546,8 +3546,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:26:44',
-                'updated_at' => '2026-03-16 13:26:44',
+                'created_at' => '2026-03-16 14:26:44',
+                'updated_at' => '2026-03-16 14:26:44',
             ),
             353 => 
             array (
@@ -3556,8 +3556,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:26:44',
-                'updated_at' => '2026-03-16 13:26:44',
+                'created_at' => '2026-03-16 14:26:44',
+                'updated_at' => '2026-03-16 14:26:44',
             ),
             354 => 
             array (
@@ -3566,8 +3566,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:29:51',
-                'updated_at' => '2026-03-16 13:29:51',
+                'created_at' => '2026-03-16 14:29:51',
+                'updated_at' => '2026-03-16 14:29:51',
             ),
             355 => 
             array (
@@ -3576,8 +3576,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:29:51',
-                'updated_at' => '2026-03-16 13:29:51',
+                'created_at' => '2026-03-16 14:29:51',
+                'updated_at' => '2026-03-16 14:29:51',
             ),
             356 => 
             array (
@@ -3586,8 +3586,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:30:48',
-                'updated_at' => '2026-03-16 13:30:48',
+                'created_at' => '2026-03-16 14:30:48',
+                'updated_at' => '2026-03-16 14:30:48',
             ),
             357 => 
             array (
@@ -3596,8 +3596,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:30:48',
-                'updated_at' => '2026-03-16 13:30:48',
+                'created_at' => '2026-03-16 14:30:48',
+                'updated_at' => '2026-03-16 14:30:48',
             ),
             358 => 
             array (
@@ -3606,8 +3606,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:31:44',
-                'updated_at' => '2026-03-16 13:31:44',
+                'created_at' => '2026-03-16 14:31:44',
+                'updated_at' => '2026-03-16 14:31:44',
             ),
             359 => 
             array (
@@ -3616,8 +3616,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:31:44',
-                'updated_at' => '2026-03-16 13:31:44',
+                'created_at' => '2026-03-16 14:31:44',
+                'updated_at' => '2026-03-16 14:31:44',
             ),
             360 => 
             array (
@@ -3626,8 +3626,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:32:27',
-                'updated_at' => '2026-03-16 13:32:27',
+                'created_at' => '2026-03-16 14:32:27',
+                'updated_at' => '2026-03-16 14:32:27',
             ),
             361 => 
             array (
@@ -3636,8 +3636,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:32:27',
-                'updated_at' => '2026-03-16 13:32:27',
+                'created_at' => '2026-03-16 14:32:27',
+                'updated_at' => '2026-03-16 14:32:27',
             ),
             362 => 
             array (
@@ -3646,8 +3646,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:33:39',
-                'updated_at' => '2026-03-16 13:33:39',
+                'created_at' => '2026-03-16 14:33:39',
+                'updated_at' => '2026-03-16 14:33:39',
             ),
             363 => 
             array (
@@ -3656,8 +3656,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:33:39',
-                'updated_at' => '2026-03-16 13:33:39',
+                'created_at' => '2026-03-16 14:33:39',
+                'updated_at' => '2026-03-16 14:33:39',
             ),
             364 => 
             array (
@@ -3666,8 +3666,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:34:43',
-                'updated_at' => '2026-03-16 13:35:58',
+                'created_at' => '2026-03-16 14:34:43',
+                'updated_at' => '2026-03-16 14:35:58',
             ),
             365 => 
             array (
@@ -3676,8 +3676,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:34:43',
-                'updated_at' => '2026-03-16 13:35:58',
+                'created_at' => '2026-03-16 14:34:43',
+                'updated_at' => '2026-03-16 14:35:58',
             ),
             366 => 
             array (
@@ -3686,8 +3686,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:37:16',
-                'updated_at' => '2026-03-16 13:37:16',
+                'created_at' => '2026-03-16 14:37:16',
+                'updated_at' => '2026-03-16 14:37:16',
             ),
             367 => 
             array (
@@ -3696,8 +3696,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:37:16',
-                'updated_at' => '2026-03-16 13:37:16',
+                'created_at' => '2026-03-16 14:37:16',
+                'updated_at' => '2026-03-16 14:37:16',
             ),
             368 => 
             array (
@@ -3706,8 +3706,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:37:55',
-                'updated_at' => '2026-03-16 13:37:55',
+                'created_at' => '2026-03-16 14:37:55',
+                'updated_at' => '2026-03-16 14:37:55',
             ),
             369 => 
             array (
@@ -3716,8 +3716,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:37:55',
-                'updated_at' => '2026-03-16 13:37:55',
+                'created_at' => '2026-03-16 14:37:55',
+                'updated_at' => '2026-03-16 14:37:55',
             ),
             370 => 
             array (
@@ -3726,8 +3726,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:38:49',
-                'updated_at' => '2026-03-16 13:38:49',
+                'created_at' => '2026-03-16 14:38:49',
+                'updated_at' => '2026-03-16 14:38:49',
             ),
             371 => 
             array (
@@ -3736,8 +3736,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:38:49',
-                'updated_at' => '2026-03-16 13:38:49',
+                'created_at' => '2026-03-16 14:38:49',
+                'updated_at' => '2026-03-16 14:38:49',
             ),
             372 => 
             array (
@@ -3746,8 +3746,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:39:55',
-                'updated_at' => '2026-03-16 13:39:55',
+                'created_at' => '2026-03-16 14:39:55',
+                'updated_at' => '2026-03-16 14:39:55',
             ),
             373 => 
             array (
@@ -3756,8 +3756,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:39:55',
-                'updated_at' => '2026-03-16 13:39:55',
+                'created_at' => '2026-03-16 14:39:55',
+                'updated_at' => '2026-03-16 14:39:55',
             ),
             374 => 
             array (
@@ -3766,8 +3766,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:41:27',
-                'updated_at' => '2026-03-16 13:41:27',
+                'created_at' => '2026-03-16 14:41:27',
+                'updated_at' => '2026-03-16 14:41:27',
             ),
             375 => 
             array (
@@ -3776,8 +3776,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:41:27',
-                'updated_at' => '2026-03-16 13:41:27',
+                'created_at' => '2026-03-16 14:41:27',
+                'updated_at' => '2026-03-16 14:41:27',
             ),
             376 => 
             array (
@@ -3786,8 +3786,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:42:04',
-                'updated_at' => '2026-03-16 13:42:04',
+                'created_at' => '2026-03-16 14:42:04',
+                'updated_at' => '2026-03-16 14:42:04',
             ),
             377 => 
             array (
@@ -3796,8 +3796,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:42:04',
-                'updated_at' => '2026-03-16 13:42:04',
+                'created_at' => '2026-03-16 14:42:04',
+                'updated_at' => '2026-03-16 14:42:04',
             ),
             378 => 
             array (
@@ -3806,8 +3806,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:42:35',
-                'updated_at' => '2026-03-16 13:43:46',
+                'created_at' => '2026-03-16 14:42:35',
+                'updated_at' => '2026-03-16 14:43:46',
             ),
             379 => 
             array (
@@ -3816,8 +3816,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:42:35',
-                'updated_at' => '2026-03-16 13:43:46',
+                'created_at' => '2026-03-16 14:42:35',
+                'updated_at' => '2026-03-16 14:43:46',
             ),
             380 => 
             array (
@@ -3826,8 +3826,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:43:23',
-                'updated_at' => '2026-03-16 13:43:23',
+                'created_at' => '2026-03-16 14:43:23',
+                'updated_at' => '2026-03-16 14:43:23',
             ),
             381 => 
             array (
@@ -3836,8 +3836,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:43:23',
-                'updated_at' => '2026-03-16 13:43:23',
+                'created_at' => '2026-03-16 14:43:23',
+                'updated_at' => '2026-03-16 14:43:23',
             ),
             382 => 
             array (
@@ -3846,8 +3846,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:44:33',
-                'updated_at' => '2026-03-16 13:44:33',
+                'created_at' => '2026-03-16 14:44:33',
+                'updated_at' => '2026-03-16 14:44:33',
             ),
             383 => 
             array (
@@ -3856,8 +3856,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:44:33',
-                'updated_at' => '2026-03-16 13:44:33',
+                'created_at' => '2026-03-16 14:44:33',
+                'updated_at' => '2026-03-16 14:44:33',
             ),
             384 => 
             array (
@@ -3866,8 +3866,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:45:18',
-                'updated_at' => '2026-03-16 13:45:18',
+                'created_at' => '2026-03-16 14:45:18',
+                'updated_at' => '2026-03-16 14:45:18',
             ),
             385 => 
             array (
@@ -3876,8 +3876,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:45:18',
-                'updated_at' => '2026-03-16 13:45:18',
+                'created_at' => '2026-03-16 14:45:18',
+                'updated_at' => '2026-03-16 14:45:18',
             ),
             386 => 
             array (
@@ -3886,8 +3886,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:46:10',
-                'updated_at' => '2026-03-16 13:46:24',
+                'created_at' => '2026-03-16 14:46:10',
+                'updated_at' => '2026-03-16 14:46:24',
             ),
             387 => 
             array (
@@ -3896,8 +3896,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:46:10',
-                'updated_at' => '2026-03-16 13:46:24',
+                'created_at' => '2026-03-16 14:46:10',
+                'updated_at' => '2026-03-16 14:46:24',
             ),
             388 => 
             array (
@@ -3906,8 +3906,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:47:08',
-                'updated_at' => '2026-03-16 13:47:08',
+                'created_at' => '2026-03-16 14:47:08',
+                'updated_at' => '2026-03-16 14:47:08',
             ),
             389 => 
             array (
@@ -3916,8 +3916,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-16 13:47:08',
-                'updated_at' => '2026-03-16 13:47:08',
+                'created_at' => '2026-03-16 14:47:08',
+                'updated_at' => '2026-03-16 14:47:08',
             ),
             390 => 
             array (
@@ -3926,8 +3926,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/UVEn0ci4gtenftQXyW0qAlsN9fLgLlASpqZf945P.png',
-                'created_at' => '2026-03-17 09:27:52',
-                'updated_at' => '2026-03-17 09:27:52',
+                'created_at' => '2026-03-17 10:27:52',
+                'updated_at' => '2026-03-17 10:27:52',
             ),
             391 => 
             array (
@@ -3936,8 +3936,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/RKOjkpob9Vc6j0HjW4Q5VlSxssHdQTTp2dFxIkdf.png',
-                'created_at' => '2026-03-17 09:27:52',
-                'updated_at' => '2026-03-17 09:27:52',
+                'created_at' => '2026-03-17 10:27:52',
+                'updated_at' => '2026-03-17 10:27:52',
             ),
             392 => 
             array (
@@ -3946,8 +3946,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/by8LhBTHLOXC6u9FeaOJw3SWmxJWiLnZtQB1TqF4.png',
-                'created_at' => '2026-03-17 09:27:52',
-                'updated_at' => '2026-03-17 09:27:52',
+                'created_at' => '2026-03-17 10:27:52',
+                'updated_at' => '2026-03-17 10:27:52',
             ),
             393 => 
             array (
@@ -3956,8 +3956,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 1,
                 'image' => 'answers/Wm9knbl6eYWy1pF3BI3O3W0C2S355eH5gWziePwP.png',
-                'created_at' => '2026-03-17 09:36:43',
-                'updated_at' => '2026-03-17 09:36:43',
+                'created_at' => '2026-03-17 10:36:43',
+                'updated_at' => '2026-03-17 10:36:43',
             ),
             394 => 
             array (
@@ -3966,8 +3966,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/B9bXMUo0wHL0GrntuEpxKb8PQGcg88RLXHjwOmfk.png',
-                'created_at' => '2026-03-17 09:36:43',
-                'updated_at' => '2026-03-17 09:36:43',
+                'created_at' => '2026-03-17 10:36:43',
+                'updated_at' => '2026-03-17 10:36:43',
             ),
             395 => 
             array (
@@ -3976,8 +3976,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/vMSfhhwCEA3l9Gx6NvC2JewGsxcC9yKlOZlQLb70.png',
-                'created_at' => '2026-03-17 09:36:43',
-                'updated_at' => '2026-03-17 09:36:43',
+                'created_at' => '2026-03-17 10:36:43',
+                'updated_at' => '2026-03-17 10:36:43',
             ),
             396 => 
             array (
@@ -3986,8 +3986,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 1,
                 'image' => 'answers/0az10JCuaDY3srhtyQEeXXT7EkL4AGlMgNlGSJHu.png',
-                'created_at' => '2026-03-17 09:51:53',
-                'updated_at' => '2026-03-17 09:52:52',
+                'created_at' => '2026-03-17 10:51:53',
+                'updated_at' => '2026-03-17 10:52:52',
             ),
             397 => 
             array (
@@ -3996,8 +3996,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/0j6PkWacJHMUzD3QnnF37zfitCRAqEeaNouFsLZe.png',
-                'created_at' => '2026-03-17 09:51:53',
-                'updated_at' => '2026-03-17 09:52:52',
+                'created_at' => '2026-03-17 10:51:53',
+                'updated_at' => '2026-03-17 10:52:52',
             ),
             398 => 
             array (
@@ -4006,8 +4006,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/eAWni3xRPPfYB81OJYznUu4LKFhn8Dm7rdNVUXBh.png',
-                'created_at' => '2026-03-17 09:51:53',
-                'updated_at' => '2026-03-17 09:52:52',
+                'created_at' => '2026-03-17 10:51:53',
+                'updated_at' => '2026-03-17 10:52:52',
             ),
             399 => 
             array (
@@ -4016,8 +4016,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/Bmb9gxKrutqxoAoXaWVL2XAmhAyQeG49IJpOk0MD.png',
-                'created_at' => '2026-03-17 09:58:00',
-                'updated_at' => '2026-03-17 09:58:00',
+                'created_at' => '2026-03-17 10:58:00',
+                'updated_at' => '2026-03-17 10:58:00',
             ),
             400 => 
             array (
@@ -4026,8 +4026,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/oaR6vYXnQLohYIuLClcvbYF4Ask3NzzkALO40gSP.png',
-                'created_at' => '2026-03-17 09:58:00',
-                'updated_at' => '2026-03-17 09:58:00',
+                'created_at' => '2026-03-17 10:58:00',
+                'updated_at' => '2026-03-17 10:58:00',
             ),
             401 => 
             array (
@@ -4036,8 +4036,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/mB8U0vhohqRfPIddNbPnOlbohNnRO0527qBo4fwl.png',
-                'created_at' => '2026-03-17 09:58:00',
-                'updated_at' => '2026-03-17 09:58:00',
+                'created_at' => '2026-03-17 10:58:00',
+                'updated_at' => '2026-03-17 10:58:00',
             ),
             402 => 
             array (
@@ -4046,8 +4046,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 1,
                 'image' => 'answers/rVYkLPDzccXIb3gHhGqNbGC3gj1Ea25gJBEKpIPz.png',
-                'created_at' => '2026-03-17 10:01:43',
-                'updated_at' => '2026-03-17 10:01:43',
+                'created_at' => '2026-03-17 11:01:43',
+                'updated_at' => '2026-03-17 11:01:43',
             ),
             403 => 
             array (
@@ -4056,8 +4056,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/lCG2p2Kk1sOiJgI3cTnEFJ2pKqdGNs6EJM1cw9aN.png',
-                'created_at' => '2026-03-17 10:01:43',
-                'updated_at' => '2026-03-17 10:01:43',
+                'created_at' => '2026-03-17 11:01:43',
+                'updated_at' => '2026-03-17 11:01:43',
             ),
             404 => 
             array (
@@ -4066,8 +4066,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/TyRQVXyea2n7HL4BRXqrKylTGTNxUM4j8yng4Phj.png',
-                'created_at' => '2026-03-17 10:01:43',
-                'updated_at' => '2026-03-17 10:01:43',
+                'created_at' => '2026-03-17 11:01:43',
+                'updated_at' => '2026-03-17 11:01:43',
             ),
             405 => 
             array (
@@ -4076,8 +4076,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/g23pLfw5bJNpeFBCuAIzeEHp5qb2lAGyStCPCEyK.png',
-                'created_at' => '2026-03-17 10:06:14',
-                'updated_at' => '2026-03-17 10:06:26',
+                'created_at' => '2026-03-17 11:06:14',
+                'updated_at' => '2026-03-17 11:06:26',
             ),
             406 => 
             array (
@@ -4086,8 +4086,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/d7qFj75dxg6oP6jaDsO4MkYjWvz7oxNFMk7NElg1.png',
-                'created_at' => '2026-03-17 10:06:14',
-                'updated_at' => '2026-03-17 10:06:27',
+                'created_at' => '2026-03-17 11:06:14',
+                'updated_at' => '2026-03-17 11:06:27',
             ),
             407 => 
             array (
@@ -4096,8 +4096,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/vDnmj7Utg5xudt6hvOddxCfnGQwTIN9O7ZWJTVGg.png',
-                'created_at' => '2026-03-17 10:06:14',
-                'updated_at' => '2026-03-17 10:06:27',
+                'created_at' => '2026-03-17 11:06:14',
+                'updated_at' => '2026-03-17 11:06:27',
             ),
             408 => 
             array (
@@ -4106,8 +4106,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/PrCmNp6SysjM7r4f6NUMfiKsewNb8uTJpgR75tJr.png',
-                'created_at' => '2026-03-17 10:09:56',
-                'updated_at' => '2026-03-17 10:09:56',
+                'created_at' => '2026-03-17 11:09:56',
+                'updated_at' => '2026-03-17 11:09:56',
             ),
             409 => 
             array (
@@ -4116,8 +4116,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/k9TK4jnxumiqI07Zf7FyGzXS7JywVK7EASlan4HI.png',
-                'created_at' => '2026-03-17 10:09:56',
-                'updated_at' => '2026-03-17 10:09:56',
+                'created_at' => '2026-03-17 11:09:56',
+                'updated_at' => '2026-03-17 11:09:56',
             ),
             410 => 
             array (
@@ -4126,8 +4126,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/MX5n9Q3HO6TrmzhU6aEVNnX5aWcZIsMw4ezUTbbE.png',
-                'created_at' => '2026-03-17 10:09:56',
-                'updated_at' => '2026-03-17 10:09:56',
+                'created_at' => '2026-03-17 11:09:56',
+                'updated_at' => '2026-03-17 11:09:56',
             ),
             411 => 
             array (
@@ -4136,8 +4136,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 1,
                 'image' => 'answers/2RhjEVgBgnlCmL1pPHkxYpKl9ZAJqfGpAfbf02Yb.png',
-                'created_at' => '2026-03-17 10:22:46',
-                'updated_at' => '2026-03-17 10:22:46',
+                'created_at' => '2026-03-17 11:22:46',
+                'updated_at' => '2026-03-17 11:22:46',
             ),
             412 => 
             array (
@@ -4146,8 +4146,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/jGViXQi0iThGEbJS4NyRGqPoSmk9Y7qmbIAu8Dd6.png',
-                'created_at' => '2026-03-17 10:22:46',
-                'updated_at' => '2026-03-17 10:22:46',
+                'created_at' => '2026-03-17 11:22:46',
+                'updated_at' => '2026-03-17 11:22:46',
             ),
             413 => 
             array (
@@ -4156,8 +4156,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/Nw2hnJKG37Q9nb8tRrqdzgbO8A2bn0uGZzZ8fyHL.png',
-                'created_at' => '2026-03-17 10:22:46',
-                'updated_at' => '2026-03-17 10:22:46',
+                'created_at' => '2026-03-17 11:22:46',
+                'updated_at' => '2026-03-17 11:22:46',
             ),
             414 => 
             array (
@@ -4166,8 +4166,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/wlEBaQbmNUEQDTDxNzldYdEV9HaYhsIhCD8jCgBW.png',
-                'created_at' => '2026-03-17 10:25:22',
-                'updated_at' => '2026-03-17 10:25:42',
+                'created_at' => '2026-03-17 11:25:22',
+                'updated_at' => '2026-03-17 11:25:42',
             ),
             415 => 
             array (
@@ -4176,8 +4176,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/e5gwex9xiLoj1Nhik3sTvzwRW2Ny3zDdHLtWyVfE.png',
-                'created_at' => '2026-03-17 10:25:22',
-                'updated_at' => '2026-03-17 10:25:42',
+                'created_at' => '2026-03-17 11:25:22',
+                'updated_at' => '2026-03-17 11:25:42',
             ),
             416 => 
             array (
@@ -4186,8 +4186,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/mBtBg1FHPHPpNmn0Kg3nYZxtRi0NfrH0dwh22QBy.png',
-                'created_at' => '2026-03-17 10:25:22',
-                'updated_at' => '2026-03-17 10:25:42',
+                'created_at' => '2026-03-17 11:25:22',
+                'updated_at' => '2026-03-17 11:25:42',
             ),
             417 => 
             array (
@@ -4196,8 +4196,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/t7ixCLzYqOMlpZcPZW4I1DmM7ctdfGVQv1a4YjA6.png',
-                'created_at' => '2026-03-17 10:27:42',
-                'updated_at' => '2026-03-17 10:27:42',
+                'created_at' => '2026-03-17 11:27:42',
+                'updated_at' => '2026-03-17 11:27:42',
             ),
             418 => 
             array (
@@ -4206,8 +4206,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/eA0whXYbfIBxrSuKV7SCAPPnmqrYEqCchDTLosOS.png',
-                'created_at' => '2026-03-17 10:27:42',
-                'updated_at' => '2026-03-17 10:27:42',
+                'created_at' => '2026-03-17 11:27:42',
+                'updated_at' => '2026-03-17 11:27:42',
             ),
             419 => 
             array (
@@ -4216,8 +4216,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/S10d47MYV3suGKv1o6SZAdnrxfkf8YUvZVkwquwP.png',
-                'created_at' => '2026-03-17 10:27:42',
-                'updated_at' => '2026-03-17 10:27:42',
+                'created_at' => '2026-03-17 11:27:42',
+                'updated_at' => '2026-03-17 11:27:42',
             ),
             420 => 
             array (
@@ -4226,8 +4226,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/G0pRSkkiPhYLySpvNRyZGOVO0HrOrubURB74GIgw.png',
-                'created_at' => '2026-03-17 10:29:15',
-                'updated_at' => '2026-03-17 10:29:15',
+                'created_at' => '2026-03-17 11:29:15',
+                'updated_at' => '2026-03-17 11:29:15',
             ),
             421 => 
             array (
@@ -4236,8 +4236,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/rMfxOYGcYzNcvDIb7UV8wiqT9RhIrD2jkg8nKqGO.png',
-                'created_at' => '2026-03-17 10:29:15',
-                'updated_at' => '2026-03-17 10:29:15',
+                'created_at' => '2026-03-17 11:29:15',
+                'updated_at' => '2026-03-17 11:29:15',
             ),
             422 => 
             array (
@@ -4246,8 +4246,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/bQKEm9s0qTHiQWAfGU4usU9T6gyKgs9r7pKIHeSi.png',
-                'created_at' => '2026-03-17 10:29:15',
-                'updated_at' => '2026-03-17 10:29:15',
+                'created_at' => '2026-03-17 11:29:15',
+                'updated_at' => '2026-03-17 11:29:15',
             ),
             423 => 
             array (
@@ -4256,8 +4256,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/TMkcx5IrNnBKdDK6WgHZDq1t3sRGUo9jBmGK3UQt.png',
-                'created_at' => '2026-03-17 10:30:39',
-                'updated_at' => '2026-03-17 10:30:39',
+                'created_at' => '2026-03-17 11:30:39',
+                'updated_at' => '2026-03-17 11:30:39',
             ),
             424 => 
             array (
@@ -4266,8 +4266,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/8x7ZNi2IxD7rbdLjcXNyuh9ZZMHe5YF0Ars4pRKa.png',
-                'created_at' => '2026-03-17 10:30:39',
-                'updated_at' => '2026-03-17 10:30:39',
+                'created_at' => '2026-03-17 11:30:39',
+                'updated_at' => '2026-03-17 11:30:39',
             ),
             425 => 
             array (
@@ -4276,8 +4276,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/MV5OxTjeBUjXPcxRcrsX0R9kBOIsBjnj4gOe8yan.png',
-                'created_at' => '2026-03-17 10:30:39',
-                'updated_at' => '2026-03-17 10:30:39',
+                'created_at' => '2026-03-17 11:30:39',
+                'updated_at' => '2026-03-17 11:30:39',
             ),
             426 => 
             array (
@@ -4286,8 +4286,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'e saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:34:07',
-                'updated_at' => '2026-03-17 10:34:07',
+                'created_at' => '2026-03-17 11:34:07',
+                'updated_at' => '2026-03-17 11:34:07',
             ),
             427 => 
             array (
@@ -4296,8 +4296,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'e pasakte',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:34:07',
-                'updated_at' => '2026-03-17 10:34:07',
+                'created_at' => '2026-03-17 11:34:07',
+                'updated_at' => '2026-03-17 11:34:07',
             ),
             428 => 
             array (
@@ -4306,8 +4306,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'e saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:34:56',
-                'updated_at' => '2026-03-17 10:34:56',
+                'created_at' => '2026-03-17 11:34:56',
+                'updated_at' => '2026-03-17 11:34:56',
             ),
             429 => 
             array (
@@ -4316,8 +4316,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'e pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:34:56',
-                'updated_at' => '2026-03-17 10:34:56',
+                'created_at' => '2026-03-17 11:34:56',
+                'updated_at' => '2026-03-17 11:34:56',
             ),
             430 => 
             array (
@@ -4326,8 +4326,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:36:32',
-                'updated_at' => '2026-03-17 10:36:32',
+                'created_at' => '2026-03-17 11:36:32',
+                'updated_at' => '2026-03-17 11:36:32',
             ),
             431 => 
             array (
@@ -4336,8 +4336,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:36:32',
-                'updated_at' => '2026-03-17 10:36:32',
+                'created_at' => '2026-03-17 11:36:32',
+                'updated_at' => '2026-03-17 11:36:32',
             ),
             432 => 
             array (
@@ -4346,8 +4346,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:37:30',
-                'updated_at' => '2026-03-17 10:37:30',
+                'created_at' => '2026-03-17 11:37:30',
+                'updated_at' => '2026-03-17 11:37:30',
             ),
             433 => 
             array (
@@ -4356,8 +4356,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:37:30',
-                'updated_at' => '2026-03-17 10:37:30',
+                'created_at' => '2026-03-17 11:37:30',
+                'updated_at' => '2026-03-17 11:37:30',
             ),
             434 => 
             array (
@@ -4366,8 +4366,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:38:10',
-                'updated_at' => '2026-03-17 10:38:10',
+                'created_at' => '2026-03-17 11:38:10',
+                'updated_at' => '2026-03-17 11:38:10',
             ),
             435 => 
             array (
@@ -4376,8 +4376,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:38:10',
-                'updated_at' => '2026-03-17 10:38:10',
+                'created_at' => '2026-03-17 11:38:10',
+                'updated_at' => '2026-03-17 11:38:10',
             ),
             436 => 
             array (
@@ -4386,8 +4386,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:39:00',
-                'updated_at' => '2026-03-17 10:39:00',
+                'created_at' => '2026-03-17 11:39:00',
+                'updated_at' => '2026-03-17 11:39:00',
             ),
             437 => 
             array (
@@ -4396,8 +4396,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:39:00',
-                'updated_at' => '2026-03-17 10:39:00',
+                'created_at' => '2026-03-17 11:39:00',
+                'updated_at' => '2026-03-17 11:39:00',
             ),
             438 => 
             array (
@@ -4406,8 +4406,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:39:36',
-                'updated_at' => '2026-03-17 10:39:36',
+                'created_at' => '2026-03-17 11:39:36',
+                'updated_at' => '2026-03-17 11:39:36',
             ),
             439 => 
             array (
@@ -4416,8 +4416,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:39:36',
-                'updated_at' => '2026-03-17 10:39:36',
+                'created_at' => '2026-03-17 11:39:36',
+                'updated_at' => '2026-03-17 11:39:36',
             ),
             440 => 
             array (
@@ -4426,8 +4426,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:40:45',
-                'updated_at' => '2026-03-17 10:40:45',
+                'created_at' => '2026-03-17 11:40:45',
+                'updated_at' => '2026-03-17 11:40:45',
             ),
             441 => 
             array (
@@ -4436,8 +4436,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:40:45',
-                'updated_at' => '2026-03-17 10:40:45',
+                'created_at' => '2026-03-17 11:40:45',
+                'updated_at' => '2026-03-17 11:40:45',
             ),
             442 => 
             array (
@@ -4446,8 +4446,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:41:31',
-                'updated_at' => '2026-03-17 10:41:31',
+                'created_at' => '2026-03-17 11:41:31',
+                'updated_at' => '2026-03-17 11:41:31',
             ),
             443 => 
             array (
@@ -4456,8 +4456,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:41:31',
-                'updated_at' => '2026-03-17 10:41:31',
+                'created_at' => '2026-03-17 11:41:31',
+                'updated_at' => '2026-03-17 11:41:31',
             ),
             444 => 
             array (
@@ -4466,8 +4466,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:42:17',
-                'updated_at' => '2026-03-17 10:42:17',
+                'created_at' => '2026-03-17 11:42:17',
+                'updated_at' => '2026-03-17 11:42:17',
             ),
             445 => 
             array (
@@ -4476,8 +4476,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:42:17',
-                'updated_at' => '2026-03-17 10:42:17',
+                'created_at' => '2026-03-17 11:42:17',
+                'updated_at' => '2026-03-17 11:42:17',
             ),
             446 => 
             array (
@@ -4486,8 +4486,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:42:59',
-                'updated_at' => '2026-03-17 10:42:59',
+                'created_at' => '2026-03-17 11:42:59',
+                'updated_at' => '2026-03-17 11:42:59',
             ),
             447 => 
             array (
@@ -4496,8 +4496,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:42:59',
-                'updated_at' => '2026-03-17 10:42:59',
+                'created_at' => '2026-03-17 11:42:59',
+                'updated_at' => '2026-03-17 11:42:59',
             ),
             448 => 
             array (
@@ -4506,8 +4506,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:43:38',
-                'updated_at' => '2026-03-17 10:43:38',
+                'created_at' => '2026-03-17 11:43:38',
+                'updated_at' => '2026-03-17 11:43:38',
             ),
             449 => 
             array (
@@ -4516,8 +4516,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:43:38',
-                'updated_at' => '2026-03-17 10:43:38',
+                'created_at' => '2026-03-17 11:43:38',
+                'updated_at' => '2026-03-17 11:43:38',
             ),
             450 => 
             array (
@@ -4526,8 +4526,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:44:11',
-                'updated_at' => '2026-03-17 10:44:11',
+                'created_at' => '2026-03-17 11:44:11',
+                'updated_at' => '2026-03-17 11:44:11',
             ),
             451 => 
             array (
@@ -4536,8 +4536,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:44:11',
-                'updated_at' => '2026-03-17 10:44:11',
+                'created_at' => '2026-03-17 11:44:11',
+                'updated_at' => '2026-03-17 11:44:11',
             ),
             452 => 
             array (
@@ -4546,8 +4546,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:44:49',
-                'updated_at' => '2026-03-17 10:44:49',
+                'created_at' => '2026-03-17 11:44:49',
+                'updated_at' => '2026-03-17 11:44:49',
             ),
             453 => 
             array (
@@ -4556,8 +4556,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:44:49',
-                'updated_at' => '2026-03-17 10:44:49',
+                'created_at' => '2026-03-17 11:44:49',
+                'updated_at' => '2026-03-17 11:44:49',
             ),
             454 => 
             array (
@@ -4566,8 +4566,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:46:00',
-                'updated_at' => '2026-03-17 10:46:00',
+                'created_at' => '2026-03-17 11:46:00',
+                'updated_at' => '2026-03-17 11:46:00',
             ),
             455 => 
             array (
@@ -4576,8 +4576,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:46:00',
-                'updated_at' => '2026-03-17 10:46:00',
+                'created_at' => '2026-03-17 11:46:00',
+                'updated_at' => '2026-03-17 11:46:00',
             ),
             456 => 
             array (
@@ -4586,8 +4586,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:46:42',
-                'updated_at' => '2026-03-17 10:46:42',
+                'created_at' => '2026-03-17 11:46:42',
+                'updated_at' => '2026-03-17 11:46:42',
             ),
             457 => 
             array (
@@ -4596,8 +4596,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:46:42',
-                'updated_at' => '2026-03-17 10:46:42',
+                'created_at' => '2026-03-17 11:46:42',
+                'updated_at' => '2026-03-17 11:46:42',
             ),
             458 => 
             array (
@@ -4606,8 +4606,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:47:25',
-                'updated_at' => '2026-03-17 10:47:25',
+                'created_at' => '2026-03-17 11:47:25',
+                'updated_at' => '2026-03-17 11:47:25',
             ),
             459 => 
             array (
@@ -4616,8 +4616,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:47:25',
-                'updated_at' => '2026-03-17 10:47:25',
+                'created_at' => '2026-03-17 11:47:25',
+                'updated_at' => '2026-03-17 11:47:25',
             ),
             460 => 
             array (
@@ -4626,8 +4626,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:48:20',
-                'updated_at' => '2026-03-17 10:48:20',
+                'created_at' => '2026-03-17 11:48:20',
+                'updated_at' => '2026-03-17 11:48:20',
             ),
             461 => 
             array (
@@ -4636,8 +4636,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:48:20',
-                'updated_at' => '2026-03-17 10:48:20',
+                'created_at' => '2026-03-17 11:48:20',
+                'updated_at' => '2026-03-17 11:48:20',
             ),
             462 => 
             array (
@@ -4646,8 +4646,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:48:58',
-                'updated_at' => '2026-03-17 10:48:58',
+                'created_at' => '2026-03-17 11:48:58',
+                'updated_at' => '2026-03-17 11:48:58',
             ),
             463 => 
             array (
@@ -4656,8 +4656,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:48:58',
-                'updated_at' => '2026-03-17 10:48:58',
+                'created_at' => '2026-03-17 11:48:58',
+                'updated_at' => '2026-03-17 11:48:58',
             ),
             464 => 
             array (
@@ -4666,8 +4666,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:49:35',
-                'updated_at' => '2026-03-17 10:50:59',
+                'created_at' => '2026-03-17 11:49:35',
+                'updated_at' => '2026-03-17 11:50:59',
             ),
             465 => 
             array (
@@ -4676,8 +4676,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:49:35',
-                'updated_at' => '2026-03-17 10:50:59',
+                'created_at' => '2026-03-17 11:49:35',
+                'updated_at' => '2026-03-17 11:50:59',
             ),
             466 => 
             array (
@@ -4686,8 +4686,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:50:43',
-                'updated_at' => '2026-03-17 10:51:15',
+                'created_at' => '2026-03-17 11:50:43',
+                'updated_at' => '2026-03-17 11:51:15',
             ),
             467 => 
             array (
@@ -4696,8 +4696,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:50:43',
-                'updated_at' => '2026-03-17 10:51:15',
+                'created_at' => '2026-03-17 11:50:43',
+                'updated_at' => '2026-03-17 11:51:15',
             ),
             468 => 
             array (
@@ -4706,8 +4706,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:53:42',
-                'updated_at' => '2026-03-17 10:53:42',
+                'created_at' => '2026-03-17 11:53:42',
+                'updated_at' => '2026-03-17 11:53:42',
             ),
             469 => 
             array (
@@ -4716,8 +4716,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:53:42',
-                'updated_at' => '2026-03-17 10:53:42',
+                'created_at' => '2026-03-17 11:53:42',
+                'updated_at' => '2026-03-17 11:53:42',
             ),
             470 => 
             array (
@@ -4726,8 +4726,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:54:46',
-                'updated_at' => '2026-03-17 10:54:46',
+                'created_at' => '2026-03-17 11:54:46',
+                'updated_at' => '2026-03-17 11:54:46',
             ),
             471 => 
             array (
@@ -4736,8 +4736,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:54:46',
-                'updated_at' => '2026-03-17 10:54:46',
+                'created_at' => '2026-03-17 11:54:46',
+                'updated_at' => '2026-03-17 11:54:46',
             ),
             472 => 
             array (
@@ -4746,8 +4746,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:55:40',
-                'updated_at' => '2026-03-17 10:55:40',
+                'created_at' => '2026-03-17 11:55:40',
+                'updated_at' => '2026-03-17 11:55:40',
             ),
             473 => 
             array (
@@ -4756,8 +4756,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 10:55:40',
-                'updated_at' => '2026-03-17 10:55:40',
+                'created_at' => '2026-03-17 11:55:40',
+                'updated_at' => '2026-03-17 11:55:40',
             ),
             474 => 
             array (
@@ -4766,8 +4766,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:02:04',
-                'updated_at' => '2026-03-17 11:02:04',
+                'created_at' => '2026-03-17 12:02:04',
+                'updated_at' => '2026-03-17 12:02:04',
             ),
             475 => 
             array (
@@ -4776,8 +4776,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:02:04',
-                'updated_at' => '2026-03-17 11:02:04',
+                'created_at' => '2026-03-17 12:02:04',
+                'updated_at' => '2026-03-17 12:02:04',
             ),
             476 => 
             array (
@@ -4786,8 +4786,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:02:47',
-                'updated_at' => '2026-03-17 11:02:47',
+                'created_at' => '2026-03-17 12:02:47',
+                'updated_at' => '2026-03-17 12:02:47',
             ),
             477 => 
             array (
@@ -4796,8 +4796,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:02:47',
-                'updated_at' => '2026-03-17 11:02:47',
+                'created_at' => '2026-03-17 12:02:47',
+                'updated_at' => '2026-03-17 12:02:47',
             ),
             478 => 
             array (
@@ -4806,8 +4806,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:03:29',
-                'updated_at' => '2026-03-17 11:03:29',
+                'created_at' => '2026-03-17 12:03:29',
+                'updated_at' => '2026-03-17 12:03:29',
             ),
             479 => 
             array (
@@ -4816,8 +4816,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:03:29',
-                'updated_at' => '2026-03-17 11:03:29',
+                'created_at' => '2026-03-17 12:03:29',
+                'updated_at' => '2026-03-17 12:03:29',
             ),
             480 => 
             array (
@@ -4826,8 +4826,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:04:05',
-                'updated_at' => '2026-03-17 11:04:23',
+                'created_at' => '2026-03-17 12:04:05',
+                'updated_at' => '2026-03-17 12:04:23',
             ),
             481 => 
             array (
@@ -4836,8 +4836,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:04:05',
-                'updated_at' => '2026-03-17 11:04:23',
+                'created_at' => '2026-03-17 12:04:05',
+                'updated_at' => '2026-03-17 12:04:23',
             ),
             482 => 
             array (
@@ -4846,8 +4846,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:05:22',
-                'updated_at' => '2026-03-17 11:05:22',
+                'created_at' => '2026-03-17 12:05:22',
+                'updated_at' => '2026-03-17 12:05:22',
             ),
             483 => 
             array (
@@ -4856,8 +4856,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:05:22',
-                'updated_at' => '2026-03-17 11:05:22',
+                'created_at' => '2026-03-17 12:05:22',
+                'updated_at' => '2026-03-17 12:05:22',
             ),
             484 => 
             array (
@@ -4866,8 +4866,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:06:59',
-                'updated_at' => '2026-03-17 11:06:59',
+                'created_at' => '2026-03-17 12:06:59',
+                'updated_at' => '2026-03-17 12:06:59',
             ),
             485 => 
             array (
@@ -4876,8 +4876,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:06:59',
-                'updated_at' => '2026-03-17 11:06:59',
+                'created_at' => '2026-03-17 12:06:59',
+                'updated_at' => '2026-03-17 12:06:59',
             ),
             486 => 
             array (
@@ -4886,8 +4886,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:07:42',
-                'updated_at' => '2026-03-17 11:07:42',
+                'created_at' => '2026-03-17 12:07:42',
+                'updated_at' => '2026-03-17 12:07:42',
             ),
             487 => 
             array (
@@ -4896,8 +4896,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:07:42',
-                'updated_at' => '2026-03-17 11:07:42',
+                'created_at' => '2026-03-17 12:07:42',
+                'updated_at' => '2026-03-17 12:07:42',
             ),
             488 => 
             array (
@@ -4906,8 +4906,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:08:25',
-                'updated_at' => '2026-03-17 11:08:53',
+                'created_at' => '2026-03-17 12:08:25',
+                'updated_at' => '2026-03-17 12:08:53',
             ),
             489 => 
             array (
@@ -4916,8 +4916,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:08:25',
-                'updated_at' => '2026-03-17 11:08:53',
+                'created_at' => '2026-03-17 12:08:25',
+                'updated_at' => '2026-03-17 12:08:53',
             ),
             490 => 
             array (
@@ -4926,8 +4926,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:12:25',
-                'updated_at' => '2026-03-17 11:12:25',
+                'created_at' => '2026-03-17 12:12:25',
+                'updated_at' => '2026-03-17 12:12:25',
             ),
             491 => 
             array (
@@ -4936,8 +4936,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:12:25',
-                'updated_at' => '2026-03-17 11:12:25',
+                'created_at' => '2026-03-17 12:12:25',
+                'updated_at' => '2026-03-17 12:12:25',
             ),
             492 => 
             array (
@@ -4946,8 +4946,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:14:24',
-                'updated_at' => '2026-03-17 11:14:24',
+                'created_at' => '2026-03-17 12:14:24',
+                'updated_at' => '2026-03-17 12:14:24',
             ),
             493 => 
             array (
@@ -4956,8 +4956,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:14:24',
-                'updated_at' => '2026-03-17 11:14:24',
+                'created_at' => '2026-03-17 12:14:24',
+                'updated_at' => '2026-03-17 12:14:24',
             ),
             494 => 
             array (
@@ -4966,8 +4966,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:42:46',
-                'updated_at' => '2026-03-17 11:42:46',
+                'created_at' => '2026-03-17 12:42:46',
+                'updated_at' => '2026-03-17 12:42:46',
             ),
             495 => 
             array (
@@ -4976,8 +4976,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:42:46',
-                'updated_at' => '2026-03-17 11:42:46',
+                'created_at' => '2026-03-17 12:42:46',
+                'updated_at' => '2026-03-17 12:42:46',
             ),
             496 => 
             array (
@@ -4986,8 +4986,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:43:24',
-                'updated_at' => '2026-03-17 11:43:24',
+                'created_at' => '2026-03-17 12:43:24',
+                'updated_at' => '2026-03-17 12:43:24',
             ),
             497 => 
             array (
@@ -4996,8 +4996,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:43:24',
-                'updated_at' => '2026-03-17 11:43:24',
+                'created_at' => '2026-03-17 12:43:24',
+                'updated_at' => '2026-03-17 12:43:24',
             ),
             498 => 
             array (
@@ -5006,8 +5006,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:44:02',
-                'updated_at' => '2026-03-17 11:44:02',
+                'created_at' => '2026-03-17 12:44:02',
+                'updated_at' => '2026-03-17 12:44:02',
             ),
             499 => 
             array (
@@ -5016,8 +5016,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:44:02',
-                'updated_at' => '2026-03-17 11:44:02',
+                'created_at' => '2026-03-17 12:44:02',
+                'updated_at' => '2026-03-17 12:44:02',
             ),
         ));
         \DB::table('answers')->insert(array (
@@ -5028,8 +5028,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:45:03',
-                'updated_at' => '2026-03-17 11:45:19',
+                'created_at' => '2026-03-17 12:45:03',
+                'updated_at' => '2026-03-17 12:45:19',
             ),
             1 => 
             array (
@@ -5038,8 +5038,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => 'answers/vJ2ZNWiq04t6D4oAN1MzYglkbyPKScuzIb1hypU7.png',
-                'created_at' => '2026-03-17 11:45:03',
-                'updated_at' => '2026-03-17 11:45:19',
+                'created_at' => '2026-03-17 12:45:03',
+                'updated_at' => '2026-03-17 12:45:19',
             ),
             2 => 
             array (
@@ -5048,8 +5048,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:46:03',
-                'updated_at' => '2026-03-17 11:46:03',
+                'created_at' => '2026-03-17 12:46:03',
+                'updated_at' => '2026-03-17 12:46:03',
             ),
             3 => 
             array (
@@ -5058,8 +5058,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:46:03',
-                'updated_at' => '2026-03-17 11:46:03',
+                'created_at' => '2026-03-17 12:46:03',
+                'updated_at' => '2026-03-17 12:46:03',
             ),
             4 => 
             array (
@@ -5068,8 +5068,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:46:44',
-                'updated_at' => '2026-03-17 11:46:44',
+                'created_at' => '2026-03-17 12:46:44',
+                'updated_at' => '2026-03-17 12:46:44',
             ),
             5 => 
             array (
@@ -5078,8 +5078,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:46:44',
-                'updated_at' => '2026-03-17 11:46:44',
+                'created_at' => '2026-03-17 12:46:44',
+                'updated_at' => '2026-03-17 12:46:44',
             ),
             6 => 
             array (
@@ -5088,8 +5088,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:47:26',
-                'updated_at' => '2026-03-17 11:47:26',
+                'created_at' => '2026-03-17 12:47:26',
+                'updated_at' => '2026-03-17 12:47:26',
             ),
             7 => 
             array (
@@ -5098,8 +5098,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:47:26',
-                'updated_at' => '2026-03-17 11:47:26',
+                'created_at' => '2026-03-17 12:47:26',
+                'updated_at' => '2026-03-17 12:47:26',
             ),
             8 => 
             array (
@@ -5108,8 +5108,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:48:17',
-                'updated_at' => '2026-03-17 11:48:17',
+                'created_at' => '2026-03-17 12:48:17',
+                'updated_at' => '2026-03-17 12:48:17',
             ),
             9 => 
             array (
@@ -5118,8 +5118,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.a',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:48:17',
-                'updated_at' => '2026-03-17 11:48:17',
+                'created_at' => '2026-03-17 12:48:17',
+                'updated_at' => '2026-03-17 12:48:17',
             ),
             10 => 
             array (
@@ -5128,8 +5128,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:49:25',
-                'updated_at' => '2026-03-17 11:49:25',
+                'created_at' => '2026-03-17 12:49:25',
+                'updated_at' => '2026-03-17 12:49:25',
             ),
             11 => 
             array (
@@ -5138,8 +5138,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:49:25',
-                'updated_at' => '2026-03-17 11:49:25',
+                'created_at' => '2026-03-17 12:49:25',
+                'updated_at' => '2026-03-17 12:49:25',
             ),
             12 => 
             array (
@@ -5148,8 +5148,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:50:06',
-                'updated_at' => '2026-03-17 11:50:06',
+                'created_at' => '2026-03-17 12:50:06',
+                'updated_at' => '2026-03-17 12:50:06',
             ),
             13 => 
             array (
@@ -5158,8 +5158,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:50:06',
-                'updated_at' => '2026-03-17 11:50:06',
+                'created_at' => '2026-03-17 12:50:06',
+                'updated_at' => '2026-03-17 12:50:06',
             ),
             14 => 
             array (
@@ -5168,8 +5168,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:50:49',
-                'updated_at' => '2026-03-17 11:50:49',
+                'created_at' => '2026-03-17 12:50:49',
+                'updated_at' => '2026-03-17 12:50:49',
             ),
             15 => 
             array (
@@ -5178,8 +5178,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:50:49',
-                'updated_at' => '2026-03-17 11:50:49',
+                'created_at' => '2026-03-17 12:50:49',
+                'updated_at' => '2026-03-17 12:50:49',
             ),
             16 => 
             array (
@@ -5188,8 +5188,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:51:28',
-                'updated_at' => '2026-03-17 11:51:28',
+                'created_at' => '2026-03-17 12:51:28',
+                'updated_at' => '2026-03-17 12:51:28',
             ),
             17 => 
             array (
@@ -5198,8 +5198,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:51:28',
-                'updated_at' => '2026-03-17 11:51:28',
+                'created_at' => '2026-03-17 12:51:28',
+                'updated_at' => '2026-03-17 12:51:28',
             ),
             18 => 
             array (
@@ -5208,8 +5208,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:52:10',
-                'updated_at' => '2026-03-17 11:52:10',
+                'created_at' => '2026-03-17 12:52:10',
+                'updated_at' => '2026-03-17 12:52:10',
             ),
             19 => 
             array (
@@ -5218,8 +5218,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:52:10',
-                'updated_at' => '2026-03-17 11:52:10',
+                'created_at' => '2026-03-17 12:52:10',
+                'updated_at' => '2026-03-17 12:52:10',
             ),
             20 => 
             array (
@@ -5228,8 +5228,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:53:11',
-                'updated_at' => '2026-03-17 11:53:11',
+                'created_at' => '2026-03-17 12:53:11',
+                'updated_at' => '2026-03-17 12:53:11',
             ),
             21 => 
             array (
@@ -5238,8 +5238,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:53:11',
-                'updated_at' => '2026-03-17 11:53:11',
+                'created_at' => '2026-03-17 12:53:11',
+                'updated_at' => '2026-03-17 12:53:11',
             ),
             22 => 
             array (
@@ -5248,8 +5248,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:53:48',
-                'updated_at' => '2026-03-17 11:53:48',
+                'created_at' => '2026-03-17 12:53:48',
+                'updated_at' => '2026-03-17 12:53:48',
             ),
             23 => 
             array (
@@ -5258,8 +5258,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:53:48',
-                'updated_at' => '2026-03-17 11:53:48',
+                'created_at' => '2026-03-17 12:53:48',
+                'updated_at' => '2026-03-17 12:53:48',
             ),
             24 => 
             array (
@@ -5268,8 +5268,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:54:39',
-                'updated_at' => '2026-03-17 11:54:39',
+                'created_at' => '2026-03-17 12:54:39',
+                'updated_at' => '2026-03-17 12:54:39',
             ),
             25 => 
             array (
@@ -5278,8 +5278,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:54:39',
-                'updated_at' => '2026-03-17 11:54:39',
+                'created_at' => '2026-03-17 12:54:39',
+                'updated_at' => '2026-03-17 12:54:39',
             ),
             26 => 
             array (
@@ -5288,8 +5288,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:55:13',
-                'updated_at' => '2026-03-17 11:55:13',
+                'created_at' => '2026-03-17 12:55:13',
+                'updated_at' => '2026-03-17 12:55:13',
             ),
             27 => 
             array (
@@ -5298,8 +5298,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 11:55:13',
-                'updated_at' => '2026-03-17 11:55:13',
+                'created_at' => '2026-03-17 12:55:13',
+                'updated_at' => '2026-03-17 12:55:13',
             ),
             28 => 
             array (
@@ -5308,8 +5308,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:03:40',
-                'updated_at' => '2026-03-17 12:03:40',
+                'created_at' => '2026-03-17 13:03:40',
+                'updated_at' => '2026-03-17 13:03:40',
             ),
             29 => 
             array (
@@ -5318,8 +5318,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:03:40',
-                'updated_at' => '2026-03-17 12:03:40',
+                'created_at' => '2026-03-17 13:03:40',
+                'updated_at' => '2026-03-17 13:03:40',
             ),
             30 => 
             array (
@@ -5328,8 +5328,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:04:37',
-                'updated_at' => '2026-03-17 12:04:37',
+                'created_at' => '2026-03-17 13:04:37',
+                'updated_at' => '2026-03-17 13:04:37',
             ),
             31 => 
             array (
@@ -5338,8 +5338,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:04:37',
-                'updated_at' => '2026-03-17 12:04:37',
+                'created_at' => '2026-03-17 13:04:37',
+                'updated_at' => '2026-03-17 13:04:37',
             ),
             32 => 
             array (
@@ -5348,8 +5348,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:05:16',
-                'updated_at' => '2026-03-17 12:05:16',
+                'created_at' => '2026-03-17 13:05:16',
+                'updated_at' => '2026-03-17 13:05:16',
             ),
             33 => 
             array (
@@ -5358,8 +5358,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:05:16',
-                'updated_at' => '2026-03-17 12:05:16',
+                'created_at' => '2026-03-17 13:05:16',
+                'updated_at' => '2026-03-17 13:05:16',
             ),
             34 => 
             array (
@@ -5368,8 +5368,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:06:13',
-                'updated_at' => '2026-03-17 12:06:13',
+                'created_at' => '2026-03-17 13:06:13',
+                'updated_at' => '2026-03-17 13:06:13',
             ),
             35 => 
             array (
@@ -5378,8 +5378,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:06:13',
-                'updated_at' => '2026-03-17 12:06:13',
+                'created_at' => '2026-03-17 13:06:13',
+                'updated_at' => '2026-03-17 13:06:13',
             ),
             36 => 
             array (
@@ -5388,8 +5388,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:06:48',
-                'updated_at' => '2026-03-17 12:06:48',
+                'created_at' => '2026-03-17 13:06:48',
+                'updated_at' => '2026-03-17 13:06:48',
             ),
             37 => 
             array (
@@ -5398,8 +5398,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:06:48',
-                'updated_at' => '2026-03-17 12:06:48',
+                'created_at' => '2026-03-17 13:06:48',
+                'updated_at' => '2026-03-17 13:06:48',
             ),
             38 => 
             array (
@@ -5408,8 +5408,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/WQALy3TC5LvCAewLyjN4yT0PT1OCqbyK0P7DmvC8.png',
-                'created_at' => '2026-03-17 12:14:06',
-                'updated_at' => '2026-03-17 12:14:06',
+                'created_at' => '2026-03-17 13:14:06',
+                'updated_at' => '2026-03-17 13:14:06',
             ),
             39 => 
             array (
@@ -5418,8 +5418,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/5lPcFACMEg4LjymXMMPekrD54fPghCEyWWfAIcRf.png',
-                'created_at' => '2026-03-17 12:14:06',
-                'updated_at' => '2026-03-17 12:14:06',
+                'created_at' => '2026-03-17 13:14:06',
+                'updated_at' => '2026-03-17 13:14:06',
             ),
             40 => 
             array (
@@ -5428,8 +5428,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/mRZYSXHLRtRlHAHi41lClLJWy6QgPwKnThEvhLV4.png',
-                'created_at' => '2026-03-17 12:14:06',
-                'updated_at' => '2026-03-17 12:14:06',
+                'created_at' => '2026-03-17 13:14:06',
+                'updated_at' => '2026-03-17 13:14:06',
             ),
             41 => 
             array (
@@ -5438,8 +5438,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/g9uR0XrMQIViRgX7yfioCthaN7RkCMQjuY1JUwWd.png',
-                'created_at' => '2026-03-17 12:19:49',
-                'updated_at' => '2026-03-17 12:19:49',
+                'created_at' => '2026-03-17 13:19:49',
+                'updated_at' => '2026-03-17 13:19:49',
             ),
             42 => 
             array (
@@ -5448,8 +5448,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/O2vOgFqWfNdHCx9qOUNtbPwJYVBnykjbRkV56nFf.png',
-                'created_at' => '2026-03-17 12:19:49',
-                'updated_at' => '2026-03-17 12:19:49',
+                'created_at' => '2026-03-17 13:19:49',
+                'updated_at' => '2026-03-17 13:19:49',
             ),
             43 => 
             array (
@@ -5458,8 +5458,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/3yVdp4ZmrQHkJsvCc8O46qcq6tx4Z2CeWsMago7M.png',
-                'created_at' => '2026-03-17 12:19:49',
-                'updated_at' => '2026-03-17 12:19:49',
+                'created_at' => '2026-03-17 13:19:49',
+                'updated_at' => '2026-03-17 13:19:49',
             ),
             44 => 
             array (
@@ -5468,8 +5468,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/gCNAL9xJm0Yj1WqkPIpXNaeEVvjqYK2s8tTdkDAm.png',
-                'created_at' => '2026-03-17 12:23:23',
-                'updated_at' => '2026-03-17 12:23:23',
+                'created_at' => '2026-03-17 13:23:23',
+                'updated_at' => '2026-03-17 13:23:23',
             ),
             45 => 
             array (
@@ -5478,8 +5478,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/qEMmQxrHvSTNW3f08BUuFxMZjrebIcvhZDG0JOUy.png',
-                'created_at' => '2026-03-17 12:23:23',
-                'updated_at' => '2026-03-17 12:23:23',
+                'created_at' => '2026-03-17 13:23:23',
+                'updated_at' => '2026-03-17 13:23:23',
             ),
             46 => 
             array (
@@ -5488,8 +5488,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/yud0tbfTmaBEkeQ3Wo9bEiybSZRCv6uKZfBawLcV.png',
-                'created_at' => '2026-03-17 12:23:23',
-                'updated_at' => '2026-03-17 12:23:23',
+                'created_at' => '2026-03-17 13:23:23',
+                'updated_at' => '2026-03-17 13:23:23',
             ),
             47 => 
             array (
@@ -5498,8 +5498,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:27:52',
-                'updated_at' => '2026-03-17 12:27:52',
+                'created_at' => '2026-03-17 13:27:52',
+                'updated_at' => '2026-03-17 13:27:52',
             ),
             48 => 
             array (
@@ -5508,8 +5508,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:27:52',
-                'updated_at' => '2026-03-17 12:27:52',
+                'created_at' => '2026-03-17 13:27:52',
+                'updated_at' => '2026-03-17 13:27:52',
             ),
             49 => 
             array (
@@ -5518,8 +5518,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:31:18',
-                'updated_at' => '2026-03-17 12:31:18',
+                'created_at' => '2026-03-17 13:31:18',
+                'updated_at' => '2026-03-17 13:31:18',
             ),
             50 => 
             array (
@@ -5528,8 +5528,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:31:18',
-                'updated_at' => '2026-03-17 12:31:18',
+                'created_at' => '2026-03-17 13:31:18',
+                'updated_at' => '2026-03-17 13:31:18',
             ),
             51 => 
             array (
@@ -5538,8 +5538,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:32:12',
-                'updated_at' => '2026-03-17 12:32:12',
+                'created_at' => '2026-03-17 13:32:12',
+                'updated_at' => '2026-03-17 13:32:12',
             ),
             52 => 
             array (
@@ -5548,8 +5548,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:32:13',
-                'updated_at' => '2026-03-17 12:32:13',
+                'created_at' => '2026-03-17 13:32:13',
+                'updated_at' => '2026-03-17 13:32:13',
             ),
             53 => 
             array (
@@ -5558,8 +5558,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:32:46',
-                'updated_at' => '2026-03-17 12:32:46',
+                'created_at' => '2026-03-17 13:32:46',
+                'updated_at' => '2026-03-17 13:32:46',
             ),
             54 => 
             array (
@@ -5568,8 +5568,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:32:46',
-                'updated_at' => '2026-03-17 12:32:46',
+                'created_at' => '2026-03-17 13:32:46',
+                'updated_at' => '2026-03-17 13:32:46',
             ),
             55 => 
             array (
@@ -5578,8 +5578,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:33:36',
-                'updated_at' => '2026-03-17 12:33:36',
+                'created_at' => '2026-03-17 13:33:36',
+                'updated_at' => '2026-03-17 13:33:36',
             ),
             56 => 
             array (
@@ -5588,8 +5588,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:33:36',
-                'updated_at' => '2026-03-17 12:33:36',
+                'created_at' => '2026-03-17 13:33:36',
+                'updated_at' => '2026-03-17 13:33:36',
             ),
             57 => 
             array (
@@ -5598,8 +5598,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:37:08',
-                'updated_at' => '2026-03-17 12:37:08',
+                'created_at' => '2026-03-17 13:37:08',
+                'updated_at' => '2026-03-17 13:37:08',
             ),
             58 => 
             array (
@@ -5608,8 +5608,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:37:08',
-                'updated_at' => '2026-03-17 12:37:08',
+                'created_at' => '2026-03-17 13:37:08',
+                'updated_at' => '2026-03-17 13:37:08',
             ),
             59 => 
             array (
@@ -5618,8 +5618,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:37:57',
-                'updated_at' => '2026-03-17 12:37:57',
+                'created_at' => '2026-03-17 13:37:57',
+                'updated_at' => '2026-03-17 13:37:57',
             ),
             60 => 
             array (
@@ -5628,8 +5628,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:37:57',
-                'updated_at' => '2026-03-17 12:37:57',
+                'created_at' => '2026-03-17 13:37:57',
+                'updated_at' => '2026-03-17 13:37:57',
             ),
             61 => 
             array (
@@ -5638,8 +5638,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:38:35',
-                'updated_at' => '2026-03-17 12:38:35',
+                'created_at' => '2026-03-17 13:38:35',
+                'updated_at' => '2026-03-17 13:38:35',
             ),
             62 => 
             array (
@@ -5648,8 +5648,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:38:35',
-                'updated_at' => '2026-03-17 12:38:35',
+                'created_at' => '2026-03-17 13:38:35',
+                'updated_at' => '2026-03-17 13:38:35',
             ),
             63 => 
             array (
@@ -5658,8 +5658,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:39:48',
-                'updated_at' => '2026-03-17 12:39:48',
+                'created_at' => '2026-03-17 13:39:48',
+                'updated_at' => '2026-03-17 13:39:48',
             ),
             64 => 
             array (
@@ -5668,8 +5668,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:39:48',
-                'updated_at' => '2026-03-17 12:39:48',
+                'created_at' => '2026-03-17 13:39:48',
+                'updated_at' => '2026-03-17 13:39:48',
             ),
             65 => 
             array (
@@ -5678,8 +5678,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:41:23',
-                'updated_at' => '2026-03-17 12:41:23',
+                'created_at' => '2026-03-17 13:41:23',
+                'updated_at' => '2026-03-17 13:41:23',
             ),
             66 => 
             array (
@@ -5688,8 +5688,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:41:23',
-                'updated_at' => '2026-03-17 12:41:23',
+                'created_at' => '2026-03-17 13:41:23',
+                'updated_at' => '2026-03-17 13:41:23',
             ),
             67 => 
             array (
@@ -5698,8 +5698,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:42:08',
-                'updated_at' => '2026-03-17 12:42:08',
+                'created_at' => '2026-03-17 13:42:08',
+                'updated_at' => '2026-03-17 13:42:08',
             ),
             68 => 
             array (
@@ -5708,8 +5708,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:42:08',
-                'updated_at' => '2026-03-17 12:42:08',
+                'created_at' => '2026-03-17 13:42:08',
+                'updated_at' => '2026-03-17 13:42:08',
             ),
             69 => 
             array (
@@ -5718,8 +5718,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:43:12',
-                'updated_at' => '2026-03-17 12:43:12',
+                'created_at' => '2026-03-17 13:43:12',
+                'updated_at' => '2026-03-17 13:43:12',
             ),
             70 => 
             array (
@@ -5728,8 +5728,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:43:12',
-                'updated_at' => '2026-03-17 12:43:12',
+                'created_at' => '2026-03-17 13:43:12',
+                'updated_at' => '2026-03-17 13:43:12',
             ),
             71 => 
             array (
@@ -5738,8 +5738,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:44:01',
-                'updated_at' => '2026-03-17 12:44:01',
+                'created_at' => '2026-03-17 13:44:01',
+                'updated_at' => '2026-03-17 13:44:01',
             ),
             72 => 
             array (
@@ -5748,8 +5748,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:44:01',
-                'updated_at' => '2026-03-17 12:44:01',
+                'created_at' => '2026-03-17 13:44:01',
+                'updated_at' => '2026-03-17 13:44:01',
             ),
             73 => 
             array (
@@ -5758,8 +5758,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:45:11',
-                'updated_at' => '2026-03-17 12:45:11',
+                'created_at' => '2026-03-17 13:45:11',
+                'updated_at' => '2026-03-17 13:45:11',
             ),
             74 => 
             array (
@@ -5768,8 +5768,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:45:11',
-                'updated_at' => '2026-03-17 12:45:11',
+                'created_at' => '2026-03-17 13:45:11',
+                'updated_at' => '2026-03-17 13:45:11',
             ),
             75 => 
             array (
@@ -5778,8 +5778,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:45:59',
-                'updated_at' => '2026-03-17 12:45:59',
+                'created_at' => '2026-03-17 13:45:59',
+                'updated_at' => '2026-03-17 13:45:59',
             ),
             76 => 
             array (
@@ -5788,8 +5788,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:45:59',
-                'updated_at' => '2026-03-17 12:45:59',
+                'created_at' => '2026-03-17 13:45:59',
+                'updated_at' => '2026-03-17 13:45:59',
             ),
             77 => 
             array (
@@ -5798,8 +5798,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:58:57',
-                'updated_at' => '2026-03-17 12:58:57',
+                'created_at' => '2026-03-17 13:58:57',
+                'updated_at' => '2026-03-17 13:58:57',
             ),
             78 => 
             array (
@@ -5808,8 +5808,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:58:57',
-                'updated_at' => '2026-03-17 12:58:57',
+                'created_at' => '2026-03-17 13:58:57',
+                'updated_at' => '2026-03-17 13:58:57',
             ),
             79 => 
             array (
@@ -5818,8 +5818,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:59:36',
-                'updated_at' => '2026-03-17 12:59:36',
+                'created_at' => '2026-03-17 13:59:36',
+                'updated_at' => '2026-03-17 13:59:36',
             ),
             80 => 
             array (
@@ -5828,8 +5828,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 12:59:36',
-                'updated_at' => '2026-03-17 12:59:36',
+                'created_at' => '2026-03-17 13:59:36',
+                'updated_at' => '2026-03-17 13:59:36',
             ),
             81 => 
             array (
@@ -5838,8 +5838,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:03:57',
-                'updated_at' => '2026-03-17 13:03:57',
+                'created_at' => '2026-03-17 14:03:57',
+                'updated_at' => '2026-03-17 14:03:57',
             ),
             82 => 
             array (
@@ -5848,8 +5848,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:03:57',
-                'updated_at' => '2026-03-17 13:03:57',
+                'created_at' => '2026-03-17 14:03:57',
+                'updated_at' => '2026-03-17 14:03:57',
             ),
             83 => 
             array (
@@ -5858,8 +5858,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:05:13',
-                'updated_at' => '2026-03-17 13:05:13',
+                'created_at' => '2026-03-17 14:05:13',
+                'updated_at' => '2026-03-17 14:05:13',
             ),
             84 => 
             array (
@@ -5868,8 +5868,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:05:13',
-                'updated_at' => '2026-03-17 13:05:13',
+                'created_at' => '2026-03-17 14:05:13',
+                'updated_at' => '2026-03-17 14:05:13',
             ),
             85 => 
             array (
@@ -5878,8 +5878,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:09:28',
-                'updated_at' => '2026-03-17 13:09:28',
+                'created_at' => '2026-03-17 14:09:28',
+                'updated_at' => '2026-03-17 14:09:28',
             ),
             86 => 
             array (
@@ -5888,8 +5888,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:09:28',
-                'updated_at' => '2026-03-17 13:09:28',
+                'created_at' => '2026-03-17 14:09:28',
+                'updated_at' => '2026-03-17 14:09:28',
             ),
             87 => 
             array (
@@ -5898,8 +5898,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:10:54',
-                'updated_at' => '2026-03-17 13:10:54',
+                'created_at' => '2026-03-17 14:10:54',
+                'updated_at' => '2026-03-17 14:10:54',
             ),
             88 => 
             array (
@@ -5908,8 +5908,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:10:55',
-                'updated_at' => '2026-03-17 13:10:55',
+                'created_at' => '2026-03-17 14:10:55',
+                'updated_at' => '2026-03-17 14:10:55',
             ),
             89 => 
             array (
@@ -5918,8 +5918,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:11:35',
-                'updated_at' => '2026-03-17 13:11:35',
+                'created_at' => '2026-03-17 14:11:35',
+                'updated_at' => '2026-03-17 14:11:35',
             ),
             90 => 
             array (
@@ -5928,8 +5928,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:11:35',
-                'updated_at' => '2026-03-17 13:11:35',
+                'created_at' => '2026-03-17 14:11:35',
+                'updated_at' => '2026-03-17 14:11:35',
             ),
             91 => 
             array (
@@ -5938,8 +5938,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:12:07',
-                'updated_at' => '2026-03-17 13:12:07',
+                'created_at' => '2026-03-17 14:12:07',
+                'updated_at' => '2026-03-17 14:12:07',
             ),
             92 => 
             array (
@@ -5948,8 +5948,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:12:07',
-                'updated_at' => '2026-03-17 13:12:07',
+                'created_at' => '2026-03-17 14:12:07',
+                'updated_at' => '2026-03-17 14:12:07',
             ),
             93 => 
             array (
@@ -5958,8 +5958,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:12:46',
-                'updated_at' => '2026-03-17 13:12:46',
+                'created_at' => '2026-03-17 14:12:46',
+                'updated_at' => '2026-03-17 14:12:46',
             ),
             94 => 
             array (
@@ -5968,8 +5968,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:12:46',
-                'updated_at' => '2026-03-17 13:12:46',
+                'created_at' => '2026-03-17 14:12:46',
+                'updated_at' => '2026-03-17 14:12:46',
             ),
             95 => 
             array (
@@ -5978,8 +5978,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:13:52',
-                'updated_at' => '2026-03-17 13:13:52',
+                'created_at' => '2026-03-17 14:13:52',
+                'updated_at' => '2026-03-17 14:13:52',
             ),
             96 => 
             array (
@@ -5988,8 +5988,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:13:52',
-                'updated_at' => '2026-03-17 13:13:52',
+                'created_at' => '2026-03-17 14:13:52',
+                'updated_at' => '2026-03-17 14:13:52',
             ),
             97 => 
             array (
@@ -5998,8 +5998,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:16:03',
-                'updated_at' => '2026-03-17 13:16:03',
+                'created_at' => '2026-03-17 14:16:03',
+                'updated_at' => '2026-03-17 14:16:03',
             ),
             98 => 
             array (
@@ -6008,8 +6008,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:16:03',
-                'updated_at' => '2026-03-17 13:16:03',
+                'created_at' => '2026-03-17 14:16:03',
+                'updated_at' => '2026-03-17 14:16:03',
             ),
             99 => 
             array (
@@ -6018,8 +6018,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:16:38',
-                'updated_at' => '2026-03-17 13:16:38',
+                'created_at' => '2026-03-17 14:16:38',
+                'updated_at' => '2026-03-17 14:16:38',
             ),
             100 => 
             array (
@@ -6028,8 +6028,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:16:38',
-                'updated_at' => '2026-03-17 13:16:38',
+                'created_at' => '2026-03-17 14:16:38',
+                'updated_at' => '2026-03-17 14:16:38',
             ),
             101 => 
             array (
@@ -6038,8 +6038,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:17:14',
-                'updated_at' => '2026-03-17 13:17:14',
+                'created_at' => '2026-03-17 14:17:14',
+                'updated_at' => '2026-03-17 14:17:14',
             ),
             102 => 
             array (
@@ -6048,8 +6048,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:17:14',
-                'updated_at' => '2026-03-17 13:17:14',
+                'created_at' => '2026-03-17 14:17:14',
+                'updated_at' => '2026-03-17 14:17:14',
             ),
             103 => 
             array (
@@ -6058,8 +6058,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:18:01',
-                'updated_at' => '2026-03-17 13:18:01',
+                'created_at' => '2026-03-17 14:18:01',
+                'updated_at' => '2026-03-17 14:18:01',
             ),
             104 => 
             array (
@@ -6068,8 +6068,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:18:01',
-                'updated_at' => '2026-03-17 13:18:01',
+                'created_at' => '2026-03-17 14:18:01',
+                'updated_at' => '2026-03-17 14:18:01',
             ),
             105 => 
             array (
@@ -6078,8 +6078,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:19:07',
-                'updated_at' => '2026-03-17 13:19:07',
+                'created_at' => '2026-03-17 14:19:07',
+                'updated_at' => '2026-03-17 14:19:07',
             ),
             106 => 
             array (
@@ -6088,8 +6088,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:19:07',
-                'updated_at' => '2026-03-17 13:19:07',
+                'created_at' => '2026-03-17 14:19:07',
+                'updated_at' => '2026-03-17 14:19:07',
             ),
             107 => 
             array (
@@ -6098,8 +6098,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:33:06',
-                'updated_at' => '2026-03-17 13:33:06',
+                'created_at' => '2026-03-17 14:33:06',
+                'updated_at' => '2026-03-17 14:33:06',
             ),
             108 => 
             array (
@@ -6108,8 +6108,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:33:06',
-                'updated_at' => '2026-03-17 13:33:06',
+                'created_at' => '2026-03-17 14:33:06',
+                'updated_at' => '2026-03-17 14:33:06',
             ),
             109 => 
             array (
@@ -6118,8 +6118,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:33:36',
-                'updated_at' => '2026-03-17 13:33:36',
+                'created_at' => '2026-03-17 14:33:36',
+                'updated_at' => '2026-03-17 14:33:36',
             ),
             110 => 
             array (
@@ -6128,8 +6128,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:33:36',
-                'updated_at' => '2026-03-17 13:33:36',
+                'created_at' => '2026-03-17 14:33:36',
+                'updated_at' => '2026-03-17 14:33:36',
             ),
             111 => 
             array (
@@ -6138,8 +6138,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:34:10',
-                'updated_at' => '2026-03-17 13:34:10',
+                'created_at' => '2026-03-17 14:34:10',
+                'updated_at' => '2026-03-17 14:34:10',
             ),
             112 => 
             array (
@@ -6148,8 +6148,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:34:10',
-                'updated_at' => '2026-03-17 13:34:10',
+                'created_at' => '2026-03-17 14:34:10',
+                'updated_at' => '2026-03-17 14:34:10',
             ),
             113 => 
             array (
@@ -6158,8 +6158,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:35:20',
-                'updated_at' => '2026-03-17 13:35:20',
+                'created_at' => '2026-03-17 14:35:20',
+                'updated_at' => '2026-03-17 14:35:20',
             ),
             114 => 
             array (
@@ -6168,8 +6168,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:35:20',
-                'updated_at' => '2026-03-17 13:35:20',
+                'created_at' => '2026-03-17 14:35:20',
+                'updated_at' => '2026-03-17 14:35:20',
             ),
             115 => 
             array (
@@ -6178,8 +6178,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:36:08',
-                'updated_at' => '2026-03-17 13:36:08',
+                'created_at' => '2026-03-17 14:36:08',
+                'updated_at' => '2026-03-17 14:36:08',
             ),
             116 => 
             array (
@@ -6188,8 +6188,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:36:08',
-                'updated_at' => '2026-03-17 13:36:08',
+                'created_at' => '2026-03-17 14:36:08',
+                'updated_at' => '2026-03-17 14:36:08',
             ),
             117 => 
             array (
@@ -6198,8 +6198,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:37:11',
-                'updated_at' => '2026-03-17 13:37:11',
+                'created_at' => '2026-03-17 14:37:11',
+                'updated_at' => '2026-03-17 14:37:11',
             ),
             118 => 
             array (
@@ -6208,8 +6208,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:37:11',
-                'updated_at' => '2026-03-17 13:37:11',
+                'created_at' => '2026-03-17 14:37:11',
+                'updated_at' => '2026-03-17 14:37:11',
             ),
             119 => 
             array (
@@ -6218,8 +6218,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:38:06',
-                'updated_at' => '2026-03-17 13:38:06',
+                'created_at' => '2026-03-17 14:38:06',
+                'updated_at' => '2026-03-17 14:38:06',
             ),
             120 => 
             array (
@@ -6228,8 +6228,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:38:06',
-                'updated_at' => '2026-03-17 13:38:06',
+                'created_at' => '2026-03-17 14:38:06',
+                'updated_at' => '2026-03-17 14:38:06',
             ),
             121 => 
             array (
@@ -6238,8 +6238,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:39:23',
-                'updated_at' => '2026-03-17 13:39:23',
+                'created_at' => '2026-03-17 14:39:23',
+                'updated_at' => '2026-03-17 14:39:23',
             ),
             122 => 
             array (
@@ -6248,8 +6248,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:39:23',
-                'updated_at' => '2026-03-17 13:39:23',
+                'created_at' => '2026-03-17 14:39:23',
+                'updated_at' => '2026-03-17 14:39:23',
             ),
             123 => 
             array (
@@ -6258,8 +6258,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:40:02',
-                'updated_at' => '2026-03-17 13:40:02',
+                'created_at' => '2026-03-17 14:40:02',
+                'updated_at' => '2026-03-17 14:40:02',
             ),
             124 => 
             array (
@@ -6268,8 +6268,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:40:02',
-                'updated_at' => '2026-03-17 13:40:02',
+                'created_at' => '2026-03-17 14:40:02',
+                'updated_at' => '2026-03-17 14:40:02',
             ),
             125 => 
             array (
@@ -6278,8 +6278,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:40:41',
-                'updated_at' => '2026-03-17 13:40:41',
+                'created_at' => '2026-03-17 14:40:41',
+                'updated_at' => '2026-03-17 14:40:41',
             ),
             126 => 
             array (
@@ -6288,8 +6288,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:40:41',
-                'updated_at' => '2026-03-17 13:40:41',
+                'created_at' => '2026-03-17 14:40:41',
+                'updated_at' => '2026-03-17 14:40:41',
             ),
             127 => 
             array (
@@ -6298,8 +6298,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:43:29',
-                'updated_at' => '2026-03-17 13:43:29',
+                'created_at' => '2026-03-17 14:43:29',
+                'updated_at' => '2026-03-17 14:43:29',
             ),
             128 => 
             array (
@@ -6308,8 +6308,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:43:29',
-                'updated_at' => '2026-03-17 13:43:29',
+                'created_at' => '2026-03-17 14:43:29',
+                'updated_at' => '2026-03-17 14:43:29',
             ),
             129 => 
             array (
@@ -6318,8 +6318,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:44:19',
-                'updated_at' => '2026-03-17 13:44:19',
+                'created_at' => '2026-03-17 14:44:19',
+                'updated_at' => '2026-03-17 14:44:19',
             ),
             130 => 
             array (
@@ -6328,8 +6328,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-17 13:44:19',
-                'updated_at' => '2026-03-17 13:44:19',
+                'created_at' => '2026-03-17 14:44:19',
+                'updated_at' => '2026-03-17 14:44:19',
             ),
             131 => 
             array (
@@ -6338,8 +6338,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:35:59',
-                'updated_at' => '2026-03-18 08:35:59',
+                'created_at' => '2026-03-18 09:35:59',
+                'updated_at' => '2026-03-18 09:35:59',
             ),
             132 => 
             array (
@@ -6348,8 +6348,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasakë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:35:59',
-                'updated_at' => '2026-03-18 08:35:59',
+                'created_at' => '2026-03-18 09:35:59',
+                'updated_at' => '2026-03-18 09:35:59',
             ),
             133 => 
             array (
@@ -6358,8 +6358,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:36:54',
-                'updated_at' => '2026-03-18 08:36:54',
+                'created_at' => '2026-03-18 09:36:54',
+                'updated_at' => '2026-03-18 09:36:54',
             ),
             134 => 
             array (
@@ -6368,8 +6368,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:36:54',
-                'updated_at' => '2026-03-18 08:36:54',
+                'created_at' => '2026-03-18 09:36:54',
+                'updated_at' => '2026-03-18 09:36:54',
             ),
             135 => 
             array (
@@ -6378,8 +6378,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:37:57',
-                'updated_at' => '2026-03-18 08:37:57',
+                'created_at' => '2026-03-18 09:37:57',
+                'updated_at' => '2026-03-18 09:37:57',
             ),
             136 => 
             array (
@@ -6388,8 +6388,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:37:57',
-                'updated_at' => '2026-03-18 08:37:57',
+                'created_at' => '2026-03-18 09:37:57',
+                'updated_at' => '2026-03-18 09:37:57',
             ),
             137 => 
             array (
@@ -6398,8 +6398,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:38:43',
-                'updated_at' => '2026-03-18 08:38:43',
+                'created_at' => '2026-03-18 09:38:43',
+                'updated_at' => '2026-03-18 09:38:43',
             ),
             138 => 
             array (
@@ -6408,8 +6408,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:38:43',
-                'updated_at' => '2026-03-18 08:38:43',
+                'created_at' => '2026-03-18 09:38:43',
+                'updated_at' => '2026-03-18 09:38:43',
             ),
             139 => 
             array (
@@ -6418,8 +6418,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:39:31',
-                'updated_at' => '2026-03-18 08:39:31',
+                'created_at' => '2026-03-18 09:39:31',
+                'updated_at' => '2026-03-18 09:39:31',
             ),
             140 => 
             array (
@@ -6428,8 +6428,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:39:31',
-                'updated_at' => '2026-03-18 08:39:31',
+                'created_at' => '2026-03-18 09:39:31',
+                'updated_at' => '2026-03-18 09:39:31',
             ),
             141 => 
             array (
@@ -6438,8 +6438,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:40:14',
-                'updated_at' => '2026-03-18 08:40:14',
+                'created_at' => '2026-03-18 09:40:14',
+                'updated_at' => '2026-03-18 09:40:14',
             ),
             142 => 
             array (
@@ -6448,8 +6448,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:40:14',
-                'updated_at' => '2026-03-18 08:40:14',
+                'created_at' => '2026-03-18 09:40:14',
+                'updated_at' => '2026-03-18 09:40:14',
             ),
             143 => 
             array (
@@ -6458,8 +6458,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:40:55',
-                'updated_at' => '2026-03-18 08:40:55',
+                'created_at' => '2026-03-18 09:40:55',
+                'updated_at' => '2026-03-18 09:40:55',
             ),
             144 => 
             array (
@@ -6468,8 +6468,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:40:55',
-                'updated_at' => '2026-03-18 08:40:55',
+                'created_at' => '2026-03-18 09:40:55',
+                'updated_at' => '2026-03-18 09:40:55',
             ),
             145 => 
             array (
@@ -6478,8 +6478,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:42:09',
-                'updated_at' => '2026-03-18 08:42:09',
+                'created_at' => '2026-03-18 09:42:09',
+                'updated_at' => '2026-03-18 09:42:09',
             ),
             146 => 
             array (
@@ -6488,8 +6488,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:42:09',
-                'updated_at' => '2026-03-18 08:42:09',
+                'created_at' => '2026-03-18 09:42:09',
+                'updated_at' => '2026-03-18 09:42:09',
             ),
             147 => 
             array (
@@ -6498,8 +6498,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:43:09',
-                'updated_at' => '2026-03-18 08:43:09',
+                'created_at' => '2026-03-18 09:43:09',
+                'updated_at' => '2026-03-18 09:43:09',
             ),
             148 => 
             array (
@@ -6508,8 +6508,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:43:09',
-                'updated_at' => '2026-03-18 08:43:09',
+                'created_at' => '2026-03-18 09:43:09',
+                'updated_at' => '2026-03-18 09:43:09',
             ),
             149 => 
             array (
@@ -6518,8 +6518,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:43:49',
-                'updated_at' => '2026-03-18 08:43:49',
+                'created_at' => '2026-03-18 09:43:49',
+                'updated_at' => '2026-03-18 09:43:49',
             ),
             150 => 
             array (
@@ -6528,8 +6528,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:43:49',
-                'updated_at' => '2026-03-18 08:43:49',
+                'created_at' => '2026-03-18 09:43:49',
+                'updated_at' => '2026-03-18 09:43:49',
             ),
             151 => 
             array (
@@ -6538,8 +6538,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:44:51',
-                'updated_at' => '2026-03-18 08:44:51',
+                'created_at' => '2026-03-18 09:44:51',
+                'updated_at' => '2026-03-18 09:44:51',
             ),
             152 => 
             array (
@@ -6548,8 +6548,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:44:51',
-                'updated_at' => '2026-03-18 08:44:51',
+                'created_at' => '2026-03-18 09:44:51',
+                'updated_at' => '2026-03-18 09:44:51',
             ),
             153 => 
             array (
@@ -6558,8 +6558,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:45:35',
-                'updated_at' => '2026-03-18 08:45:35',
+                'created_at' => '2026-03-18 09:45:35',
+                'updated_at' => '2026-03-18 09:45:35',
             ),
             154 => 
             array (
@@ -6568,8 +6568,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:45:35',
-                'updated_at' => '2026-03-18 08:45:35',
+                'created_at' => '2026-03-18 09:45:35',
+                'updated_at' => '2026-03-18 09:45:35',
             ),
             155 => 
             array (
@@ -6578,8 +6578,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:46:14',
-                'updated_at' => '2026-03-18 08:46:14',
+                'created_at' => '2026-03-18 09:46:14',
+                'updated_at' => '2026-03-18 09:46:14',
             ),
             156 => 
             array (
@@ -6588,8 +6588,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:46:14',
-                'updated_at' => '2026-03-18 08:46:14',
+                'created_at' => '2026-03-18 09:46:14',
+                'updated_at' => '2026-03-18 09:46:14',
             ),
             157 => 
             array (
@@ -6598,8 +6598,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:46:45',
-                'updated_at' => '2026-03-18 08:46:45',
+                'created_at' => '2026-03-18 09:46:45',
+                'updated_at' => '2026-03-18 09:46:45',
             ),
             158 => 
             array (
@@ -6608,8 +6608,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:46:45',
-                'updated_at' => '2026-03-18 08:46:45',
+                'created_at' => '2026-03-18 09:46:45',
+                'updated_at' => '2026-03-18 09:46:45',
             ),
             159 => 
             array (
@@ -6618,8 +6618,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:47:25',
-                'updated_at' => '2026-03-18 08:47:25',
+                'created_at' => '2026-03-18 09:47:25',
+                'updated_at' => '2026-03-18 09:47:25',
             ),
             160 => 
             array (
@@ -6628,8 +6628,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:47:25',
-                'updated_at' => '2026-03-18 08:47:25',
+                'created_at' => '2026-03-18 09:47:25',
+                'updated_at' => '2026-03-18 09:47:25',
             ),
             161 => 
             array (
@@ -6638,8 +6638,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:48:11',
-                'updated_at' => '2026-03-18 08:48:11',
+                'created_at' => '2026-03-18 09:48:11',
+                'updated_at' => '2026-03-18 09:48:11',
             ),
             162 => 
             array (
@@ -6648,8 +6648,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:48:11',
-                'updated_at' => '2026-03-18 08:48:11',
+                'created_at' => '2026-03-18 09:48:11',
+                'updated_at' => '2026-03-18 09:48:11',
             ),
             163 => 
             array (
@@ -6658,8 +6658,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:48:42',
-                'updated_at' => '2026-03-18 08:48:42',
+                'created_at' => '2026-03-18 09:48:42',
+                'updated_at' => '2026-03-18 09:48:42',
             ),
             164 => 
             array (
@@ -6668,8 +6668,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:48:42',
-                'updated_at' => '2026-03-18 08:48:42',
+                'created_at' => '2026-03-18 09:48:42',
+                'updated_at' => '2026-03-18 09:48:42',
             ),
             165 => 
             array (
@@ -6678,8 +6678,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:49:20',
-                'updated_at' => '2026-03-18 08:49:20',
+                'created_at' => '2026-03-18 09:49:20',
+                'updated_at' => '2026-03-18 09:49:20',
             ),
             166 => 
             array (
@@ -6688,8 +6688,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:49:20',
-                'updated_at' => '2026-03-18 08:49:20',
+                'created_at' => '2026-03-18 09:49:20',
+                'updated_at' => '2026-03-18 09:49:20',
             ),
             167 => 
             array (
@@ -6698,8 +6698,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:50:15',
-                'updated_at' => '2026-03-18 08:50:15',
+                'created_at' => '2026-03-18 09:50:15',
+                'updated_at' => '2026-03-18 09:50:15',
             ),
             168 => 
             array (
@@ -6708,8 +6708,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:50:15',
-                'updated_at' => '2026-03-18 08:50:15',
+                'created_at' => '2026-03-18 09:50:15',
+                'updated_at' => '2026-03-18 09:50:15',
             ),
             169 => 
             array (
@@ -6718,8 +6718,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:51:08',
-                'updated_at' => '2026-03-18 08:51:08',
+                'created_at' => '2026-03-18 09:51:08',
+                'updated_at' => '2026-03-18 09:51:08',
             ),
             170 => 
             array (
@@ -6728,8 +6728,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:51:08',
-                'updated_at' => '2026-03-18 08:51:08',
+                'created_at' => '2026-03-18 09:51:08',
+                'updated_at' => '2026-03-18 09:51:08',
             ),
             171 => 
             array (
@@ -6738,8 +6738,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Jo',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:52:02',
-                'updated_at' => '2026-03-18 08:52:02',
+                'created_at' => '2026-03-18 09:52:02',
+                'updated_at' => '2026-03-18 09:52:02',
             ),
             172 => 
             array (
@@ -6748,8 +6748,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Po',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:52:02',
-                'updated_at' => '2026-03-18 08:52:02',
+                'created_at' => '2026-03-18 09:52:02',
+                'updated_at' => '2026-03-18 09:52:02',
             ),
             173 => 
             array (
@@ -6758,8 +6758,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim kalim për këmbësorë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:53:01',
-                'updated_at' => '2026-03-18 08:53:01',
+                'created_at' => '2026-03-18 09:53:01',
+                'updated_at' => '2026-03-18 09:53:01',
             ),
             174 => 
             array (
@@ -6768,8 +6768,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kalimi lirë për këmbësorë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:53:01',
-                'updated_at' => '2026-03-18 08:53:01',
+                'created_at' => '2026-03-18 09:53:01',
+                'updated_at' => '2026-03-18 09:53:01',
             ),
             175 => 
             array (
@@ -6778,8 +6778,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Semafori nuk punon.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:53:01',
-                'updated_at' => '2026-03-18 08:53:01',
+                'created_at' => '2026-03-18 09:53:01',
+                'updated_at' => '2026-03-18 09:53:01',
             ),
             176 => 
             array (
@@ -6788,8 +6788,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lëvizjën nëpër shiritin 3 dhe 4 e kam të lejuar.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:54:21',
-                'updated_at' => '2026-03-18 08:54:21',
+                'created_at' => '2026-03-18 09:54:21',
+                'updated_at' => '2026-03-18 09:54:21',
             ),
             177 => 
             array (
@@ -6798,8 +6798,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Unë jam i obliguar nga shiriti 2 të kaloj në shiritin 1.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:54:21',
-                'updated_at' => '2026-03-18 08:54:21',
+                'created_at' => '2026-03-18 09:54:21',
+                'updated_at' => '2026-03-18 09:54:21',
             ),
             178 => 
             array (
@@ -6808,8 +6808,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Unë mund ta shfrytëzoj cilin do shirit për lëvizje.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:54:21',
-                'updated_at' => '2026-03-18 08:54:21',
+                'created_at' => '2026-03-18 09:54:21',
+                'updated_at' => '2026-03-18 09:54:21',
             ),
             179 => 
             array (
@@ -6818,8 +6818,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim kalimi, përveç mjeteve të cilat nuk mund të ndalen në mënë të sigurt para semaforit.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:55:19',
-                'updated_at' => '2026-03-18 08:55:19',
+                'created_at' => '2026-03-18 09:55:19',
+                'updated_at' => '2026-03-18 09:55:19',
             ),
             180 => 
             array (
@@ -6828,8 +6828,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kalim i lirë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:55:19',
-                'updated_at' => '2026-03-18 08:55:19',
+                'created_at' => '2026-03-18 09:55:19',
+                'updated_at' => '2026-03-18 09:55:19',
             ),
             181 => 
             array (
@@ -6838,8 +6838,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të jenë të ndezur të gjithë treguesit drejtimit në automjet.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:55:19',
-                'updated_at' => '2026-03-18 08:55:19',
+                'created_at' => '2026-03-18 09:55:19',
+                'updated_at' => '2026-03-18 09:55:19',
             ),
             182 => 
             array (
@@ -6848,8 +6848,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Paralajmëron shoferin se së shpejti do të përfundojë kalimi i lirë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:56:19',
-                'updated_at' => '2026-03-18 08:56:19',
+                'created_at' => '2026-03-18 09:56:19',
+                'updated_at' => '2026-03-18 09:56:19',
             ),
             183 => 
             array (
@@ -6858,8 +6858,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalje e menjëhershme.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:56:19',
-                'updated_at' => '2026-03-18 08:56:19',
+                'created_at' => '2026-03-18 09:56:19',
+                'updated_at' => '2026-03-18 09:56:19',
             ),
             184 => 
             array (
@@ -6868,8 +6868,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Semafori nuk funksionon.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 08:56:19',
-                'updated_at' => '2026-03-18 08:56:19',
+                'created_at' => '2026-03-18 09:56:19',
+                'updated_at' => '2026-03-18 09:56:19',
             ),
             185 => 
             array (
@@ -6878,8 +6878,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/0hNkbQ6tXqKJftrsp4ibJZHVgOSceQxwN1Lplpp3.png',
-                'created_at' => '2026-03-18 09:04:17',
-                'updated_at' => '2026-03-18 09:04:17',
+                'created_at' => '2026-03-18 10:04:17',
+                'updated_at' => '2026-03-18 10:04:17',
             ),
             186 => 
             array (
@@ -6888,8 +6888,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 1,
                 'image' => 'answers/OUmlMf5eEM8zFneB07pgO56Q3clniUjtDe9K4jIH.png',
-                'created_at' => '2026-03-18 09:04:17',
-                'updated_at' => '2026-03-18 09:04:17',
+                'created_at' => '2026-03-18 10:04:17',
+                'updated_at' => '2026-03-18 10:04:17',
             ),
             187 => 
             array (
@@ -6898,8 +6898,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/XawEl7PX9AwhHz6reqSBK4aOaZtfS07yr4YxpX8a.png',
-                'created_at' => '2026-03-18 09:04:17',
-                'updated_at' => '2026-03-18 09:04:17',
+                'created_at' => '2026-03-18 10:04:17',
+                'updated_at' => '2026-03-18 10:04:17',
             ),
             188 => 
             array (
@@ -6908,8 +6908,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 0,
                 'image' => 'answers/nX3RiUwPOiTkqguQj2Yr4ypsD1B2GfUV1Uiv0mXE.png',
-                'created_at' => '2026-03-18 09:05:41',
-                'updated_at' => '2026-03-18 09:05:41',
+                'created_at' => '2026-03-18 10:05:41',
+                'updated_at' => '2026-03-18 10:05:41',
             ),
             189 => 
             array (
@@ -6918,8 +6918,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/Pcyun4ZPgvl606wVUcWlO3TGu0RsQ8XOovobwcxD.png',
-                'created_at' => '2026-03-18 09:05:41',
-                'updated_at' => '2026-03-18 09:05:41',
+                'created_at' => '2026-03-18 10:05:41',
+                'updated_at' => '2026-03-18 10:05:41',
             ),
             190 => 
             array (
@@ -6928,8 +6928,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 1,
                 'image' => 'answers/MjE6Vzoa3It7zUqjKGZJ0VJyZnZwqjt0UoVs9Hjm.png',
-                'created_at' => '2026-03-18 09:05:41',
-                'updated_at' => '2026-03-18 09:05:41',
+                'created_at' => '2026-03-18 10:05:41',
+                'updated_at' => '2026-03-18 10:05:41',
             ),
             191 => 
             array (
@@ -6938,8 +6938,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'A',
                 'is_correct' => 1,
                 'image' => 'answers/LgyuXliX6TVzSdEpIeIYZs8g8WIjFxtJgWSCYKJM.png',
-                'created_at' => '2026-03-18 09:06:50',
-                'updated_at' => '2026-03-18 09:06:50',
+                'created_at' => '2026-03-18 10:06:50',
+                'updated_at' => '2026-03-18 10:06:50',
             ),
             192 => 
             array (
@@ -6948,8 +6948,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'B',
                 'is_correct' => 0,
                 'image' => 'answers/X1A50c1YgF37Sc2dnLwz48TMLjYn5sPgbpm2goOY.png',
-                'created_at' => '2026-03-18 09:06:50',
-                'updated_at' => '2026-03-18 09:06:50',
+                'created_at' => '2026-03-18 10:06:50',
+                'updated_at' => '2026-03-18 10:06:50',
             ),
             193 => 
             array (
@@ -6958,8 +6958,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'C',
                 'is_correct' => 0,
                 'image' => 'answers/qcE9RRrM3LIGSLRv4eo7f9GgBDPZATRjPF4jwISe.png',
-                'created_at' => '2026-03-18 09:06:51',
-                'updated_at' => '2026-03-18 09:06:51',
+                'created_at' => '2026-03-18 10:06:51',
+                'updated_at' => '2026-03-18 10:06:51',
             ),
             194 => 
             array (
@@ -6968,8 +6968,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit e trafikut duhet ta shpejtojnë lëvizjen e mjetit të tyre.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:07:53',
-                'updated_at' => '2026-03-18 09:23:58',
+                'created_at' => '2026-03-18 10:07:53',
+                'updated_at' => '2026-03-18 10:23:58',
             ),
             195 => 
             array (
@@ -6978,8 +6978,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarësit e trafikut duhet ta ngadalsojnë lëvizjen e mjetit të tyre.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:07:53',
-                'updated_at' => '2026-03-18 09:23:58',
+                'created_at' => '2026-03-18 10:07:53',
+                'updated_at' => '2026-03-18 10:23:58',
             ),
             196 => 
             array (
@@ -6988,8 +6988,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit e trafikut duhet ta ndalin mjetin e tyre.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:07:53',
-                'updated_at' => '2026-03-18 09:23:58',
+                'created_at' => '2026-03-18 10:07:53',
+                'updated_at' => '2026-03-18 10:23:58',
             ),
             197 => 
             array (
@@ -6998,8 +6998,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që vijjnë nga krahu i djathtë i policit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:08:47',
-                'updated_at' => '2026-03-18 09:24:12',
+                'created_at' => '2026-03-18 10:08:47',
+                'updated_at' => '2026-03-18 10:24:12',
             ),
             198 => 
             array (
@@ -7008,8 +7008,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet që vijnë nga krahu i majtë i policit.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:08:47',
-                'updated_at' => '2026-03-18 09:24:12',
+                'created_at' => '2026-03-18 10:08:47',
+                'updated_at' => '2026-03-18 10:24:12',
             ),
             199 => 
             array (
@@ -7018,8 +7018,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mjetet të cilat vijnë përballë dhe prapa shpinës së policit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:08:47',
-                'updated_at' => '2026-03-18 09:24:12',
+                'created_at' => '2026-03-18 10:08:47',
+                'updated_at' => '2026-03-18 10:24:12',
             ),
             200 => 
             array (
@@ -7028,8 +7028,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit e trafikut duhet të lëvizin me kujdes të shtuar.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:16:00',
-                'updated_at' => '2026-03-18 09:25:08',
+                'created_at' => '2026-03-18 10:16:00',
+                'updated_at' => '2026-03-18 10:25:08',
             ),
             201 => 
             array (
@@ -7038,8 +7038,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Urdhëresa e policit vlen vetëm për motoçikleta.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:16:00',
-                'updated_at' => '2026-03-18 09:25:08',
+                'created_at' => '2026-03-18 10:16:00',
+                'updated_at' => '2026-03-18 10:25:08',
             ),
             202 => 
             array (
@@ -7048,8 +7048,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim kalimi për të gjithë pjesëmarrësit në trafik.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:16:00',
-                'updated_at' => '2026-03-18 09:25:08',
+                'created_at' => '2026-03-18 10:16:00',
+                'updated_at' => '2026-03-18 10:25:08',
             ),
             203 => 
             array (
@@ -7058,8 +7058,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të vazhdoj lëvizjen me shpejtësi të rritur që mos të pengoj automjetin.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:17:08',
-                'updated_at' => '2026-03-18 09:24:21',
+                'created_at' => '2026-03-18 10:17:08',
+                'updated_at' => '2026-03-18 10:24:21',
             ),
             204 => 
             array (
@@ -7068,8 +7068,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet ti ndezi të gjithë treguesit e drejtimit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:17:08',
-                'updated_at' => '2026-03-18 09:24:21',
+                'created_at' => '2026-03-18 10:17:08',
+                'updated_at' => '2026-03-18 10:24:21',
             ),
             205 => 
             array (
@@ -7078,8 +7078,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të skajohem në skajin e rrugës dhe do të ndalem.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:17:08',
-                'updated_at' => '2026-03-18 09:24:21',
+                'created_at' => '2026-03-18 10:17:08',
+                'updated_at' => '2026-03-18 10:24:21',
             ),
             206 => 
             array (
@@ -7088,8 +7088,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim kalimi për të gjithë pjesëmarrësit në trafik.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:18:31',
-                'updated_at' => '2026-03-18 09:24:31',
+                'created_at' => '2026-03-18 10:18:31',
+                'updated_at' => '2026-03-18 10:24:31',
             ),
             207 => 
             array (
@@ -7098,8 +7098,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim kalimi vetëm për këmbësorë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:18:31',
-                'updated_at' => '2026-03-18 09:24:31',
+                'created_at' => '2026-03-18 10:18:31',
+                'updated_at' => '2026-03-18 10:24:31',
             ),
             208 => 
             array (
@@ -7108,8 +7108,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kalim i lirë për të gjithë pjesëmarrsit në trafik.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:18:31',
-                'updated_at' => '2026-03-18 09:24:31',
+                'created_at' => '2026-03-18 10:18:31',
+                'updated_at' => '2026-03-18 10:24:31',
             ),
             209 => 
             array (
@@ -7118,8 +7118,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit që lëvizin në drejtim të krahëve.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:20:50',
-                'updated_at' => '2026-03-18 09:24:42',
+                'created_at' => '2026-03-18 10:20:50',
+                'updated_at' => '2026-03-18 10:24:42',
             ),
             210 => 
             array (
@@ -7128,8 +7128,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit që lëvizin në drejtim të shpinës.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:20:50',
-                'updated_at' => '2026-03-18 09:24:42',
+                'created_at' => '2026-03-18 10:20:50',
+                'updated_at' => '2026-03-18 10:24:42',
             ),
             211 => 
             array (
@@ -7138,8 +7138,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pjesëmarrësit që lëvizin në drejtim të gjoksit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:20:50',
-                'updated_at' => '2026-03-18 09:24:42',
+                'created_at' => '2026-03-18 10:20:50',
+                'updated_at' => '2026-03-18 10:24:42',
             ),
             212 => 
             array (
@@ -7148,8 +7148,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kamioni duhet ndezë të gjithë treguesit e drejtimit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:21:36',
-                'updated_at' => '2026-03-18 09:24:52',
+                'created_at' => '2026-03-18 10:21:36',
+                'updated_at' => '2026-03-18 10:24:52',
             ),
             213 => 
             array (
@@ -7158,8 +7158,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kamioni e ka kalimin e lirë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:21:36',
-                'updated_at' => '2026-03-18 09:24:52',
+                'created_at' => '2026-03-18 10:21:36',
+                'updated_at' => '2026-03-18 10:24:52',
             ),
             214 => 
             array (
@@ -7168,8 +7168,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kamioni e ka kalimin e ndaluar.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:21:36',
-                'updated_at' => '2026-03-18 09:24:52',
+                'created_at' => '2026-03-18 10:21:36',
+                'updated_at' => '2026-03-18 10:24:52',
             ),
             215 => 
             array (
@@ -7178,8 +7178,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Djathtas, drejt dhe majtas.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:22:32',
-                'updated_at' => '2026-03-18 09:25:00',
+                'created_at' => '2026-03-18 10:22:32',
+                'updated_at' => '2026-03-18 10:25:00',
             ),
             216 => 
             array (
@@ -7188,8 +7188,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vetëm djathtas.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:22:32',
-                'updated_at' => '2026-03-18 09:25:00',
+                'created_at' => '2026-03-18 10:22:32',
+                'updated_at' => '2026-03-18 10:25:00',
             ),
             217 => 
             array (
@@ -7198,8 +7198,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vetëm majtas.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:22:32',
-                'updated_at' => '2026-03-18 09:25:00',
+                'created_at' => '2026-03-18 10:22:32',
+                'updated_at' => '2026-03-18 10:25:00',
             ),
             218 => 
             array (
@@ -7208,8 +7208,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejon tejkalimin.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:27:19',
-                'updated_at' => '2026-03-18 09:27:19',
+                'created_at' => '2026-03-18 10:27:19',
+                'updated_at' => '2026-03-18 10:27:19',
             ),
             219 => 
             array (
@@ -7218,8 +7218,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Rrugën pa dalje.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:27:19',
-                'updated_at' => '2026-03-18 09:27:19',
+                'created_at' => '2026-03-18 10:27:19',
+                'updated_at' => '2026-03-18 10:27:19',
             ),
             220 => 
             array (
@@ -7228,8 +7228,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalon tejkalimin.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:27:19',
-                'updated_at' => '2026-03-18 09:27:19',
+                'created_at' => '2026-03-18 10:27:19',
+                'updated_at' => '2026-03-18 10:27:19',
             ),
             221 => 
             array (
@@ -7238,8 +7238,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejon tejkalimin e automjeteve.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:28:05',
-                'updated_at' => '2026-03-18 09:28:05',
+                'created_at' => '2026-03-18 10:28:05',
+                'updated_at' => '2026-03-18 10:28:05',
             ),
             222 => 
             array (
@@ -7248,8 +7248,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendin ku duhet të ndalet automjeti.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:28:05',
-                'updated_at' => '2026-03-18 09:28:05',
+                'created_at' => '2026-03-18 10:28:05',
+                'updated_at' => '2026-03-18 10:28:05',
             ),
             223 => 
             array (
@@ -7258,8 +7258,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalon tejkalimin e automjeteve.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:28:05',
-                'updated_at' => '2026-03-18 09:28:05',
+                'created_at' => '2026-03-18 10:28:05',
+                'updated_at' => '2026-03-18 10:28:05',
             ),
             224 => 
             array (
@@ -7268,8 +7268,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejon tejkalimin nga dy anët.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:29:22',
-                'updated_at' => '2026-03-18 09:30:40',
+                'created_at' => '2026-03-18 10:29:22',
+                'updated_at' => '2026-03-18 10:30:40',
             ),
             225 => 
             array (
@@ -7278,8 +7278,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalim tejkalimi nga ana ku shtrihet vija gjatësore e plotë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:29:22',
-                'updated_at' => '2026-03-18 09:30:40',
+                'created_at' => '2026-03-18 10:29:22',
+                'updated_at' => '2026-03-18 10:30:40',
             ),
             226 => 
             array (
@@ -7288,8 +7288,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendin ku ngushtohet rruga.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:29:22',
-                'updated_at' => '2026-03-18 09:30:40',
+                'created_at' => '2026-03-18 10:29:22',
+                'updated_at' => '2026-03-18 10:30:40',
             ),
             227 => 
             array (
@@ -7298,8 +7298,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përfundimin e rrugës publike.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:30:25',
-                'updated_at' => '2026-03-18 09:30:48',
+                'created_at' => '2026-03-18 10:30:25',
+                'updated_at' => '2026-03-18 10:30:48',
             ),
             228 => 
             array (
@@ -7308,8 +7308,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalon kalimin e mjeteve mbi vija.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:30:25',
-                'updated_at' => '2026-03-18 09:30:49',
+                'created_at' => '2026-03-18 10:30:25',
+                'updated_at' => '2026-03-18 10:30:49',
             ),
             229 => 
             array (
@@ -7318,8 +7318,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejohet tejkalimi mbi vija.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:30:25',
-                'updated_at' => '2026-03-18 09:30:49',
+                'created_at' => '2026-03-18 10:30:25',
+                'updated_at' => '2026-03-18 10:30:49',
             ),
             230 => 
             array (
@@ -7328,8 +7328,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të ndalem para vijës ndalëse.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:00',
-                'updated_at' => '2026-03-18 09:32:00',
+                'created_at' => '2026-03-18 10:32:00',
+                'updated_at' => '2026-03-18 10:32:00',
             ),
             231 => 
             array (
@@ -7338,8 +7338,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjën me kujdes pa u ndalur.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:00',
-                'updated_at' => '2026-03-18 09:32:00',
+                'created_at' => '2026-03-18 10:32:00',
+                'updated_at' => '2026-03-18 10:32:00',
             ),
             232 => 
             array (
@@ -7348,8 +7348,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndërroj shiritin e trafikut.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:00',
-                'updated_at' => '2026-03-18 09:32:00',
+                'created_at' => '2026-03-18 10:32:00',
+                'updated_at' => '2026-03-18 10:32:00',
             ),
             233 => 
             array (
@@ -7358,8 +7358,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet të ndalem para vijës tërthore.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:48',
-                'updated_at' => '2026-03-18 09:32:48',
+                'created_at' => '2026-03-18 10:32:48',
+                'updated_at' => '2026-03-18 10:32:48',
             ),
             234 => 
             array (
@@ -7368,8 +7368,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Do të vazhdoj lëvizjën me kujdes të shtuar dhe sipas nevojës do të ndalem.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:48',
-                'updated_at' => '2026-03-18 09:32:48',
+                'created_at' => '2026-03-18 10:32:48',
+                'updated_at' => '2026-03-18 10:32:48',
             ),
             235 => 
             array (
@@ -7378,8 +7378,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Duhet ti ndezi të gjithë treguesit e drejtimit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:32:48',
-                'updated_at' => '2026-03-18 09:32:48',
+                'created_at' => '2026-03-18 10:32:48',
+                'updated_at' => '2026-03-18 10:32:48',
             ),
             236 => 
             array (
@@ -7388,8 +7388,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejon tejkalimin nga dy anët.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:33:32',
-                'updated_at' => '2026-03-18 09:33:32',
+                'created_at' => '2026-03-18 10:33:32',
+                'updated_at' => '2026-03-18 10:33:32',
             ),
             237 => 
             array (
@@ -7398,8 +7398,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Lejon tejkalimi nga ana ku shtrihet vija gjatësore e ndërprerë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:33:32',
-                'updated_at' => '2026-03-18 09:33:32',
+                'created_at' => '2026-03-18 10:33:32',
+                'updated_at' => '2026-03-18 10:33:32',
             ),
             238 => 
             array (
@@ -7408,8 +7408,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vendin ku ngushtohet rruga.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:33:32',
-                'updated_at' => '2026-03-18 09:33:32',
+                'created_at' => '2026-03-18 10:33:32',
+                'updated_at' => '2026-03-18 10:33:32',
             ),
             239 => 
             array (
@@ -7418,8 +7418,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fillimin e ngushtimit të rrugës nga dy anët.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:34:16',
-                'updated_at' => '2026-03-18 09:34:16',
+                'created_at' => '2026-03-18 10:34:16',
+                'updated_at' => '2026-03-18 10:34:16',
             ),
             240 => 
             array (
@@ -7428,8 +7428,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndarjen e shiritave të trafikut.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:34:16',
-                'updated_at' => '2026-03-18 09:34:16',
+                'created_at' => '2026-03-18 10:34:16',
+                'updated_at' => '2026-03-18 10:34:16',
             ),
             241 => 
             array (
@@ -7438,8 +7438,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalon tejkalimin.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:34:16',
-                'updated_at' => '2026-03-18 09:34:16',
+                'created_at' => '2026-03-18 10:34:16',
+                'updated_at' => '2026-03-18 10:34:16',
             ),
             242 => 
             array (
@@ -7448,8 +7448,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:36:05',
-                'updated_at' => '2026-03-18 09:36:05',
+                'created_at' => '2026-03-18 10:36:05',
+                'updated_at' => '2026-03-18 10:36:05',
             ),
             243 => 
             array (
@@ -7458,8 +7458,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:36:05',
-                'updated_at' => '2026-03-18 09:36:05',
+                'created_at' => '2026-03-18 10:36:05',
+                'updated_at' => '2026-03-18 10:36:05',
             ),
             244 => 
             array (
@@ -7468,8 +7468,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:36:42',
-                'updated_at' => '2026-03-18 09:36:42',
+                'created_at' => '2026-03-18 10:36:42',
+                'updated_at' => '2026-03-18 10:36:42',
             ),
             245 => 
             array (
@@ -7478,8 +7478,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:36:42',
-                'updated_at' => '2026-03-18 09:36:42',
+                'created_at' => '2026-03-18 10:36:42',
+                'updated_at' => '2026-03-18 10:36:42',
             ),
             246 => 
             array (
@@ -7488,8 +7488,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:37:17',
-                'updated_at' => '2026-03-18 09:37:17',
+                'created_at' => '2026-03-18 10:37:17',
+                'updated_at' => '2026-03-18 10:37:17',
             ),
             247 => 
             array (
@@ -7498,8 +7498,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:37:17',
-                'updated_at' => '2026-03-18 09:37:17',
+                'created_at' => '2026-03-18 10:37:17',
+                'updated_at' => '2026-03-18 10:37:17',
             ),
             248 => 
             array (
@@ -7508,8 +7508,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:38:09',
-                'updated_at' => '2026-03-18 09:38:09',
+                'created_at' => '2026-03-18 10:38:09',
+                'updated_at' => '2026-03-18 10:38:09',
             ),
             249 => 
             array (
@@ -7518,8 +7518,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:38:09',
-                'updated_at' => '2026-03-18 09:38:09',
+                'created_at' => '2026-03-18 10:38:09',
+                'updated_at' => '2026-03-18 10:38:09',
             ),
             250 => 
             array (
@@ -7528,8 +7528,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:55:24',
-                'updated_at' => '2026-03-18 09:55:24',
+                'created_at' => '2026-03-18 10:55:24',
+                'updated_at' => '2026-03-18 10:55:24',
             ),
             251 => 
             array (
@@ -7538,8 +7538,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:55:24',
-                'updated_at' => '2026-03-18 09:55:24',
+                'created_at' => '2026-03-18 10:55:24',
+                'updated_at' => '2026-03-18 10:55:24',
             ),
             252 => 
             array (
@@ -7548,8 +7548,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:56:36',
-                'updated_at' => '2026-03-18 09:56:36',
+                'created_at' => '2026-03-18 10:56:36',
+                'updated_at' => '2026-03-18 10:56:36',
             ),
             253 => 
             array (
@@ -7558,8 +7558,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:56:36',
-                'updated_at' => '2026-03-18 09:56:36',
+                'created_at' => '2026-03-18 10:56:36',
+                'updated_at' => '2026-03-18 10:56:36',
             ),
             254 => 
             array (
@@ -7568,8 +7568,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:57:32',
-                'updated_at' => '2026-03-18 09:57:32',
+                'created_at' => '2026-03-18 10:57:32',
+                'updated_at' => '2026-03-18 10:57:32',
             ),
             255 => 
             array (
@@ -7578,8 +7578,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:57:32',
-                'updated_at' => '2026-03-18 09:57:32',
+                'created_at' => '2026-03-18 10:57:32',
+                'updated_at' => '2026-03-18 10:57:32',
             ),
             256 => 
             array (
@@ -7588,8 +7588,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:58:25',
-                'updated_at' => '2026-03-18 09:58:25',
+                'created_at' => '2026-03-18 10:58:25',
+                'updated_at' => '2026-03-18 10:58:25',
             ),
             257 => 
             array (
@@ -7598,8 +7598,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:58:25',
-                'updated_at' => '2026-03-18 09:58:25',
+                'created_at' => '2026-03-18 10:58:25',
+                'updated_at' => '2026-03-18 10:58:25',
             ),
             258 => 
             array (
@@ -7608,8 +7608,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:59:09',
-                'updated_at' => '2026-03-18 09:59:09',
+                'created_at' => '2026-03-18 10:59:09',
+                'updated_at' => '2026-03-18 10:59:09',
             ),
             259 => 
             array (
@@ -7618,8 +7618,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:59:09',
-                'updated_at' => '2026-03-18 09:59:09',
+                'created_at' => '2026-03-18 10:59:09',
+                'updated_at' => '2026-03-18 10:59:09',
             ),
             260 => 
             array (
@@ -7628,8 +7628,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:59:49',
-                'updated_at' => '2026-03-18 09:59:49',
+                'created_at' => '2026-03-18 10:59:49',
+                'updated_at' => '2026-03-18 10:59:49',
             ),
             261 => 
             array (
@@ -7638,8 +7638,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 09:59:49',
-                'updated_at' => '2026-03-18 09:59:49',
+                'created_at' => '2026-03-18 10:59:49',
+                'updated_at' => '2026-03-18 10:59:49',
             ),
             262 => 
             array (
@@ -7648,8 +7648,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:00:28',
-                'updated_at' => '2026-03-19 20:44:40',
+                'created_at' => '2026-03-18 11:00:28',
+                'updated_at' => '2026-03-19 21:44:40',
             ),
             263 => 
             array (
@@ -7658,8 +7658,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:00:29',
-                'updated_at' => '2026-03-19 20:44:40',
+                'created_at' => '2026-03-18 11:00:29',
+                'updated_at' => '2026-03-19 21:44:40',
             ),
             264 => 
             array (
@@ -7668,8 +7668,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:01:42',
-                'updated_at' => '2026-03-18 10:01:42',
+                'created_at' => '2026-03-18 11:01:42',
+                'updated_at' => '2026-03-18 11:01:42',
             ),
             265 => 
             array (
@@ -7678,8 +7678,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:01:42',
-                'updated_at' => '2026-03-18 10:01:42',
+                'created_at' => '2026-03-18 11:01:42',
+                'updated_at' => '2026-03-18 11:01:42',
             ),
             266 => 
             array (
@@ -7688,8 +7688,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:02:23',
-                'updated_at' => '2026-03-18 10:02:23',
+                'created_at' => '2026-03-18 11:02:23',
+                'updated_at' => '2026-03-18 11:02:23',
             ),
             267 => 
             array (
@@ -7698,8 +7698,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:02:23',
-                'updated_at' => '2026-03-18 10:02:23',
+                'created_at' => '2026-03-18 11:02:23',
+                'updated_at' => '2026-03-18 11:02:23',
             ),
             268 => 
             array (
@@ -7708,8 +7708,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:03:10',
-                'updated_at' => '2026-03-18 10:03:10',
+                'created_at' => '2026-03-18 11:03:10',
+                'updated_at' => '2026-03-18 11:03:10',
             ),
             269 => 
             array (
@@ -7718,8 +7718,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:03:10',
-                'updated_at' => '2026-03-18 10:03:10',
+                'created_at' => '2026-03-18 11:03:10',
+                'updated_at' => '2026-03-18 11:03:10',
             ),
             270 => 
             array (
@@ -7728,8 +7728,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:03:50',
-                'updated_at' => '2026-03-18 10:03:50',
+                'created_at' => '2026-03-18 11:03:50',
+                'updated_at' => '2026-03-18 11:03:50',
             ),
             271 => 
             array (
@@ -7738,8 +7738,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:03:50',
-                'updated_at' => '2026-03-18 10:03:50',
+                'created_at' => '2026-03-18 11:03:50',
+                'updated_at' => '2026-03-18 11:03:50',
             ),
             272 => 
             array (
@@ -7748,8 +7748,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:04:23',
-                'updated_at' => '2026-03-18 10:04:23',
+                'created_at' => '2026-03-18 11:04:23',
+                'updated_at' => '2026-03-18 11:04:23',
             ),
             273 => 
             array (
@@ -7758,8 +7758,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:04:23',
-                'updated_at' => '2026-03-18 10:04:23',
+                'created_at' => '2026-03-18 11:04:23',
+                'updated_at' => '2026-03-18 11:04:23',
             ),
             274 => 
             array (
@@ -7768,8 +7768,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:05:02',
-                'updated_at' => '2026-03-18 10:05:02',
+                'created_at' => '2026-03-18 11:05:02',
+                'updated_at' => '2026-03-18 11:05:02',
             ),
             275 => 
             array (
@@ -7778,8 +7778,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:05:02',
-                'updated_at' => '2026-03-18 10:05:02',
+                'created_at' => '2026-03-18 11:05:02',
+                'updated_at' => '2026-03-18 11:05:02',
             ),
             276 => 
             array (
@@ -7788,8 +7788,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:05:48',
-                'updated_at' => '2026-03-18 10:05:48',
+                'created_at' => '2026-03-18 11:05:48',
+                'updated_at' => '2026-03-18 11:05:48',
             ),
             277 => 
             array (
@@ -7798,8 +7798,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:05:48',
-                'updated_at' => '2026-03-18 10:05:48',
+                'created_at' => '2026-03-18 11:05:48',
+                'updated_at' => '2026-03-18 11:05:48',
             ),
             278 => 
             array (
@@ -7808,8 +7808,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:06:35',
-                'updated_at' => '2026-03-18 10:06:47',
+                'created_at' => '2026-03-18 11:06:35',
+                'updated_at' => '2026-03-18 11:06:47',
             ),
             279 => 
             array (
@@ -7818,8 +7818,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:06:35',
-                'updated_at' => '2026-03-18 10:06:47',
+                'created_at' => '2026-03-18 11:06:35',
+                'updated_at' => '2026-03-18 11:06:47',
             ),
             280 => 
             array (
@@ -7828,8 +7828,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:07:28',
-                'updated_at' => '2026-03-18 10:07:28',
+                'created_at' => '2026-03-18 11:07:28',
+                'updated_at' => '2026-03-18 11:07:28',
             ),
             281 => 
             array (
@@ -7838,8 +7838,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:07:28',
-                'updated_at' => '2026-03-18 10:07:28',
+                'created_at' => '2026-03-18 11:07:28',
+                'updated_at' => '2026-03-18 11:07:28',
             ),
             282 => 
             array (
@@ -7848,8 +7848,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:14:13',
-                'updated_at' => '2026-03-18 10:14:13',
+                'created_at' => '2026-03-18 11:14:13',
+                'updated_at' => '2026-03-18 11:14:13',
             ),
             283 => 
             array (
@@ -7858,8 +7858,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:14:13',
-                'updated_at' => '2026-03-18 10:14:13',
+                'created_at' => '2026-03-18 11:14:13',
+                'updated_at' => '2026-03-18 11:14:13',
             ),
             284 => 
             array (
@@ -7868,8 +7868,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:14:49',
-                'updated_at' => '2026-03-18 10:14:49',
+                'created_at' => '2026-03-18 11:14:49',
+                'updated_at' => '2026-03-18 11:14:49',
             ),
             285 => 
             array (
@@ -7878,8 +7878,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:14:49',
-                'updated_at' => '2026-03-18 10:14:49',
+                'created_at' => '2026-03-18 11:14:49',
+                'updated_at' => '2026-03-18 11:14:49',
             ),
             286 => 
             array (
@@ -7888,8 +7888,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:15:35',
-                'updated_at' => '2026-03-18 10:15:35',
+                'created_at' => '2026-03-18 11:15:35',
+                'updated_at' => '2026-03-18 11:15:35',
             ),
             287 => 
             array (
@@ -7898,8 +7898,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:15:35',
-                'updated_at' => '2026-03-18 10:15:35',
+                'created_at' => '2026-03-18 11:15:35',
+                'updated_at' => '2026-03-18 11:15:35',
             ),
             288 => 
             array (
@@ -7908,8 +7908,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:17:05',
-                'updated_at' => '2026-03-18 10:17:05',
+                'created_at' => '2026-03-18 11:17:05',
+                'updated_at' => '2026-03-18 11:17:05',
             ),
             289 => 
             array (
@@ -7918,8 +7918,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 10:17:05',
-                'updated_at' => '2026-03-18 10:17:05',
+                'created_at' => '2026-03-18 11:17:05',
+                'updated_at' => '2026-03-18 11:17:05',
             ),
             290 => 
             array (
@@ -7928,8 +7928,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:21:52',
-                'updated_at' => '2026-03-18 12:21:52',
+                'created_at' => '2026-03-18 13:21:52',
+                'updated_at' => '2026-03-18 13:21:52',
             ),
             291 => 
             array (
@@ -7938,8 +7938,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:21:52',
-                'updated_at' => '2026-03-18 12:21:52',
+                'created_at' => '2026-03-18 13:21:52',
+                'updated_at' => '2026-03-18 13:21:52',
             ),
             292 => 
             array (
@@ -7948,8 +7948,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:23:33',
-                'updated_at' => '2026-03-18 12:23:33',
+                'created_at' => '2026-03-18 13:23:33',
+                'updated_at' => '2026-03-18 13:23:33',
             ),
             293 => 
             array (
@@ -7958,8 +7958,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:23:33',
-                'updated_at' => '2026-03-18 12:23:33',
+                'created_at' => '2026-03-18 13:23:33',
+                'updated_at' => '2026-03-18 13:23:33',
             ),
             294 => 
             array (
@@ -7968,8 +7968,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:24:16',
-                'updated_at' => '2026-03-18 12:24:16',
+                'created_at' => '2026-03-18 13:24:16',
+                'updated_at' => '2026-03-18 13:24:16',
             ),
             295 => 
             array (
@@ -7978,8 +7978,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:24:16',
-                'updated_at' => '2026-03-18 12:24:16',
+                'created_at' => '2026-03-18 13:24:16',
+                'updated_at' => '2026-03-18 13:24:16',
             ),
             296 => 
             array (
@@ -7988,8 +7988,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:25:13',
-                'updated_at' => '2026-03-18 12:25:13',
+                'created_at' => '2026-03-18 13:25:13',
+                'updated_at' => '2026-03-18 13:25:13',
             ),
             297 => 
             array (
@@ -7998,8 +7998,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:25:13',
-                'updated_at' => '2026-03-18 12:25:13',
+                'created_at' => '2026-03-18 13:25:13',
+                'updated_at' => '2026-03-18 13:25:13',
             ),
             298 => 
             array (
@@ -8008,8 +8008,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:26:07',
-                'updated_at' => '2026-03-18 12:26:07',
+                'created_at' => '2026-03-18 13:26:07',
+                'updated_at' => '2026-03-18 13:26:07',
             ),
             299 => 
             array (
@@ -8018,8 +8018,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:26:07',
-                'updated_at' => '2026-03-18 12:26:07',
+                'created_at' => '2026-03-18 13:26:07',
+                'updated_at' => '2026-03-18 13:26:07',
             ),
             300 => 
             array (
@@ -8028,8 +8028,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:26:46',
-                'updated_at' => '2026-03-18 12:26:46',
+                'created_at' => '2026-03-18 13:26:46',
+                'updated_at' => '2026-03-18 13:26:46',
             ),
             301 => 
             array (
@@ -8038,8 +8038,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:26:46',
-                'updated_at' => '2026-03-18 12:26:46',
+                'created_at' => '2026-03-18 13:26:46',
+                'updated_at' => '2026-03-18 13:26:46',
             ),
             302 => 
             array (
@@ -8048,8 +8048,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:27:20',
-                'updated_at' => '2026-03-18 12:27:20',
+                'created_at' => '2026-03-18 13:27:20',
+                'updated_at' => '2026-03-18 13:27:20',
             ),
             303 => 
             array (
@@ -8058,8 +8058,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:27:20',
-                'updated_at' => '2026-03-18 12:27:20',
+                'created_at' => '2026-03-18 13:27:20',
+                'updated_at' => '2026-03-18 13:27:20',
             ),
             304 => 
             array (
@@ -8068,8 +8068,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:28:13',
-                'updated_at' => '2026-03-18 12:28:13',
+                'created_at' => '2026-03-18 13:28:13',
+                'updated_at' => '2026-03-18 13:28:13',
             ),
             305 => 
             array (
@@ -8078,8 +8078,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:28:13',
-                'updated_at' => '2026-03-18 12:28:13',
+                'created_at' => '2026-03-18 13:28:13',
+                'updated_at' => '2026-03-18 13:28:13',
             ),
             306 => 
             array (
@@ -8088,8 +8088,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:29:18',
-                'updated_at' => '2026-03-18 12:29:18',
+                'created_at' => '2026-03-18 13:29:18',
+                'updated_at' => '2026-03-18 13:29:18',
             ),
             307 => 
             array (
@@ -8098,8 +8098,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:29:18',
-                'updated_at' => '2026-03-18 12:29:18',
+                'created_at' => '2026-03-18 13:29:18',
+                'updated_at' => '2026-03-18 13:29:18',
             ),
             308 => 
             array (
@@ -8108,8 +8108,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:29:48',
-                'updated_at' => '2026-03-18 12:29:48',
+                'created_at' => '2026-03-18 13:29:48',
+                'updated_at' => '2026-03-18 13:29:48',
             ),
             309 => 
             array (
@@ -8118,8 +8118,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:29:48',
-                'updated_at' => '2026-03-18 12:29:48',
+                'created_at' => '2026-03-18 13:29:48',
+                'updated_at' => '2026-03-18 13:29:48',
             ),
             310 => 
             array (
@@ -8128,8 +8128,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:30:27',
-                'updated_at' => '2026-03-18 12:31:57',
+                'created_at' => '2026-03-18 13:30:27',
+                'updated_at' => '2026-03-18 13:31:57',
             ),
             311 => 
             array (
@@ -8138,8 +8138,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:30:27',
-                'updated_at' => '2026-03-18 12:31:57',
+                'created_at' => '2026-03-18 13:30:27',
+                'updated_at' => '2026-03-18 13:31:57',
             ),
             312 => 
             array (
@@ -8148,8 +8148,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:31:25',
-                'updated_at' => '2026-03-18 12:31:25',
+                'created_at' => '2026-03-18 13:31:25',
+                'updated_at' => '2026-03-18 13:31:25',
             ),
             313 => 
             array (
@@ -8158,8 +8158,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:31:25',
-                'updated_at' => '2026-03-18 12:31:25',
+                'created_at' => '2026-03-18 13:31:25',
+                'updated_at' => '2026-03-18 13:31:25',
             ),
             314 => 
             array (
@@ -8168,8 +8168,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:32:51',
-                'updated_at' => '2026-03-18 12:33:05',
+                'created_at' => '2026-03-18 13:32:51',
+                'updated_at' => '2026-03-18 13:33:05',
             ),
             315 => 
             array (
@@ -8178,8 +8178,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:32:51',
-                'updated_at' => '2026-03-18 12:33:06',
+                'created_at' => '2026-03-18 13:32:51',
+                'updated_at' => '2026-03-18 13:33:06',
             ),
             316 => 
             array (
@@ -8188,8 +8188,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:33:49',
-                'updated_at' => '2026-03-18 12:33:49',
+                'created_at' => '2026-03-18 13:33:49',
+                'updated_at' => '2026-03-18 13:33:49',
             ),
             317 => 
             array (
@@ -8198,8 +8198,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:33:49',
-                'updated_at' => '2026-03-18 12:33:49',
+                'created_at' => '2026-03-18 13:33:49',
+                'updated_at' => '2026-03-18 13:33:49',
             ),
             318 => 
             array (
@@ -8208,8 +8208,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:34:29',
-                'updated_at' => '2026-03-18 12:34:29',
+                'created_at' => '2026-03-18 13:34:29',
+                'updated_at' => '2026-03-18 13:34:29',
             ),
             319 => 
             array (
@@ -8218,8 +8218,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:34:29',
-                'updated_at' => '2026-03-18 12:34:29',
+                'created_at' => '2026-03-18 13:34:29',
+                'updated_at' => '2026-03-18 13:34:29',
             ),
             320 => 
             array (
@@ -8228,8 +8228,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:35:07',
-                'updated_at' => '2026-03-18 12:35:07',
+                'created_at' => '2026-03-18 13:35:07',
+                'updated_at' => '2026-03-18 13:35:07',
             ),
             321 => 
             array (
@@ -8238,8 +8238,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:35:07',
-                'updated_at' => '2026-03-18 12:35:07',
+                'created_at' => '2026-03-18 13:35:07',
+                'updated_at' => '2026-03-18 13:35:07',
             ),
             322 => 
             array (
@@ -8248,8 +8248,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:35:59',
-                'updated_at' => '2026-03-18 12:35:59',
+                'created_at' => '2026-03-18 13:35:59',
+                'updated_at' => '2026-03-18 13:35:59',
             ),
             323 => 
             array (
@@ -8258,8 +8258,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:35:59',
-                'updated_at' => '2026-03-18 12:35:59',
+                'created_at' => '2026-03-18 13:35:59',
+                'updated_at' => '2026-03-18 13:35:59',
             ),
             324 => 
             array (
@@ -8268,8 +8268,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:37:17',
-                'updated_at' => '2026-03-18 12:37:17',
+                'created_at' => '2026-03-18 13:37:17',
+                'updated_at' => '2026-03-18 13:37:17',
             ),
             325 => 
             array (
@@ -8278,8 +8278,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:37:17',
-                'updated_at' => '2026-03-18 12:37:17',
+                'created_at' => '2026-03-18 13:37:17',
+                'updated_at' => '2026-03-18 13:37:17',
             ),
             326 => 
             array (
@@ -8288,8 +8288,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:38:00',
-                'updated_at' => '2026-03-18 12:38:00',
+                'created_at' => '2026-03-18 13:38:00',
+                'updated_at' => '2026-03-18 13:38:00',
             ),
             327 => 
             array (
@@ -8298,8 +8298,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:38:00',
-                'updated_at' => '2026-03-18 12:38:00',
+                'created_at' => '2026-03-18 13:38:00',
+                'updated_at' => '2026-03-18 13:38:00',
             ),
             328 => 
             array (
@@ -8308,8 +8308,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:38:27',
-                'updated_at' => '2026-03-18 12:38:27',
+                'created_at' => '2026-03-18 13:38:27',
+                'updated_at' => '2026-03-18 13:38:27',
             ),
             329 => 
             array (
@@ -8318,8 +8318,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:38:27',
-                'updated_at' => '2026-03-18 12:38:27',
+                'created_at' => '2026-03-18 13:38:27',
+                'updated_at' => '2026-03-18 13:38:27',
             ),
             330 => 
             array (
@@ -8328,8 +8328,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:39:34',
-                'updated_at' => '2026-03-18 12:39:34',
+                'created_at' => '2026-03-18 13:39:34',
+                'updated_at' => '2026-03-18 13:39:34',
             ),
             331 => 
             array (
@@ -8338,8 +8338,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:39:34',
-                'updated_at' => '2026-03-18 12:39:34',
+                'created_at' => '2026-03-18 13:39:34',
+                'updated_at' => '2026-03-18 13:39:34',
             ),
             332 => 
             array (
@@ -8348,8 +8348,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:40:10',
-                'updated_at' => '2026-03-18 12:40:10',
+                'created_at' => '2026-03-18 13:40:10',
+                'updated_at' => '2026-03-18 13:40:10',
             ),
             333 => 
             array (
@@ -8358,8 +8358,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:40:10',
-                'updated_at' => '2026-03-18 12:40:10',
+                'created_at' => '2026-03-18 13:40:10',
+                'updated_at' => '2026-03-18 13:40:10',
             ),
             334 => 
             array (
@@ -8368,8 +8368,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:40:45',
-                'updated_at' => '2026-03-18 12:40:45',
+                'created_at' => '2026-03-18 13:40:45',
+                'updated_at' => '2026-03-18 13:40:45',
             ),
             335 => 
             array (
@@ -8378,8 +8378,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:40:45',
-                'updated_at' => '2026-03-18 12:40:45',
+                'created_at' => '2026-03-18 13:40:45',
+                'updated_at' => '2026-03-18 13:40:45',
             ),
             336 => 
             array (
@@ -8388,8 +8388,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:41:25',
-                'updated_at' => '2026-03-18 12:41:25',
+                'created_at' => '2026-03-18 13:41:25',
+                'updated_at' => '2026-03-18 13:41:25',
             ),
             337 => 
             array (
@@ -8398,8 +8398,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:41:25',
-                'updated_at' => '2026-03-18 12:41:25',
+                'created_at' => '2026-03-18 13:41:25',
+                'updated_at' => '2026-03-18 13:41:25',
             ),
             338 => 
             array (
@@ -8408,8 +8408,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:42:19',
-                'updated_at' => '2026-03-18 12:42:19',
+                'created_at' => '2026-03-18 13:42:19',
+                'updated_at' => '2026-03-18 13:42:19',
             ),
             339 => 
             array (
@@ -8418,8 +8418,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:42:19',
-                'updated_at' => '2026-03-18 12:42:19',
+                'created_at' => '2026-03-18 13:42:19',
+                'updated_at' => '2026-03-18 13:42:19',
             ),
             340 => 
             array (
@@ -8428,8 +8428,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:42:51',
-                'updated_at' => '2026-03-18 12:42:51',
+                'created_at' => '2026-03-18 13:42:51',
+                'updated_at' => '2026-03-18 13:42:51',
             ),
             341 => 
             array (
@@ -8438,8 +8438,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:42:51',
-                'updated_at' => '2026-03-18 12:42:51',
+                'created_at' => '2026-03-18 13:42:51',
+                'updated_at' => '2026-03-18 13:42:51',
             ),
             342 => 
             array (
@@ -8448,8 +8448,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:47:37',
-                'updated_at' => '2026-03-18 12:47:37',
+                'created_at' => '2026-03-18 13:47:37',
+                'updated_at' => '2026-03-18 13:47:37',
             ),
             343 => 
             array (
@@ -8458,8 +8458,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:47:37',
-                'updated_at' => '2026-03-18 12:47:37',
+                'created_at' => '2026-03-18 13:47:37',
+                'updated_at' => '2026-03-18 13:47:37',
             ),
             344 => 
             array (
@@ -8468,8 +8468,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:48:15',
-                'updated_at' => '2026-03-18 12:48:15',
+                'created_at' => '2026-03-18 13:48:15',
+                'updated_at' => '2026-03-18 13:48:15',
             ),
             345 => 
             array (
@@ -8478,8 +8478,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:48:15',
-                'updated_at' => '2026-03-18 12:48:15',
+                'created_at' => '2026-03-18 13:48:15',
+                'updated_at' => '2026-03-18 13:48:15',
             ),
             346 => 
             array (
@@ -8488,8 +8488,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:48:50',
-                'updated_at' => '2026-03-18 12:48:50',
+                'created_at' => '2026-03-18 13:48:50',
+                'updated_at' => '2026-03-18 13:48:50',
             ),
             347 => 
             array (
@@ -8498,8 +8498,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:48:50',
-                'updated_at' => '2026-03-18 12:48:50',
+                'created_at' => '2026-03-18 13:48:50',
+                'updated_at' => '2026-03-18 13:48:50',
             ),
             348 => 
             array (
@@ -8508,8 +8508,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:49:30',
-                'updated_at' => '2026-03-18 12:49:30',
+                'created_at' => '2026-03-18 13:49:30',
+                'updated_at' => '2026-03-18 13:49:30',
             ),
             349 => 
             array (
@@ -8518,8 +8518,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:49:30',
-                'updated_at' => '2026-03-18 12:49:30',
+                'created_at' => '2026-03-18 13:49:30',
+                'updated_at' => '2026-03-18 13:49:30',
             ),
             350 => 
             array (
@@ -8528,8 +8528,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:50:07',
-                'updated_at' => '2026-03-18 12:50:07',
+                'created_at' => '2026-03-18 13:50:07',
+                'updated_at' => '2026-03-18 13:50:07',
             ),
             351 => 
             array (
@@ -8538,8 +8538,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:50:08',
-                'updated_at' => '2026-03-18 12:50:08',
+                'created_at' => '2026-03-18 13:50:08',
+                'updated_at' => '2026-03-18 13:50:08',
             ),
             352 => 
             array (
@@ -8548,8 +8548,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:50:41',
-                'updated_at' => '2026-03-18 12:50:41',
+                'created_at' => '2026-03-18 13:50:41',
+                'updated_at' => '2026-03-18 13:50:41',
             ),
             353 => 
             array (
@@ -8558,8 +8558,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:50:41',
-                'updated_at' => '2026-03-18 12:50:41',
+                'created_at' => '2026-03-18 13:50:41',
+                'updated_at' => '2026-03-18 13:50:41',
             ),
             354 => 
             array (
@@ -8568,8 +8568,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:51:19',
-                'updated_at' => '2026-03-18 12:51:19',
+                'created_at' => '2026-03-18 13:51:19',
+                'updated_at' => '2026-03-18 13:51:19',
             ),
             355 => 
             array (
@@ -8578,8 +8578,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:51:19',
-                'updated_at' => '2026-03-18 12:51:19',
+                'created_at' => '2026-03-18 13:51:19',
+                'updated_at' => '2026-03-18 13:51:19',
             ),
             356 => 
             array (
@@ -8588,8 +8588,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:52:28',
-                'updated_at' => '2026-03-18 12:53:18',
+                'created_at' => '2026-03-18 13:52:28',
+                'updated_at' => '2026-03-18 13:53:18',
             ),
             357 => 
             array (
@@ -8598,8 +8598,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:52:28',
-                'updated_at' => '2026-03-18 12:53:18',
+                'created_at' => '2026-03-18 13:52:28',
+                'updated_at' => '2026-03-18 13:53:18',
             ),
             358 => 
             array (
@@ -8608,8 +8608,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:54:00',
-                'updated_at' => '2026-03-18 12:54:00',
+                'created_at' => '2026-03-18 13:54:00',
+                'updated_at' => '2026-03-18 13:54:00',
             ),
             359 => 
             array (
@@ -8618,8 +8618,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:54:00',
-                'updated_at' => '2026-03-18 12:54:00',
+                'created_at' => '2026-03-18 13:54:00',
+                'updated_at' => '2026-03-18 13:54:00',
             ),
             360 => 
             array (
@@ -8628,8 +8628,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:54:40',
-                'updated_at' => '2026-03-18 12:54:40',
+                'created_at' => '2026-03-18 13:54:40',
+                'updated_at' => '2026-03-18 13:54:40',
             ),
             361 => 
             array (
@@ -8638,8 +8638,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:54:40',
-                'updated_at' => '2026-03-18 12:54:40',
+                'created_at' => '2026-03-18 13:54:40',
+                'updated_at' => '2026-03-18 13:54:40',
             ),
             362 => 
             array (
@@ -8648,8 +8648,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:55:14',
-                'updated_at' => '2026-03-18 12:55:14',
+                'created_at' => '2026-03-18 13:55:14',
+                'updated_at' => '2026-03-18 13:55:14',
             ),
             363 => 
             array (
@@ -8658,8 +8658,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:55:14',
-                'updated_at' => '2026-03-18 12:55:14',
+                'created_at' => '2026-03-18 13:55:14',
+                'updated_at' => '2026-03-18 13:55:14',
             ),
             364 => 
             array (
@@ -8668,8 +8668,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:55:42',
-                'updated_at' => '2026-03-18 12:55:42',
+                'created_at' => '2026-03-18 13:55:42',
+                'updated_at' => '2026-03-18 13:55:42',
             ),
             365 => 
             array (
@@ -8678,8 +8678,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:55:42',
-                'updated_at' => '2026-03-18 12:55:42',
+                'created_at' => '2026-03-18 13:55:42',
+                'updated_at' => '2026-03-18 13:55:42',
             ),
             366 => 
             array (
@@ -8688,8 +8688,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:56:24',
-                'updated_at' => '2026-03-18 12:56:24',
+                'created_at' => '2026-03-18 13:56:24',
+                'updated_at' => '2026-03-18 13:56:24',
             ),
             367 => 
             array (
@@ -8698,8 +8698,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:56:24',
-                'updated_at' => '2026-03-18 12:56:24',
+                'created_at' => '2026-03-18 13:56:24',
+                'updated_at' => '2026-03-18 13:56:24',
             ),
             368 => 
             array (
@@ -8708,8 +8708,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:56:57',
-                'updated_at' => '2026-03-18 12:56:57',
+                'created_at' => '2026-03-18 13:56:57',
+                'updated_at' => '2026-03-18 13:56:57',
             ),
             369 => 
             array (
@@ -8718,8 +8718,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:56:57',
-                'updated_at' => '2026-03-18 12:56:57',
+                'created_at' => '2026-03-18 13:56:57',
+                'updated_at' => '2026-03-18 13:56:57',
             ),
             370 => 
             array (
@@ -8728,8 +8728,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:57:31',
-                'updated_at' => '2026-03-18 12:57:31',
+                'created_at' => '2026-03-18 13:57:31',
+                'updated_at' => '2026-03-18 13:57:31',
             ),
             371 => 
             array (
@@ -8738,8 +8738,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:57:31',
-                'updated_at' => '2026-03-18 12:57:31',
+                'created_at' => '2026-03-18 13:57:31',
+                'updated_at' => '2026-03-18 13:57:31',
             ),
             372 => 
             array (
@@ -8748,8 +8748,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:58:03',
-                'updated_at' => '2026-03-18 12:58:03',
+                'created_at' => '2026-03-18 13:58:03',
+                'updated_at' => '2026-03-18 13:58:03',
             ),
             373 => 
             array (
@@ -8758,8 +8758,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:58:03',
-                'updated_at' => '2026-03-18 12:58:03',
+                'created_at' => '2026-03-18 13:58:03',
+                'updated_at' => '2026-03-18 13:58:03',
             ),
             374 => 
             array (
@@ -8768,8 +8768,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:58:40',
-                'updated_at' => '2026-03-18 12:58:40',
+                'created_at' => '2026-03-18 13:58:40',
+                'updated_at' => '2026-03-18 13:58:40',
             ),
             375 => 
             array (
@@ -8778,8 +8778,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:58:40',
-                'updated_at' => '2026-03-18 12:58:40',
+                'created_at' => '2026-03-18 13:58:40',
+                'updated_at' => '2026-03-18 13:58:40',
             ),
             376 => 
             array (
@@ -8788,8 +8788,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:59:12',
-                'updated_at' => '2026-03-18 12:59:12',
+                'created_at' => '2026-03-18 13:59:12',
+                'updated_at' => '2026-03-18 13:59:12',
             ),
             377 => 
             array (
@@ -8798,8 +8798,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:59:12',
-                'updated_at' => '2026-03-18 12:59:12',
+                'created_at' => '2026-03-18 13:59:12',
+                'updated_at' => '2026-03-18 13:59:12',
             ),
             378 => 
             array (
@@ -8808,8 +8808,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:59:47',
-                'updated_at' => '2026-03-18 12:59:47',
+                'created_at' => '2026-03-18 13:59:47',
+                'updated_at' => '2026-03-18 13:59:47',
             ),
             379 => 
             array (
@@ -8818,8 +8818,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 12:59:47',
-                'updated_at' => '2026-03-18 12:59:47',
+                'created_at' => '2026-03-18 13:59:47',
+                'updated_at' => '2026-03-18 13:59:47',
             ),
             380 => 
             array (
@@ -8828,8 +8828,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:00:32',
-                'updated_at' => '2026-03-18 13:00:32',
+                'created_at' => '2026-03-18 14:00:32',
+                'updated_at' => '2026-03-18 14:00:32',
             ),
             381 => 
             array (
@@ -8838,8 +8838,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:00:32',
-                'updated_at' => '2026-03-18 13:00:32',
+                'created_at' => '2026-03-18 14:00:32',
+                'updated_at' => '2026-03-18 14:00:32',
             ),
             382 => 
             array (
@@ -8848,8 +8848,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:01:08',
-                'updated_at' => '2026-03-18 13:01:08',
+                'created_at' => '2026-03-18 14:01:08',
+                'updated_at' => '2026-03-18 14:01:08',
             ),
             383 => 
             array (
@@ -8858,8 +8858,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:01:08',
-                'updated_at' => '2026-03-18 13:01:08',
+                'created_at' => '2026-03-18 14:01:08',
+                'updated_at' => '2026-03-18 14:01:08',
             ),
             384 => 
             array (
@@ -8868,8 +8868,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:01:45',
-                'updated_at' => '2026-03-18 13:01:45',
+                'created_at' => '2026-03-18 14:01:45',
+                'updated_at' => '2026-03-18 14:01:45',
             ),
             385 => 
             array (
@@ -8878,8 +8878,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:01:45',
-                'updated_at' => '2026-03-18 13:01:45',
+                'created_at' => '2026-03-18 14:01:45',
+                'updated_at' => '2026-03-18 14:01:45',
             ),
             386 => 
             array (
@@ -8888,8 +8888,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:02:19',
-                'updated_at' => '2026-03-18 13:02:19',
+                'created_at' => '2026-03-18 14:02:19',
+                'updated_at' => '2026-03-18 14:02:19',
             ),
             387 => 
             array (
@@ -8898,8 +8898,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:02:19',
-                'updated_at' => '2026-03-18 13:02:19',
+                'created_at' => '2026-03-18 14:02:19',
+                'updated_at' => '2026-03-18 14:02:19',
             ),
             388 => 
             array (
@@ -8908,8 +8908,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:02:49',
-                'updated_at' => '2026-03-18 13:02:49',
+                'created_at' => '2026-03-18 14:02:49',
+                'updated_at' => '2026-03-18 14:02:49',
             ),
             389 => 
             array (
@@ -8918,8 +8918,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:02:49',
-                'updated_at' => '2026-03-18 13:02:49',
+                'created_at' => '2026-03-18 14:02:49',
+                'updated_at' => '2026-03-18 14:02:49',
             ),
             390 => 
             array (
@@ -8928,8 +8928,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:03:25',
-                'updated_at' => '2026-03-18 13:03:25',
+                'created_at' => '2026-03-18 14:03:25',
+                'updated_at' => '2026-03-18 14:03:25',
             ),
             391 => 
             array (
@@ -8938,8 +8938,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:03:25',
-                'updated_at' => '2026-03-18 13:03:25',
+                'created_at' => '2026-03-18 14:03:25',
+                'updated_at' => '2026-03-18 14:03:25',
             ),
             392 => 
             array (
@@ -8948,8 +8948,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:04:04',
-                'updated_at' => '2026-03-18 13:04:04',
+                'created_at' => '2026-03-18 14:04:04',
+                'updated_at' => '2026-03-18 14:04:04',
             ),
             393 => 
             array (
@@ -8958,8 +8958,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:04:04',
-                'updated_at' => '2026-03-18 13:04:04',
+                'created_at' => '2026-03-18 14:04:04',
+                'updated_at' => '2026-03-18 14:04:04',
             ),
             394 => 
             array (
@@ -8968,8 +8968,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:05:35',
-                'updated_at' => '2026-03-18 13:05:35',
+                'created_at' => '2026-03-18 14:05:35',
+                'updated_at' => '2026-03-18 14:05:35',
             ),
             395 => 
             array (
@@ -8978,8 +8978,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:05:35',
-                'updated_at' => '2026-03-18 13:05:35',
+                'created_at' => '2026-03-18 14:05:35',
+                'updated_at' => '2026-03-18 14:05:35',
             ),
             396 => 
             array (
@@ -8988,8 +8988,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:06:09',
-                'updated_at' => '2026-03-18 13:06:09',
+                'created_at' => '2026-03-18 14:06:09',
+                'updated_at' => '2026-03-18 14:06:09',
             ),
             397 => 
             array (
@@ -8998,8 +8998,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:06:09',
-                'updated_at' => '2026-03-18 13:06:09',
+                'created_at' => '2026-03-18 14:06:09',
+                'updated_at' => '2026-03-18 14:06:09',
             ),
             398 => 
             array (
@@ -9008,8 +9008,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:06:42',
-                'updated_at' => '2026-03-18 13:06:42',
+                'created_at' => '2026-03-18 14:06:42',
+                'updated_at' => '2026-03-18 14:06:42',
             ),
             399 => 
             array (
@@ -9018,8 +9018,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:06:42',
-                'updated_at' => '2026-03-18 13:06:42',
+                'created_at' => '2026-03-18 14:06:42',
+                'updated_at' => '2026-03-18 14:06:42',
             ),
             400 => 
             array (
@@ -9028,8 +9028,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:07:25',
-                'updated_at' => '2026-03-18 13:07:25',
+                'created_at' => '2026-03-18 14:07:25',
+                'updated_at' => '2026-03-18 14:07:25',
             ),
             401 => 
             array (
@@ -9038,8 +9038,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:07:25',
-                'updated_at' => '2026-03-18 13:07:25',
+                'created_at' => '2026-03-18 14:07:25',
+                'updated_at' => '2026-03-18 14:07:25',
             ),
             402 => 
             array (
@@ -9048,8 +9048,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:08:03',
-                'updated_at' => '2026-03-18 13:08:03',
+                'created_at' => '2026-03-18 14:08:03',
+                'updated_at' => '2026-03-18 14:08:03',
             ),
             403 => 
             array (
@@ -9058,8 +9058,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:08:03',
-                'updated_at' => '2026-03-18 13:08:03',
+                'created_at' => '2026-03-18 14:08:03',
+                'updated_at' => '2026-03-18 14:08:03',
             ),
             404 => 
             array (
@@ -9068,8 +9068,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:08:44',
-                'updated_at' => '2026-03-18 13:08:44',
+                'created_at' => '2026-03-18 14:08:44',
+                'updated_at' => '2026-03-18 14:08:44',
             ),
             405 => 
             array (
@@ -9078,8 +9078,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:08:44',
-                'updated_at' => '2026-03-18 13:08:44',
+                'created_at' => '2026-03-18 14:08:44',
+                'updated_at' => '2026-03-18 14:08:44',
             ),
             406 => 
             array (
@@ -9088,8 +9088,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:09:24',
-                'updated_at' => '2026-03-18 13:09:24',
+                'created_at' => '2026-03-18 14:09:24',
+                'updated_at' => '2026-03-18 14:09:24',
             ),
             407 => 
             array (
@@ -9098,8 +9098,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:09:24',
-                'updated_at' => '2026-03-18 13:09:24',
+                'created_at' => '2026-03-18 14:09:24',
+                'updated_at' => '2026-03-18 14:09:24',
             ),
             408 => 
             array (
@@ -9108,8 +9108,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:10:02',
-                'updated_at' => '2026-03-18 13:10:02',
+                'created_at' => '2026-03-18 14:10:02',
+                'updated_at' => '2026-03-18 14:10:02',
             ),
             409 => 
             array (
@@ -9118,8 +9118,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:10:02',
-                'updated_at' => '2026-03-18 13:10:02',
+                'created_at' => '2026-03-18 14:10:02',
+                'updated_at' => '2026-03-18 14:10:02',
             ),
             410 => 
             array (
@@ -9128,8 +9128,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:11:09',
-                'updated_at' => '2026-03-18 13:11:09',
+                'created_at' => '2026-03-18 14:11:09',
+                'updated_at' => '2026-03-18 14:11:09',
             ),
             411 => 
             array (
@@ -9138,8 +9138,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:11:09',
-                'updated_at' => '2026-03-18 13:11:09',
+                'created_at' => '2026-03-18 14:11:09',
+                'updated_at' => '2026-03-18 14:11:09',
             ),
             412 => 
             array (
@@ -9148,8 +9148,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:11:49',
-                'updated_at' => '2026-03-18 13:11:49',
+                'created_at' => '2026-03-18 14:11:49',
+                'updated_at' => '2026-03-18 14:11:49',
             ),
             413 => 
             array (
@@ -9158,8 +9158,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:11:49',
-                'updated_at' => '2026-03-18 13:11:49',
+                'created_at' => '2026-03-18 14:11:49',
+                'updated_at' => '2026-03-18 14:11:49',
             ),
             414 => 
             array (
@@ -9168,8 +9168,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:12:47',
-                'updated_at' => '2026-03-18 13:12:47',
+                'created_at' => '2026-03-18 14:12:47',
+                'updated_at' => '2026-03-18 14:12:47',
             ),
             415 => 
             array (
@@ -9178,8 +9178,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:12:47',
-                'updated_at' => '2026-03-18 13:12:47',
+                'created_at' => '2026-03-18 14:12:47',
+                'updated_at' => '2026-03-18 14:12:47',
             ),
             416 => 
             array (
@@ -9188,8 +9188,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:13:16',
-                'updated_at' => '2026-03-18 13:13:16',
+                'created_at' => '2026-03-18 14:13:16',
+                'updated_at' => '2026-03-18 14:13:16',
             ),
             417 => 
             array (
@@ -9198,8 +9198,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:13:16',
-                'updated_at' => '2026-03-18 13:13:16',
+                'created_at' => '2026-03-18 14:13:16',
+                'updated_at' => '2026-03-18 14:13:16',
             ),
             418 => 
             array (
@@ -9208,8 +9208,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:13:50',
-                'updated_at' => '2026-03-18 13:13:50',
+                'created_at' => '2026-03-18 14:13:50',
+                'updated_at' => '2026-03-18 14:13:50',
             ),
             419 => 
             array (
@@ -9218,8 +9218,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:13:50',
-                'updated_at' => '2026-03-18 13:13:50',
+                'created_at' => '2026-03-18 14:13:50',
+                'updated_at' => '2026-03-18 14:13:50',
             ),
             420 => 
             array (
@@ -9228,8 +9228,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:14:23',
-                'updated_at' => '2026-03-18 13:14:23',
+                'created_at' => '2026-03-18 14:14:23',
+                'updated_at' => '2026-03-18 14:14:23',
             ),
             421 => 
             array (
@@ -9238,8 +9238,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:14:23',
-                'updated_at' => '2026-03-18 13:14:23',
+                'created_at' => '2026-03-18 14:14:23',
+                'updated_at' => '2026-03-18 14:14:23',
             ),
             422 => 
             array (
@@ -9248,8 +9248,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:15:21',
-                'updated_at' => '2026-03-18 13:15:21',
+                'created_at' => '2026-03-18 14:15:21',
+                'updated_at' => '2026-03-18 14:15:21',
             ),
             423 => 
             array (
@@ -9258,8 +9258,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:15:21',
-                'updated_at' => '2026-03-18 13:15:21',
+                'created_at' => '2026-03-18 14:15:21',
+                'updated_at' => '2026-03-18 14:15:21',
             ),
             424 => 
             array (
@@ -9268,8 +9268,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:15:45',
-                'updated_at' => '2026-03-18 13:15:45',
+                'created_at' => '2026-03-18 14:15:45',
+                'updated_at' => '2026-03-18 14:15:45',
             ),
             425 => 
             array (
@@ -9278,8 +9278,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:15:45',
-                'updated_at' => '2026-03-18 13:15:45',
+                'created_at' => '2026-03-18 14:15:45',
+                'updated_at' => '2026-03-18 14:15:45',
             ),
             426 => 
             array (
@@ -9288,8 +9288,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:16:16',
-                'updated_at' => '2026-03-18 13:16:16',
+                'created_at' => '2026-03-18 14:16:16',
+                'updated_at' => '2026-03-18 14:16:16',
             ),
             427 => 
             array (
@@ -9298,8 +9298,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:16:16',
-                'updated_at' => '2026-03-18 13:16:16',
+                'created_at' => '2026-03-18 14:16:16',
+                'updated_at' => '2026-03-18 14:16:16',
             ),
             428 => 
             array (
@@ -9308,8 +9308,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:16:52',
-                'updated_at' => '2026-03-18 13:16:52',
+                'created_at' => '2026-03-18 14:16:52',
+                'updated_at' => '2026-03-18 14:16:52',
             ),
             429 => 
             array (
@@ -9318,8 +9318,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:16:52',
-                'updated_at' => '2026-03-18 13:16:52',
+                'created_at' => '2026-03-18 14:16:52',
+                'updated_at' => '2026-03-18 14:16:52',
             ),
             430 => 
             array (
@@ -9328,8 +9328,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:17:25',
-                'updated_at' => '2026-03-18 13:17:25',
+                'created_at' => '2026-03-18 14:17:25',
+                'updated_at' => '2026-03-18 14:17:25',
             ),
             431 => 
             array (
@@ -9338,8 +9338,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:17:25',
-                'updated_at' => '2026-03-18 13:17:25',
+                'created_at' => '2026-03-18 14:17:25',
+                'updated_at' => '2026-03-18 14:17:25',
             ),
             432 => 
             array (
@@ -9348,8 +9348,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:18:16',
-                'updated_at' => '2026-03-18 13:18:16',
+                'created_at' => '2026-03-18 14:18:16',
+                'updated_at' => '2026-03-18 14:18:16',
             ),
             433 => 
             array (
@@ -9358,8 +9358,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:18:16',
-                'updated_at' => '2026-03-18 13:18:16',
+                'created_at' => '2026-03-18 14:18:16',
+                'updated_at' => '2026-03-18 14:18:16',
             ),
             434 => 
             array (
@@ -9368,8 +9368,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:19:01',
-                'updated_at' => '2026-03-18 13:19:01',
+                'created_at' => '2026-03-18 14:19:01',
+                'updated_at' => '2026-03-18 14:19:01',
             ),
             435 => 
             array (
@@ -9378,8 +9378,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:19:01',
-                'updated_at' => '2026-03-18 13:19:01',
+                'created_at' => '2026-03-18 14:19:01',
+                'updated_at' => '2026-03-18 14:19:01',
             ),
             436 => 
             array (
@@ -9388,8 +9388,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:19:55',
-                'updated_at' => '2026-03-18 13:19:55',
+                'created_at' => '2026-03-18 14:19:55',
+                'updated_at' => '2026-03-18 14:19:55',
             ),
             437 => 
             array (
@@ -9398,8 +9398,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:19:55',
-                'updated_at' => '2026-03-18 13:19:55',
+                'created_at' => '2026-03-18 14:19:55',
+                'updated_at' => '2026-03-18 14:19:55',
             ),
             438 => 
             array (
@@ -9408,8 +9408,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:20:34',
-                'updated_at' => '2026-03-18 13:20:34',
+                'created_at' => '2026-03-18 14:20:34',
+                'updated_at' => '2026-03-18 14:20:34',
             ),
             439 => 
             array (
@@ -9418,8 +9418,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:20:34',
-                'updated_at' => '2026-03-18 13:20:34',
+                'created_at' => '2026-03-18 14:20:34',
+                'updated_at' => '2026-03-18 14:20:34',
             ),
             440 => 
             array (
@@ -9428,8 +9428,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:21:09',
-                'updated_at' => '2026-03-18 13:21:09',
+                'created_at' => '2026-03-18 14:21:09',
+                'updated_at' => '2026-03-18 14:21:09',
             ),
             441 => 
             array (
@@ -9438,8 +9438,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:21:09',
-                'updated_at' => '2026-03-18 13:21:09',
+                'created_at' => '2026-03-18 14:21:09',
+                'updated_at' => '2026-03-18 14:21:09',
             ),
             442 => 
             array (
@@ -9448,8 +9448,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:29:53',
-                'updated_at' => '2026-03-18 13:29:53',
+                'created_at' => '2026-03-18 14:29:53',
+                'updated_at' => '2026-03-18 14:29:53',
             ),
             443 => 
             array (
@@ -9458,8 +9458,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:29:53',
-                'updated_at' => '2026-03-18 13:29:53',
+                'created_at' => '2026-03-18 14:29:53',
+                'updated_at' => '2026-03-18 14:29:53',
             ),
             444 => 
             array (
@@ -9468,8 +9468,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:30:34',
-                'updated_at' => '2026-03-18 13:30:34',
+                'created_at' => '2026-03-18 14:30:34',
+                'updated_at' => '2026-03-18 14:30:34',
             ),
             445 => 
             array (
@@ -9478,8 +9478,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:30:34',
-                'updated_at' => '2026-03-18 13:30:34',
+                'created_at' => '2026-03-18 14:30:34',
+                'updated_at' => '2026-03-18 14:30:34',
             ),
             446 => 
             array (
@@ -9488,8 +9488,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:31:02',
-                'updated_at' => '2026-03-18 13:31:02',
+                'created_at' => '2026-03-18 14:31:02',
+                'updated_at' => '2026-03-18 14:31:02',
             ),
             447 => 
             array (
@@ -9498,8 +9498,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:31:02',
-                'updated_at' => '2026-03-18 13:31:02',
+                'created_at' => '2026-03-18 14:31:02',
+                'updated_at' => '2026-03-18 14:31:02',
             ),
             448 => 
             array (
@@ -9508,8 +9508,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:31:42',
-                'updated_at' => '2026-03-18 13:31:42',
+                'created_at' => '2026-03-18 14:31:42',
+                'updated_at' => '2026-03-18 14:31:42',
             ),
             449 => 
             array (
@@ -9518,8 +9518,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:31:42',
-                'updated_at' => '2026-03-18 13:31:42',
+                'created_at' => '2026-03-18 14:31:42',
+                'updated_at' => '2026-03-18 14:31:42',
             ),
             450 => 
             array (
@@ -9528,8 +9528,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:33:26',
-                'updated_at' => '2026-03-18 13:33:26',
+                'created_at' => '2026-03-18 14:33:26',
+                'updated_at' => '2026-03-18 14:33:26',
             ),
             451 => 
             array (
@@ -9538,8 +9538,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:33:26',
-                'updated_at' => '2026-03-18 13:33:26',
+                'created_at' => '2026-03-18 14:33:26',
+                'updated_at' => '2026-03-18 14:33:26',
             ),
             452 => 
             array (
@@ -9548,8 +9548,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:34:17',
-                'updated_at' => '2026-03-18 13:34:17',
+                'created_at' => '2026-03-18 14:34:17',
+                'updated_at' => '2026-03-18 14:34:17',
             ),
             453 => 
             array (
@@ -9558,8 +9558,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:34:17',
-                'updated_at' => '2026-03-18 13:34:17',
+                'created_at' => '2026-03-18 14:34:17',
+                'updated_at' => '2026-03-18 14:34:17',
             ),
             454 => 
             array (
@@ -9568,8 +9568,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:35:03',
-                'updated_at' => '2026-03-18 13:35:03',
+                'created_at' => '2026-03-18 14:35:03',
+                'updated_at' => '2026-03-18 14:35:03',
             ),
             455 => 
             array (
@@ -9578,8 +9578,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:35:03',
-                'updated_at' => '2026-03-18 13:35:03',
+                'created_at' => '2026-03-18 14:35:03',
+                'updated_at' => '2026-03-18 14:35:03',
             ),
             456 => 
             array (
@@ -9588,8 +9588,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:35:47',
-                'updated_at' => '2026-03-18 13:35:47',
+                'created_at' => '2026-03-18 14:35:47',
+                'updated_at' => '2026-03-18 14:35:47',
             ),
             457 => 
             array (
@@ -9598,8 +9598,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:35:47',
-                'updated_at' => '2026-03-18 13:35:47',
+                'created_at' => '2026-03-18 14:35:47',
+                'updated_at' => '2026-03-18 14:35:47',
             ),
             458 => 
             array (
@@ -9608,8 +9608,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:36:28',
-                'updated_at' => '2026-03-18 13:36:28',
+                'created_at' => '2026-03-18 14:36:28',
+                'updated_at' => '2026-03-18 14:36:28',
             ),
             459 => 
             array (
@@ -9618,8 +9618,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:36:28',
-                'updated_at' => '2026-03-18 13:36:28',
+                'created_at' => '2026-03-18 14:36:28',
+                'updated_at' => '2026-03-18 14:36:28',
             ),
             460 => 
             array (
@@ -9628,8 +9628,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:37:36',
-                'updated_at' => '2026-03-18 13:37:36',
+                'created_at' => '2026-03-18 14:37:36',
+                'updated_at' => '2026-03-18 14:37:36',
             ),
             461 => 
             array (
@@ -9638,8 +9638,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:37:36',
-                'updated_at' => '2026-03-18 13:37:36',
+                'created_at' => '2026-03-18 14:37:36',
+                'updated_at' => '2026-03-18 14:37:36',
             ),
             462 => 
             array (
@@ -9648,8 +9648,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:38:07',
-                'updated_at' => '2026-03-18 13:38:07',
+                'created_at' => '2026-03-18 14:38:07',
+                'updated_at' => '2026-03-18 14:38:07',
             ),
             463 => 
             array (
@@ -9658,8 +9658,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:38:07',
-                'updated_at' => '2026-03-18 13:38:07',
+                'created_at' => '2026-03-18 14:38:07',
+                'updated_at' => '2026-03-18 14:38:07',
             ),
             464 => 
             array (
@@ -9668,8 +9668,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:38:58',
-                'updated_at' => '2026-03-18 13:46:44',
+                'created_at' => '2026-03-18 14:38:58',
+                'updated_at' => '2026-03-18 14:46:44',
             ),
             465 => 
             array (
@@ -9678,8 +9678,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:38:58',
-                'updated_at' => '2026-03-18 13:46:44',
+                'created_at' => '2026-03-18 14:38:58',
+                'updated_at' => '2026-03-18 14:46:44',
             ),
             466 => 
             array (
@@ -9688,8 +9688,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:39:31',
-                'updated_at' => '2026-03-18 13:39:31',
+                'created_at' => '2026-03-18 14:39:31',
+                'updated_at' => '2026-03-18 14:39:31',
             ),
             467 => 
             array (
@@ -9698,8 +9698,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:39:31',
-                'updated_at' => '2026-03-18 13:39:31',
+                'created_at' => '2026-03-18 14:39:31',
+                'updated_at' => '2026-03-18 14:39:31',
             ),
             468 => 
             array (
@@ -9708,8 +9708,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:40:03',
-                'updated_at' => '2026-03-18 13:40:03',
+                'created_at' => '2026-03-18 14:40:03',
+                'updated_at' => '2026-03-18 14:40:03',
             ),
             469 => 
             array (
@@ -9718,8 +9718,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:40:03',
-                'updated_at' => '2026-03-18 13:40:03',
+                'created_at' => '2026-03-18 14:40:03',
+                'updated_at' => '2026-03-18 14:40:03',
             ),
             470 => 
             array (
@@ -9728,8 +9728,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:40:40',
-                'updated_at' => '2026-03-18 13:40:40',
+                'created_at' => '2026-03-18 14:40:40',
+                'updated_at' => '2026-03-18 14:40:40',
             ),
             471 => 
             array (
@@ -9738,8 +9738,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:40:40',
-                'updated_at' => '2026-03-18 13:40:40',
+                'created_at' => '2026-03-18 14:40:40',
+                'updated_at' => '2026-03-18 14:40:40',
             ),
             472 => 
             array (
@@ -9748,8 +9748,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:41:19',
-                'updated_at' => '2026-03-18 13:41:19',
+                'created_at' => '2026-03-18 14:41:19',
+                'updated_at' => '2026-03-18 14:41:19',
             ),
             473 => 
             array (
@@ -9758,8 +9758,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:41:19',
-                'updated_at' => '2026-03-18 13:41:19',
+                'created_at' => '2026-03-18 14:41:19',
+                'updated_at' => '2026-03-18 14:41:19',
             ),
             474 => 
             array (
@@ -9768,8 +9768,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:44:53',
-                'updated_at' => '2026-03-18 13:44:53',
+                'created_at' => '2026-03-18 14:44:53',
+                'updated_at' => '2026-03-18 14:44:53',
             ),
             475 => 
             array (
@@ -9778,8 +9778,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasakë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:44:53',
-                'updated_at' => '2026-03-18 13:44:53',
+                'created_at' => '2026-03-18 14:44:53',
+                'updated_at' => '2026-03-18 14:44:53',
             ),
             476 => 
             array (
@@ -9788,8 +9788,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:45:30',
-                'updated_at' => '2026-03-18 13:45:30',
+                'created_at' => '2026-03-18 14:45:30',
+                'updated_at' => '2026-03-18 14:45:30',
             ),
             477 => 
             array (
@@ -9798,8 +9798,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:45:30',
-                'updated_at' => '2026-03-18 13:45:30',
+                'created_at' => '2026-03-18 14:45:30',
+                'updated_at' => '2026-03-18 14:45:30',
             ),
             478 => 
             array (
@@ -9808,8 +9808,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:46:20',
-                'updated_at' => '2026-03-18 13:46:20',
+                'created_at' => '2026-03-18 14:46:20',
+                'updated_at' => '2026-03-18 14:46:20',
             ),
             479 => 
             array (
@@ -9818,8 +9818,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-18 13:46:20',
-                'updated_at' => '2026-03-18 13:46:20',
+                'created_at' => '2026-03-18 14:46:20',
+                'updated_at' => '2026-03-18 14:46:20',
             ),
             480 => 
             array (
@@ -9828,8 +9828,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:46:17',
-                'updated_at' => '2026-03-19 18:46:17',
+                'created_at' => '2026-03-19 19:46:17',
+                'updated_at' => '2026-03-19 19:46:17',
             ),
             481 => 
             array (
@@ -9838,8 +9838,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:46:17',
-                'updated_at' => '2026-03-19 18:46:17',
+                'created_at' => '2026-03-19 19:46:17',
+                'updated_at' => '2026-03-19 19:46:17',
             ),
             482 => 
             array (
@@ -9848,8 +9848,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:46:59',
-                'updated_at' => '2026-03-19 18:46:59',
+                'created_at' => '2026-03-19 19:46:59',
+                'updated_at' => '2026-03-19 19:46:59',
             ),
             483 => 
             array (
@@ -9858,8 +9858,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:46:59',
-                'updated_at' => '2026-03-19 18:46:59',
+                'created_at' => '2026-03-19 19:46:59',
+                'updated_at' => '2026-03-19 19:46:59',
             ),
             484 => 
             array (
@@ -9868,8 +9868,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:47:40',
-                'updated_at' => '2026-03-19 18:47:40',
+                'created_at' => '2026-03-19 19:47:40',
+                'updated_at' => '2026-03-19 19:47:40',
             ),
             485 => 
             array (
@@ -9878,8 +9878,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:47:40',
-                'updated_at' => '2026-03-19 18:47:40',
+                'created_at' => '2026-03-19 19:47:40',
+                'updated_at' => '2026-03-19 19:47:40',
             ),
             486 => 
             array (
@@ -9888,8 +9888,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:48:29',
-                'updated_at' => '2026-03-19 18:48:29',
+                'created_at' => '2026-03-19 19:48:29',
+                'updated_at' => '2026-03-19 19:48:29',
             ),
             487 => 
             array (
@@ -9898,8 +9898,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:48:29',
-                'updated_at' => '2026-03-19 18:48:29',
+                'created_at' => '2026-03-19 19:48:29',
+                'updated_at' => '2026-03-19 19:48:29',
             ),
             488 => 
             array (
@@ -9908,8 +9908,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:49:18',
-                'updated_at' => '2026-03-19 18:49:18',
+                'created_at' => '2026-03-19 19:49:18',
+                'updated_at' => '2026-03-19 19:49:18',
             ),
             489 => 
             array (
@@ -9918,8 +9918,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:49:18',
-                'updated_at' => '2026-03-19 18:49:18',
+                'created_at' => '2026-03-19 19:49:18',
+                'updated_at' => '2026-03-19 19:49:18',
             ),
             490 => 
             array (
@@ -9928,8 +9928,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:50:20',
-                'updated_at' => '2026-03-19 18:50:20',
+                'created_at' => '2026-03-19 19:50:20',
+                'updated_at' => '2026-03-19 19:50:20',
             ),
             491 => 
             array (
@@ -9938,8 +9938,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:50:20',
-                'updated_at' => '2026-03-19 18:50:20',
+                'created_at' => '2026-03-19 19:50:20',
+                'updated_at' => '2026-03-19 19:50:20',
             ),
             492 => 
             array (
@@ -9948,8 +9948,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:51:28',
-                'updated_at' => '2026-03-19 18:52:22',
+                'created_at' => '2026-03-19 19:51:28',
+                'updated_at' => '2026-03-19 19:52:22',
             ),
             493 => 
             array (
@@ -9958,8 +9958,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:51:28',
-                'updated_at' => '2026-03-19 18:52:22',
+                'created_at' => '2026-03-19 19:51:28',
+                'updated_at' => '2026-03-19 19:52:22',
             ),
             494 => 
             array (
@@ -9968,8 +9968,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:53:09',
-                'updated_at' => '2026-03-19 18:53:09',
+                'created_at' => '2026-03-19 19:53:09',
+                'updated_at' => '2026-03-19 19:53:09',
             ),
             495 => 
             array (
@@ -9978,8 +9978,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:53:09',
-                'updated_at' => '2026-03-19 18:53:09',
+                'created_at' => '2026-03-19 19:53:09',
+                'updated_at' => '2026-03-19 19:53:09',
             ),
             496 => 
             array (
@@ -9988,8 +9988,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:56:35',
-                'updated_at' => '2026-03-19 18:56:35',
+                'created_at' => '2026-03-19 19:56:35',
+                'updated_at' => '2026-03-19 19:56:35',
             ),
             497 => 
             array (
@@ -9998,8 +9998,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:56:35',
-                'updated_at' => '2026-03-19 18:56:35',
+                'created_at' => '2026-03-19 19:56:35',
+                'updated_at' => '2026-03-19 19:56:35',
             ),
             498 => 
             array (
@@ -10008,8 +10008,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:57:12',
-                'updated_at' => '2026-03-19 18:57:12',
+                'created_at' => '2026-03-19 19:57:12',
+                'updated_at' => '2026-03-19 19:57:12',
             ),
             499 => 
             array (
@@ -10018,8 +10018,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:57:12',
-                'updated_at' => '2026-03-19 18:57:12',
+                'created_at' => '2026-03-19 19:57:12',
+                'updated_at' => '2026-03-19 19:57:12',
             ),
         ));
         \DB::table('answers')->insert(array (
@@ -10030,8 +10030,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:57:46',
-                'updated_at' => '2026-03-19 18:57:46',
+                'created_at' => '2026-03-19 19:57:46',
+                'updated_at' => '2026-03-19 19:57:46',
             ),
             1 => 
             array (
@@ -10040,8 +10040,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:57:46',
-                'updated_at' => '2026-03-19 18:57:46',
+                'created_at' => '2026-03-19 19:57:46',
+                'updated_at' => '2026-03-19 19:57:46',
             ),
             2 => 
             array (
@@ -10050,8 +10050,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:58:34',
-                'updated_at' => '2026-03-19 18:58:34',
+                'created_at' => '2026-03-19 19:58:34',
+                'updated_at' => '2026-03-19 19:58:34',
             ),
             3 => 
             array (
@@ -10060,8 +10060,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:58:34',
-                'updated_at' => '2026-03-19 18:58:34',
+                'created_at' => '2026-03-19 19:58:34',
+                'updated_at' => '2026-03-19 19:58:34',
             ),
             4 => 
             array (
@@ -10070,8 +10070,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:59:08',
-                'updated_at' => '2026-03-19 18:59:08',
+                'created_at' => '2026-03-19 19:59:08',
+                'updated_at' => '2026-03-19 19:59:08',
             ),
             5 => 
             array (
@@ -10080,8 +10080,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:59:08',
-                'updated_at' => '2026-03-19 18:59:08',
+                'created_at' => '2026-03-19 19:59:08',
+                'updated_at' => '2026-03-19 19:59:08',
             ),
             6 => 
             array (
@@ -10090,8 +10090,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:59:46',
-                'updated_at' => '2026-03-19 18:59:46',
+                'created_at' => '2026-03-19 19:59:46',
+                'updated_at' => '2026-03-19 19:59:46',
             ),
             7 => 
             array (
@@ -10100,8 +10100,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 18:59:46',
-                'updated_at' => '2026-03-19 18:59:46',
+                'created_at' => '2026-03-19 19:59:46',
+                'updated_at' => '2026-03-19 19:59:46',
             ),
             8 => 
             array (
@@ -10110,8 +10110,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:00:44',
-                'updated_at' => '2026-03-19 19:00:44',
+                'created_at' => '2026-03-19 20:00:44',
+                'updated_at' => '2026-03-19 20:00:44',
             ),
             9 => 
             array (
@@ -10120,8 +10120,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:00:44',
-                'updated_at' => '2026-03-19 19:00:44',
+                'created_at' => '2026-03-19 20:00:44',
+                'updated_at' => '2026-03-19 20:00:44',
             ),
             10 => 
             array (
@@ -10130,8 +10130,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:02:54',
-                'updated_at' => '2026-03-19 19:02:54',
+                'created_at' => '2026-03-19 20:02:54',
+                'updated_at' => '2026-03-19 20:02:54',
             ),
             11 => 
             array (
@@ -10140,8 +10140,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:02:54',
-                'updated_at' => '2026-03-19 19:02:54',
+                'created_at' => '2026-03-19 20:02:54',
+                'updated_at' => '2026-03-19 20:02:54',
             ),
             12 => 
             array (
@@ -10150,8 +10150,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:03:31',
-                'updated_at' => '2026-03-19 19:03:31',
+                'created_at' => '2026-03-19 20:03:31',
+                'updated_at' => '2026-03-19 20:03:31',
             ),
             13 => 
             array (
@@ -10160,8 +10160,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:03:31',
-                'updated_at' => '2026-03-19 19:03:31',
+                'created_at' => '2026-03-19 20:03:31',
+                'updated_at' => '2026-03-19 20:03:31',
             ),
             14 => 
             array (
@@ -10170,8 +10170,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:04:19',
-                'updated_at' => '2026-03-19 19:04:19',
+                'created_at' => '2026-03-19 20:04:19',
+                'updated_at' => '2026-03-19 20:04:19',
             ),
             15 => 
             array (
@@ -10180,8 +10180,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:04:19',
-                'updated_at' => '2026-03-19 19:04:19',
+                'created_at' => '2026-03-19 20:04:19',
+                'updated_at' => '2026-03-19 20:04:19',
             ),
             16 => 
             array (
@@ -10190,8 +10190,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:05:21',
-                'updated_at' => '2026-03-19 19:05:21',
+                'created_at' => '2026-03-19 20:05:21',
+                'updated_at' => '2026-03-19 20:05:21',
             ),
             17 => 
             array (
@@ -10200,8 +10200,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:05:21',
-                'updated_at' => '2026-03-19 19:05:21',
+                'created_at' => '2026-03-19 20:05:21',
+                'updated_at' => '2026-03-19 20:05:21',
             ),
             18 => 
             array (
@@ -10210,8 +10210,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:06:02',
-                'updated_at' => '2026-03-19 19:06:02',
+                'created_at' => '2026-03-19 20:06:02',
+                'updated_at' => '2026-03-19 20:06:02',
             ),
             19 => 
             array (
@@ -10220,8 +10220,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:06:02',
-                'updated_at' => '2026-03-19 19:06:02',
+                'created_at' => '2026-03-19 20:06:02',
+                'updated_at' => '2026-03-19 20:06:02',
             ),
             20 => 
             array (
@@ -10230,8 +10230,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:06:51',
-                'updated_at' => '2026-03-19 19:06:51',
+                'created_at' => '2026-03-19 20:06:51',
+                'updated_at' => '2026-03-19 20:06:51',
             ),
             21 => 
             array (
@@ -10240,8 +10240,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:06:51',
-                'updated_at' => '2026-03-19 19:06:51',
+                'created_at' => '2026-03-19 20:06:51',
+                'updated_at' => '2026-03-19 20:06:51',
             ),
             22 => 
             array (
@@ -10250,8 +10250,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:08:31',
-                'updated_at' => '2026-03-19 19:08:31',
+                'created_at' => '2026-03-19 20:08:31',
+                'updated_at' => '2026-03-19 20:08:31',
             ),
             23 => 
             array (
@@ -10260,8 +10260,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:08:31',
-                'updated_at' => '2026-03-19 19:08:31',
+                'created_at' => '2026-03-19 20:08:31',
+                'updated_at' => '2026-03-19 20:08:31',
             ),
             24 => 
             array (
@@ -10270,8 +10270,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:08:59',
-                'updated_at' => '2026-03-19 19:08:59',
+                'created_at' => '2026-03-19 20:08:59',
+                'updated_at' => '2026-03-19 20:08:59',
             ),
             25 => 
             array (
@@ -10280,8 +10280,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:08:59',
-                'updated_at' => '2026-03-19 19:08:59',
+                'created_at' => '2026-03-19 20:08:59',
+                'updated_at' => '2026-03-19 20:08:59',
             ),
             26 => 
             array (
@@ -10290,8 +10290,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:09:31',
-                'updated_at' => '2026-03-19 19:09:31',
+                'created_at' => '2026-03-19 20:09:31',
+                'updated_at' => '2026-03-19 20:09:31',
             ),
             27 => 
             array (
@@ -10300,8 +10300,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:09:31',
-                'updated_at' => '2026-03-19 19:09:31',
+                'created_at' => '2026-03-19 20:09:31',
+                'updated_at' => '2026-03-19 20:09:31',
             ),
             28 => 
             array (
@@ -10310,8 +10310,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:10:13',
-                'updated_at' => '2026-03-19 19:10:13',
+                'created_at' => '2026-03-19 20:10:13',
+                'updated_at' => '2026-03-19 20:10:13',
             ),
             29 => 
             array (
@@ -10320,8 +10320,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:10:13',
-                'updated_at' => '2026-03-19 19:10:13',
+                'created_at' => '2026-03-19 20:10:13',
+                'updated_at' => '2026-03-19 20:10:13',
             ),
             30 => 
             array (
@@ -10330,8 +10330,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:10:58',
-                'updated_at' => '2026-03-19 19:10:58',
+                'created_at' => '2026-03-19 20:10:58',
+                'updated_at' => '2026-03-19 20:10:58',
             ),
             31 => 
             array (
@@ -10340,8 +10340,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:10:58',
-                'updated_at' => '2026-03-19 19:10:58',
+                'created_at' => '2026-03-19 20:10:58',
+                'updated_at' => '2026-03-19 20:10:58',
             ),
             32 => 
             array (
@@ -10350,8 +10350,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:12:01',
-                'updated_at' => '2026-03-19 19:12:01',
+                'created_at' => '2026-03-19 20:12:01',
+                'updated_at' => '2026-03-19 20:12:01',
             ),
             33 => 
             array (
@@ -10360,8 +10360,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:12:01',
-                'updated_at' => '2026-03-19 19:12:01',
+                'created_at' => '2026-03-19 20:12:01',
+                'updated_at' => '2026-03-19 20:12:01',
             ),
             34 => 
             array (
@@ -10370,8 +10370,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:12:43',
-                'updated_at' => '2026-03-19 19:12:43',
+                'created_at' => '2026-03-19 20:12:43',
+                'updated_at' => '2026-03-19 20:12:43',
             ),
             35 => 
             array (
@@ -10380,8 +10380,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:12:43',
-                'updated_at' => '2026-03-19 19:12:43',
+                'created_at' => '2026-03-19 20:12:43',
+                'updated_at' => '2026-03-19 20:12:43',
             ),
             36 => 
             array (
@@ -10390,8 +10390,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:13:42',
-                'updated_at' => '2026-03-19 19:13:42',
+                'created_at' => '2026-03-19 20:13:42',
+                'updated_at' => '2026-03-19 20:13:42',
             ),
             37 => 
             array (
@@ -10400,8 +10400,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:13:42',
-                'updated_at' => '2026-03-19 19:13:42',
+                'created_at' => '2026-03-19 20:13:42',
+                'updated_at' => '2026-03-19 20:13:42',
             ),
             38 => 
             array (
@@ -10410,8 +10410,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:14:36',
-                'updated_at' => '2026-03-19 19:14:36',
+                'created_at' => '2026-03-19 20:14:36',
+                'updated_at' => '2026-03-19 20:14:36',
             ),
             39 => 
             array (
@@ -10420,8 +10420,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:14:36',
-                'updated_at' => '2026-03-19 19:14:36',
+                'created_at' => '2026-03-19 20:14:36',
+                'updated_at' => '2026-03-19 20:14:36',
             ),
             40 => 
             array (
@@ -10430,8 +10430,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:15:47',
-                'updated_at' => '2026-03-19 19:15:47',
+                'created_at' => '2026-03-19 20:15:47',
+                'updated_at' => '2026-03-19 20:15:47',
             ),
             41 => 
             array (
@@ -10440,8 +10440,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:15:47',
-                'updated_at' => '2026-03-19 19:15:47',
+                'created_at' => '2026-03-19 20:15:47',
+                'updated_at' => '2026-03-19 20:15:47',
             ),
             42 => 
             array (
@@ -10450,8 +10450,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:16:28',
-                'updated_at' => '2026-03-19 19:16:28',
+                'created_at' => '2026-03-19 20:16:28',
+                'updated_at' => '2026-03-19 20:16:28',
             ),
             43 => 
             array (
@@ -10460,8 +10460,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:16:28',
-                'updated_at' => '2026-03-19 19:16:28',
+                'created_at' => '2026-03-19 20:16:28',
+                'updated_at' => '2026-03-19 20:16:28',
             ),
             44 => 
             array (
@@ -10470,8 +10470,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:17:15',
-                'updated_at' => '2026-03-19 19:17:15',
+                'created_at' => '2026-03-19 20:17:15',
+                'updated_at' => '2026-03-19 20:17:15',
             ),
             45 => 
             array (
@@ -10480,8 +10480,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:17:15',
-                'updated_at' => '2026-03-19 19:17:15',
+                'created_at' => '2026-03-19 20:17:15',
+                'updated_at' => '2026-03-19 20:17:15',
             ),
             46 => 
             array (
@@ -10490,8 +10490,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:17:47',
-                'updated_at' => '2026-03-19 19:17:47',
+                'created_at' => '2026-03-19 20:17:47',
+                'updated_at' => '2026-03-19 20:17:47',
             ),
             47 => 
             array (
@@ -10500,8 +10500,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:17:47',
-                'updated_at' => '2026-03-19 19:17:47',
+                'created_at' => '2026-03-19 20:17:47',
+                'updated_at' => '2026-03-19 20:17:47',
             ),
             48 => 
             array (
@@ -10510,8 +10510,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:18:22',
-                'updated_at' => '2026-03-19 19:18:22',
+                'created_at' => '2026-03-19 20:18:22',
+                'updated_at' => '2026-03-19 20:18:22',
             ),
             49 => 
             array (
@@ -10520,8 +10520,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:18:22',
-                'updated_at' => '2026-03-19 19:18:22',
+                'created_at' => '2026-03-19 20:18:22',
+                'updated_at' => '2026-03-19 20:18:22',
             ),
             50 => 
             array (
@@ -10530,8 +10530,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:19:09',
-                'updated_at' => '2026-03-19 19:19:09',
+                'created_at' => '2026-03-19 20:19:09',
+                'updated_at' => '2026-03-19 20:19:09',
             ),
             51 => 
             array (
@@ -10540,8 +10540,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:19:09',
-                'updated_at' => '2026-03-19 19:19:09',
+                'created_at' => '2026-03-19 20:19:09',
+                'updated_at' => '2026-03-19 20:19:09',
             ),
             52 => 
             array (
@@ -10550,8 +10550,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:20:02',
-                'updated_at' => '2026-03-19 19:20:02',
+                'created_at' => '2026-03-19 20:20:02',
+                'updated_at' => '2026-03-19 20:20:02',
             ),
             53 => 
             array (
@@ -10560,8 +10560,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:20:02',
-                'updated_at' => '2026-03-19 19:20:02',
+                'created_at' => '2026-03-19 20:20:02',
+                'updated_at' => '2026-03-19 20:20:02',
             ),
             54 => 
             array (
@@ -10570,8 +10570,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:20:33',
-                'updated_at' => '2026-03-19 19:20:33',
+                'created_at' => '2026-03-19 20:20:33',
+                'updated_at' => '2026-03-19 20:20:33',
             ),
             55 => 
             array (
@@ -10580,8 +10580,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:20:33',
-                'updated_at' => '2026-03-19 19:20:33',
+                'created_at' => '2026-03-19 20:20:33',
+                'updated_at' => '2026-03-19 20:20:33',
             ),
             56 => 
             array (
@@ -10590,8 +10590,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:21:05',
-                'updated_at' => '2026-03-19 19:21:05',
+                'created_at' => '2026-03-19 20:21:05',
+                'updated_at' => '2026-03-19 20:21:05',
             ),
             57 => 
             array (
@@ -10600,8 +10600,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:21:05',
-                'updated_at' => '2026-03-19 19:21:05',
+                'created_at' => '2026-03-19 20:21:05',
+                'updated_at' => '2026-03-19 20:21:05',
             ),
             58 => 
             array (
@@ -10610,8 +10610,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:21:33',
-                'updated_at' => '2026-03-19 19:21:33',
+                'created_at' => '2026-03-19 20:21:33',
+                'updated_at' => '2026-03-19 20:21:33',
             ),
             59 => 
             array (
@@ -10620,8 +10620,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:21:33',
-                'updated_at' => '2026-03-19 19:21:33',
+                'created_at' => '2026-03-19 20:21:33',
+                'updated_at' => '2026-03-19 20:21:33',
             ),
             60 => 
             array (
@@ -10630,8 +10630,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:22:16',
-                'updated_at' => '2026-03-19 19:22:16',
+                'created_at' => '2026-03-19 20:22:16',
+                'updated_at' => '2026-03-19 20:22:16',
             ),
             61 => 
             array (
@@ -10640,8 +10640,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:22:16',
-                'updated_at' => '2026-03-19 19:22:16',
+                'created_at' => '2026-03-19 20:22:16',
+                'updated_at' => '2026-03-19 20:22:16',
             ),
             62 => 
             array (
@@ -10650,8 +10650,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:22:50',
-                'updated_at' => '2026-03-19 19:22:50',
+                'created_at' => '2026-03-19 20:22:50',
+                'updated_at' => '2026-03-19 20:22:50',
             ),
             63 => 
             array (
@@ -10660,8 +10660,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:22:50',
-                'updated_at' => '2026-03-19 19:22:50',
+                'created_at' => '2026-03-19 20:22:50',
+                'updated_at' => '2026-03-19 20:22:50',
             ),
             64 => 
             array (
@@ -10670,8 +10670,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:23:22',
-                'updated_at' => '2026-03-19 19:23:22',
+                'created_at' => '2026-03-19 20:23:22',
+                'updated_at' => '2026-03-19 20:23:22',
             ),
             65 => 
             array (
@@ -10680,8 +10680,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:23:22',
-                'updated_at' => '2026-03-19 19:23:22',
+                'created_at' => '2026-03-19 20:23:22',
+                'updated_at' => '2026-03-19 20:23:22',
             ),
             66 => 
             array (
@@ -10690,8 +10690,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:23:55',
-                'updated_at' => '2026-03-19 19:23:55',
+                'created_at' => '2026-03-19 20:23:55',
+                'updated_at' => '2026-03-19 20:23:55',
             ),
             67 => 
             array (
@@ -10700,8 +10700,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:23:55',
-                'updated_at' => '2026-03-19 19:23:55',
+                'created_at' => '2026-03-19 20:23:55',
+                'updated_at' => '2026-03-19 20:23:55',
             ),
             68 => 
             array (
@@ -10710,8 +10710,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:26:55',
-                'updated_at' => '2026-03-19 19:26:55',
+                'created_at' => '2026-03-19 20:26:55',
+                'updated_at' => '2026-03-19 20:26:55',
             ),
             69 => 
             array (
@@ -10720,8 +10720,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:26:55',
-                'updated_at' => '2026-03-19 19:26:55',
+                'created_at' => '2026-03-19 20:26:55',
+                'updated_at' => '2026-03-19 20:26:55',
             ),
             70 => 
             array (
@@ -10730,8 +10730,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:27:36',
-                'updated_at' => '2026-03-19 19:27:36',
+                'created_at' => '2026-03-19 20:27:36',
+                'updated_at' => '2026-03-19 20:27:36',
             ),
             71 => 
             array (
@@ -10740,8 +10740,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:27:36',
-                'updated_at' => '2026-03-19 19:27:36',
+                'created_at' => '2026-03-19 20:27:36',
+                'updated_at' => '2026-03-19 20:27:36',
             ),
             72 => 
             array (
@@ -10750,8 +10750,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:28:12',
-                'updated_at' => '2026-03-19 19:28:12',
+                'created_at' => '2026-03-19 20:28:12',
+                'updated_at' => '2026-03-19 20:28:12',
             ),
             73 => 
             array (
@@ -10760,8 +10760,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:28:12',
-                'updated_at' => '2026-03-19 19:28:12',
+                'created_at' => '2026-03-19 20:28:12',
+                'updated_at' => '2026-03-19 20:28:12',
             ),
             74 => 
             array (
@@ -10770,8 +10770,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:28:37',
-                'updated_at' => '2026-03-19 19:28:37',
+                'created_at' => '2026-03-19 20:28:37',
+                'updated_at' => '2026-03-19 20:28:37',
             ),
             75 => 
             array (
@@ -10780,8 +10780,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:28:37',
-                'updated_at' => '2026-03-19 19:28:37',
+                'created_at' => '2026-03-19 20:28:37',
+                'updated_at' => '2026-03-19 20:28:37',
             ),
             76 => 
             array (
@@ -10790,8 +10790,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:29:07',
-                'updated_at' => '2026-03-19 19:29:07',
+                'created_at' => '2026-03-19 20:29:07',
+                'updated_at' => '2026-03-19 20:29:07',
             ),
             77 => 
             array (
@@ -10800,8 +10800,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:29:07',
-                'updated_at' => '2026-03-19 19:29:07',
+                'created_at' => '2026-03-19 20:29:07',
+                'updated_at' => '2026-03-19 20:29:07',
             ),
             78 => 
             array (
@@ -10810,8 +10810,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:29:41',
-                'updated_at' => '2026-03-19 19:29:41',
+                'created_at' => '2026-03-19 20:29:41',
+                'updated_at' => '2026-03-19 20:29:41',
             ),
             79 => 
             array (
@@ -10820,8 +10820,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:29:41',
-                'updated_at' => '2026-03-19 19:29:41',
+                'created_at' => '2026-03-19 20:29:41',
+                'updated_at' => '2026-03-19 20:29:41',
             ),
             80 => 
             array (
@@ -10830,8 +10830,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:30:15',
-                'updated_at' => '2026-03-19 19:30:15',
+                'created_at' => '2026-03-19 20:30:15',
+                'updated_at' => '2026-03-19 20:30:15',
             ),
             81 => 
             array (
@@ -10840,8 +10840,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:30:15',
-                'updated_at' => '2026-03-19 19:30:15',
+                'created_at' => '2026-03-19 20:30:15',
+                'updated_at' => '2026-03-19 20:30:15',
             ),
             82 => 
             array (
@@ -10850,8 +10850,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:31:18',
-                'updated_at' => '2026-03-19 19:31:18',
+                'created_at' => '2026-03-19 20:31:18',
+                'updated_at' => '2026-03-19 20:31:18',
             ),
             83 => 
             array (
@@ -10860,8 +10860,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:31:18',
-                'updated_at' => '2026-03-19 19:31:18',
+                'created_at' => '2026-03-19 20:31:18',
+                'updated_at' => '2026-03-19 20:31:18',
             ),
             84 => 
             array (
@@ -10870,8 +10870,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:31:51',
-                'updated_at' => '2026-03-19 19:31:51',
+                'created_at' => '2026-03-19 20:31:51',
+                'updated_at' => '2026-03-19 20:31:51',
             ),
             85 => 
             array (
@@ -10880,8 +10880,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:31:51',
-                'updated_at' => '2026-03-19 19:31:51',
+                'created_at' => '2026-03-19 20:31:51',
+                'updated_at' => '2026-03-19 20:31:51',
             ),
             86 => 
             array (
@@ -10890,8 +10890,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:32:29',
-                'updated_at' => '2026-03-19 19:32:29',
+                'created_at' => '2026-03-19 20:32:29',
+                'updated_at' => '2026-03-19 20:32:29',
             ),
             87 => 
             array (
@@ -10900,8 +10900,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:32:29',
-                'updated_at' => '2026-03-19 19:32:29',
+                'created_at' => '2026-03-19 20:32:29',
+                'updated_at' => '2026-03-19 20:32:29',
             ),
             88 => 
             array (
@@ -10910,8 +10910,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:33:14',
-                'updated_at' => '2026-03-19 19:33:14',
+                'created_at' => '2026-03-19 20:33:14',
+                'updated_at' => '2026-03-19 20:33:14',
             ),
             89 => 
             array (
@@ -10920,8 +10920,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:33:14',
-                'updated_at' => '2026-03-19 19:33:14',
+                'created_at' => '2026-03-19 20:33:14',
+                'updated_at' => '2026-03-19 20:33:14',
             ),
             90 => 
             array (
@@ -10930,8 +10930,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:33:45',
-                'updated_at' => '2026-03-19 19:33:45',
+                'created_at' => '2026-03-19 20:33:45',
+                'updated_at' => '2026-03-19 20:33:45',
             ),
             91 => 
             array (
@@ -10940,8 +10940,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:33:45',
-                'updated_at' => '2026-03-19 19:33:45',
+                'created_at' => '2026-03-19 20:33:45',
+                'updated_at' => '2026-03-19 20:33:45',
             ),
             92 => 
             array (
@@ -10950,8 +10950,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:34:13',
-                'updated_at' => '2026-03-19 19:34:13',
+                'created_at' => '2026-03-19 20:34:13',
+                'updated_at' => '2026-03-19 20:34:13',
             ),
             93 => 
             array (
@@ -10960,8 +10960,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:34:13',
-                'updated_at' => '2026-03-19 19:34:13',
+                'created_at' => '2026-03-19 20:34:13',
+                'updated_at' => '2026-03-19 20:34:13',
             ),
             94 => 
             array (
@@ -10970,8 +10970,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:37:16',
-                'updated_at' => '2026-03-19 19:37:16',
+                'created_at' => '2026-03-19 20:37:16',
+                'updated_at' => '2026-03-19 20:37:16',
             ),
             95 => 
             array (
@@ -10980,8 +10980,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:37:16',
-                'updated_at' => '2026-03-19 19:37:16',
+                'created_at' => '2026-03-19 20:37:16',
+                'updated_at' => '2026-03-19 20:37:16',
             ),
             96 => 
             array (
@@ -10990,8 +10990,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:37:38',
-                'updated_at' => '2026-03-19 19:37:38',
+                'created_at' => '2026-03-19 20:37:38',
+                'updated_at' => '2026-03-19 20:37:38',
             ),
             97 => 
             array (
@@ -11000,8 +11000,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:37:38',
-                'updated_at' => '2026-03-19 19:37:38',
+                'created_at' => '2026-03-19 20:37:38',
+                'updated_at' => '2026-03-19 20:37:38',
             ),
             98 => 
             array (
@@ -11010,8 +11010,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:05',
-                'updated_at' => '2026-03-19 19:38:05',
+                'created_at' => '2026-03-19 20:38:05',
+                'updated_at' => '2026-03-19 20:38:05',
             ),
             99 => 
             array (
@@ -11020,8 +11020,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:05',
-                'updated_at' => '2026-03-19 19:38:05',
+                'created_at' => '2026-03-19 20:38:05',
+                'updated_at' => '2026-03-19 20:38:05',
             ),
             100 => 
             array (
@@ -11030,8 +11030,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:35',
-                'updated_at' => '2026-03-19 19:38:35',
+                'created_at' => '2026-03-19 20:38:35',
+                'updated_at' => '2026-03-19 20:38:35',
             ),
             101 => 
             array (
@@ -11040,8 +11040,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:35',
-                'updated_at' => '2026-03-19 19:38:35',
+                'created_at' => '2026-03-19 20:38:35',
+                'updated_at' => '2026-03-19 20:38:35',
             ),
             102 => 
             array (
@@ -11050,8 +11050,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:54',
-                'updated_at' => '2026-03-19 19:38:54',
+                'created_at' => '2026-03-19 20:38:54',
+                'updated_at' => '2026-03-19 20:38:54',
             ),
             103 => 
             array (
@@ -11060,8 +11060,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:54',
-                'updated_at' => '2026-03-19 19:38:54',
+                'created_at' => '2026-03-19 20:38:54',
+                'updated_at' => '2026-03-19 20:38:54',
             ),
             104 => 
             array (
@@ -11070,8 +11070,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:20',
-                'updated_at' => '2026-03-19 19:39:20',
+                'created_at' => '2026-03-19 20:39:20',
+                'updated_at' => '2026-03-19 20:39:20',
             ),
             105 => 
             array (
@@ -11080,8 +11080,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:20',
-                'updated_at' => '2026-03-19 19:39:20',
+                'created_at' => '2026-03-19 20:39:20',
+                'updated_at' => '2026-03-19 20:39:20',
             ),
             106 => 
             array (
@@ -11090,8 +11090,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:47',
-                'updated_at' => '2026-03-19 19:39:47',
+                'created_at' => '2026-03-19 20:39:47',
+                'updated_at' => '2026-03-19 20:39:47',
             ),
             107 => 
             array (
@@ -11100,8 +11100,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:47',
-                'updated_at' => '2026-03-19 19:39:47',
+                'created_at' => '2026-03-19 20:39:47',
+                'updated_at' => '2026-03-19 20:39:47',
             ),
             108 => 
             array (
@@ -11110,8 +11110,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:12',
-                'updated_at' => '2026-03-19 19:40:12',
+                'created_at' => '2026-03-19 20:40:12',
+                'updated_at' => '2026-03-19 20:40:12',
             ),
             109 => 
             array (
@@ -11120,8 +11120,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:12',
-                'updated_at' => '2026-03-19 19:40:12',
+                'created_at' => '2026-03-19 20:40:12',
+                'updated_at' => '2026-03-19 20:40:12',
             ),
             110 => 
             array (
@@ -11130,8 +11130,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:32',
-                'updated_at' => '2026-03-19 19:40:32',
+                'created_at' => '2026-03-19 20:40:32',
+                'updated_at' => '2026-03-19 20:40:32',
             ),
             111 => 
             array (
@@ -11140,8 +11140,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:32',
-                'updated_at' => '2026-03-19 19:40:32',
+                'created_at' => '2026-03-19 20:40:32',
+                'updated_at' => '2026-03-19 20:40:32',
             ),
             112 => 
             array (
@@ -11150,8 +11150,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:57',
-                'updated_at' => '2026-03-19 19:40:57',
+                'created_at' => '2026-03-19 20:40:57',
+                'updated_at' => '2026-03-19 20:40:57',
             ),
             113 => 
             array (
@@ -11160,8 +11160,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:57',
-                'updated_at' => '2026-03-19 19:40:57',
+                'created_at' => '2026-03-19 20:40:57',
+                'updated_at' => '2026-03-19 20:40:57',
             ),
             114 => 
             array (
@@ -11170,8 +11170,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:41:25',
-                'updated_at' => '2026-03-19 19:41:25',
+                'created_at' => '2026-03-19 20:41:25',
+                'updated_at' => '2026-03-19 20:41:25',
             ),
             115 => 
             array (
@@ -11180,8 +11180,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:41:25',
-                'updated_at' => '2026-03-19 19:41:25',
+                'created_at' => '2026-03-19 20:41:25',
+                'updated_at' => '2026-03-19 20:41:25',
             ),
             116 => 
             array (
@@ -11190,8 +11190,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:09',
-                'updated_at' => '2026-03-19 19:42:09',
+                'created_at' => '2026-03-19 20:42:09',
+                'updated_at' => '2026-03-19 20:42:09',
             ),
             117 => 
             array (
@@ -11200,8 +11200,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:09',
-                'updated_at' => '2026-03-19 19:42:09',
+                'created_at' => '2026-03-19 20:42:09',
+                'updated_at' => '2026-03-19 20:42:09',
             ),
             118 => 
             array (
@@ -11210,8 +11210,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:34',
-                'updated_at' => '2026-03-19 19:42:34',
+                'created_at' => '2026-03-19 20:42:34',
+                'updated_at' => '2026-03-19 20:42:34',
             ),
             119 => 
             array (
@@ -11220,8 +11220,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:34',
-                'updated_at' => '2026-03-19 19:42:34',
+                'created_at' => '2026-03-19 20:42:34',
+                'updated_at' => '2026-03-19 20:42:34',
             ),
             120 => 
             array (
@@ -11230,8 +11230,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:59',
-                'updated_at' => '2026-03-19 19:42:59',
+                'created_at' => '2026-03-19 20:42:59',
+                'updated_at' => '2026-03-19 20:42:59',
             ),
             121 => 
             array (
@@ -11240,8 +11240,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:42:59',
-                'updated_at' => '2026-03-19 19:42:59',
+                'created_at' => '2026-03-19 20:42:59',
+                'updated_at' => '2026-03-19 20:42:59',
             ),
             122 => 
             array (
@@ -11250,8 +11250,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:43:36',
-                'updated_at' => '2026-03-19 19:43:36',
+                'created_at' => '2026-03-19 20:43:36',
+                'updated_at' => '2026-03-19 20:43:36',
             ),
             123 => 
             array (
@@ -11260,8 +11260,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:43:36',
-                'updated_at' => '2026-03-19 19:43:36',
+                'created_at' => '2026-03-19 20:43:36',
+                'updated_at' => '2026-03-19 20:43:36',
             ),
             124 => 
             array (
@@ -11270,8 +11270,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:44:02',
-                'updated_at' => '2026-03-19 19:44:02',
+                'created_at' => '2026-03-19 20:44:02',
+                'updated_at' => '2026-03-19 20:44:02',
             ),
             125 => 
             array (
@@ -11280,8 +11280,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:44:02',
-                'updated_at' => '2026-03-19 19:44:02',
+                'created_at' => '2026-03-19 20:44:02',
+                'updated_at' => '2026-03-19 20:44:02',
             ),
             126 => 
             array (
@@ -11290,8 +11290,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:45:03',
-                'updated_at' => '2026-03-19 19:45:03',
+                'created_at' => '2026-03-19 20:45:03',
+                'updated_at' => '2026-03-19 20:45:03',
             ),
             127 => 
             array (
@@ -11300,8 +11300,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:45:03',
-                'updated_at' => '2026-03-19 19:45:03',
+                'created_at' => '2026-03-19 20:45:03',
+                'updated_at' => '2026-03-19 20:45:03',
             ),
             128 => 
             array (
@@ -11310,8 +11310,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:45:41',
-                'updated_at' => '2026-03-19 19:45:41',
+                'created_at' => '2026-03-19 20:45:41',
+                'updated_at' => '2026-03-19 20:45:41',
             ),
             129 => 
             array (
@@ -11320,8 +11320,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:45:41',
-                'updated_at' => '2026-03-19 19:45:41',
+                'created_at' => '2026-03-19 20:45:41',
+                'updated_at' => '2026-03-19 20:45:41',
             ),
             130 => 
             array (
@@ -11330,8 +11330,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:01',
-                'updated_at' => '2026-03-19 19:46:01',
+                'created_at' => '2026-03-19 20:46:01',
+                'updated_at' => '2026-03-19 20:46:01',
             ),
             131 => 
             array (
@@ -11340,8 +11340,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:01',
-                'updated_at' => '2026-03-19 19:46:01',
+                'created_at' => '2026-03-19 20:46:01',
+                'updated_at' => '2026-03-19 20:46:01',
             ),
             132 => 
             array (
@@ -11350,8 +11350,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:23',
-                'updated_at' => '2026-03-19 19:46:23',
+                'created_at' => '2026-03-19 20:46:23',
+                'updated_at' => '2026-03-19 20:46:23',
             ),
             133 => 
             array (
@@ -11360,8 +11360,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:23',
-                'updated_at' => '2026-03-19 19:46:23',
+                'created_at' => '2026-03-19 20:46:23',
+                'updated_at' => '2026-03-19 20:46:23',
             ),
             134 => 
             array (
@@ -11370,8 +11370,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:51',
-                'updated_at' => '2026-03-19 19:46:51',
+                'created_at' => '2026-03-19 20:46:51',
+                'updated_at' => '2026-03-19 20:46:51',
             ),
             135 => 
             array (
@@ -11380,8 +11380,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:46:51',
-                'updated_at' => '2026-03-19 19:46:51',
+                'created_at' => '2026-03-19 20:46:51',
+                'updated_at' => '2026-03-19 20:46:51',
             ),
             136 => 
             array (
@@ -11390,8 +11390,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:57:16',
-                'updated_at' => '2026-03-19 19:57:16',
+                'created_at' => '2026-03-19 20:57:16',
+                'updated_at' => '2026-03-19 20:57:16',
             ),
             137 => 
             array (
@@ -11400,8 +11400,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:57:16',
-                'updated_at' => '2026-03-19 19:57:16',
+                'created_at' => '2026-03-19 20:57:16',
+                'updated_at' => '2026-03-19 20:57:16',
             ),
             138 => 
             array (
@@ -11410,8 +11410,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:57:50',
-                'updated_at' => '2026-03-19 19:57:50',
+                'created_at' => '2026-03-19 20:57:50',
+                'updated_at' => '2026-03-19 20:57:50',
             ),
             139 => 
             array (
@@ -11420,8 +11420,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:57:50',
-                'updated_at' => '2026-03-19 19:57:50',
+                'created_at' => '2026-03-19 20:57:50',
+                'updated_at' => '2026-03-19 20:57:50',
             ),
             140 => 
             array (
@@ -11430,8 +11430,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:58:23',
-                'updated_at' => '2026-03-19 19:58:23',
+                'created_at' => '2026-03-19 20:58:23',
+                'updated_at' => '2026-03-19 20:58:23',
             ),
             141 => 
             array (
@@ -11440,8 +11440,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:58:23',
-                'updated_at' => '2026-03-19 19:58:23',
+                'created_at' => '2026-03-19 20:58:23',
+                'updated_at' => '2026-03-19 20:58:23',
             ),
             142 => 
             array (
@@ -11450,8 +11450,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:58:57',
-                'updated_at' => '2026-03-19 19:58:57',
+                'created_at' => '2026-03-19 20:58:57',
+                'updated_at' => '2026-03-19 20:58:57',
             ),
             143 => 
             array (
@@ -11460,8 +11460,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:58:57',
-                'updated_at' => '2026-03-19 19:58:57',
+                'created_at' => '2026-03-19 20:58:57',
+                'updated_at' => '2026-03-19 20:58:57',
             ),
             144 => 
             array (
@@ -11470,8 +11470,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:59:32',
-                'updated_at' => '2026-03-19 19:59:32',
+                'created_at' => '2026-03-19 20:59:32',
+                'updated_at' => '2026-03-19 20:59:32',
             ),
             145 => 
             array (
@@ -11480,8 +11480,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:59:32',
-                'updated_at' => '2026-03-19 19:59:32',
+                'created_at' => '2026-03-19 20:59:32',
+                'updated_at' => '2026-03-19 20:59:32',
             ),
             146 => 
             array (
@@ -11490,8 +11490,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:00:09',
-                'updated_at' => '2026-03-19 20:00:09',
+                'created_at' => '2026-03-19 21:00:09',
+                'updated_at' => '2026-03-19 21:00:09',
             ),
             147 => 
             array (
@@ -11500,8 +11500,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:00:09',
-                'updated_at' => '2026-03-19 20:00:09',
+                'created_at' => '2026-03-19 21:00:09',
+                'updated_at' => '2026-03-19 21:00:09',
             ),
             148 => 
             array (
@@ -11510,8 +11510,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:00:54',
-                'updated_at' => '2026-03-19 20:00:54',
+                'created_at' => '2026-03-19 21:00:54',
+                'updated_at' => '2026-03-19 21:00:54',
             ),
             149 => 
             array (
@@ -11520,8 +11520,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:00:54',
-                'updated_at' => '2026-03-19 20:00:54',
+                'created_at' => '2026-03-19 21:00:54',
+                'updated_at' => '2026-03-19 21:00:54',
             ),
             150 => 
             array (
@@ -11530,8 +11530,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:01:37',
-                'updated_at' => '2026-03-19 20:01:37',
+                'created_at' => '2026-03-19 21:01:37',
+                'updated_at' => '2026-03-19 21:01:37',
             ),
             151 => 
             array (
@@ -11540,8 +11540,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:01:37',
-                'updated_at' => '2026-03-19 20:01:37',
+                'created_at' => '2026-03-19 21:01:37',
+                'updated_at' => '2026-03-19 21:01:37',
             ),
             152 => 
             array (
@@ -11550,8 +11550,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:02:11',
-                'updated_at' => '2026-03-19 20:02:11',
+                'created_at' => '2026-03-19 21:02:11',
+                'updated_at' => '2026-03-19 21:02:11',
             ),
             153 => 
             array (
@@ -11560,8 +11560,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:02:11',
-                'updated_at' => '2026-03-19 20:02:11',
+                'created_at' => '2026-03-19 21:02:11',
+                'updated_at' => '2026-03-19 21:02:11',
             ),
             154 => 
             array (
@@ -11570,8 +11570,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:02:43',
-                'updated_at' => '2026-03-19 20:02:43',
+                'created_at' => '2026-03-19 21:02:43',
+                'updated_at' => '2026-03-19 21:02:43',
             ),
             155 => 
             array (
@@ -11580,8 +11580,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:02:43',
-                'updated_at' => '2026-03-19 20:02:43',
+                'created_at' => '2026-03-19 21:02:43',
+                'updated_at' => '2026-03-19 21:02:43',
             ),
             156 => 
             array (
@@ -11590,8 +11590,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:03:20',
-                'updated_at' => '2026-03-19 20:03:20',
+                'created_at' => '2026-03-19 21:03:20',
+                'updated_at' => '2026-03-19 21:03:20',
             ),
             157 => 
             array (
@@ -11600,8 +11600,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:03:20',
-                'updated_at' => '2026-03-19 20:03:20',
+                'created_at' => '2026-03-19 21:03:20',
+                'updated_at' => '2026-03-19 21:03:20',
             ),
             158 => 
             array (
@@ -11610,8 +11610,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:04:20',
-                'updated_at' => '2026-03-19 20:04:20',
+                'created_at' => '2026-03-19 21:04:20',
+                'updated_at' => '2026-03-19 21:04:20',
             ),
             159 => 
             array (
@@ -11620,8 +11620,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:04:20',
-                'updated_at' => '2026-03-19 20:04:20',
+                'created_at' => '2026-03-19 21:04:20',
+                'updated_at' => '2026-03-19 21:04:20',
             ),
             160 => 
             array (
@@ -11630,8 +11630,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:04:57',
-                'updated_at' => '2026-03-19 20:04:57',
+                'created_at' => '2026-03-19 21:04:57',
+                'updated_at' => '2026-03-19 21:04:57',
             ),
             161 => 
             array (
@@ -11640,8 +11640,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:04:57',
-                'updated_at' => '2026-03-19 20:04:57',
+                'created_at' => '2026-03-19 21:04:57',
+                'updated_at' => '2026-03-19 21:04:57',
             ),
             162 => 
             array (
@@ -11650,8 +11650,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:05:29',
-                'updated_at' => '2026-03-19 20:05:29',
+                'created_at' => '2026-03-19 21:05:29',
+                'updated_at' => '2026-03-19 21:05:29',
             ),
             163 => 
             array (
@@ -11660,8 +11660,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:05:29',
-                'updated_at' => '2026-03-19 20:05:29',
+                'created_at' => '2026-03-19 21:05:29',
+                'updated_at' => '2026-03-19 21:05:29',
             ),
             164 => 
             array (
@@ -11670,8 +11670,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:06:25',
-                'updated_at' => '2026-03-19 20:06:25',
+                'created_at' => '2026-03-19 21:06:25',
+                'updated_at' => '2026-03-19 21:06:25',
             ),
             165 => 
             array (
@@ -11680,8 +11680,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:06:25',
-                'updated_at' => '2026-03-19 20:06:25',
+                'created_at' => '2026-03-19 21:06:25',
+                'updated_at' => '2026-03-19 21:06:25',
             ),
             166 => 
             array (
@@ -11690,8 +11690,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:06:58',
-                'updated_at' => '2026-03-19 20:06:58',
+                'created_at' => '2026-03-19 21:06:58',
+                'updated_at' => '2026-03-19 21:06:58',
             ),
             167 => 
             array (
@@ -11700,8 +11700,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:06:58',
-                'updated_at' => '2026-03-19 20:06:58',
+                'created_at' => '2026-03-19 21:06:58',
+                'updated_at' => '2026-03-19 21:06:58',
             ),
             168 => 
             array (
@@ -11710,8 +11710,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:07:52',
-                'updated_at' => '2026-03-19 20:07:52',
+                'created_at' => '2026-03-19 21:07:52',
+                'updated_at' => '2026-03-19 21:07:52',
             ),
             169 => 
             array (
@@ -11720,8 +11720,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:07:52',
-                'updated_at' => '2026-03-19 20:07:52',
+                'created_at' => '2026-03-19 21:07:52',
+                'updated_at' => '2026-03-19 21:07:52',
             ),
             170 => 
             array (
@@ -11730,8 +11730,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:08:25',
-                'updated_at' => '2026-03-19 20:08:25',
+                'created_at' => '2026-03-19 21:08:25',
+                'updated_at' => '2026-03-19 21:08:25',
             ),
             171 => 
             array (
@@ -11740,8 +11740,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:08:25',
-                'updated_at' => '2026-03-19 20:08:25',
+                'created_at' => '2026-03-19 21:08:25',
+                'updated_at' => '2026-03-19 21:08:25',
             ),
             172 => 
             array (
@@ -11750,8 +11750,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:08:58',
-                'updated_at' => '2026-03-19 20:15:02',
+                'created_at' => '2026-03-19 21:08:58',
+                'updated_at' => '2026-03-19 21:15:02',
             ),
             173 => 
             array (
@@ -11760,8 +11760,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:08:58',
-                'updated_at' => '2026-03-19 20:15:02',
+                'created_at' => '2026-03-19 21:08:58',
+                'updated_at' => '2026-03-19 21:15:02',
             ),
             174 => 
             array (
@@ -11770,8 +11770,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:09:46',
-                'updated_at' => '2026-03-19 20:09:46',
+                'created_at' => '2026-03-19 21:09:46',
+                'updated_at' => '2026-03-19 21:09:46',
             ),
             175 => 
             array (
@@ -11780,8 +11780,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:09:46',
-                'updated_at' => '2026-03-19 20:09:46',
+                'created_at' => '2026-03-19 21:09:46',
+                'updated_at' => '2026-03-19 21:09:46',
             ),
             176 => 
             array (
@@ -11790,8 +11790,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:11:54',
-                'updated_at' => '2026-03-19 20:11:54',
+                'created_at' => '2026-03-19 21:11:54',
+                'updated_at' => '2026-03-19 21:11:54',
             ),
             177 => 
             array (
@@ -11800,8 +11800,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:11:54',
-                'updated_at' => '2026-03-19 20:11:54',
+                'created_at' => '2026-03-19 21:11:54',
+                'updated_at' => '2026-03-19 21:11:54',
             ),
             178 => 
             array (
@@ -11810,8 +11810,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:13:27',
-                'updated_at' => '2026-03-19 20:13:27',
+                'created_at' => '2026-03-19 21:13:27',
+                'updated_at' => '2026-03-19 21:13:27',
             ),
             179 => 
             array (
@@ -11820,8 +11820,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:13:27',
-                'updated_at' => '2026-03-19 20:13:27',
+                'created_at' => '2026-03-19 21:13:27',
+                'updated_at' => '2026-03-19 21:13:27',
             ),
             180 => 
             array (
@@ -11830,8 +11830,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:14:20',
-                'updated_at' => '2026-03-19 20:14:40',
+                'created_at' => '2026-03-19 21:14:20',
+                'updated_at' => '2026-03-19 21:14:40',
             ),
             181 => 
             array (
@@ -11840,8 +11840,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:14:20',
-                'updated_at' => '2026-03-19 20:14:40',
+                'created_at' => '2026-03-19 21:14:20',
+                'updated_at' => '2026-03-19 21:14:40',
             ),
             182 => 
             array (
@@ -11850,8 +11850,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:15:35',
-                'updated_at' => '2026-03-19 20:16:11',
+                'created_at' => '2026-03-19 21:15:35',
+                'updated_at' => '2026-03-19 21:16:11',
             ),
             183 => 
             array (
@@ -11860,8 +11860,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:15:35',
-                'updated_at' => '2026-03-19 20:16:11',
+                'created_at' => '2026-03-19 21:15:35',
+                'updated_at' => '2026-03-19 21:16:11',
             ),
             184 => 
             array (
@@ -11870,8 +11870,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:16:41',
-                'updated_at' => '2026-03-19 20:16:41',
+                'created_at' => '2026-03-19 21:16:41',
+                'updated_at' => '2026-03-19 21:16:41',
             ),
             185 => 
             array (
@@ -11880,8 +11880,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:16:41',
-                'updated_at' => '2026-03-19 20:16:41',
+                'created_at' => '2026-03-19 21:16:41',
+                'updated_at' => '2026-03-19 21:16:41',
             ),
             186 => 
             array (
@@ -11890,8 +11890,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:17:19',
-                'updated_at' => '2026-03-19 20:17:19',
+                'created_at' => '2026-03-19 21:17:19',
+                'updated_at' => '2026-03-19 21:17:19',
             ),
             187 => 
             array (
@@ -11900,8 +11900,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:17:19',
-                'updated_at' => '2026-03-19 20:17:19',
+                'created_at' => '2026-03-19 21:17:19',
+                'updated_at' => '2026-03-19 21:17:19',
             ),
             188 => 
             array (
@@ -11910,8 +11910,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:17:59',
-                'updated_at' => '2026-03-19 20:17:59',
+                'created_at' => '2026-03-19 21:17:59',
+                'updated_at' => '2026-03-19 21:17:59',
             ),
             189 => 
             array (
@@ -11920,8 +11920,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:17:59',
-                'updated_at' => '2026-03-19 20:17:59',
+                'created_at' => '2026-03-19 21:17:59',
+                'updated_at' => '2026-03-19 21:17:59',
             ),
             190 => 
             array (
@@ -11930,8 +11930,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:18:43',
-                'updated_at' => '2026-03-19 20:18:43',
+                'created_at' => '2026-03-19 21:18:43',
+                'updated_at' => '2026-03-19 21:18:43',
             ),
             191 => 
             array (
@@ -11940,8 +11940,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:18:43',
-                'updated_at' => '2026-03-19 20:18:43',
+                'created_at' => '2026-03-19 21:18:43',
+                'updated_at' => '2026-03-19 21:18:43',
             ),
             192 => 
             array (
@@ -11950,8 +11950,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:20:16',
-                'updated_at' => '2026-03-19 20:20:16',
+                'created_at' => '2026-03-19 21:20:16',
+                'updated_at' => '2026-03-19 21:20:16',
             ),
             193 => 
             array (
@@ -11960,8 +11960,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:20:16',
-                'updated_at' => '2026-03-19 20:20:16',
+                'created_at' => '2026-03-19 21:20:16',
+                'updated_at' => '2026-03-19 21:20:16',
             ),
             194 => 
             array (
@@ -11970,8 +11970,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:20:49',
-                'updated_at' => '2026-03-19 20:20:49',
+                'created_at' => '2026-03-19 21:20:49',
+                'updated_at' => '2026-03-19 21:20:49',
             ),
             195 => 
             array (
@@ -11980,8 +11980,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:20:49',
-                'updated_at' => '2026-03-19 20:20:49',
+                'created_at' => '2026-03-19 21:20:49',
+                'updated_at' => '2026-03-19 21:20:49',
             ),
             196 => 
             array (
@@ -11990,8 +11990,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:21:21',
-                'updated_at' => '2026-03-19 20:21:21',
+                'created_at' => '2026-03-19 21:21:21',
+                'updated_at' => '2026-03-19 21:21:21',
             ),
             197 => 
             array (
@@ -12000,8 +12000,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:21:21',
-                'updated_at' => '2026-03-19 20:21:21',
+                'created_at' => '2026-03-19 21:21:21',
+                'updated_at' => '2026-03-19 21:21:21',
             ),
             198 => 
             array (
@@ -12010,8 +12010,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:22:25',
-                'updated_at' => '2026-03-19 20:22:25',
+                'created_at' => '2026-03-19 21:22:25',
+                'updated_at' => '2026-03-19 21:22:25',
             ),
             199 => 
             array (
@@ -12020,8 +12020,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:22:25',
-                'updated_at' => '2026-03-19 20:22:25',
+                'created_at' => '2026-03-19 21:22:25',
+                'updated_at' => '2026-03-19 21:22:25',
             ),
             200 => 
             array (
@@ -12030,8 +12030,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:23:02',
-                'updated_at' => '2026-03-19 20:23:02',
+                'created_at' => '2026-03-19 21:23:02',
+                'updated_at' => '2026-03-19 21:23:02',
             ),
             201 => 
             array (
@@ -12040,8 +12040,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:23:02',
-                'updated_at' => '2026-03-19 20:23:02',
+                'created_at' => '2026-03-19 21:23:02',
+                'updated_at' => '2026-03-19 21:23:02',
             ),
             202 => 
             array (
@@ -12050,8 +12050,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:23:41',
-                'updated_at' => '2026-03-19 20:23:41',
+                'created_at' => '2026-03-19 21:23:41',
+                'updated_at' => '2026-03-19 21:23:41',
             ),
             203 => 
             array (
@@ -12060,8 +12060,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:23:41',
-                'updated_at' => '2026-03-19 20:23:41',
+                'created_at' => '2026-03-19 21:23:41',
+                'updated_at' => '2026-03-19 21:23:41',
             ),
             204 => 
             array (
@@ -12070,8 +12070,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E saktë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:24:08',
-                'updated_at' => '2026-03-19 20:24:08',
+                'created_at' => '2026-03-19 21:24:08',
+                'updated_at' => '2026-03-19 21:24:08',
             ),
             205 => 
             array (
@@ -12080,8 +12080,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E pasaktë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:24:08',
-                'updated_at' => '2026-03-19 20:24:08',
+                'created_at' => '2026-03-19 21:24:08',
+                'updated_at' => '2026-03-19 21:24:08',
             ),
             206 => 
             array (
@@ -12090,8 +12090,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kultura në trafikun rrugor',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:27:31',
-                'updated_at' => '2026-03-19 20:27:31',
+                'created_at' => '2026-03-19 21:27:31',
+                'updated_at' => '2026-03-19 21:27:31',
             ),
             207 => 
             array (
@@ -12100,8 +12100,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pirja e cigares gjatë ngasjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:27:31',
-                'updated_at' => '2026-03-19 20:27:31',
+                'created_at' => '2026-03-19 21:27:31',
+                'updated_at' => '2026-03-19 21:27:31',
             ),
             208 => 
             array (
@@ -12110,8 +12110,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngasja me shpejtësi maksimale që zhvillon automjeti',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:27:31',
-                'updated_at' => '2026-03-19 20:27:31',
+                'created_at' => '2026-03-19 21:27:31',
+                'updated_at' => '2026-03-19 21:27:31',
             ),
             209 => 
             array (
@@ -12120,8 +12120,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shoferi duhet të jetë pronar i automjetit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:28:39',
-                'updated_at' => '2026-03-19 20:28:39',
+                'created_at' => '2026-03-19 21:28:39',
+                'updated_at' => '2026-03-19 21:28:39',
             ),
             210 => 
             array (
@@ -12130,8 +12130,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Agresiviteti i pjesëmarrësve në trafik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:28:39',
-                'updated_at' => '2026-03-19 20:28:39',
+                'created_at' => '2026-03-19 21:28:39',
+                'updated_at' => '2026-03-19 21:28:39',
             ),
             211 => 
             array (
@@ -12140,8 +12140,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Toleranca ndaj gabimeve të të tjerëve',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:28:39',
-                'updated_at' => '2026-03-19 20:28:39',
+                'created_at' => '2026-03-19 21:28:39',
+                'updated_at' => '2026-03-19 21:28:39',
             ),
             212 => 
             array (
@@ -12150,8 +12150,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Respektimi i ndërsjelltë në trafik',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:10',
-                'updated_at' => '2026-03-19 20:29:10',
+                'created_at' => '2026-03-19 21:29:10',
+                'updated_at' => '2026-03-19 21:29:10',
             ),
             213 => 
             array (
@@ -12160,8 +12160,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Pirja e alkooholit gjatë ngasjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:10',
-                'updated_at' => '2026-03-19 20:29:10',
+                'created_at' => '2026-03-19 21:29:10',
+                'updated_at' => '2026-03-19 21:29:10',
             ),
             214 => 
             array (
@@ -12170,8 +12170,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Agresiviteti i pjesëmarrësve në trafik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:10',
-                'updated_at' => '2026-03-19 20:29:10',
+                'created_at' => '2026-03-19 21:29:10',
+                'updated_at' => '2026-03-19 21:29:10',
             ),
             215 => 
             array (
@@ -12180,8 +12180,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Parashikimi i zhvillimit të situatave në trafik',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:45',
-                'updated_at' => '2026-03-19 20:29:45',
+                'created_at' => '2026-03-19 21:29:45',
+                'updated_at' => '2026-03-19 21:29:45',
             ),
             216 => 
             array (
@@ -12190,8 +12190,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Reagimi me vonesë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:45',
-                'updated_at' => '2026-03-19 20:29:45',
+                'created_at' => '2026-03-19 21:29:45',
+                'updated_at' => '2026-03-19 21:29:45',
             ),
             217 => 
             array (
@@ -12200,8 +12200,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimi i telefonit mobil gjatë ngasjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:29:45',
-                'updated_at' => '2026-03-19 20:29:45',
+                'created_at' => '2026-03-19 21:29:45',
+                'updated_at' => '2026-03-19 21:29:45',
             ),
             218 => 
             array (
@@ -12210,8 +12210,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Reagimi me vonesë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:30:38',
-                'updated_at' => '2026-03-19 20:30:38',
+                'created_at' => '2026-03-19 21:30:38',
+                'updated_at' => '2026-03-19 21:30:38',
             ),
             219 => 
             array (
@@ -12220,8 +12220,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mbajtja e distancës së sigurisë gjatë ngasjes',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:30:38',
-                'updated_at' => '2026-03-19 20:30:38',
+                'created_at' => '2026-03-19 21:30:38',
+                'updated_at' => '2026-03-19 21:30:38',
             ),
             220 => 
             array (
@@ -12230,8 +12230,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimi i dritave të gjata, çdo herë gjatë ngasjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:30:38',
-                'updated_at' => '2026-03-19 20:30:38',
+                'created_at' => '2026-03-19 21:30:38',
+                'updated_at' => '2026-03-19 21:30:38',
             ),
             221 => 
             array (
@@ -12240,8 +12240,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Hyrja në trafik me nxitim',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:31:21',
-                'updated_at' => '2026-03-19 20:31:21',
+                'created_at' => '2026-03-19 21:31:21',
+                'updated_at' => '2026-03-19 21:31:21',
             ),
             222 => 
             array (
@@ -12250,8 +12250,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngasja me shpejtësi maksimale që zhvillon automjeti',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:31:21',
-                'updated_at' => '2026-03-19 20:31:21',
+                'created_at' => '2026-03-19 21:31:21',
+                'updated_at' => '2026-03-19 21:31:21',
             ),
             223 => 
             array (
@@ -12260,8 +12260,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Kultura në trafikun rrugor',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:31:21',
-                'updated_at' => '2026-03-19 20:31:21',
+                'created_at' => '2026-03-19 21:31:21',
+                'updated_at' => '2026-03-19 21:31:21',
             ),
             224 => 
             array (
@@ -12270,8 +12270,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fëmijëve, personave të moshuar, personave me aftësi të kufizuara',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:01',
-                'updated_at' => '2026-03-19 20:32:01',
+                'created_at' => '2026-03-19 21:32:01',
+                'updated_at' => '2026-03-19 21:32:01',
             ),
             225 => 
             array (
@@ -12280,8 +12280,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shoferëve të autobusëve',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:01',
-                'updated_at' => '2026-03-19 20:32:01',
+                'created_at' => '2026-03-19 21:32:01',
+                'updated_at' => '2026-03-19 21:32:01',
             ),
             226 => 
             array (
@@ -12290,8 +12290,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shoferëve profesionalë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:01',
-                'updated_at' => '2026-03-19 20:32:01',
+                'created_at' => '2026-03-19 21:32:01',
+                'updated_at' => '2026-03-19 21:32:01',
             ),
             227 => 
             array (
@@ -12300,8 +12300,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Çdo sjellje e cila është në kundërshtim me rregullat e trafikut dhe të sigurisë',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:42',
-                'updated_at' => '2026-03-19 20:32:42',
+                'created_at' => '2026-03-19 21:32:42',
+                'updated_at' => '2026-03-19 21:32:42',
             ),
             228 => 
             array (
@@ -12310,8 +12310,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vetëm sjelljet të cilat shkaktojnë aksident trafiku',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:42',
-                'updated_at' => '2026-03-19 20:32:42',
+                'created_at' => '2026-03-19 21:32:42',
+                'updated_at' => '2026-03-19 21:32:42',
             ),
             229 => 
             array (
@@ -12320,8 +12320,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vetëm nëse shoferi aplikon ngasjen defanzive',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:32:42',
-                'updated_at' => '2026-03-19 20:32:42',
+                'created_at' => '2026-03-19 21:32:42',
+                'updated_at' => '2026-03-19 21:32:42',
             ),
             230 => 
             array (
@@ -12330,8 +12330,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Veprimet e tyre janë të paparashikueshme',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:33:10',
-                'updated_at' => '2026-03-19 20:33:10',
+                'created_at' => '2026-03-19 21:33:10',
+                'updated_at' => '2026-03-19 21:33:10',
             ),
             231 => 
             array (
@@ -12340,8 +12340,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Për shkak agresivitetit të tyre',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:33:10',
-                'updated_at' => '2026-03-19 20:33:10',
+                'created_at' => '2026-03-19 21:33:10',
+                'updated_at' => '2026-03-19 21:33:10',
             ),
             232 => 
             array (
@@ -12350,8 +12350,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'I njohin mirë rregullat e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:33:10',
-                'updated_at' => '2026-03-19 20:33:10',
+                'created_at' => '2026-03-19 21:33:10',
+                'updated_at' => '2026-03-19 21:33:10',
             ),
             233 => 
             array (
@@ -12360,8 +12360,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Sjelljen në trafik',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:13',
-                'updated_at' => '2026-03-19 20:34:13',
+                'created_at' => '2026-03-19 21:34:13',
+                'updated_at' => '2026-03-19 21:34:13',
             ),
             234 => 
             array (
@@ -12370,8 +12370,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngasjen vetëm natën',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:13',
-                'updated_at' => '2026-03-19 20:34:13',
+                'created_at' => '2026-03-19 21:34:13',
+                'updated_at' => '2026-03-19 21:34:13',
             ),
             235 => 
             array (
@@ -12380,8 +12380,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ndalimin e ngasjes me bashkëudhëtarë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:13',
-                'updated_at' => '2026-03-19 20:34:13',
+                'created_at' => '2026-03-19 21:34:13',
+                'updated_at' => '2026-03-19 21:34:13',
             ),
             236 => 
             array (
@@ -12390,8 +12390,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Vetura nuk është në pronësi të shoferit',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:53',
-                'updated_at' => '2026-03-19 20:34:53',
+                'created_at' => '2026-03-19 21:34:53',
+                'updated_at' => '2026-03-19 21:34:53',
             ),
             237 => 
             array (
@@ -12400,8 +12400,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mungesa e përvojës në ngasje',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:53',
-                'updated_at' => '2026-03-19 20:34:53',
+                'created_at' => '2026-03-19 21:34:53',
+                'updated_at' => '2026-03-19 21:34:53',
             ),
             238 => 
             array (
@@ -12410,8 +12410,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Aplikimi i ngasjes defanzive',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:34:53',
-                'updated_at' => '2026-03-19 20:34:53',
+                'created_at' => '2026-03-19 21:34:53',
+                'updated_at' => '2026-03-19 21:34:53',
             ),
             239 => 
             array (
@@ -12420,8 +12420,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Si të reagohet në situatat e rrezikshme',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:35:30',
-                'updated_at' => '2026-03-19 20:35:30',
+                'created_at' => '2026-03-19 21:35:30',
+                'updated_at' => '2026-03-19 21:35:30',
             ),
             240 => 
             array (
@@ -12430,8 +12430,8 @@ class AnswersTableSeeder extends Seeder
             'answer_text' => 'Leximi i porosive (msm-ve) gjatë ngasjes',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:35:30',
-                'updated_at' => '2026-03-19 20:35:30',
+                'created_at' => '2026-03-19 21:35:30',
+                'updated_at' => '2026-03-19 21:35:30',
             ),
             241 => 
             array (
@@ -12440,8 +12440,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të dinë moshën e shoferëve të automjeteve që vijnë përballë',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:35:30',
-                'updated_at' => '2026-03-19 20:35:30',
+                'created_at' => '2026-03-19 21:35:30',
+                'updated_at' => '2026-03-19 21:35:30',
             ),
             242 => 
             array (
@@ -12450,8 +12450,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Aplikojnë Eko - ngasjen',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:12',
-                'updated_at' => '2026-03-19 20:36:12',
+                'created_at' => '2026-03-19 21:36:12',
+                'updated_at' => '2026-03-19 21:36:12',
             ),
             243 => 
             array (
@@ -12460,8 +12460,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Mosnjohja e faktorëve që shkaktojnë aksidente rrugore',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:12',
-                'updated_at' => '2026-03-19 20:36:12',
+                'created_at' => '2026-03-19 21:36:12',
+                'updated_at' => '2026-03-19 21:36:12',
             ),
             244 => 
             array (
@@ -12470,8 +12470,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Respektojnë rregullat e trafikut',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:12',
-                'updated_at' => '2026-03-19 20:36:12',
+                'created_at' => '2026-03-19 21:36:12',
+                'updated_at' => '2026-03-19 21:36:12',
             ),
             245 => 
             array (
@@ -12480,8 +12480,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'E ngasin automjetin me nderrues automatik.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:59',
-                'updated_at' => '2026-03-19 20:36:59',
+                'created_at' => '2026-03-19 21:36:59',
+                'updated_at' => '2026-03-19 21:36:59',
             ),
             246 => 
             array (
@@ -12490,8 +12490,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Dëshirojnë që të tregohen mbizotërues ndaj moshatarëve të tyre.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:59',
-                'updated_at' => '2026-03-19 20:36:59',
+                'created_at' => '2026-03-19 21:36:59',
+                'updated_at' => '2026-03-19 21:36:59',
             ),
             247 => 
             array (
@@ -12500,8 +12500,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nuk posedojnë patentë shoferin për të gjitha kategoritë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:36:59',
-                'updated_at' => '2026-03-19 20:36:59',
+                'created_at' => '2026-03-19 21:36:59',
+                'updated_at' => '2026-03-19 21:36:59',
             ),
             248 => 
             array (
@@ -12510,8 +12510,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Fëmijët, personat e verbër, personat me aftësi të kufizuar.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:37:27',
-                'updated_at' => '2026-03-19 20:37:27',
+                'created_at' => '2026-03-19 21:37:27',
+                'updated_at' => '2026-03-19 21:37:27',
             ),
             249 => 
             array (
@@ -12520,8 +12520,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Udhëtarët në autobusë.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:37:27',
-                'updated_at' => '2026-03-19 20:37:27',
+                'created_at' => '2026-03-19 21:37:27',
+                'updated_at' => '2026-03-19 21:37:27',
             ),
             250 => 
             array (
@@ -12530,8 +12530,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shoferi i tramvait.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:37:27',
-                'updated_at' => '2026-03-19 20:37:27',
+                'created_at' => '2026-03-19 21:37:27',
+                'updated_at' => '2026-03-19 21:37:27',
             ),
             251 => 
             array (
@@ -12540,8 +12540,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në të shumtën e rasteve nuk janë të vetëdijshëm për rrezikun në trafik.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:02',
-                'updated_at' => '2026-03-19 20:38:02',
+                'created_at' => '2026-03-19 21:38:02',
+                'updated_at' => '2026-03-19 21:38:02',
             ),
             252 => 
             array (
@@ -12550,8 +12550,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Varësisht nga gjinia.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:02',
-                'updated_at' => '2026-03-19 20:38:02',
+                'created_at' => '2026-03-19 21:38:02',
+                'updated_at' => '2026-03-19 21:38:02',
             ),
             253 => 
             array (
@@ -12560,8 +12560,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Çdo herë në pajtim me rregullat e trafikut.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:02',
-                'updated_at' => '2026-03-19 20:38:02',
+                'created_at' => '2026-03-19 21:38:02',
+                'updated_at' => '2026-03-19 21:38:02',
             ),
             254 => 
             array (
@@ -12570,8 +12570,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ti shikojn reklamat gjatë rrugës.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:47',
-                'updated_at' => '2026-03-19 20:38:47',
+                'created_at' => '2026-03-19 21:38:47',
+                'updated_at' => '2026-03-19 21:38:47',
             ),
             255 => 
             array (
@@ -12580,8 +12580,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ti njohin prodhuesin e shenjave të trafikut.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:47',
-                'updated_at' => '2026-03-19 20:38:47',
+                'created_at' => '2026-03-19 21:38:47',
+                'updated_at' => '2026-03-19 21:38:47',
             ),
             256 => 
             array (
@@ -12590,8 +12590,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Të mos i hudhin sendet apo mbeturinat në rrugë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:38:47',
-                'updated_at' => '2026-03-19 20:38:47',
+                'created_at' => '2026-03-19 21:38:47',
+                'updated_at' => '2026-03-19 21:38:47',
             ),
             257 => 
             array (
@@ -12600,8 +12600,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në përdorim telefonit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:29',
-                'updated_at' => '2026-03-19 20:39:29',
+                'created_at' => '2026-03-19 21:39:29',
+                'updated_at' => '2026-03-19 21:39:29',
             ),
             258 => 
             array (
@@ -12610,8 +12610,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Këmbësorë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:29',
-                'updated_at' => '2026-03-19 20:39:29',
+                'created_at' => '2026-03-19 21:39:29',
+                'updated_at' => '2026-03-19 21:39:29',
             ),
             259 => 
             array (
@@ -12620,8 +12620,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përdorimin e radios.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:29',
-                'updated_at' => '2026-03-19 20:39:29',
+                'created_at' => '2026-03-19 21:39:29',
+                'updated_at' => '2026-03-19 21:39:29',
             ),
             260 => 
             array (
@@ -12630,8 +12630,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në shenjat e trafikut dhe distancë të sigurisë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:59',
-                'updated_at' => '2026-03-19 20:39:59',
+                'created_at' => '2026-03-19 21:39:59',
+                'updated_at' => '2026-03-19 21:39:59',
             ),
             261 => 
             array (
@@ -12640,8 +12640,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në kujdes gjatë shkrimit të msm-ve në telefonin mobil.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:59',
-                'updated_at' => '2026-03-19 20:39:59',
+                'created_at' => '2026-03-19 21:39:59',
+                'updated_at' => '2026-03-19 21:39:59',
             ),
             262 => 
             array (
@@ -12650,8 +12650,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Në tipin e automjetit gjatë tejkalimit.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:39:59',
-                'updated_at' => '2026-03-19 20:39:59',
+                'created_at' => '2026-03-19 21:39:59',
+                'updated_at' => '2026-03-19 21:39:59',
             ),
             263 => 
             array (
@@ -12660,8 +12660,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Përqëndrimi gjatë ngasjes.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:40:31',
-                'updated_at' => '2026-03-19 20:40:31',
+                'created_at' => '2026-03-19 21:40:31',
+                'updated_at' => '2026-03-19 21:40:31',
             ),
             264 => 
             array (
@@ -12670,8 +12670,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Hyrja në situata të rrezikshme.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:40:31',
-                'updated_at' => '2026-03-19 20:40:31',
+                'created_at' => '2026-03-19 21:40:31',
+                'updated_at' => '2026-03-19 21:40:31',
             ),
             265 => 
             array (
@@ -12680,8 +12680,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Sjellja konforn rregullave në trafik.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:40:31',
-                'updated_at' => '2026-03-19 20:40:31',
+                'created_at' => '2026-03-19 21:40:31',
+                'updated_at' => '2026-03-19 21:40:31',
             ),
             266 => 
             array (
@@ -12690,8 +12690,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Nxitim i vrullshëm.',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:41:17',
-                'updated_at' => '2026-03-19 20:41:17',
+                'created_at' => '2026-03-19 21:41:17',
+                'updated_at' => '2026-03-19 21:41:17',
             ),
             267 => 
             array (
@@ -12700,8 +12700,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Shmangja e aksidentit për shkak të shkeljeve të rregullave të trafikut nga pjesëmarrësit e tjerë.',
                 'is_correct' => 1,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:41:17',
-                'updated_at' => '2026-03-19 20:41:17',
+                'created_at' => '2026-03-19 21:41:17',
+                'updated_at' => '2026-03-19 21:41:17',
             ),
             268 => 
             array (
@@ -12710,8 +12710,8 @@ class AnswersTableSeeder extends Seeder
                 'answer_text' => 'Ngasja vetëm me mjet me ndërrues automatik',
                 'is_correct' => 0,
                 'image' => NULL,
-                'created_at' => '2026-03-19 20:41:17',
-                'updated_at' => '2026-03-19 20:41:17',
+                'created_at' => '2026-03-19 21:41:17',
+                'updated_at' => '2026-03-19 21:41:17',
             ),
         ));
         

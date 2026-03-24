@@ -27,8 +27,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_text' => 'A ju lejohet ndërrimi i shiritit për kthim majtas në këtë situatë?
 ',
                 'image' => 'questions/nSzlV75spxGoZk75YSpzafnsV3sMGN8yJuP7nruF.png',
-                'created_at' => '2026-03-15 22:32:22',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:32:22',
+                'updated_at' => '2026-03-15 23:32:22',
             ),
             1 => 
             array (
@@ -37,8 +37,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1002,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/wCCp5dgfEf1ukWilQORXRpJOrTLc7KUiq1Vmq8gz.png',
-                'created_at' => '2026-03-15 22:33:44',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:33:44',
+                'updated_at' => '2026-03-16 00:19:08',
             ),
             2 => 
             array (
@@ -47,8 +47,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1003,
                 'question_text' => 'Çfarë kujdesi duhet të keni në këtë situatë?',
                 'image' => 'questions/FqJ8ZvwxdTtmxaouVMKPo2lIHyI2qQ78v2r225wT.png',
-                'created_at' => '2026-03-15 22:36:29',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:36:29',
+                'updated_at' => '2026-03-16 00:18:54',
             ),
             3 => 
             array (
@@ -57,8 +57,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1004,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/hPAjm6k16FwPg3fnTSdVGWmqleeZEId53tUGmJro.png',
-                'created_at' => '2026-03-15 22:37:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:37:31',
+                'updated_at' => '2026-03-15 23:37:31',
             ),
             4 => 
             array (
@@ -67,8 +67,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1005,
                 'question_text' => ' Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/6imji0S5kvExR7SKFQM2HSvbtp6Rt1OycYVvOHEE.png',
-                'created_at' => '2026-03-15 22:38:34',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:38:34',
+                'updated_at' => '2026-03-15 23:38:34',
             ),
             5 => 
             array (
@@ -77,8 +77,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1006,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/Qd022ABEBOA7ecQaqdG5Xgn0M8OQufgNVl0EwQ0I.png',
-                'created_at' => '2026-03-15 22:39:23',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:39:23',
+                'updated_at' => '2026-03-15 23:39:23',
             ),
             6 => 
             array (
@@ -88,8 +88,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_text' => 'Si duhet të veproni në këtë situatë?
 ',
                 'image' => 'questions/eW9LAMFPZHVfww6NkG2vhAb7e0PDojGs8NPeSlmT.png',
-                'created_at' => '2026-03-15 22:40:55',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:40:55',
+                'updated_at' => '2026-03-15 23:40:55',
             ),
             7 => 
             array (
@@ -98,8 +98,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1008,
                 'question_text' => 'Çka duhet keni parasysh gjatë ngasjes në autostradë si në këtë situatë?',
                 'image' => 'questions/s8orAUxy7WjIsARmlw3kJZLPw6UQFyR1jZQusyH0.png',
-                'created_at' => '2026-03-15 22:42:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:42:01',
+                'updated_at' => '2026-03-15 23:42:01',
             ),
             8 => 
             array (
@@ -109,8 +109,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_text' => 'Si duhet të veproni në këtë situatë?
 ',
                 'image' => 'questions/UdroSpQtM1pXfVf1nxDFBIig26afkmRymYO5AIs3.png',
-                'created_at' => '2026-03-15 22:44:08',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:44:08',
+                'updated_at' => '2026-03-15 23:44:08',
             ),
             9 => 
             array (
@@ -119,8 +119,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_number' => 1010,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/BqFKs001KCPbKa7JX0glomKFLCEbmecepaW9I5JA.png',
-                'created_at' => '2026-03-15 22:45:06',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:45:06',
+                'updated_at' => '2026-03-15 23:45:06',
             ),
             10 => 
             array (
@@ -130,8 +130,8 @@ class QuestionsTableSeeder extends Seeder
                 'question_text' => 'Çka duhet të keni parasysh gjatë ngasjes në tunel si në
 këtë situatë?',
                 'image' => 'questions/APbTsgh4w9YvM7gEhehdUMIGvjHJFRu7Vm7ggg6V.png',
-                'created_at' => '2026-03-15 22:49:58',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:49:58',
+                'updated_at' => '2026-03-15 23:49:58',
             ),
             11 => 
             array (
@@ -140,8 +140,8 @@ këtë situatë?',
                 'question_number' => 1012,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/9fgM3ZaCIpCqNGIhOzH5VBJzVT36UZiVorkmR5BK.png',
-                'created_at' => '2026-03-15 22:51:05',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:51:05',
+                'updated_at' => '2026-03-15 23:51:05',
             ),
             12 => 
             array (
@@ -150,8 +150,8 @@ këtë situatë?',
                 'question_number' => 1013,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/MuudW44CrKoIVElC7UJcDoFqvjYZiat8KMAVjWnI.png',
-                'created_at' => '2026-03-15 22:55:56',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:55:56',
+                'updated_at' => '2026-03-15 23:55:56',
             ),
             13 => 
             array (
@@ -161,8 +161,8 @@ këtë situatë?',
                 'question_text' => 'Çka duhet të keni parasysh gjatë ngasjes së veturës në
 këtë situatë',
                 'image' => 'questions/Isz2HPG53qlhOSSP2tU6Mz53PfESfWixOOxqlKzh.png',
-                'created_at' => '2026-03-15 22:56:43',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:56:43',
+                'updated_at' => '2026-03-15 23:56:43',
             ),
             14 => 
             array (
@@ -171,8 +171,8 @@ këtë situatë',
                 'question_number' => 1015,
                 'question_text' => ' Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/dyFp4O5FyPIwbTwFnLKxNsmLldt4pIV4SpBWsvZQ.png',
-                'created_at' => '2026-03-15 22:58:24',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:58:24',
+                'updated_at' => '2026-03-15 23:58:24',
             ),
             15 => 
             array (
@@ -181,8 +181,8 @@ këtë situatë',
                 'question_number' => 1016,
                 'question_text' => 'A duhet të rritet distanca e sigurisë në këtë situatë?',
                 'image' => 'questions/MoAUJF48KB6xMsNQ8b6FKirPOCHYORw46mnJunDB.png',
-                'created_at' => '2026-03-15 22:59:36',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-15 23:59:36',
+                'updated_at' => '2026-03-15 23:59:36',
             ),
             16 => 
             array (
@@ -192,18 +192,18 @@ këtë situatë',
                 'question_text' => 'Çka duhet të keni parasysh kur autobusi jashtë
 vendbanimit sinjalizon hyrjen në rrugën qarkulluese?',
                 'image' => 'questions/eAP3A6Lao8w1FBbXXpkTm0f7fXxV2yK4U6jbghwi.png',
-                'created_at' => '2026-03-15 23:00:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 00:00:39',
+                'updated_at' => '2026-03-16 00:00:39',
             ),
             17 => 
             array (
                 'id' => 18,
                 'category_id' => 1,
                 'question_number' => 1018,
-                'question_text' => 'Duhet të vazhdoj me të njëjtën shpejtësi',
+                'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/uxE1jkAq7AvE3s4oxebdyJzWxorz09vWOqSJVWWd.png',
-                'created_at' => '2026-03-15 23:01:41',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 00:01:41',
+                'updated_at' => '2026-03-21 20:06:20',
             ),
             18 => 
             array (
@@ -212,8 +212,8 @@ vendbanimit sinjalizon hyrjen në rrugën qarkulluese?',
                 'question_number' => 1019,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/7L4VKCiX2M32W5jOlUeYJQDt8v8ZGtdTnfWAtOfT.png',
-                'created_at' => '2026-03-15 23:02:51',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 00:02:51',
+                'updated_at' => '2026-03-16 00:11:18',
             ),
             19 => 
             array (
@@ -223,8 +223,8 @@ vendbanimit sinjalizon hyrjen në rrugën qarkulluese?',
                 'question_text' => 'A duhet t’u jepni përparësi kalimi këmbësorëve në këtë
 situatë?',
                 'image' => 'questions/w16ndPX6loNtdWU3gsdrHt4GSTVTmgrgU4Plj0r9.png',
-                'created_at' => '2026-03-15 23:12:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 00:12:31',
+                'updated_at' => '2026-03-16 00:12:31',
             ),
             20 => 
             array (
@@ -234,8 +234,8 @@ situatë?',
                 'question_text' => 'A duhet t’i jepni përparësi kalimi autobusit që hyn në
 rrugën qarkulluese nga vendndalja jashtë vendbanimit?',
                 'image' => 'questions/TRjHXKp6kNzg9d1VfmD7h7dZbbI8sPZDlpqy5tvi.png',
-                'created_at' => '2026-03-15 23:14:09',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 00:14:09',
+                'updated_at' => '2026-03-16 00:14:27',
             ),
             21 => 
             array (
@@ -244,8 +244,8 @@ rrugën qarkulluese nga vendndalja jashtë vendbanimit?',
                 'question_number' => 1022,
                 'question_text' => 'Në cilat cilat raste lejohet përdorimi i shiritit 1 në autostradë?',
                 'image' => 'questions/PztvK3caV1RqKcxsEQW6Eyuo88vCngR897wlVxgh.png',
-                'created_at' => '2026-03-16 08:38:47',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:38:47',
+                'updated_at' => '2026-03-16 09:38:47',
             ),
             22 => 
             array (
@@ -255,8 +255,8 @@ rrugën qarkulluese nga vendndalja jashtë vendbanimit?',
                 'question_text' => 'Në cilin shirit të trafikut duhet të lëvizni në autostradë si
 në këtë situatë?',
                 'image' => 'questions/Fog1LUav0CE4grSUCFILwUsDszhFkEDNzAoWljtN.png',
-                'created_at' => '2026-03-16 08:40:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:40:01',
+                'updated_at' => '2026-03-19 21:44:09',
             ),
             23 => 
             array (
@@ -265,8 +265,8 @@ në këtë situatë?',
                 'question_number' => 1024,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/nFYrpgG10JnNPWsAtfexPJbpAXpGUjsQhUw5hC2m.png',
-                'created_at' => '2026-03-16 08:43:18',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:43:18',
+                'updated_at' => '2026-03-16 09:43:18',
             ),
             24 => 
             array (
@@ -275,8 +275,8 @@ në këtë situatë?',
                 'question_number' => 1025,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/w0iKiVLO2VL4DbqAqetY2ONkuVHgHz1wx5y2UM3x.png',
-                'created_at' => '2026-03-16 08:44:30',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:44:30',
+                'updated_at' => '2026-03-16 09:44:30',
             ),
             25 => 
             array (
@@ -285,8 +285,8 @@ në këtë situatë?',
                 'question_number' => 1026,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/3MT551tA9Vp5wZnUNt7poYLvadUpbpsnlDlcC8ly.png',
-                'created_at' => '2026-03-16 08:45:36',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:45:36',
+                'updated_at' => '2026-03-16 09:45:36',
             ),
             26 => 
             array (
@@ -295,8 +295,8 @@ në këtë situatë?',
                 'question_number' => 1027,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/DPtxVco48Roe8yrJO6fjSLtAaBHrFjk0x4OeHUSh.png',
-                'created_at' => '2026-03-16 08:46:38',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:46:38',
+                'updated_at' => '2026-03-16 09:46:38',
             ),
             27 => 
             array (
@@ -305,8 +305,8 @@ në këtë situatë?',
                 'question_number' => 1028,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/XhMcvUGe1WJyXFrdbJw8Vh7rddYbrl7xJNfLQuh9.png',
-                'created_at' => '2026-03-16 08:47:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:47:39',
+                'updated_at' => '2026-03-16 09:47:39',
             ),
             28 => 
             array (
@@ -315,8 +315,8 @@ në këtë situatë?',
                 'question_number' => 1029,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/fcXfBUsMPtnrdoV6F3mbQXcucOyvACrdvviTGpjT.png',
-                'created_at' => '2026-03-16 08:48:45',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:48:45',
+                'updated_at' => '2026-03-16 09:48:45',
             ),
             29 => 
             array (
@@ -325,8 +325,8 @@ në këtë situatë?',
                 'question_number' => 1030,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/Y99JVgddQJskPmxTN2kZXDgredgu3sVtTzp9mu3N.png',
-                'created_at' => '2026-03-16 08:49:53',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:49:53',
+                'updated_at' => '2026-03-16 09:49:53',
             ),
             30 => 
             array (
@@ -335,8 +335,8 @@ në këtë situatë?',
                 'question_number' => 1031,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/Wj0IcqFTXhXrNlOhfgSRl84SG69VYj7J9RDiu2ZT.png',
-                'created_at' => '2026-03-16 08:50:46',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:50:46',
+                'updated_at' => '2026-03-16 09:50:46',
             ),
             31 => 
             array (
@@ -345,8 +345,8 @@ në këtë situatë?',
                 'question_number' => 1032,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/6tL3I1NZ8N9Z10bndEAG9XyRgSF3OWiJHkndsLtw.png',
-                'created_at' => '2026-03-16 08:52:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:52:01',
+                'updated_at' => '2026-03-16 09:52:01',
             ),
             32 => 
             array (
@@ -355,8 +355,8 @@ në këtë situatë?',
                 'question_number' => 1033,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/G3Mrnjh8MmcimAXLltoKQ0q2LkewxvhRTKYDe5e3.png',
-                'created_at' => '2026-03-16 08:53:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:53:01',
+                'updated_at' => '2026-03-16 09:53:01',
             ),
             33 => 
             array (
@@ -365,8 +365,8 @@ në këtë situatë?',
                 'question_number' => 1034,
                 'question_text' => ' Si do të veproni në këtë situatë?',
                 'image' => 'questions/i5gkzdW886ymE4YXM7wBCLFnnBloARwCnwfNKKws.png',
-                'created_at' => '2026-03-16 08:54:11',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:54:11',
+                'updated_at' => '2026-03-16 09:54:11',
             ),
             34 => 
             array (
@@ -375,8 +375,8 @@ në këtë situatë?',
                 'question_number' => 1035,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/NmZirdL8L7bbANMaIaDFJmOHJl6u4vRg1mXAZwoY.png',
-                'created_at' => '2026-03-16 08:55:13',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:55:13',
+                'updated_at' => '2026-03-16 09:55:13',
             ),
             35 => 
             array (
@@ -385,8 +385,8 @@ në këtë situatë?',
                 'question_number' => 1036,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/XT3xMO4krrLqj6Pf1yypJMqe5oNypoJV17b1qg82.png',
-                'created_at' => '2026-03-16 08:56:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:56:17',
+                'updated_at' => '2026-03-16 09:56:17',
             ),
             36 => 
             array (
@@ -395,8 +395,8 @@ në këtë situatë?',
                 'question_number' => 1037,
                 'question_text' => 'Si do të veproni në këtë situatë?',
                 'image' => 'questions/Ho4M69c4DYBotRebZEx08JKKKLymAelHYWiXvAZj.png',
-                'created_at' => '2026-03-16 08:57:18',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:57:18',
+                'updated_at' => '2026-03-16 09:57:18',
             ),
             37 => 
             array (
@@ -405,8 +405,8 @@ në këtë situatë?',
                 'question_number' => 1038,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/SeU6dS9lqHctOzrmgcs0DqMwIiCb5SoIITlI8wCL.png',
-                'created_at' => '2026-03-16 08:58:14',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:58:14',
+                'updated_at' => '2026-03-16 09:58:14',
             ),
             38 => 
             array (
@@ -415,8 +415,8 @@ në këtë situatë?',
                 'question_number' => 1039,
                 'question_text' => 'Çfarë kujdesi duhet të keni në këtë situatë?',
                 'image' => 'questions/3FOXECuFMiiuC2v9XU03S6IKOykyBzdk4PCqNpXG.png',
-                'created_at' => '2026-03-16 08:59:14',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 09:59:14',
+                'updated_at' => '2026-03-16 09:59:14',
             ),
             39 => 
             array (
@@ -427,8 +427,8 @@ në këtë situatë?',
 mjetin për shkak të defektit. Si do të veproni në këtë
 situatë?',
                 'image' => 'questions/axX6BZACFWomroKuzakTmbF5QIwrKeqywUe1SHrN.png',
-                'created_at' => '2026-03-16 09:00:44',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:00:44',
+                'updated_at' => '2026-03-16 10:00:44',
             ),
             40 => 
             array (
@@ -437,8 +437,8 @@ situatë?',
                 'question_number' => 1041,
                 'question_text' => 'Çfarë kujdesi duhet të keni në këtë situatë?',
                 'image' => 'questions/Z9Pe22zntJAiSpkllN9dsle5q479xmLB8OoI0lsI.png',
-                'created_at' => '2026-03-16 09:02:59',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:02:59',
+                'updated_at' => '2026-03-16 10:02:59',
             ),
             41 => 
             array (
@@ -447,8 +447,8 @@ situatë?',
                 'question_number' => 1042,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/HeiCzLSsgvMoiBu7zWcHntNOfR4deaO8xSvSHZWC.png',
-                'created_at' => '2026-03-16 09:04:00',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:04:00',
+                'updated_at' => '2026-03-16 10:04:00',
             ),
             42 => 
             array (
@@ -457,8 +457,8 @@ situatë?',
                 'question_number' => 1043,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/Qca0nSPu7Bm8tcMqHbpK3yLKPodILIribnMC1KE1.png',
-                'created_at' => '2026-03-16 09:05:10',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:05:10',
+                'updated_at' => '2026-03-16 10:05:10',
             ),
             43 => 
             array (
@@ -468,8 +468,8 @@ situatë?',
                 'question_text' => 'Çka duhet të keni parasysh në situatën kur trafiku
 është i bllokuar?',
                 'image' => 'questions/Cg9GeUJEptTyjy4y79I8475iU0rHwLHwYE83za9G.png',
-                'created_at' => '2026-03-16 09:08:02',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:08:02',
+                'updated_at' => '2026-03-16 10:08:02',
             ),
             44 => 
             array (
@@ -478,8 +478,8 @@ situatë?',
                 'question_number' => 1045,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/10UKOWHM2PO1JwP86wBVtrXWVCxX897bSjBePdwN.png',
-                'created_at' => '2026-03-16 09:09:27',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:09:27',
+                'updated_at' => '2026-03-16 10:09:27',
             ),
             45 => 
             array (
@@ -489,8 +489,8 @@ situatë?',
                 'question_text' => 'A do t’ia mundësoni autobusit hyrjen në shiritin e
 trafikut në situatën si në foto?',
                 'image' => 'questions/eEk4MGUIsNb3usujHe9Yo1GnSLua3uxKeIdeqq8m.png',
-                'created_at' => '2026-03-16 09:10:51',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:10:51',
+                'updated_at' => '2026-03-16 10:10:51',
             ),
             46 => 
             array (
@@ -500,8 +500,8 @@ trafikut në situatën si në foto?',
                 'question_text' => ' A ju lejohet kthimi djathtas kur në semafor ndriçon drita
 e verdhë vezulluese?',
                 'image' => 'questions/LUy5R20txyQGhgRIVEUDfYtSDR6sDSSTdh89v85V.png',
-                'created_at' => '2026-03-16 09:12:46',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:12:46',
+                'updated_at' => '2026-03-16 10:12:46',
             ),
             47 => 
             array (
@@ -510,8 +510,8 @@ e verdhë vezulluese?',
                 'question_number' => 1048,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/HRh3fSB0VUk2jXBPsiD5EGb0hpZCC6ut3E9VACGR.png',
-                'created_at' => '2026-03-16 09:13:48',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:13:48',
+                'updated_at' => '2026-03-16 10:13:48',
             ),
             48 => 
             array (
@@ -520,8 +520,8 @@ e verdhë vezulluese?',
                 'question_number' => 1049,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/NWEIbcpViJnmgTU2UwhksNyonvRRPjnSSoc6rMVG.png',
-                'created_at' => '2026-03-16 09:15:32',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:15:32',
+                'updated_at' => '2026-03-16 10:15:32',
             ),
             49 => 
             array (
@@ -530,8 +530,8 @@ e verdhë vezulluese?',
                 'question_number' => 1050,
                 'question_text' => 'Kur duhet vendosur dy trekëndësha të sigurisë, si në foto?',
                 'image' => 'questions/XdOFivnu8VNZL7NT0GpuDlFVgdT0TWHyvn0J5EDS.png',
-                'created_at' => '2026-03-16 09:17:53',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:17:53',
+                'updated_at' => '2026-03-16 10:17:53',
             ),
             50 => 
             array (
@@ -540,8 +540,8 @@ e verdhë vezulluese?',
                 'question_number' => 1051,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/VmDFvzqbEYWHCNpRi0iE2h1tbxewWfvXWzQjiNKm.png',
-                'created_at' => '2026-03-16 09:19:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:19:17',
+                'updated_at' => '2026-03-16 10:19:17',
             ),
             51 => 
             array (
@@ -550,8 +550,8 @@ e verdhë vezulluese?',
                 'question_number' => 1052,
                 'question_text' => ' Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/kU2PRIgi7bTtRpD6rdLgxac3bUgiYH5391ZlMPOs.png',
-                'created_at' => '2026-03-16 09:20:52',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:20:52',
+                'updated_at' => '2026-03-16 10:20:52',
             ),
             52 => 
             array (
@@ -560,8 +560,8 @@ e verdhë vezulluese?',
                 'question_number' => 1053,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/buvcl24sVouZBHxwSr8UR61xsximvLOua6fB8UBT.png',
-                'created_at' => '2026-03-16 09:22:32',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:22:32',
+                'updated_at' => '2026-03-16 10:22:32',
             ),
             53 => 
             array (
@@ -570,8 +570,8 @@ e verdhë vezulluese?',
                 'question_number' => 1054,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/eZjDibT70DaynPVQArTnKgExuta1iIbbie5EEIWD.png',
-                'created_at' => '2026-03-16 09:23:14',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:23:14',
+                'updated_at' => '2026-03-16 10:23:14',
             ),
             54 => 
             array (
@@ -580,8 +580,8 @@ e verdhë vezulluese?',
                 'question_number' => 1055,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/c73ack5YiWlnp1typHzROpiwxZctQiBA8mlTjV7v.png',
-                'created_at' => '2026-03-16 09:25:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:25:17',
+                'updated_at' => '2026-03-16 10:25:17',
             ),
             55 => 
             array (
@@ -590,8 +590,8 @@ e verdhë vezulluese?',
                 'question_number' => 1056,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/0zoavQN1qOKCPWbVX3fzmBEQuvUW2WwUb49I3cDG.png',
-                'created_at' => '2026-03-16 09:28:20',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:28:20',
+                'updated_at' => '2026-03-16 10:28:20',
             ),
             56 => 
             array (
@@ -601,8 +601,8 @@ e verdhë vezulluese?',
                 'question_text' => 'Kur duhet vendosur dy trekëndësha të sigurisë,
 si në këtë situatë?',
                 'image' => 'questions/ZeXYkBR6ZUkIWHV5HCGl87GPf18WuOdJLxEvSdnJ.png',
-                'created_at' => '2026-03-16 09:32:19',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:32:19',
+                'updated_at' => '2026-03-16 10:32:19',
             ),
             57 => 
             array (
@@ -611,8 +611,8 @@ si në këtë situatë?',
                 'question_number' => 1058,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/7jmeavs3DMZ6Tuhx0YmNMI8bQf9BvFa2Xbhd0EEd.png',
-                'created_at' => '2026-03-16 09:33:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:33:17',
+                'updated_at' => '2026-03-16 10:33:17',
             ),
             58 => 
             array (
@@ -621,8 +621,8 @@ si në këtë situatë?',
                 'question_number' => 1059,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/SOXoQWedNf1Kx1c4I838tK3lJAxc8YR1GOTtdOA6.png',
-                'created_at' => '2026-03-16 09:34:07',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:34:07',
+                'updated_at' => '2026-03-16 10:34:07',
             ),
             59 => 
             array (
@@ -631,8 +631,8 @@ si në këtë situatë?',
                 'question_number' => 1060,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/HlUgWHot52FNbBitEJaZjGkCQr4D4PD7Ba0VjZ7M.png',
-                'created_at' => '2026-03-16 09:35:59',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:35:59',
+                'updated_at' => '2026-03-16 10:35:59',
             ),
             60 => 
             array (
@@ -641,8 +641,8 @@ si në këtë situatë?',
                 'question_number' => 1061,
                 'question_text' => 'Cili veprim është i drejtë?',
                 'image' => 'questions/mFDUDQlkDyWlQLCjWKxF4G1XFHdYtI0FUAglDBAW.png',
-                'created_at' => '2026-03-16 09:37:07',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:37:07',
+                'updated_at' => '2026-03-16 10:37:07',
             ),
             61 => 
             array (
@@ -651,8 +651,8 @@ si në këtë situatë?',
                 'question_number' => 1062,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/6clbe1LSieMbSe3bArOkMwEewRtPWBM0uGz9hj2k.png',
-                'created_at' => '2026-03-16 09:39:47',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:39:47',
+                'updated_at' => '2026-03-16 10:39:47',
             ),
             62 => 
             array (
@@ -661,8 +661,8 @@ si në këtë situatë?',
                 'question_number' => 1063,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/U2lwepYyzPjyG3dF5KFOIRwStqspeoHgNLNTgBKw.png',
-                'created_at' => '2026-03-16 09:40:56',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:40:56',
+                'updated_at' => '2026-03-16 10:40:56',
             ),
             63 => 
             array (
@@ -671,8 +671,8 @@ si në këtë situatë?',
                 'question_number' => 1064,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/kM9GJ6RjZxnyCWCd9Qc7WDjjXLX4G3O9dfwnRtH9.png',
-                'created_at' => '2026-03-16 09:43:13',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:43:13',
+                'updated_at' => '2026-03-16 10:43:13',
             ),
             64 => 
             array (
@@ -681,8 +681,8 @@ si në këtë situatë?',
                 'question_number' => 1065,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/Z3mrwIx9IJBQ4V74gH8zE0yewTSN0kB5T66iWhYr.png',
-                'created_at' => '2026-03-16 09:44:54',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:44:54',
+                'updated_at' => '2026-03-16 10:44:54',
             ),
             65 => 
             array (
@@ -691,8 +691,8 @@ si në këtë situatë?',
                 'question_number' => 1066,
                 'question_text' => 'Si janë duke lëvizur biçiklistët në këtë situatë?',
                 'image' => 'questions/NtKr4OJJBY3PT7To7j4WGXl6mP9MEFxdjvZ88goj.png',
-                'created_at' => '2026-03-16 09:47:34',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:47:34',
+                'updated_at' => '2026-03-16 10:47:34',
             ),
             66 => 
             array (
@@ -701,8 +701,8 @@ si në këtë situatë?',
                 'question_number' => 1067,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/mWPSvgypwZqbiqpg1hg4f59vqTqkQ9i4GWzjVRr6.png',
-                'created_at' => '2026-03-16 09:48:49',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:48:49',
+                'updated_at' => '2026-03-16 10:48:49',
             ),
             67 => 
             array (
@@ -711,8 +711,8 @@ si në këtë situatë?',
                 'question_number' => 1068,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/Jt6BNgySUxVAoUYL2BKbGBR9PQq7g6JND5ZpWx8t.png',
-                'created_at' => '2026-03-16 09:59:16',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 10:59:16',
+                'updated_at' => '2026-03-16 10:59:16',
             ),
             68 => 
             array (
@@ -722,8 +722,8 @@ si në këtë situatë?',
                 'question_text' => 'Si duhet të shënohet automjeti i ndalur në autostradë,
 në rast defekti?',
                 'image' => 'questions/kUTA0BT9TsvH5OOjYh6ayNzeuSvQYn4caREEH5Fd.png',
-                'created_at' => '2026-03-16 10:00:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:00:39',
+                'updated_at' => '2026-03-16 11:00:39',
             ),
             69 => 
             array (
@@ -733,8 +733,8 @@ në rast defekti?',
                 'question_text' => ' Çka duhet të keni parasysh kur hasni në situatën si
 në foto?',
                 'image' => 'questions/Dmu1i01D2JhCXM6IQddzwlX0Gi0K0Fy9lgwEO5O9.png',
-                'created_at' => '2026-03-16 10:03:09',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:03:09',
+                'updated_at' => '2026-03-16 11:03:09',
             ),
             70 => 
             array (
@@ -743,8 +743,8 @@ në foto?',
                 'question_number' => 1071,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/OLcpI84yEVsigKKUvLGV1ZCAl5n6eUU4c0vPucvH.png',
-                'created_at' => '2026-03-16 10:04:36',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:04:36',
+                'updated_at' => '2026-03-16 11:04:36',
             ),
             71 => 
             array (
@@ -753,8 +753,8 @@ në foto?',
                 'question_number' => 1072,
                 'question_text' => 'Si do të veproni nëse topi rrokulliset si në këtë situatë?',
                 'image' => 'questions/LReC1fM5qDI651A0TK3Hl31ldNfilNMJJ1QL3GqM.png',
-                'created_at' => '2026-03-16 10:05:57',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:05:57',
+                'updated_at' => '2026-03-16 11:05:57',
             ),
             72 => 
             array (
@@ -763,8 +763,8 @@ në foto?',
                 'question_number' => 1073,
                 'question_text' => ' Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/lVhBiMKdTNa9vvj8kI4LebSXIA9MoWnySfphNrT1.png',
-                'created_at' => '2026-03-16 10:07:00',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:07:00',
+                'updated_at' => '2026-03-16 11:07:00',
             ),
             73 => 
             array (
@@ -773,8 +773,8 @@ në foto?',
                 'question_number' => 1074,
                 'question_text' => 'Si duhet të veprohet në këtë situatë?',
                 'image' => 'questions/brDi0xyBu78FUrhMpA1SY1RgdACYILdk3KwOY7DT.png',
-                'created_at' => '2026-03-16 10:08:16',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:08:16',
+                'updated_at' => '2026-03-16 11:08:16',
             ),
             74 => 
             array (
@@ -783,8 +783,8 @@ në foto?',
                 'question_number' => 1075,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/MjZuU5FRDrk8YowfOy5aXIM4nNslaukSoT73irKq.png',
-                'created_at' => '2026-03-16 10:10:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:10:01',
+                'updated_at' => '2026-03-16 11:10:01',
             ),
             75 => 
             array (
@@ -793,8 +793,8 @@ në foto?',
                 'question_number' => 1076,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/3EQGHKz378VXPPCUYGgRryJUI6weH14XjCYlr7fS.png',
-                'created_at' => '2026-03-16 10:11:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:11:31',
+                'updated_at' => '2026-03-16 11:11:31',
             ),
             76 => 
             array (
@@ -803,8 +803,8 @@ në foto?',
                 'question_number' => 1077,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/NaZ5TMhC2DesUn1uXABxvr2m880PnlPGyD1o1alg.png',
-                'created_at' => '2026-03-16 10:12:16',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:12:16',
+                'updated_at' => '2026-03-16 11:12:16',
             ),
             77 => 
             array (
@@ -813,8 +813,8 @@ në foto?',
                 'question_number' => 1078,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/fY7XuwCL4OFRu2JMWnHQWmrXXr20XAl1r8PTnLwK.png',
-                'created_at' => '2026-03-16 10:13:05',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:13:05',
+                'updated_at' => '2026-03-16 11:13:05',
             ),
             78 => 
             array (
@@ -823,8 +823,8 @@ në foto?',
                 'question_number' => 1079,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/15IhjorPSd0fIKQqptGok9AhHn1Z1i0PmBjz6HUC.png',
-                'created_at' => '2026-03-16 10:14:03',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:14:03',
+                'updated_at' => '2026-03-16 11:14:03',
             ),
             79 => 
             array (
@@ -833,8 +833,8 @@ në foto?',
                 'question_number' => 1080,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/nqzsCyevFgFdoa2R0rXbLEfpb6xfvBm5HS6Mfnqj.png',
-                'created_at' => '2026-03-16 10:14:49',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:14:49',
+                'updated_at' => '2026-03-16 11:14:49',
             ),
             80 => 
             array (
@@ -843,8 +843,8 @@ në foto?',
                 'question_number' => 1081,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/CwMiJe75016PQll6G5XnzVWLLONYw62zl436jBvC.png',
-                'created_at' => '2026-03-16 10:16:11',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:16:11',
+                'updated_at' => '2026-03-16 11:16:11',
             ),
             81 => 
             array (
@@ -854,8 +854,8 @@ në foto?',
                 'question_text' => 'A lejohet lëvizja përtej vijave të dyfishta gjatësore të
 plota?',
                 'image' => 'questions/YjMllfkJBYEdEL9OU809abztrqqhkFrvGutR3oGv.png',
-                'created_at' => '2026-03-16 10:17:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:17:39',
+                'updated_at' => '2026-03-16 11:17:39',
             ),
             82 => 
             array (
@@ -864,8 +864,8 @@ plota?',
                 'question_number' => 1083,
                 'question_text' => ' Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/CNmOLa9o5ZnLOA3c9CXkD2yVwI2tpTwp4v5mgBm0.png',
-                'created_at' => '2026-03-16 10:18:34',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:18:34',
+                'updated_at' => '2026-03-16 11:18:34',
             ),
             83 => 
             array (
@@ -874,8 +874,8 @@ plota?',
                 'question_number' => 1084,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/6hlnWM98Gjwo1lX9U8igRF3Je9ZdVqthza1OBG0h.png',
-                'created_at' => '2026-03-16 10:19:59',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:19:59',
+                'updated_at' => '2026-03-16 11:19:59',
             ),
             84 => 
             array (
@@ -884,8 +884,8 @@ plota?',
                 'question_number' => 1085,
                 'question_text' => 'Çka duhet pasur parasysh në situatën si në foto?',
                 'image' => 'questions/9S1DjCIRjUwNl7JSMxjLHrVtMKtJLoSd9UZYdJFZ.png',
-                'created_at' => '2026-03-16 10:20:42',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:20:42',
+                'updated_at' => '2026-03-16 11:20:42',
             ),
             85 => 
             array (
@@ -895,8 +895,8 @@ plota?',
                 'question_text' => 'Çka duhet të keni parasysh gjatë ngasjes
 jashtë vendbanimit si në këtë situatë?',
                 'image' => 'questions/703ass1Bm41IsY05OVgUeEoIuVE8mHQUWpRsEW0g.png',
-                'created_at' => '2026-03-16 10:22:24',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:22:24',
+                'updated_at' => '2026-03-16 11:22:24',
             ),
             86 => 
             array (
@@ -905,8 +905,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1087,
                 'question_text' => 'Si duhet të veproni në këtë situatë?',
                 'image' => 'questions/FZfaNF1hJzlqeEIGwj0b7eJ1SBaJ8giw6FnHnamF.png',
-                'created_at' => '2026-03-16 10:23:26',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:23:26',
+                'updated_at' => '2026-03-16 11:23:26',
             ),
             87 => 
             array (
@@ -915,8 +915,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1088,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/uVv0ZLtvAdYPyRXPrVORDWGPEXJpoaoebuhXsf0R.png',
-                'created_at' => '2026-03-16 10:24:26',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:24:26',
+                'updated_at' => '2026-03-16 11:24:26',
             ),
             88 => 
             array (
@@ -925,8 +925,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1089,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/SLb2RqeQSiYxTsSfrlyKbr1F5Vx0wM8jt2lDzh0N.png',
-                'created_at' => '2026-03-16 10:33:04',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:33:04',
+                'updated_at' => '2026-03-16 11:33:04',
             ),
             89 => 
             array (
@@ -935,8 +935,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1090,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/XmUlBVYps1PPJwE5RSVLYbJfmIKtTqoRxF1IoBBZ.png',
-                'created_at' => '2026-03-16 10:33:45',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:33:45',
+                'updated_at' => '2026-03-16 11:33:45',
             ),
             90 => 
             array (
@@ -945,8 +945,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1091,
                 'question_text' => 'Si do të veproni në këtë situatë?',
                 'image' => 'questions/oTjJPIjfYeU20ec2r9BLDDXVQJf4y73aCzj9wyP7.png',
-                'created_at' => '2026-03-16 10:34:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:34:39',
+                'updated_at' => '2026-03-16 11:34:39',
             ),
             91 => 
             array (
@@ -955,8 +955,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1092,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/mXP3MgNk4BY3bAPnK28aLftADmEEtDDSuEADEUGu.png',
-                'created_at' => '2026-03-16 10:35:54',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:35:54',
+                'updated_at' => '2026-03-16 11:35:54',
             ),
             92 => 
             array (
@@ -965,8 +965,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_number' => 1093,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/xadmlPhobsL61CdhsBDjfIhYghgnvb4vuGSulw0t.png',
-                'created_at' => '2026-03-16 10:37:43',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:37:43',
+                'updated_at' => '2026-03-16 11:37:43',
             ),
             93 => 
             array (
@@ -976,8 +976,8 @@ jashtë vendbanimit si në këtë situatë?',
                 'question_text' => 'Shoferi i veturës hyn në trafik duke lëvizur prapa, si e
 vlerësoni këtë situatë?',
                 'image' => 'questions/SHuBH8PF4dajNneP2SXhwlslDTkWpUwiX1yqYtcC.png',
-                'created_at' => '2026-03-16 10:38:34',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:38:34',
+                'updated_at' => '2026-03-16 11:38:34',
             ),
             94 => 
             array (
@@ -986,8 +986,8 @@ vlerësoni këtë situatë?',
                 'question_number' => 1095,
                 'question_text' => 'Cili veprim është i drejtë në këtë situatë?',
                 'image' => 'questions/Q3LSlsQYLqtl87rsPTOk3cFEiFXaczqm4xVGmar7.png',
-                'created_at' => '2026-03-16 10:39:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:39:31',
+                'updated_at' => '2026-03-16 11:39:31',
             ),
             95 => 
             array (
@@ -997,8 +997,8 @@ vlerësoni këtë situatë?',
                 'question_text' => 'Çka duhet të keni parasysh kur doni të hyni në
 trafik nga rruga e dheut, si në këtë situatë?',
                 'image' => 'questions/L4lzNIkLt1GwZ0fGzEOi2o506keSviWJl6rXpBIa.png',
-                'created_at' => '2026-03-16 10:40:53',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:40:53',
+                'updated_at' => '2026-03-16 11:40:53',
             ),
             96 => 
             array (
@@ -1007,8 +1007,8 @@ trafik nga rruga e dheut, si në këtë situatë?',
                 'question_number' => 1098,
                 'question_text' => 'Çka duhet të keni parasysh gjatë ngasjes në këtë situatë?',
                 'image' => 'questions/KdGOswRBevnrqeVaj9qexymjLIEJPxVSKecRhumW.png',
-                'created_at' => '2026-03-16 10:43:18',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:43:18',
+                'updated_at' => '2026-03-16 11:43:18',
             ),
             97 => 
             array (
@@ -1017,8 +1017,8 @@ trafik nga rruga e dheut, si në këtë situatë?',
                 'question_number' => 1099,
                 'question_text' => 'Çka duhet të keni parasysh gjatë ngasjes në këtë situatë?',
                 'image' => 'questions/eCzL5j9QO90VEntRldUZHSzLfjFsUmsgdL3an4vp.png',
-                'created_at' => '2026-03-16 10:45:40',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:45:40',
+                'updated_at' => '2026-03-16 11:45:40',
             ),
             98 => 
             array (
@@ -1027,8 +1027,8 @@ trafik nga rruga e dheut, si në këtë situatë?',
                 'question_number' => 1100,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/J0uo7W1EkFeLzVp8YOOXXZb1xNhpmGPI5Nf72uKk.png',
-                'created_at' => '2026-03-16 10:46:52',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:46:52',
+                'updated_at' => '2026-03-16 11:46:52',
             ),
             99 => 
             array (
@@ -1038,8 +1038,8 @@ trafik nga rruga e dheut, si në këtë situatë?',
                 'question_text' => 'Cilat janë rreziqet e mundshme gjatë ngasjes
 në rrugë me borë?',
                 'image' => 'questions/hBLHuwjVcCkc0cD4nrtdJjYarRA2ek2eBKMt7pRj.png',
-                'created_at' => '2026-03-16 10:47:42',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:47:42',
+                'updated_at' => '2026-03-16 11:47:42',
             ),
             100 => 
             array (
@@ -1048,8 +1048,8 @@ në rrugë me borë?',
                 'question_number' => 1102,
                 'question_text' => 'Çka do të keni parasysh në këtë situatë?',
                 'image' => 'questions/46qan0SgvMzikmFn8pifpp5qoIZWBv9lcZrphKuN.png',
-                'created_at' => '2026-03-16 10:48:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:48:31',
+                'updated_at' => '2026-03-16 11:48:31',
             ),
             101 => 
             array (
@@ -1058,8 +1058,8 @@ në rrugë me borë?',
                 'question_number' => 1103,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/JzjaOWgzCZWa2h7lS3JRTo0EtVcOpiECBrAXT3Ew.png',
-                'created_at' => '2026-03-16 10:49:40',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 11:49:40',
+                'updated_at' => '2026-03-16 11:49:40',
             ),
             102 => 
             array (
@@ -1068,8 +1068,8 @@ në rrugë me borë?',
                 'question_number' => 2001,
                 'question_text' => 'Shenja e trafikut paralajmëron rrezikun e përgjithëshëm në rrugë.',
                 'image' => 'questions/WPvSvrWzLUlS5ex6uAPtmTY7rcX3hsXgehjcOdot.png',
-                'created_at' => '2026-03-16 11:57:05',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 12:57:05',
+                'updated_at' => '2026-03-16 12:57:05',
             ),
             103 => 
             array (
@@ -1078,8 +1078,8 @@ në rrugë me borë?',
                 'question_number' => 2002,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e kthesës së rrezikshme majtas.',
                 'image' => 'questions/n8qoFGy1PQ23yznAQ5DaeZZQurUMnek89ewEeLSw.png',
-                'created_at' => '2026-03-16 11:57:55',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 12:57:55',
+                'updated_at' => '2026-03-16 12:57:55',
             ),
             104 => 
             array (
@@ -1088,8 +1088,8 @@ në rrugë me borë?',
                 'question_number' => 2003,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e kthesës së rrezikshme majtas.',
                 'image' => 'questions/XrBd1Nhqago6b3eirfrfdYl83zB6g4lk6rWD2e7U.png',
-                'created_at' => '2026-03-16 11:59:19',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 12:59:19',
+                'updated_at' => '2026-03-16 12:59:19',
             ),
             105 => 
             array (
@@ -1098,8 +1098,8 @@ në rrugë me borë?',
                 'question_number' => 2004,
                 'question_text' => 'Shenja e trafikut paralajmëron kthesë të njëpasnjëshme e para në të djathtë.',
                 'image' => 'questions/TaRJMvpvfRUoj1Qt2jYYDKzafuyQH3XWh06BEWUt.png',
-                'created_at' => '2026-03-16 12:00:35',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 13:00:35',
+                'updated_at' => '2026-03-16 13:00:35',
             ),
             106 => 
             array (
@@ -1108,8 +1108,8 @@ në rrugë me borë?',
                 'question_number' => 2005,
                 'question_text' => 'Shenja e trafikut paralajmëron rrugë pa dalje.',
                 'image' => 'questions/fnFrj6KJbIS4iTcxwgSdPgpyncJ6h3hYYdWID7kw.png',
-                'created_at' => '2026-03-16 12:01:56',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 13:01:56',
+                'updated_at' => '2026-03-16 13:24:30',
             ),
             107 => 
             array (
@@ -1118,8 +1118,8 @@ në rrugë me borë?',
                 'question_number' => 2006,
                 'question_text' => 'Shenja e trafikut paralajmëron ngushtim rruge nga ana e djathtë.',
                 'image' => 'questions/mR0eoNGAXeGpF7czFOF4ZuqtDaJrRq1AtlYaVn0r.png',
-                'created_at' => '2026-03-16 12:02:42',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 13:02:42',
+                'updated_at' => '2026-03-16 13:26:44',
             ),
             108 => 
             array (
@@ -1128,8 +1128,8 @@ në rrugë me borë?',
                 'question_number' => 2007,
                 'question_text' => 'Shenja e trafikut paralajmëron rrugën jo të rrafshët.',
                 'image' => 'questions/6aMW3UhZGt7gVVPPZ0R2KmetKeuCW9mafDdcZ7Ot.png',
-                'created_at' => '2026-03-16 12:03:27',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 13:03:27',
+                'updated_at' => '2026-03-16 13:25:13',
             ),
             109 => 
             array (
@@ -1138,8 +1138,8 @@ në rrugë me borë?',
                 'question_number' => 2008,
                 'question_text' => 'Shenja e trafikut paralajmëron vendparkimin e veturës në trotuar.',
                 'image' => 'questions/NHq9LHLrC3oYw4y4VIAJanbOMyoZJww2hGc8ifSk.png',
-                'created_at' => '2026-03-16 12:04:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 13:04:17',
+                'updated_at' => '2026-03-16 13:25:46',
             ),
             110 => 
             array (
@@ -1148,8 +1148,8 @@ në rrugë me borë?',
                 'question_number' => 2009,
                 'question_text' => 'Shenja e trafikut paralajmëron rrugën e rrëshqitshme.',
                 'image' => 'questions/4ftDxj2VwbUT6lIE4okY5RoUMLCa3j5ZncviFjDE.png',
-                'created_at' => '2026-03-16 13:15:11',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:15:11',
+                'updated_at' => '2026-03-16 14:15:11',
             ),
             111 => 
             array (
@@ -1158,8 +1158,8 @@ në rrugë me borë?',
                 'question_number' => 2010,
                 'question_text' => 'Shenja e trafikut paralajmëron rrugë tramvaji.',
                 'image' => 'questions/ClFnULYj6hQnJPzRkSpZOIEXRIm5XzMvAc8QYV7K.png',
-                'created_at' => '2026-03-16 13:16:21',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:16:21',
+                'updated_at' => '2026-03-16 14:16:21',
             ),
             112 => 
             array (
@@ -1168,8 +1168,8 @@ në rrugë me borë?',
                 'question_number' => 2011,
                 'question_text' => 'Shenja e trafikut paralajmëron përplasje gurësh.',
                 'image' => 'questions/6RWsFsSyqnvmiZlTXUsQcAPPtgINvcjVfvmGtBgk.png',
-                'created_at' => '2026-03-16 13:17:04',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:17:04',
+                'updated_at' => '2026-03-16 14:17:04',
             ),
             113 => 
             array (
@@ -1178,8 +1178,8 @@ në rrugë me borë?',
                 'question_number' => 2012,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e vendkalimit të shënuar për këmbësorë.',
                 'image' => 'questions/zHvVmKNVjY6OkBq5VADqrmG91tCl0AWKx5TR2iCS.png',
-                'created_at' => '2026-03-16 13:18:02',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:18:02',
+                'updated_at' => '2026-03-16 14:18:02',
             ),
             114 => 
             array (
@@ -1188,8 +1188,8 @@ në rrugë me borë?',
                 'question_number' => 2013,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e vendkalimit të shënuar për këmbësorë.',
                 'image' => 'questions/frcs4l7LSRIwXr6e5DMEdnYkee4LKhF8bVQTsapN.png',
-                'created_at' => '2026-03-16 13:18:49',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:18:49',
+                'updated_at' => '2026-03-16 14:18:49',
             ),
             115 => 
             array (
@@ -1198,8 +1198,8 @@ në rrugë me borë?',
                 'question_number' => 2014,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e fëmijëve në rrugë.',
                 'image' => 'questions/vjdsKVdtgTPNl2JqrDQHW9lOYW1JMvqqzrdSekvO.png',
-                'created_at' => '2026-03-16 13:19:54',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:19:54',
+                'updated_at' => '2026-03-16 14:19:54',
             ),
             116 => 
             array (
@@ -1208,8 +1208,8 @@ në rrugë me borë?',
                 'question_number' => 2015,
                 'question_text' => 'Shenja e trafikut tregon ndalim trafiku për biçiklistë.',
                 'image' => 'questions/mbW2K6c1y5iMzTMwvv9y7pxDDeiTfr7YXP1RB2n1.png',
-                'created_at' => '2026-03-16 13:20:38',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:20:38',
+                'updated_at' => '2026-03-16 14:20:38',
             ),
             117 => 
             array (
@@ -1218,8 +1218,8 @@ në rrugë me borë?',
                 'question_number' => 2016,
                 'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku ndalohet lëvizja e kafshëve pa mbikëqyrje.',
                 'image' => 'questions/0Wcb5tK4ZT1iPII3yQOq6BiXl7JhNOZ2PPvkgxWe.png',
-                'created_at' => '2026-03-16 13:21:18',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:21:18',
+                'updated_at' => '2026-03-16 14:21:18',
             ),
             118 => 
             array (
@@ -1228,8 +1228,8 @@ në rrugë me borë?',
                 'question_number' => 2017,
                 'question_text' => 'Shenja e trafikut paralajmëron rrugën jo të rrafshët.',
                 'image' => 'questions/6D4Y8FDTsusrr5cHNfbeKUFOWsXBmaf5s87Xnr7N.png',
-                'created_at' => '2026-03-16 13:22:04',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:22:04',
+                'updated_at' => '2026-03-16 14:22:04',
             ),
             119 => 
             array (
@@ -1238,8 +1238,8 @@ në rrugë me borë?',
                 'question_number' => 2018,
                 'question_text' => 'Shenja e trafikut paralajmëron teposhtëzen e rrezikshme.',
                 'image' => 'questions/yvLqfYoOVFBcLNC2Yyd0RF66yvGZ84eXX8qrQlOp.png',
-                'created_at' => '2026-03-16 13:22:50',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:22:50',
+                'updated_at' => '2026-03-16 14:22:50',
             ),
             120 => 
             array (
@@ -1248,8 +1248,8 @@ në rrugë me borë?',
                 'question_number' => 2019,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e kryqëzimit të rregulluar me semaforë.',
                 'image' => 'questions/5I9vLUeydnflmXXm38tKUD9qLRU1GKssl73bs6EX.png',
-                'created_at' => '2026-03-16 13:23:19',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:23:19',
+                'updated_at' => '2026-03-16 14:27:15',
             ),
             121 => 
             array (
@@ -1258,8 +1258,8 @@ në rrugë me borë?',
                 'question_number' => 2020,
                 'question_text' => 'Shenja e trafikut paralajmëron pjesën e rrugës ku trafiku zhvillohet në një kah.',
                 'image' => 'questions/UC6jXNHQbtuc7PL17uMQuGwLjr1iDzqzRy4p8oFK.png',
-                'created_at' => '2026-03-16 13:24:07',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:24:07',
+                'updated_at' => '2026-03-16 14:27:34',
             ),
             122 => 
             array (
@@ -1268,8 +1268,8 @@ në rrugë me borë?',
                 'question_number' => 2021,
                 'question_text' => 'Shenja e trafikut paralajmëron distancën në mes mjeteve.',
                 'image' => 'questions/aeGKxDMJqFXQlme59rUxmb7rJyKhkdVPkuwwQaxF.png',
-                'created_at' => '2026-03-16 13:24:48',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:24:48',
+                'updated_at' => '2026-03-16 14:24:48',
             ),
             123 => 
             array (
@@ -1278,8 +1278,8 @@ në rrugë me borë?',
                 'question_number' => 2022,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsinë e vendkalimit hekurudhor me mbrojtëse.',
                 'image' => 'questions/xk58LVVbQKTisH1VgzIvCZdQrLXFFBEHNeK5ey4P.png',
-                'created_at' => '2026-03-16 13:25:26',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:25:26',
+                'updated_at' => '2026-03-16 14:25:26',
             ),
             124 => 
             array (
@@ -1288,8 +1288,8 @@ në rrugë me borë?',
                 'question_number' => 2023,
                 'question_text' => 'Shenja e trafikut paralajmëron nënkalimin për mjetet rrugore.',
                 'image' => 'questions/AgtHVFiie388yoOvMTfXM62exnTpXfvlvYfs7jhB.png',
-                'created_at' => '2026-03-16 13:26:04',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:26:04',
+                'updated_at' => '2026-03-16 14:26:04',
             ),
             125 => 
             array (
@@ -1298,8 +1298,8 @@ në rrugë me borë?',
                 'question_number' => 2024,
                 'question_text' => 'Shenja e trafikut paralajmëron stacionin e tramvajit.',
                 'image' => 'questions/EwaIOhpTt8p2ZRyEsU01bxvyh6iuot8RMix8UDnI.png',
-                'created_at' => '2026-03-16 13:26:44',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:26:44',
+                'updated_at' => '2026-03-16 14:26:44',
             ),
             126 => 
             array (
@@ -1308,8 +1308,8 @@ në rrugë me borë?',
                 'question_number' => 2025,
                 'question_text' => 'Shenja e trafikut paralajmëron vendin ku egërsirat kalojnë rrugën.',
                 'image' => 'questions/1lAxO6CHxqzl0ICLaJkt0tUKoYK79PNwUT2tZryN.png',
-                'created_at' => '2026-03-16 13:29:51',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:29:51',
+                'updated_at' => '2026-03-16 14:29:51',
             ),
             127 => 
             array (
@@ -1318,8 +1318,8 @@ në rrugë me borë?',
                 'question_number' => 2026,
                 'question_text' => 'Shenja e trafikut paralajmëron ndriçimin rrugor.',
                 'image' => 'questions/pO1Fia2KuqTFl40AKpeTQVS8W10lQ8HL4tjptWuk.png',
-                'created_at' => '2026-03-16 13:30:48',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:30:48',
+                'updated_at' => '2026-03-16 14:30:48',
             ),
             128 => 
             array (
@@ -1328,8 +1328,8 @@ në rrugë me borë?',
                 'question_number' => 2027,
                 'question_text' => 'Shenja e trafikut paralajmëron vendkalimin hekurudhor të pa siguruar.',
                 'image' => 'questions/CwJKf3O19SdyQW8Qeh9NRs7ln4NV6WDDnAsOKu0W.png',
-                'created_at' => '2026-03-16 13:31:44',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:31:44',
+                'updated_at' => '2026-03-16 14:31:44',
             ),
             129 => 
             array (
@@ -1338,8 +1338,8 @@ në rrugë me borë?',
                 'question_number' => 2028,
                 'question_text' => 'Shenja e trafikut paralajmëron ngushtimin e rrugës nga ana e majtë.',
                 'image' => 'questions/KAznhBYAaMYMyTEUAfqs6Pd7RIoZgy08HmHjhT9D.png',
-                'created_at' => '2026-03-16 13:32:27',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:32:27',
+                'updated_at' => '2026-03-16 14:32:27',
             ),
             130 => 
             array (
@@ -1348,8 +1348,8 @@ në rrugë me borë?',
                 'question_number' => 2029,
                 'question_text' => 'Shenja e trafikut paralajmëron urën lëvizëse.',
                 'image' => 'questions/94pSC80z91gTzBe5b6sWpemXoeRfd3KNfklb5keE.png',
-                'created_at' => '2026-03-16 13:33:39',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:33:39',
+                'updated_at' => '2026-03-16 14:33:39',
             ),
             131 => 
             array (
@@ -1358,8 +1358,8 @@ në rrugë me borë?',
                 'question_number' => 2030,
                 'question_text' => 'Shenja e trafikut paralajmëron urën lëvizëse.',
                 'image' => 'questions/sTG9Ef5r0wCnmQVEjPrpR4E0NyaGUiVxka2nWDBj.png',
-                'created_at' => '2026-03-16 13:34:43',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:34:43',
+                'updated_at' => '2026-03-16 14:35:58',
             ),
             132 => 
             array (
@@ -1368,8 +1368,8 @@ në rrugë me borë?',
                 'question_number' => 2031,
                 'question_text' => 'Shenja e trafikut paralajmëron përplasje gurësh.',
                 'image' => 'questions/jrYsnIWOTZeOAbiz8hV2D7GetUcTYwsfyaE3PTi4.png',
-                'created_at' => '2026-03-16 13:37:16',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:37:16',
+                'updated_at' => '2026-03-16 14:37:16',
             ),
             133 => 
             array (
@@ -1378,8 +1378,8 @@ në rrugë me borë?',
                 'question_number' => 2032,
                 'question_text' => 'Shenja e trafikut lajmëron vendin ku gjendet aeroporti.',
                 'image' => 'questions/NArd6EIIplFiFvKZmmuCP7Rx5Ql77mpNtQKS63wj.png',
-                'created_at' => '2026-03-16 13:37:55',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:37:55',
+                'updated_at' => '2026-03-16 14:37:55',
             ),
             134 => 
             array (
@@ -1389,8 +1389,8 @@ në rrugë me borë?',
                 'question_text' => 'Shenja e trafikut paralajmëron vendkalimin hekurudhor me mbrojtëse
 ose gjysëmbrojtëse.',
                 'image' => 'questions/5lpOpSOPeCHSvGF9g6zvyo7UJCJnEGEg5DPsXegR.png',
-                'created_at' => '2026-03-16 13:38:49',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:38:49',
+                'updated_at' => '2026-03-16 14:38:49',
             ),
             135 => 
             array (
@@ -1399,8 +1399,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2034,
                 'question_text' => 'Shenja e trafikut paralajmëron pjesën e rrugës ku ndalohet lëvizja e këmbësorëve.',
                 'image' => 'questions/lVs8mdODXYWd6zteWMoWI7QVcWkouCxLiinxRLWu.png',
-                'created_at' => '2026-03-16 13:39:55',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:39:55',
+                'updated_at' => '2026-03-16 14:39:55',
             ),
             136 => 
             array (
@@ -1409,8 +1409,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2035,
                 'question_text' => 'Shenja e trafikut paralajmëron rrethojen e rrugës.',
                 'image' => 'questions/qrFJ4gbOGOJj0OCFyPj7psmZMUTqKveg6oVxLQx1.png',
-                'created_at' => '2026-03-16 13:41:27',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:41:27',
+                'updated_at' => '2026-03-16 14:41:27',
             ),
             137 => 
             array (
@@ -1419,8 +1419,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2036,
                 'question_text' => 'Shenja e trafikut paralajmëron tunelin apo galerinë në rrugë.',
                 'image' => 'questions/gzHQi4V4ckAt1C60f1NxKgsV5ONfV9IaM5bpFIch.png',
-                'created_at' => '2026-03-16 13:42:04',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:42:04',
+                'updated_at' => '2026-03-16 14:42:04',
             ),
             138 => 
             array (
@@ -1429,8 +1429,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2037,
                 'question_text' => 'Shenja e trafikut paralajmëron afërsin e kryqëzimit me rrethrrotullim.',
                 'image' => 'questions/gwbM5ECJDIBqQZ9u3sVNs5zuaUawhkLgCzDN07kG.png',
-                'created_at' => '2026-03-16 13:42:35',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:42:35',
+                'updated_at' => '2026-03-16 14:43:46',
             ),
             139 => 
             array (
@@ -1439,8 +1439,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2038,
             'question_text' => 'Shenja e trafikut paralajmëron pjesën e rrugës ku gurët mund të bien (shemben) në rrugë.',
                 'image' => 'questions/T448MHIbjy6OH10mvBCksHr2q9KSpU66io1Q9Eh0.png',
-                'created_at' => '2026-03-16 13:43:23',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:43:23',
+                'updated_at' => '2026-03-16 14:43:23',
             ),
             140 => 
             array (
@@ -1449,8 +1449,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2039,
                 'question_text' => 'Shenja e trafikut tregon punimet në rrugë.',
                 'image' => 'questions/NYpuAQy29TLGbI4y1GnyPJgQbpd71RXeHFxRWLga.png',
-                'created_at' => '2026-03-16 13:44:33',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:44:33',
+                'updated_at' => '2026-03-16 14:44:33',
             ),
             141 => 
             array (
@@ -1459,8 +1459,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2040,
                 'question_text' => 'Shenja e trafikut paralajmëron përpjetëzen e rrezikshme.',
                 'image' => 'questions/wedlU9CYlPwfBTfoczNYeQEgUImEfeB7NC045Hc3.png',
-                'created_at' => '2026-03-16 13:45:17',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:45:17',
+                'updated_at' => '2026-03-16 14:45:17',
             ),
             142 => 
             array (
@@ -1469,8 +1469,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2041,
                 'question_text' => 'Shenja e trafikut paralajmëron kryqëzimin e rrugëve me rëndësi të njëjtë.',
                 'image' => 'questions/pJxod5UAmOSXbN177UNgdC3dwi2dAIXIBSFr5QJ6.png',
-                'created_at' => '2026-03-16 13:46:10',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:46:10',
+                'updated_at' => '2026-03-16 14:46:24',
             ),
             143 => 
             array (
@@ -1479,8 +1479,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2042,
                 'question_text' => 'Shenja e trafikut paralajmëron kryqëzimin e rrugëve me rëndësi të njëjtë.',
                 'image' => 'questions/qOWODm4XWaDFUm06cmlzpVuQiZrlQj3nsOyXhDdK.png',
-                'created_at' => '2026-03-16 13:47:08',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-16 14:47:08',
+                'updated_at' => '2026-03-16 14:47:08',
             ),
             144 => 
             array (
@@ -1489,8 +1489,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2043,
                 'question_text' => 'Cila shenjë paralajmëron afërsinë e vendit ku shpesh herë fryejn erërat anësore?',
                 'image' => 'questions/eqoLdwj8Tqe60TJAnXYBO3LyaKuEeKwTWuIz4fwI.png',
-                'created_at' => '2026-03-17 09:27:51',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 10:27:51',
+                'updated_at' => '2026-03-17 10:27:51',
             ),
             145 => 
             array (
@@ -1499,8 +1499,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2044,
                 'question_text' => 'Cila shenjë paralajmëron afërsinë e vendit ku mund të ketë ngrica në rrugë?',
                 'image' => 'questions/mEbc2LOM1842Mh4M7057ypdze2DHCDuJhxleQqt1.png',
-                'created_at' => '2026-03-17 09:36:43',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 10:36:43',
+                'updated_at' => '2026-03-17 10:36:43',
             ),
             146 => 
             array (
@@ -1509,8 +1509,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2045,
                 'question_text' => 'Cila shenjë paralajmëron përpjetëze e rrezikshme?',
                 'image' => 'questions/VDTvynl3uAU2zPZOnJ662o0nRS0vPIGe6I6m6ara.png',
-                'created_at' => '2026-03-17 09:51:53',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 10:51:53',
+                'updated_at' => '2026-03-17 10:51:53',
             ),
             147 => 
             array (
@@ -1519,8 +1519,8 @@ ose gjysëmbrojtëse.',
                 'question_number' => 2046,
                 'question_text' => 'Cila shenjë e trafikut paralajmëron ngushtime rruge ?',
                 'image' => 'questions/fIVjbAFOABEFJC6fqMpV05ZeVDLV6BvTx1oc0Bpo.png',
-                'created_at' => '2026-03-17 09:58:00',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 10:58:00',
+                'updated_at' => '2026-03-17 10:58:00',
             ),
             148 => 
             array (
@@ -1530,8 +1530,8 @@ ose gjysëmbrojtëse.',
             'question_text' => 'Cila shenjë e trafikut paralajmëron pjesën e rrugës ku gurët mund të bien (shemben) në
 rrugë?',
             'image' => 'questions/JyxxUekcGW6TacU9PaIFkXnrtWpbzgVczihDfoKb.png',
-            'created_at' => '2026-03-17 10:01:43',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:01:43',
+            'updated_at' => '2026-03-17 11:01:43',
         ),
         149 => 
         array (
@@ -1540,8 +1540,8 @@ rrugë?',
             'question_number' => 2048,
             'question_text' => 'Cila shenjë e trafikut tregon punimet në rrugë?',
             'image' => 'questions/w99FnVGk1g4SnBDluBFSsjRUV4BPXrnFLDPXv39l.png',
-            'created_at' => '2026-03-17 10:06:14',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:06:14',
+            'updated_at' => '2026-03-17 11:06:14',
         ),
         150 => 
         array (
@@ -1550,8 +1550,8 @@ rrugë?',
             'question_number' => 2049,
             'question_text' => 'Cila shenjë e trafikut paralajmëron rrugën e rrëshqitshme?',
             'image' => 'questions/i7uhZGMb2gmgN0YTQCE5ToPk50DQc8MGHJDYE30W.png',
-            'created_at' => '2026-03-17 10:09:55',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:09:55',
+            'updated_at' => '2026-03-17 11:09:55',
         ),
         151 => 
         array (
@@ -1560,8 +1560,8 @@ rrugë?',
             'question_number' => 2050,
             'question_text' => 'Shenja e trafikut paralajmëron kryqëzimin e rrugës kryesore me rrugën dytësore nën këndë të drejtë?',
             'image' => 'questions/jxnjX45ivDp9DMkRbLsjDHN68ZLS8DwevwSAeRXy.png',
-            'created_at' => '2026-03-17 10:22:46',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:22:46',
+            'updated_at' => '2026-03-17 11:22:46',
         ),
         152 => 
         array (
@@ -1570,8 +1570,8 @@ rrugë?',
             'question_number' => 2051,
             'question_text' => 'Cila shenjë paralajmëron vendkalimin hekurdhuror me mbojtëse ose gjysëm mbrojtëse?',
             'image' => 'questions/B5S9FdTzIWSulT21qXP5WuLuM3jLDAYHULiAEJoA.png',
-            'created_at' => '2026-03-17 10:25:22',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:25:22',
+            'updated_at' => '2026-03-17 11:25:42',
         ),
         153 => 
         array (
@@ -1580,8 +1580,8 @@ rrugë?',
             'question_number' => 2052,
             'question_text' => 'Cila shenjë paralajmëron afërsinë e pistës së aeroplanave?',
             'image' => 'questions/9LzwoxvZb3MGoXYlkNAhYwpQiIMUczIQRF5Y52q8.png',
-            'created_at' => '2026-03-17 10:27:42',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:27:42',
+            'updated_at' => '2026-03-17 11:27:42',
         ),
         154 => 
         array (
@@ -1590,8 +1590,8 @@ rrugë?',
             'question_number' => 2053,
             'question_text' => 'Cila shenjë paralajmëron afërsinë e vendit ku bankina e rrugës e pa qëndrueshme?',
             'image' => 'questions/jyUs46WVSYOg7C5dZsFifZpuZa9fOO580HpOlnPq.png',
-            'created_at' => '2026-03-17 10:29:15',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:29:15',
+            'updated_at' => '2026-03-17 11:29:15',
         ),
         155 => 
         array (
@@ -1600,8 +1600,8 @@ rrugë?',
             'question_number' => 2054,
             'question_text' => 'Cila shenjë tregon teposhtzën e trafikut?',
             'image' => 'questions/P1QAouD3zXCcqAok2VhaESaqHJ6GhO58vxlVVCAc.png',
-            'created_at' => '2026-03-17 10:30:39',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:30:39',
+            'updated_at' => '2026-03-17 11:30:39',
         ),
         156 => 
         array (
@@ -1610,8 +1610,8 @@ rrugë?',
             'question_number' => 2101,
             'question_text' => 'Shenja e trafikut tregon ndaljen e obligueshme.',
             'image' => 'questions/xEuVl43y5rvBIbPy7ClJaLmENU3czrqNGd4B85KG.png',
-            'created_at' => '2026-03-17 10:34:07',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:34:07',
+            'updated_at' => '2026-03-17 11:34:07',
         ),
         157 => 
         array (
@@ -1620,8 +1620,8 @@ rrugë?',
             'question_number' => 2102,
             'question_text' => 'Shenja e trafikut tregon rrugën me përparësi kalimi.',
             'image' => 'questions/4W1SdevMGX4fsHMIWttNcCS48sUDlDbbOJkHqCfQ.png',
-            'created_at' => '2026-03-17 10:34:56',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:34:56',
+            'updated_at' => '2026-03-17 11:34:56',
         ),
         158 => 
         array (
@@ -1630,8 +1630,8 @@ rrugë?',
             'question_number' => 2103,
             'question_text' => 'Shenja e trafikut tregon mbarimin e të gjitha ndalesave.',
             'image' => 'questions/rHtTUntaYyxyS1DP7SdlWG6Dpv0MvGhFXGZtYamE.png',
-            'created_at' => '2026-03-17 10:36:32',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:36:32',
+            'updated_at' => '2026-03-17 11:36:32',
         ),
         159 => 
         array (
@@ -1640,8 +1640,8 @@ rrugë?',
             'question_number' => 2104,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku në një kah.',
             'image' => 'questions/bS8S4jY0hybVfpJcIkFTZ9aKV5Lc2tuUUsYBDZ1y.png',
-            'created_at' => '2026-03-17 10:37:30',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:37:30',
+            'updated_at' => '2026-03-17 11:37:30',
         ),
         160 => 
         array (
@@ -1650,8 +1650,8 @@ rrugë?',
             'question_number' => 2105,
             'question_text' => 'Shenja e trafikut tregon rrugën për lëvizjën e veturave.',
             'image' => 'questions/eJqgPRiDVmDskf9UvlgjyzhSoIaWTDziZd5bFnct.png',
-            'created_at' => '2026-03-17 10:38:10',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:38:10',
+            'updated_at' => '2026-03-17 11:38:10',
         ),
         161 => 
         array (
@@ -1660,8 +1660,8 @@ rrugë?',
             'question_number' => 2106,
             'question_text' => 'Shenja e trafikut tregon shiritin e trafikut për autobus.',
             'image' => 'questions/TubelHpJCAZ6P3EQOJeeKpOsaPKQP6SFRIC0mZ1C.png',
-            'created_at' => '2026-03-17 10:39:00',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:39:00',
+            'updated_at' => '2026-03-17 11:39:00',
         ),
         162 => 
         array (
@@ -1670,8 +1670,8 @@ rrugë?',
             'question_number' => 2107,
             'question_text' => 'Shenja e trafikut tregon vendparkimin për kamion.',
             'image' => 'questions/dAh9aEwoaGA4wkDXZocLp22nSwgVxHPmUMQbWM1b.png',
-            'created_at' => '2026-03-17 10:39:36',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:39:36',
+            'updated_at' => '2026-03-17 11:39:36',
         ),
         163 => 
         array (
@@ -1680,8 +1680,8 @@ rrugë?',
             'question_number' => 2108,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për cisterna.',
             'image' => 'questions/8oZIusIyiNjEOtPXTZ7rwjhmfYxki9XuU8h8Yy2C.png',
-            'created_at' => '2026-03-17 10:40:44',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:40:44',
+            'updated_at' => '2026-03-17 11:40:44',
         ),
         164 => 
         array (
@@ -1690,8 +1690,8 @@ rrugë?',
             'question_number' => 2109,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për këmbësorë.',
             'image' => 'questions/aHRkmuMttKJL10q2feB9ZqAVEqJCqVntoVHe0Tct.png',
-            'created_at' => '2026-03-17 10:41:31',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:41:31',
+            'updated_at' => '2026-03-17 11:41:31',
         ),
         165 => 
         array (
@@ -1700,8 +1700,8 @@ rrugë?',
             'question_number' => 2110,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojnë gjerësin e caktuar.',
             'image' => 'questions/GsV8rP0l8KgxZHZYKzpNrBgZNhSAJfZQZcHdjHvw.png',
-            'created_at' => '2026-03-17 10:42:17',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:42:17',
+            'updated_at' => '2026-03-17 11:42:17',
         ),
         166 => 
         array (
@@ -1710,8 +1710,8 @@ rrugë?',
             'question_number' => 2111,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojnë lartësin e caktuar.',
             'image' => 'questions/lR6bVeRCYzoA0D4FFGS2vPGmH8N37TN1cVba52dq.png',
-            'created_at' => '2026-03-17 10:42:59',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:42:59',
+            'updated_at' => '2026-03-17 11:42:59',
         ),
         167 => 
         array (
@@ -1720,8 +1720,8 @@ rrugë?',
             'question_number' => 2112,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojnë lartësin e caktuar.',
             'image' => 'questions/zYwFesMiltc3djkcI1cWbmrJeC7DDnQf9JqivCNx.png',
-            'created_at' => '2026-03-17 10:43:38',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:43:38',
+            'updated_at' => '2026-03-17 11:43:38',
         ),
         168 => 
         array (
@@ -1731,8 +1731,8 @@ rrugë?',
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojn ngarkesën
 boshtore të caktuar.',
             'image' => 'questions/lPPq3Zb30vNfj2MFjx2KZFvprUG6MiMAEUq5BOfJ.png',
-            'created_at' => '2026-03-17 10:44:11',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:44:11',
+            'updated_at' => '2026-03-17 11:44:11',
         ),
         169 => 
         array (
@@ -1741,8 +1741,8 @@ boshtore të caktuar.',
             'question_number' => 2114,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojnë gjatësin e caktuar.',
             'image' => 'questions/VgL4d7Y0IFSemk9G08zfkPXX8NE8ddiTwB8wPXFO.png',
-            'created_at' => '2026-03-17 10:44:49',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:44:49',
+            'updated_at' => '2026-03-17 11:44:49',
         ),
         170 => 
         array (
@@ -1751,8 +1751,8 @@ boshtore të caktuar.',
             'question_number' => 2115,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për mjetet të cilat tejkalojnë gjatësinë e caktuar.',
             'image' => 'questions/USvNHH7WJMxaG6g6DMwHPe9E36rdqZfnyCKn1nSL.png',
-            'created_at' => '2026-03-17 10:46:00',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:46:00',
+            'updated_at' => '2026-03-17 11:46:00',
         ),
         171 => 
         array (
@@ -1761,8 +1761,8 @@ boshtore të caktuar.',
             'question_number' => 2116,
             'question_text' => 'Shenja e trafikut tregon kthimin e obligueshëm djathtas.',
             'image' => 'questions/V1A73bGL3kW7cy9N2M3QSjUGHhGdeeOy0B1lXP1Z.png',
-            'created_at' => '2026-03-17 10:46:41',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:46:41',
+            'updated_at' => '2026-03-17 11:46:41',
         ),
         172 => 
         array (
@@ -1771,8 +1771,8 @@ boshtore të caktuar.',
             'question_number' => 2117,
             'question_text' => 'Shenja e trafikut tregon motoudhën.',
             'image' => 'questions/2TgWXHEZSi4iDKOPJe1oru9XemrZfjQTPg4lW65i.png',
-            'created_at' => '2026-03-17 10:47:25',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:47:25',
+            'updated_at' => '2026-03-17 11:47:25',
         ),
         173 => 
         array (
@@ -1781,8 +1781,8 @@ boshtore të caktuar.',
             'question_number' => 2118,
             'question_text' => 'Shenja e trafikut tregon karrocë dore.',
             'image' => 'questions/6uSY60g4b2VweoksIYi7WQ4Ue8r3ChqxZi9LQKmZ.png',
-            'created_at' => '2026-03-17 10:48:20',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:48:20',
+            'updated_at' => '2026-03-17 11:48:20',
         ),
         174 => 
         array (
@@ -1791,8 +1791,8 @@ boshtore të caktuar.',
             'question_number' => 2119,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku duhet të lëvizin traktori.',
             'image' => 'questions/g6BdpeeaYTmUAsNUrq8fhPXhPTEbyilc2e75YXG8.png',
-            'created_at' => '2026-03-17 10:48:58',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:48:58',
+            'updated_at' => '2026-03-17 11:48:58',
         ),
         175 => 
         array (
@@ -1801,8 +1801,8 @@ boshtore të caktuar.',
             'question_number' => 2120,
             'question_text' => 'Shenja e trafikut tregon ndalim trafikut për mopedë.',
             'image' => 'questions/mzYuOkTLQk5g1kObzOalByGtHEr3K1yJuxnIrAsH.png',
-            'created_at' => '2026-03-17 10:49:35',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:49:35',
+            'updated_at' => '2026-03-17 11:50:59',
         ),
         176 => 
         array (
@@ -1811,8 +1811,8 @@ boshtore të caktuar.',
             'question_number' => 2121,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për biçikleta.',
             'image' => 'questions/U4NmPwupo5qYPTSwprpf5QObM4Gi11CAGZUtT03y.png',
-            'created_at' => '2026-03-17 10:50:43',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:50:43',
+            'updated_at' => '2026-03-17 11:51:15',
         ),
         177 => 
         array (
@@ -1821,8 +1821,8 @@ boshtore të caktuar.',
             'question_number' => 2122,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku biçklistët lëvizin në grupe.',
             'image' => 'questions/iS2FzD9TC29MkMKkDIq4v5yeR91vCctqXyoDIUvd.png',
-            'created_at' => '2026-03-17 10:53:42',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:53:42',
+            'updated_at' => '2026-03-17 11:53:42',
         ),
         178 => 
         array (
@@ -1831,8 +1831,8 @@ boshtore të caktuar.',
             'question_number' => 2123,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku duhet të lëvizin qerret.',
             'image' => 'questions/tzF4Ct2PCH9IHQGxTpCCxQNYM0x9qC0bKraFoqCS.png',
-            'created_at' => '2026-03-17 10:54:46',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:54:46',
+            'updated_at' => '2026-03-17 11:54:46',
         ),
         179 => 
         array (
@@ -1841,8 +1841,8 @@ boshtore të caktuar.',
             'question_number' => 2124,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku për të gjitha mjetet me veprim motorik.',
             'image' => 'questions/O171cRKYPsDiSoRzZxfFi37grCkrdrDeHwfYrTfM.png',
-            'created_at' => '2026-03-17 10:55:40',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 11:55:40',
+            'updated_at' => '2026-03-17 11:55:40',
         ),
         180 => 
         array (
@@ -1851,8 +1851,8 @@ boshtore të caktuar.',
             'question_number' => 2125,
             'question_text' => 'Shenja e trafikut tregon kah i obliguar djathtas.',
             'image' => 'questions/sdhCnnFU4CzDPr60NSGLMwS3QFfYqZS2Nb2zcFw4.png',
-            'created_at' => '2026-03-17 11:02:03',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:02:03',
+            'updated_at' => '2026-03-17 12:02:03',
         ),
         181 => 
         array (
@@ -1861,8 +1861,8 @@ boshtore të caktuar.',
             'question_number' => 2126,
             'question_text' => 'Shenja e trafikut tregon ndalim kthimi gjysëm rrethor.',
             'image' => 'questions/7iD8jlV7Vs4Reg3A8ABnfq2THefhgu0yyQTVLfMw.png',
-            'created_at' => '2026-03-17 11:02:46',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:02:46',
+            'updated_at' => '2026-03-17 12:02:46',
         ),
         182 => 
         array (
@@ -1871,8 +1871,8 @@ boshtore të caktuar.',
             'question_number' => 2127,
             'question_text' => 'Shenja e trafikut tregon kufizimin maksimal të shpejtësisë.',
             'image' => 'questions/6nm4YCv0Lr5Rh4hOuc8rXeqis3bkczC7MOMdRD9Q.png',
-            'created_at' => '2026-03-17 11:03:29',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:03:29',
+            'updated_at' => '2026-03-17 12:03:29',
         ),
         183 => 
         array (
@@ -1881,8 +1881,8 @@ boshtore të caktuar.',
             'question_number' => 2128,
             'question_text' => 'Shenja tregon trafikun për vetura.',
             'image' => 'questions/kyzdPHgpD7gqJx52MAXNUdpYeGeKvo0rCJzmKxUf.png',
-            'created_at' => '2026-03-17 11:04:04',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:04:04',
+            'updated_at' => '2026-03-17 12:04:23',
         ),
         184 => 
         array (
@@ -1891,8 +1891,8 @@ boshtore të caktuar.',
             'question_number' => 2129,
             'question_text' => 'Shenja e trafikut tregon ndalimin e tejkalimit për mjetet transportuese-kamion.',
             'image' => 'questions/0agVBi8eX5m6zcVCKqMT5KbGC8TVPjsigoeJLeHi.png',
-            'created_at' => '2026-03-17 11:05:22',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:05:22',
+            'updated_at' => '2026-03-17 12:05:22',
         ),
         185 => 
         array (
@@ -1901,8 +1901,8 @@ boshtore të caktuar.',
             'question_number' => 2130,
             'question_text' => 'Shenja e trafikut tregon vendin ku duhet të ndaleni-dogana.',
             'image' => 'questions/fVvrLAczCB6uIMD3TERToHG3mLtQlwrc9mTchjLk.png',
-            'created_at' => '2026-03-17 11:06:58',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:06:58',
+            'updated_at' => '2026-03-17 12:06:58',
         ),
         186 => 
         array (
@@ -1911,8 +1911,8 @@ boshtore të caktuar.',
             'question_number' => 2131,
             'question_text' => 'Shenja e trafikut tregon vendin ku duhet të ndaleni dogana.',
             'image' => 'questions/Uo6O4sE1GTo7TTOYsheiHg5M9qTDKXe40z1SPZZp.png',
-            'created_at' => '2026-03-17 11:07:42',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:07:42',
+            'updated_at' => '2026-03-17 12:07:42',
         ),
         187 => 
         array (
@@ -1921,8 +1921,8 @@ boshtore të caktuar.',
             'question_number' => 2132,
             'question_text' => 'Shenja e trafikut tregon rrugën ku trafiku zhvillohet në një kah.',
             'image' => 'questions/lFIGw3sE1Z56PlMTuGtnvIrOioML4ChskhE7f5aw.png',
-            'created_at' => '2026-03-17 11:08:25',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:08:25',
+            'updated_at' => '2026-03-17 12:08:53',
         ),
         188 => 
         array (
@@ -1931,8 +1931,8 @@ boshtore të caktuar.',
             'question_number' => 2133,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku ndalohet përdorimi i shenjave akustike.',
             'image' => 'questions/YxsbiV9U8cGy5M3TS0z3VWnrx87tSw2RUJdU6w4w.png',
-            'created_at' => '2026-03-17 11:12:25',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:12:25',
+            'updated_at' => '2026-03-17 12:12:25',
         ),
         189 => 
         array (
@@ -1941,8 +1941,8 @@ boshtore të caktuar.',
             'question_number' => 2134,
             'question_text' => 'Shenja e trafikut tregon përparësi kalimi për mjetet nga kahu i kundërt.',
             'image' => 'questions/dgNrhb9AXsnNtrJUjQiSErMnM2VKZgesgtEjaRcd.png',
-            'created_at' => '2026-03-17 11:14:24',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:14:24',
+            'updated_at' => '2026-03-17 12:14:24',
         ),
         190 => 
         array (
@@ -1951,8 +1951,8 @@ boshtore të caktuar.',
             'question_number' => 2135,
             'question_text' => 'Shenja e trafikut tregon ndalim ndalje dhe parkimi.',
             'image' => 'questions/NbRsT2cKKSkVtIahSEul8BtFrMEJXHD09EW0ekso.png',
-            'created_at' => '2026-03-17 11:42:45',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:42:45',
+            'updated_at' => '2026-03-17 12:42:45',
         ),
         191 => 
         array (
@@ -1961,8 +1961,8 @@ boshtore të caktuar.',
             'question_number' => 2136,
             'question_text' => 'Shenja e trafikut tregon zonën e parkimit.',
             'image' => 'questions/kFXFS6I751fBXqyLTgFF1GokT5YHrJ8AumwULHtD.png',
-            'created_at' => '2026-03-17 11:43:23',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:43:23',
+            'updated_at' => '2026-03-17 12:43:23',
         ),
         192 => 
         array (
@@ -1971,8 +1971,8 @@ boshtore të caktuar.',
             'question_number' => 2137,
             'question_text' => 'Shenja e trafikut tregon ndalim parkimi në ditët tek.',
             'image' => 'questions/wjfr5jW1e9bfbKtP1RxcSuZ7OFrejnDvN6I1trgj.png',
-            'created_at' => '2026-03-17 11:44:02',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:44:02',
+            'updated_at' => '2026-03-17 12:44:02',
         ),
         193 => 
         array (
@@ -1981,8 +1981,8 @@ boshtore të caktuar.',
             'question_number' => 2138,
             'question_text' => 'Shenja e trafikut tregon ndalim parkimi në ditët tek.',
             'image' => 'questions/gPC2zNXZsPjcAEQVdnBGOjqsfvpxBfqTT7WAU8Fa.png',
-            'created_at' => '2026-03-17 11:45:02',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:45:02',
+            'updated_at' => '2026-03-17 12:45:19',
         ),
         194 => 
         array (
@@ -1991,8 +1991,8 @@ boshtore të caktuar.',
             'question_number' => 2139,
             'question_text' => 'Shenja e trafikut tregon përdorimin e radarit.',
             'image' => 'questions/AdM7dpIfn0FbrZstalgHyw8bwayf1BfxoUywtrPi.png',
-            'created_at' => '2026-03-17 11:46:03',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:46:03',
+            'updated_at' => '2026-03-17 12:46:03',
         ),
         195 => 
         array (
@@ -2001,8 +2001,8 @@ boshtore të caktuar.',
             'question_number' => 2140,
             'question_text' => 'Shenja e trafikut tregon rekomandimin e shpejtësisë.',
             'image' => 'questions/aC87WXqGBootgO3qqRkscTtxWElYB8VHiM5qEAdD.png',
-            'created_at' => '2026-03-17 11:46:44',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:46:44',
+            'updated_at' => '2026-03-17 12:46:44',
         ),
         196 => 
         array (
@@ -2011,8 +2011,8 @@ boshtore të caktuar.',
             'question_number' => 2141,
             'question_text' => 'Shenja e trafikut tregon goma rezervë obligative.',
             'image' => 'questions/kQO6zFWXVYsRc3mA3skCeHXabJmHebiSlOs3jP8u.png',
-            'created_at' => '2026-03-17 11:47:26',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:47:26',
+            'updated_at' => '2026-03-17 12:47:26',
         ),
         197 => 
         array (
@@ -2021,8 +2021,8 @@ boshtore të caktuar.',
             'question_number' => 2142,
             'question_text' => 'Shenja e trafikut tregon shtegun për biçiklistë.',
             'image' => 'questions/rkmv5wJ7z5n8wmItWoCvRtB5ozUzgSua5nwul9On.png',
-            'created_at' => '2026-03-17 11:48:17',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:48:17',
+            'updated_at' => '2026-03-17 12:48:17',
         ),
         198 => 
         array (
@@ -2031,8 +2031,8 @@ boshtore të caktuar.',
             'question_number' => 2143,
             'question_text' => 'Shenja e trafikut tregon ndalim i lëvizjës për këmbësorë.',
             'image' => 'questions/kMKMq7Li7gWRFl7lSYMctldQ3fvm8urwRbzxiu5x.png',
-            'created_at' => '2026-03-17 11:49:25',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:49:25',
+            'updated_at' => '2026-03-17 12:49:25',
         ),
         199 => 
         array (
@@ -2041,8 +2041,8 @@ boshtore të caktuar.',
             'question_number' => 2144,
             'question_text' => 'Shenja e trafikut tregon shtegun për këmbësorë dhe biçikleta.',
             'image' => 'questions/Sqqgcugn39z2HuW7PiwrU9OEu2zUa6n1qvLSPfII.png',
-            'created_at' => '2026-03-17 11:50:06',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:50:06',
+            'updated_at' => '2026-03-17 12:50:06',
         ),
         200 => 
         array (
@@ -2051,8 +2051,8 @@ boshtore të caktuar.',
             'question_number' => 2145,
             'question_text' => ' Shenja e trafikut tregon shtegun për kalorës.',
             'image' => 'questions/1o1QQzwDl1nbiqoZgZ8d2kIrKh1j6gucjLrRcHuz.png',
-            'created_at' => '2026-03-17 11:50:49',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:50:49',
+            'updated_at' => '2026-03-17 12:50:49',
         ),
         201 => 
         array (
@@ -2061,8 +2061,8 @@ boshtore të caktuar.',
             'question_number' => 2146,
             'question_text' => 'Shenja e trafikut tregon drejtimin e obliguar drejt.',
             'image' => 'questions/Yydil5NbkwGCsAVpd15YDs15vrB9SrEGdQcolUdx.png',
-            'created_at' => '2026-03-17 11:51:28',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:51:28',
+            'updated_at' => '2026-03-17 12:51:28',
         ),
         202 => 
         array (
@@ -2071,8 +2071,8 @@ boshtore të caktuar.',
             'question_number' => 2147,
             'question_text' => 'Shenja e trafikut tregon ndalim trafiku në një kahe.',
             'image' => 'questions/UWtKy2XyCvLlK5TkawgwOkYNZrJOBWqv6mOBrbgH.png',
-            'created_at' => '2026-03-17 11:52:10',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:52:10',
+            'updated_at' => '2026-03-17 12:52:10',
         ),
         203 => 
         array (
@@ -2081,8 +2081,8 @@ boshtore të caktuar.',
             'question_number' => 2148,
             'question_text' => 'Shenja e trafikut tregon ndalimin e trafikut në këtë drejtim.',
             'image' => 'questions/2fmVsYNcXge9FgY5Baq6Jr9xCFJmb1sdmk0TEIHq.png',
-            'created_at' => '2026-03-17 11:53:11',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:53:11',
+            'updated_at' => '2026-03-17 12:53:11',
         ),
         204 => 
         array (
@@ -2091,8 +2091,8 @@ boshtore të caktuar.',
             'question_number' => 2149,
             'question_text' => 'Shenja e trafikut tregon anashkalimin nga ana e djathtë.',
             'image' => 'questions/IsCTCvJXpNuorR77peToJCQd9TZPQ2f0S3Mail9h.png',
-            'created_at' => '2026-03-17 11:53:48',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:53:48',
+            'updated_at' => '2026-03-17 12:53:48',
         ),
         205 => 
         array (
@@ -2101,8 +2101,8 @@ boshtore të caktuar.',
             'question_number' => 2150,
             'question_text' => 'Shenja e trafikut tregon ndalim kthimi gjysëmrrethor.',
             'image' => 'questions/t4xSH17rTvlTGgBNw1bL1eASw6UK2TzzRlM62tGZ.png',
-            'created_at' => '2026-03-17 11:54:39',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:54:39',
+            'updated_at' => '2026-03-17 12:54:39',
         ),
         206 => 
         array (
@@ -2111,8 +2111,8 @@ boshtore të caktuar.',
             'question_number' => 2151,
             'question_text' => 'Shenja e trafikut tregon vendin ku lejohet lëvizja drejtë dhe majtas.',
             'image' => 'questions/iQLLL6rPDslUkjAjvS7Z19OtvF8lsnTfTXZGrsCC.png',
-            'created_at' => '2026-03-17 11:55:13',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 12:55:13',
+            'updated_at' => '2026-03-17 12:55:13',
         ),
         207 => 
         array (
@@ -2121,8 +2121,8 @@ boshtore të caktuar.',
             'question_number' => 2152,
             'question_text' => 'Shenja e trafikut tregon vendin ku lejohet lëvizja drejt dhe djathtas.',
             'image' => 'questions/1UEGqCZBxT3rVEEkToOM2rkRlLybZQ92yQsfASWt.png',
-            'created_at' => '2026-03-17 12:03:40',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:03:40',
+            'updated_at' => '2026-03-17 13:03:40',
         ),
         208 => 
         array (
@@ -2131,8 +2131,8 @@ boshtore të caktuar.',
             'question_number' => 2153,
             'question_text' => 'Shenja e trafikut tregon rrugën ku trafiku zhvillohet në dy kahe.',
             'image' => 'questions/vMaWcz4yUhOluLesbmczarm6PnSeAuuxgELiErjA.png',
-            'created_at' => '2026-03-17 12:04:37',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:04:37',
+            'updated_at' => '2026-03-17 13:04:37',
         ),
         209 => 
         array (
@@ -2141,8 +2141,8 @@ boshtore të caktuar.',
             'question_number' => 2154,
             'question_text' => 'Shenja e trafikut tregon anashkalimin e obliguar djathtas.',
             'image' => 'questions/HhwfYeeqzD9fos733gjHDMyROuPIFurlO98Yscsd.png',
-            'created_at' => '2026-03-17 12:05:16',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:05:16',
+            'updated_at' => '2026-03-17 13:05:16',
         ),
         210 => 
         array (
@@ -2151,8 +2151,8 @@ boshtore të caktuar.',
             'question_number' => 2155,
             'question_text' => 'Shenja e trafikut tregon anashkalimin e obliguar djathtas dhe majtas.',
             'image' => 'questions/oJMIDJpV139n8co0JwPplRL1KHe7to99WZzIyBVG.png',
-            'created_at' => '2026-03-17 12:06:13',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:06:13',
+            'updated_at' => '2026-03-17 13:06:13',
         ),
         211 => 
         array (
@@ -2161,8 +2161,8 @@ boshtore të caktuar.',
             'question_number' => 2156,
             'question_text' => 'Shenja e trafikut tregon kryqëzimin me rrethrrotullim.',
             'image' => 'questions/TmGxHh48R7Td1sVAtYSVkRpsUf3N0G0i4GOYoTeg.png',
-            'created_at' => '2026-03-17 12:06:48',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:06:48',
+            'updated_at' => '2026-03-17 13:06:48',
         ),
         212 => 
         array (
@@ -2171,8 +2171,8 @@ boshtore të caktuar.',
             'question_number' => 2157,
             'question_text' => 'Cila shenjë ndalon trafikun për të gjitha automjetet, përveç motoçikletave pa rimorikio anësore?',
             'image' => 'questions/RllelBDmd7OEU0n8klRcqcjfGc9iomDyseu3u8xU.png',
-            'created_at' => '2026-03-17 12:14:05',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:14:05',
+            'updated_at' => '2026-03-17 13:14:05',
         ),
         213 => 
         array (
@@ -2181,8 +2181,8 @@ boshtore të caktuar.',
             'question_number' => 2158,
         'question_text' => 'Cila shenjë tregon ndalim trafiku për mjetet transportuese (kamiona)?',
             'image' => 'questions/91z3NWpi6NbNog9fLa34vIrCPVjrBh8wtsNNmoO9.png',
-            'created_at' => '2026-03-17 12:19:49',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:19:49',
+            'updated_at' => '2026-03-17 13:19:49',
         ),
         214 => 
         array (
@@ -2191,8 +2191,8 @@ boshtore të caktuar.',
             'question_number' => 2159,
             'question_text' => 'Cila shenjë tregon ndalim trafikun për automjetet të cilat tërheqin mjetet bashkangjitëse?',
             'image' => 'questions/N5eNcGPHmLL3tdrgZ8hiX0MWH0sw6GlGBobgs009.png',
-            'created_at' => '2026-03-17 12:23:23',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:23:23',
+            'updated_at' => '2026-03-17 13:23:23',
         ),
         215 => 
         array (
@@ -2202,8 +2202,8 @@ boshtore të caktuar.',
             'question_text' => 'Shenja e trafikut tregon obligimin e ndezjes së dritave të shkurtëra kur mjeti merr
 pjesë në trafik.',
             'image' => 'questions/PHdftIRt0oOR4b0nRVakymVR3VsrkX85LMkTYsEd.png',
-            'created_at' => '2026-03-17 12:27:52',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:27:52',
+            'updated_at' => '2026-03-17 13:27:52',
         ),
         216 => 
         array (
@@ -2212,8 +2212,8 @@ pjesë në trafik.',
             'question_number' => 2202,
             'question_text' => 'Shenja e trafikut tregon vendkalimin e shënuar për biçiklistë.',
             'image' => 'questions/vQBgoao9Teq5l93c4vWOoThCoy7jX2gx2FGbzrqo.png',
-            'created_at' => '2026-03-17 12:31:18',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:31:18',
+            'updated_at' => '2026-03-17 13:31:18',
         ),
         217 => 
         array (
@@ -2222,8 +2222,8 @@ pjesë në trafik.',
             'question_number' => 2203,
             'question_text' => 'Shenja e trafikut tregon ndalimin e lëvizjës për biçiklistë.',
             'image' => 'questions/skqIaAnL5FTeYrcK2oUWJ9fhby9FHgrCc5AlONzx.png',
-            'created_at' => '2026-03-17 12:32:12',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:32:12',
+            'updated_at' => '2026-03-17 13:32:12',
         ),
         218 => 
         array (
@@ -2232,8 +2232,8 @@ pjesë në trafik.',
             'question_number' => 2204,
             'question_text' => 'Shenja e trafikut tregon ndalimin e lëvizjës së fëmijëve në rrugë.',
             'image' => 'questions/d1X5F3xw0aqXgSuSVCVVn5vrNzg54r3Z0pbhSJAN.png',
-            'created_at' => '2026-03-17 12:32:46',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:32:46',
+            'updated_at' => '2026-03-17 13:32:46',
         ),
         219 => 
         array (
@@ -2242,8 +2242,8 @@ pjesë në trafik.',
             'question_number' => 2205,
             'question_text' => 'Shenja e trafikut tregon shkallët lëvizëse.',
             'image' => 'questions/hS7bpDZ4hdIp0q7jFLaUCtIFr81d0xabu8hgLRFy.png',
-            'created_at' => '2026-03-17 12:33:36',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:33:36',
+            'updated_at' => '2026-03-17 13:33:36',
         ),
         220 => 
         array (
@@ -2252,8 +2252,8 @@ pjesë në trafik.',
             'question_number' => 2206,
             'question_text' => 'Shenja e trafikut tregon rrugën një kah.',
             'image' => 'questions/dBTuhjZHhEcBZ5cHZ6IBp84rf6dFQcHbvjFmeAlc.png',
-            'created_at' => '2026-03-17 12:37:07',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:37:07',
+            'updated_at' => '2026-03-17 13:37:07',
         ),
         221 => 
         array (
@@ -2262,8 +2262,8 @@ pjesë në trafik.',
             'question_number' => 2207,
             'question_text' => 'Shenja e trafikut tregon rrugën me dy kahe të lëvizjës.',
             'image' => 'questions/jxxB4oxwltbrvlPwnlXDdvpJyK07Lm52f25Exnf8.png',
-            'created_at' => '2026-03-17 12:37:57',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:37:57',
+            'updated_at' => '2026-03-17 13:37:57',
         ),
         222 => 
         array (
@@ -2272,8 +2272,8 @@ pjesë në trafik.',
             'question_number' => 2208,
             'question_text' => 'Shenja e trafikut tregon rrugën me përparësi kalimi.',
             'image' => 'questions/tEODa1WeYkliSer02Nzr7qPxQxN6YYH2MSB2Pnd2.png',
-            'created_at' => '2026-03-17 12:38:35',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:38:35',
+            'updated_at' => '2026-03-17 13:38:35',
         ),
         223 => 
         array (
@@ -2282,8 +2282,8 @@ pjesë në trafik.',
             'question_number' => 2209,
             'question_text' => 'Shenja e trafikut tregon rrugën me përparësi kalimi.',
             'image' => 'questions/mC3GoPtxtr2BTXbDNMkgeoI1wRvpEkUxXAA1evht.png',
-            'created_at' => '2026-03-17 12:39:47',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:39:47',
+            'updated_at' => '2026-03-17 13:39:47',
         ),
         224 => 
         array (
@@ -2292,8 +2292,8 @@ pjesë në trafik.',
             'question_number' => 2210,
             'question_text' => 'Shenja e trafikut tregon shpejtësinë më të vogël të lejuar.',
             'image' => 'questions/g8C6lJPnVhJe9c5y4JcUA2Aj0qgYCsunKiXi6Edl.png',
-            'created_at' => '2026-03-17 12:41:23',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:41:23',
+            'updated_at' => '2026-03-17 13:41:23',
         ),
         225 => 
         array (
@@ -2302,8 +2302,8 @@ pjesë në trafik.',
             'question_number' => 2211,
             'question_text' => 'Shenja e trafikut tregon kufizimin maksimal të shpetësisë.',
             'image' => 'questions/VvsKvUaMdytFCya7ef9iGuHgQBoULybr9trWpkHb.png',
-            'created_at' => '2026-03-17 12:42:07',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:42:07',
+            'updated_at' => '2026-03-17 13:42:07',
         ),
         226 => 
         array (
@@ -2312,8 +2312,8 @@ pjesë në trafik.',
             'question_number' => 2212,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku ndalohet tejkalimi.',
             'image' => 'questions/IuULSSvxUlyxrkyP8nCfUai0aKzbToE4wr9wubZg.png',
-            'created_at' => '2026-03-17 12:43:12',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:43:12',
+            'updated_at' => '2026-03-17 13:43:12',
         ),
         227 => 
         array (
@@ -2322,8 +2322,8 @@ pjesë në trafik.',
             'question_number' => 2213,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku nuk lejohet tejkalimi për kamiona.',
             'image' => 'questions/tPJ2tJzlJZz4C7RMbJ9lUP9KN6czDCLH5EdCGOQa.png',
-            'created_at' => '2026-03-17 12:44:01',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:44:01',
+            'updated_at' => '2026-03-17 13:44:01',
         ),
         228 => 
         array (
@@ -2332,8 +2332,8 @@ pjesë në trafik.',
             'question_number' => 2214,
             'question_text' => 'Shenja e trafikut tregon vendin ku mbaron kufizimi i shpejtësisë.',
             'image' => 'questions/IwuHTrWeE5BnLWHUZESaJKmbMZSEfFiy3ZRwnx1Z.png',
-            'created_at' => '2026-03-17 12:45:11',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:45:11',
+            'updated_at' => '2026-03-17 13:45:11',
         ),
         229 => 
         array (
@@ -2342,8 +2342,8 @@ pjesë në trafik.',
             'question_number' => 2215,
             'question_text' => 'Shenja e trafikut tregon vendin ku mbaron shpejtësia më e vogël e lejuar.',
             'image' => 'questions/cWkqfZzVxAeKmzVgmWi0F7FjdlZhQ8tQblLAA0bx.png',
-            'created_at' => '2026-03-17 12:45:58',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:45:58',
+            'updated_at' => '2026-03-17 13:45:58',
         ),
         230 => 
         array (
@@ -2352,8 +2352,8 @@ pjesë në trafik.',
             'question_number' => 2216,
             'question_text' => 'Shenja e trafikut tregon vendin ku mbaron ndalimi i përdorimit të kamerës.',
             'image' => 'questions/pM19Q2pQjVaV3l1v5qF9UbueYzcyBL7vAGA5clDt.png',
-            'created_at' => '2026-03-17 12:58:56',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:58:56',
+            'updated_at' => '2026-03-17 13:58:56',
         ),
         231 => 
         array (
@@ -2362,8 +2362,8 @@ pjesë në trafik.',
             'question_number' => 2217,
             'question_text' => 'Shenja e trafikut tregon parkun e lodrave për fëmijë ku luajnë me top.',
             'image' => 'questions/jbJD6uqw1Rj5oMmkM801CtaK0afK6cL8calGmXuq.png',
-            'created_at' => '2026-03-17 12:59:36',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 13:59:36',
+            'updated_at' => '2026-03-17 13:59:36',
         ),
         232 => 
         array (
@@ -2372,8 +2372,8 @@ pjesë në trafik.',
             'question_number' => 2218,
             'question_text' => 'Shenja e trafikut tregon mbarimin e zonës së trafikut të qetë.',
             'image' => 'questions/y9fHGcSFoO64eRNztEhj5MnbHOL2ixdwRgDCsThV.png',
-            'created_at' => '2026-03-17 13:03:57',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:03:57',
+            'updated_at' => '2026-03-17 14:03:57',
         ),
         233 => 
         array (
@@ -2382,8 +2382,8 @@ pjesë në trafik.',
             'question_number' => 2219,
             'question_text' => 'Shenja e trafikut tregon rreshtimin e mjeteve.',
             'image' => 'questions/OI0bfZdpJFNju0oBdXzHjGyO9uRz7Mmb8EpH28d8.png',
-            'created_at' => '2026-03-17 13:05:13',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:05:13',
+            'updated_at' => '2026-03-17 14:05:13',
         ),
         234 => 
         array (
@@ -2392,8 +2392,8 @@ pjesë në trafik.',
             'question_number' => 2220,
         'question_text' => 'Shenja e trafikut tregon mbylljen (reduktimin) e shiritit të trafikut',
             'image' => 'questions/QhM7NeOGh3rnkrFhezXDXU7lpTC1CucijC51NrNv.png',
-            'created_at' => '2026-03-17 13:09:27',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:09:27',
+            'updated_at' => '2026-03-17 14:09:27',
         ),
         235 => 
         array (
@@ -2403,8 +2403,8 @@ pjesë në trafik.',
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku nuk lejohet lëvizja me shpejtësinë më të
 vogël se 80 km/h.',
             'image' => 'questions/qr7B50V6PzNMRCaJuysOJhzZz6AO5GlwCCkLUABm.png',
-            'created_at' => '2026-03-17 13:10:54',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:10:54',
+            'updated_at' => '2026-03-17 14:10:54',
         ),
         236 => 
         array (
@@ -2413,8 +2413,8 @@ vogël se 80 km/h.',
             'question_number' => 2222,
             'question_text' => 'Shenja e trafikut tregon shpejtësinë e rekomanduar.',
             'image' => 'questions/Hvf4RAlEU3v7KFaNenVJIYWXxKZtxl0MvcLtbHLb.png',
-            'created_at' => '2026-03-17 13:11:34',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:11:34',
+            'updated_at' => '2026-03-17 14:11:34',
         ),
         237 => 
         array (
@@ -2423,8 +2423,8 @@ vogël se 80 km/h.',
             'question_number' => 2223,
             'question_text' => 'Shenja e trafikut tregon spitalin.',
             'image' => 'questions/eEgPseceoUbCwJBya4CYh1o0f4Ar0v6O0Vx0m294.png',
-            'created_at' => '2026-03-17 13:12:06',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:12:06',
+            'updated_at' => '2026-03-17 14:12:06',
         ),
         238 => 
         array (
@@ -2433,8 +2433,8 @@ vogël se 80 km/h.',
             'question_number' => 2224,
             'question_text' => 'Shenja e trafikut tregon Kryqin e Kuq Ndërkombëtar.',
             'image' => 'questions/rkivWp49arYvQnLZbUbb8OulyBnk6Kl7GyHDJ2tt.png',
-            'created_at' => '2026-03-17 13:12:46',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:12:46',
+            'updated_at' => '2026-03-17 14:12:46',
         ),
         239 => 
         array (
@@ -2443,8 +2443,8 @@ vogël se 80 km/h.',
             'question_number' => 2225,
             'question_text' => 'Shenja e trafikut tregon vendin ku mbarojnë të gjitha ndalesat në rrugë.',
             'image' => 'questions/8BcbDRjfKlqVMHRdy5HUAlFGxZsDfDPvfd58eor6.png',
-            'created_at' => '2026-03-17 13:13:52',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:13:52',
+            'updated_at' => '2026-03-17 14:13:52',
         ),
         240 => 
         array (
@@ -2453,8 +2453,8 @@ vogël se 80 km/h.',
             'question_number' => 2226,
             'question_text' => 'Shenja e trafikut tregon obligimin e posedimit të gomës rezervë.',
             'image' => 'questions/7Ki8TAvrV3lfrUQ9Lc7jBf1HjEgsqW8596NEAMZA.png',
-            'created_at' => '2026-03-17 13:16:03',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:16:03',
+            'updated_at' => '2026-03-17 14:16:03',
         ),
         241 => 
         array (
@@ -2463,8 +2463,8 @@ vogël se 80 km/h.',
             'question_number' => 2227,
             'question_text' => 'Shenja e trafikut tregon mbarimin e shtegut për biçikleta.',
             'image' => 'questions/E6LZtRoEYPLqDVleKMZtuEVEbCVj4AJwRs61N7SJ.png',
-            'created_at' => '2026-03-17 13:16:38',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:16:38',
+            'updated_at' => '2026-03-17 14:16:38',
         ),
         242 => 
         array (
@@ -2473,8 +2473,8 @@ vogël se 80 km/h.',
             'question_number' => 2228,
             'question_text' => 'Shenja e trafikut tregon fëmijët në rrugë.',
             'image' => 'questions/CT83wTzrxrt66C0MBb9ri6ZnejGBff7OUchE3PAI.png',
-            'created_at' => '2026-03-17 13:17:14',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:17:14',
+            'updated_at' => '2026-03-17 14:17:14',
         ),
         243 => 
         array (
@@ -2483,8 +2483,8 @@ vogël se 80 km/h.',
             'question_number' => 2229,
             'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku ndalohet kalërimi.',
             'image' => 'questions/Etoa5WpqJoB6tVvf8sxyw6pCl2DaBb83nmMnod1y.png',
-            'created_at' => '2026-03-17 13:18:01',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:18:01',
+            'updated_at' => '2026-03-17 14:18:01',
         ),
         244 => 
         array (
@@ -2493,8 +2493,8 @@ vogël se 80 km/h.',
             'question_number' => 2230,
             'question_text' => 'Shenja e trafikut tregon zonën e kufizimit të shpejtësisë maksimale.',
             'image' => 'questions/9wKIxQFxIZaYQ3ZOZEIrOyfZ7WZBpi7K6ywe55J1.png',
-            'created_at' => '2026-03-17 13:19:07',
-            'updated_at' => '2026-03-23 09:23:54',
+            'created_at' => '2026-03-17 14:19:07',
+            'updated_at' => '2026-03-17 14:19:07',
         ),
         245 => 
         array (
@@ -2504,8 +2504,8 @@ vogël se 80 km/h.',
             'question_text' => 'Shenja e trafikut tregon ndalimin e trafikut për llojin e caktuar të mjeteve
 në autostradë (biçikletave, mopedave,traktorëve...).',
                 'image' => 'questions/ZFt9Jz2n3pENopPIZmmr1l1xf4PznAwoKKF6vIxI.png',
-                'created_at' => '2026-03-17 13:33:06',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:33:06',
+                'updated_at' => '2026-03-17 14:33:06',
             ),
             246 => 
             array (
@@ -2514,8 +2514,8 @@ në autostradë (biçikletave, mopedave,traktorëve...).',
                 'question_number' => 2232,
                 'question_text' => 'Shenja e trafikut tregon kryqëzimin me rrethrrotullim.',
                 'image' => 'questions/GLUzPXMakHPuhm07FdJ7ra3o4G8UPqolPaRcnLs0.png',
-                'created_at' => '2026-03-17 13:33:35',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:33:35',
+                'updated_at' => '2026-03-17 14:33:35',
             ),
             247 => 
             array (
@@ -2525,8 +2525,8 @@ në autostradë (biçikletave, mopedave,traktorëve...).',
                 'question_text' => 'Shenja. e trafikut tregonë përparësin e kalimit në raport me mjetet që vijnë
 nga kahu i kundërt.',
                 'image' => 'questions/o8Yjm1AOztSk1ZdSNEVcdJ3MwwUynpn60NyUGOzv.png',
-                'created_at' => '2026-03-17 13:34:10',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:34:10',
+                'updated_at' => '2026-03-17 14:34:10',
             ),
             248 => 
             array (
@@ -2535,8 +2535,8 @@ nga kahu i kundërt.',
                 'question_number' => 2234,
                 'question_text' => 'Shenja e trafikut tregon drejtimin e obliguar për Mitrovicë.',
                 'image' => 'questions/Nx14eFJLwuS5w7XQyVBukTlW1y7uQ2CDtyxzHcsK.png',
-                'created_at' => '2026-03-17 13:35:20',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:35:20',
+                'updated_at' => '2026-03-17 14:35:20',
             ),
             249 => 
             array (
@@ -2545,8 +2545,8 @@ nga kahu i kundërt.',
                 'question_number' => 2235,
                 'question_text' => 'Shenja e trafikut tregon tunelin.',
                 'image' => 'questions/6T5qPP4TpDvagE1TzS5hF6jSOatji8QfrhQQ3FKi.png',
-                'created_at' => '2026-03-17 13:36:07',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:36:07',
+                'updated_at' => '2026-03-17 14:36:07',
             ),
             250 => 
             array (
@@ -2555,8 +2555,8 @@ nga kahu i kundërt.',
                 'question_number' => 2236,
                 'question_text' => 'Shenja e trafikut tregon emrin e portit nëpër të cilin kalon rruga.',
                 'image' => 'questions/mUnJyQh4JBTCZL3mzttzXGaWKkpjbzjEejLs4CDT.png',
-                'created_at' => '2026-03-17 13:37:10',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:37:10',
+                'updated_at' => '2026-03-17 14:37:10',
             ),
             251 => 
             array (
@@ -2566,8 +2566,8 @@ nga kahu i kundërt.',
                 'question_text' => 'Shenja e trafikut tregon rreshtimin e mjeteve në rrugë, sipas emërtimit të
 vendbanimeve.',
                 'image' => 'questions/7naGPOw6K4SmIwuy8gkJaL5rX2V1vvHaWi9yVvKk.png',
-                'created_at' => '2026-03-17 13:38:05',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:38:05',
+                'updated_at' => '2026-03-17 14:38:05',
             ),
             252 => 
             array (
@@ -2576,8 +2576,8 @@ vendbanimeve.',
                 'question_number' => 2238,
                 'question_text' => 'Shenja e trafikut tregon vendparkimin në rrugë për autobusa.',
                 'image' => 'questions/8cOqgcCa5ajEWpByuZyKTAwraySFKc2r8U90tC40.png',
-                'created_at' => '2026-03-17 13:39:22',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:39:22',
+                'updated_at' => '2026-03-17 14:39:22',
             ),
             253 => 
             array (
@@ -2586,8 +2586,8 @@ vendbanimeve.',
                 'question_number' => 2239,
                 'question_text' => 'Shenja e trafkut tregon urën mbi lum.',
                 'image' => 'questions/siL02fY3XEv5CIJUxz1SjPHHbIzP3WhP3GXdQj6C.png',
-                'created_at' => '2026-03-17 13:40:02',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:40:02',
+                'updated_at' => '2026-03-17 14:40:02',
             ),
             254 => 
             array (
@@ -2596,8 +2596,8 @@ vendbanimeve.',
                 'question_number' => 2240,
                 'question_text' => 'Shenja e trafikut tregon mbarimin e autostradës.',
                 'image' => 'questions/8dGGs1IBe6ZpybWhGafWJGFESRGC3FUzGXSrJbMJ.png',
-                'created_at' => '2026-03-17 13:40:41',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:40:41',
+                'updated_at' => '2026-03-17 14:40:41',
             ),
             255 => 
             array (
@@ -2606,8 +2606,8 @@ vendbanimeve.',
                 'question_number' => 2241,
             'question_text' => 'Shenja e trafikut tregon shiritin e trafikut për mjetet e transportit publik të udhëtarëve (busi,taxi...).',
                 'image' => 'questions/aAs5xSr55X8FM7Ex0xDUQKY4ElAbxi2MbenSv8bf.png',
-                'created_at' => '2026-03-17 13:43:29',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:43:29',
+                'updated_at' => '2026-03-17 14:43:29',
             ),
             256 => 
             array (
@@ -2616,8 +2616,8 @@ vendbanimeve.',
                 'question_number' => 2242,
                 'question_text' => 'Shenja e trafikut tregon pjesën e rrugës ku trafiku zhvillohet në një kah.',
                 'image' => 'questions/D1j9dP8K05ewSx5ePk7CB9xemeIiL5wVzttnglag.png',
-                'created_at' => '2026-03-17 13:44:19',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-17 14:44:19',
+                'updated_at' => '2026-03-17 14:44:19',
             ),
             257 => 
             array (
@@ -2626,8 +2626,8 @@ vendbanimeve.',
                 'question_number' => 2243,
                 'question_text' => 'Shenja e trafikut tregon rrugën pa dalje.',
                 'image' => 'questions/yybC6cEtCYrmmECVrTJE07dtc5zLJPx5A6XI9C9c.png',
-                'created_at' => '2026-03-18 08:35:59',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:35:59',
+                'updated_at' => '2026-03-18 09:35:59',
             ),
             258 => 
             array (
@@ -2636,8 +2636,8 @@ vendbanimeve.',
                 'question_number' => 2244,
                 'question_text' => 'Shenja e trafikut tregon numrin e rrugës ndërkombëtare.',
                 'image' => 'questions/zmXXSsdqV9Wccm6kgH1omqC2xr8quhMwCmHUmqR7.png',
-                'created_at' => '2026-03-18 08:36:54',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:36:54',
+                'updated_at' => '2026-03-18 09:36:54',
             ),
             259 => 
             array (
@@ -2646,8 +2646,8 @@ vendbanimeve.',
                 'question_number' => 2245,
                 'question_text' => 'Shenja e trafikut tregon Monumentin historik.',
                 'image' => 'questions/yR48V2XcCGP1HF3JRWuHJ48HJ7JmS6Wb6PAa6ESg.png',
-                'created_at' => '2026-03-18 08:37:57',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:37:57',
+                'updated_at' => '2026-03-18 09:37:57',
             ),
             260 => 
             array (
@@ -2656,8 +2656,8 @@ vendbanimeve.',
                 'question_number' => 2246,
                 'question_text' => 'Shenja e trikut tregon Qafëmalin.',
                 'image' => 'questions/64S6TjSJjiHFuJjMI9L0u7BqJWbLa3Zhwwx9JkFM.png',
-                'created_at' => '2026-03-18 08:38:43',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:38:43',
+                'updated_at' => '2026-03-18 09:38:43',
             ),
             261 => 
             array (
@@ -2666,8 +2666,8 @@ vendbanimeve.',
                 'question_number' => 2247,
                 'question_text' => 'Shenja e trafikut tregon rrugën rajonale.',
                 'image' => 'questions/YHoyL09qtX19IbrPeAU24yDCFDxXdMs1RVMJbpMR.png',
-                'created_at' => '2026-03-18 08:39:31',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:39:31',
+                'updated_at' => '2026-03-18 09:39:31',
             ),
             262 => 
             array (
@@ -2676,8 +2676,8 @@ vendbanimeve.',
                 'question_number' => 2248,
                 'question_text' => 'Shenja e trafikut tregon rrugën ndërkombëtare.',
                 'image' => 'questions/AWQSNwhNcUohbuF3D0421mGFWNRTuahgZQpgsvqO.png',
-                'created_at' => '2026-03-18 08:40:13',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:40:13',
+                'updated_at' => '2026-03-18 09:40:13',
             ),
             263 => 
             array (
@@ -2686,8 +2686,8 @@ vendbanimeve.',
                 'question_number' => 2249,
                 'question_text' => 'Shenja e trafikut tregon stacionin për autobusa dhe Taxi.',
                 'image' => 'questions/XYwvRk1fk61o5S0RAz4T9fEJotPmH13hNr7our8q.png',
-                'created_at' => '2026-03-18 08:40:55',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:40:55',
+                'updated_at' => '2026-03-18 09:40:55',
             ),
             264 => 
             array (
@@ -2696,8 +2696,8 @@ vendbanimeve.',
                 'question_number' => 2250,
                 'question_text' => 'Shenja e trafikut tregon vendparkimin.',
                 'image' => 'questions/B3a9YMJhCQAcXbaymN3zG0EdNYJYYDwgE3qm0vr5.png',
-                'created_at' => '2026-03-18 08:42:08',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:42:08',
+                'updated_at' => '2026-03-18 09:42:08',
             ),
             265 => 
             array (
@@ -2706,8 +2706,8 @@ vendbanimeve.',
                 'question_number' => 2251,
                 'question_text' => 'Shenja e trafikut tregon kohëzgjatjen e parkimit.',
                 'image' => 'questions/VPDdkdb4Tr4Yho5TWQ8UROmZKzVnbmy9JCmWNapQ.png',
-                'created_at' => '2026-03-18 08:43:09',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:43:09',
+                'updated_at' => '2026-03-18 09:43:09',
             ),
             266 => 
             array (
@@ -2716,8 +2716,8 @@ vendbanimeve.',
                 'question_number' => 2252,
                 'question_text' => 'Shenja e trafikut tregon ndalim trafiku për vetura.',
                 'image' => 'questions/kcIh821VL6W98ftbaJ2yHikoDudiQ6EbwrWzC4CK.png',
-                'created_at' => '2026-03-18 08:43:49',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:43:49',
+                'updated_at' => '2026-03-18 09:43:49',
             ),
             267 => 
             array (
@@ -2726,8 +2726,8 @@ vendbanimeve.',
                 'question_number' => 2253,
                 'question_text' => 'Shenja e trafikut tregon mbarimin e motoudhës.',
                 'image' => 'questions/208FuXwTRPgL37eSyPYJyMTi2POXFio4XI8mn1M2.png',
-                'created_at' => '2026-03-18 08:44:50',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:44:50',
+                'updated_at' => '2026-03-18 09:44:50',
             ),
             268 => 
             array (
@@ -2736,8 +2736,8 @@ vendbanimeve.',
                 'question_number' => 2254,
                 'question_text' => 'Shenja e trafikut tregon stacionin e ndihmës së parë.',
                 'image' => 'questions/ULkRliIOFY9JHzP8J6wsl1Tcu6wpjN8oomBbmuwc.png',
-                'created_at' => '2026-03-18 08:45:35',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:45:35',
+                'updated_at' => '2026-03-18 09:45:35',
             ),
             269 => 
             array (
@@ -2746,8 +2746,8 @@ vendbanimeve.',
                 'question_number' => 2255,
                 'question_text' => 'Shenja e trafikut tregon vendndaljen për autobus.',
                 'image' => 'questions/EfQT50muADzSdAAbv5SClx4BkGfa9ciceTVxASXZ.png',
-                'created_at' => '2026-03-18 08:46:14',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:46:14',
+                'updated_at' => '2026-03-18 09:46:14',
             ),
             270 => 
             array (
@@ -2756,8 +2756,8 @@ vendbanimeve.',
                 'question_number' => 2256,
                 'question_text' => 'Shenja e trafikut tregon vendndaljen për tramvaja.',
                 'image' => 'questions/ZuKqlu4a4J2gcOuZyo8MXXRiPBqpVZHdNg2psClz.png',
-                'created_at' => '2026-03-18 08:46:45',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:46:45',
+                'updated_at' => '2026-03-18 09:46:45',
             ),
             271 => 
             array (
@@ -2766,8 +2766,8 @@ vendbanimeve.',
                 'question_number' => 2257,
                 'question_text' => 'Shenja e trafikut tregon zonën e këmbësorëve.',
                 'image' => 'questions/BcPflainqh5TWPkUGIRoxPNPFKYVdiRaRONZ8vqF.png',
-                'created_at' => '2026-03-18 08:47:25',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:47:25',
+                'updated_at' => '2026-03-18 09:47:25',
             ),
             272 => 
             array (
@@ -2776,8 +2776,8 @@ vendbanimeve.',
                 'question_number' => 2258,
                 'question_text' => ' Shenja e trafikut tregon vendndaljen e autobusëve.',
                 'image' => 'questions/GSAk73PuAsdmbsbz71SGQhuYl2fROC7Rj4nL8NkO.png',
-                'created_at' => '2026-03-18 08:48:11',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:48:11',
+                'updated_at' => '2026-03-18 09:48:11',
             ),
             273 => 
             array (
@@ -2786,8 +2786,8 @@ vendbanimeve.',
                 'question_number' => 2259,
                 'question_text' => 'Shenja e trafikut tregon rrugën pa dalje.',
                 'image' => 'questions/cMzYVFQMl4BgIrvEa78tJx5CfBusu8OLrKgeMDtP.png',
-                'created_at' => '2026-03-18 08:48:42',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:48:42',
+                'updated_at' => '2026-03-18 09:48:42',
             ),
             274 => 
             array (
@@ -2796,8 +2796,8 @@ vendbanimeve.',
                 'question_number' => 2260,
                 'question_text' => 'Shenja e trafikut tregon mbarimin e zonës së shkollës.',
                 'image' => 'questions/P1KIZ3D1EoSInVkg4voD4zIXLvlgMQbTLxxeDyz6.png',
-                'created_at' => '2026-03-18 08:49:20',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:49:20',
+                'updated_at' => '2026-03-18 09:49:20',
             ),
             275 => 
             array (
@@ -2806,8 +2806,8 @@ vendbanimeve.',
                 'question_number' => 2261,
                 'question_text' => 'Shenja e trafikut tregon kthimin majtas inderekt.',
                 'image' => 'questions/UVi8DGPAkUZtDkSWKbVNkVqOj2y9d2UmCpe0IeTx.png',
-                'created_at' => '2026-03-18 08:50:15',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:50:15',
+                'updated_at' => '2026-03-18 09:50:15',
             ),
             276 => 
             array (
@@ -2816,8 +2816,8 @@ vendbanimeve.',
                 'question_number' => 2262,
                 'question_text' => 'Shenja e trafikut tregon vendkalimin për këmbësorë dhe biçiklistë.',
                 'image' => 'questions/XsN3Rj9N1FXQuSLEcCakQ3Nb3kwnDMIv9vXYwIk5.png',
-                'created_at' => '2026-03-18 08:51:08',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:51:08',
+                'updated_at' => '2026-03-18 09:51:08',
             ),
             277 => 
             array (
@@ -2826,8 +2826,8 @@ vendbanimeve.',
                 'question_number' => 2301,
                 'question_text' => 'A ju lejohet këmbësorëve kalimi i rrugës sipas dritës në semafor?',
                 'image' => 'questions/WYTaa36Cdnan8AGq6jTGbTA9O94LN7vJ8FykgyO3.png',
-                'created_at' => '2026-03-18 08:52:02',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:52:02',
+                'updated_at' => '2026-03-18 09:52:02',
             ),
             278 => 
             array (
@@ -2836,8 +2836,8 @@ vendbanimeve.',
                 'question_number' => 2302,
                 'question_text' => 'Çka tregon drita e semaforit si në foto?',
                 'image' => 'questions/kP6cYatddlJbTU39BXkQlJGKlyJaTqYTYXJMICk2.png',
-                'created_at' => '2026-03-18 08:53:01',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:53:01',
+                'updated_at' => '2026-03-18 09:53:01',
             ),
             279 => 
             array (
@@ -2846,8 +2846,8 @@ vendbanimeve.',
                 'question_number' => 2303,
                 'question_text' => 'Çka duhet të keni parasysh në këtë situatë?',
                 'image' => 'questions/KjVPGdMoba5WneOJMYIR5z1ytWmNEfrQdfdnbsrC.png',
-                'created_at' => '2026-03-18 08:54:21',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:54:21',
+                'updated_at' => '2026-03-18 09:54:21',
             ),
             280 => 
             array (
@@ -2856,8 +2856,8 @@ vendbanimeve.',
                 'question_number' => 2304,
                 'question_text' => 'Çfarë domethënie ka drita e verdhë e pandërprer në samafor?',
                 'image' => 'questions/Cj8hVdjfEakPhnORt28xEFLlPkwqEjhrBlM7oeaN.png',
-                'created_at' => '2026-03-18 08:55:19',
-                'updated_at' => '2026-03-23 09:23:54',
+                'created_at' => '2026-03-18 09:55:19',
+                'updated_at' => '2026-03-18 09:55:19',
             ),
             281 => 
             array (
@@ -2867,8 +2867,8 @@ vendbanimeve.',
                 'question_text' => 'Çfarë domethënie ka drita e gjelbër
 vezulluese (me ndërprerje) në semafor',
                     'image' => 'questions/0Op5Qhx6hcN3dDwGovidDLQBllonzv5CkDuAOFiU.png',
-                    'created_at' => '2026-03-18 08:56:19',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 09:56:19',
+                    'updated_at' => '2026-03-18 09:56:19',
                 ),
                 282 => 
                 array (
@@ -2877,8 +2877,8 @@ vezulluese (me ndërprerje) në semafor',
                     'question_number' => 2307,
                     'question_text' => 'Cila shenjë ndriçuese tregon shiritin e lirë për lëvizje?',
                     'image' => 'questions/8mR8jZzty6I7GtHiWC20NV7LIABPPx6KcSqQRKKP.png',
-                    'created_at' => '2026-03-18 09:04:17',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:04:17',
+                    'updated_at' => '2026-03-18 10:04:17',
                 ),
                 283 => 
                 array (
@@ -2887,8 +2887,8 @@ vezulluese (me ndërprerje) në semafor',
                     'question_number' => 2308,
                     'question_text' => 'Cila shenjë ndriçuese tregon ndërrimin e shiritin e trafikut?',
                     'image' => 'questions/L6AExlovAhlpaNfvXPhTVTz0WYae0KXubTjtwe20.png',
-                    'created_at' => '2026-03-18 09:05:40',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:05:40',
+                    'updated_at' => '2026-03-18 10:05:40',
                 ),
                 284 => 
                 array (
@@ -2897,8 +2897,8 @@ vezulluese (me ndërprerje) në semafor',
                     'question_number' => 2309,
                     'question_text' => 'Cila shenjë ndriçuese tregon ndalimin e trafikut nëpër shiritin e trafikut?',
                     'image' => 'questions/mkaj2TeeDEgStA0TxBtoc92RvnUeIy7SnmiKkAkh.png',
-                    'created_at' => '2026-03-18 09:06:50',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:06:50',
+                    'updated_at' => '2026-03-18 10:06:50',
                 ),
                 285 => 
                 array (
@@ -2907,8 +2907,8 @@ vezulluese (me ndërprerje) në semafor',
                     'question_number' => 2401,
                     'question_text' => 'Çfarë tregon pozita e policit?',
                     'image' => 'questions/HYvWSDkyaNAXgyi18HbjR5wj4YqFdjP76Hkl3SzJ.png',
-                    'created_at' => '2026-03-18 09:07:53',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:07:53',
+                    'updated_at' => '2026-03-18 10:23:58',
                 ),
                 286 => 
                 array (
@@ -2918,8 +2918,8 @@ vezulluese (me ndërprerje) në semafor',
                     'question_text' => 'Cilët pjesmarrës në trafik e kanë kalimin e lirë sipas
 pozitës së policit?',
                     'image' => 'questions/z6RgBDD3w88STkHMYDvhtEBbhEyyPllKhjoOy0DI.png',
-                    'created_at' => '2026-03-18 09:08:47',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:08:47',
+                    'updated_at' => '2026-03-18 10:24:12',
                 ),
                 287 => 
                 array (
@@ -2928,8 +2928,8 @@ pozitës së policit?',
                     'question_number' => 4003,
                     'question_text' => 'Çfarë do të thotë dora e ngritur lartë e policit?',
                     'image' => 'questions/RUbeMh4sY8PZdjGnimk0pO5qUxoZ6bx05aDxbYn3.png',
-                    'created_at' => '2026-03-18 09:16:00',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:16:00',
+                    'updated_at' => '2026-03-18 10:25:08',
                 ),
                 288 => 
                 array (
@@ -2939,8 +2939,8 @@ pozitës së policit?',
                     'question_text' => 'Si do të veproni kur ju tejkalon, përballëkalon mjeti
 si në foto?',
                     'image' => 'questions/IpXo0DeP0qB8fPua9JWWT3dRANtzfSkES4IX6bI0.png',
-                    'created_at' => '2026-03-18 09:17:08',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:17:08',
+                    'updated_at' => '2026-03-18 10:24:21',
                 ),
                 289 => 
                 array (
@@ -2949,8 +2949,8 @@ si në foto?',
                     'question_number' => 2405,
                     'question_text' => 'Çfarë do të thotë dora e ngritur lartë e policit si në foto?',
                     'image' => 'questions/xKUrS1jFNZBsqBfeW7cK9l2jvDXePbd2DZOv0AGQ.png',
-                    'created_at' => '2026-03-18 09:18:31',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:18:31',
+                    'updated_at' => '2026-03-18 10:24:31',
                 ),
                 290 => 
                 array (
@@ -2959,8 +2959,8 @@ si në foto?',
                     'question_number' => 2406,
                     'question_text' => 'Cilët pjesëmarrës e kanë kalimin e lirë sipas pozitës së policit?',
                     'image' => 'questions/kNj70qnSUuy1hJzvG7wCOmbXPtO4CfgtRLewhOeU.png',
-                    'created_at' => '2026-03-18 09:20:50',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:20:50',
+                    'updated_at' => '2026-03-18 10:24:42',
                 ),
                 291 => 
                 array (
@@ -2969,8 +2969,8 @@ si në foto?',
                     'question_number' => 2407,
                     'question_text' => 'Çfarë tregon pozita e policit?',
                     'image' => 'questions/F0JSTZGVjI2NXO8Ic01zC27OgWlvxbhUuCObwOUh.png',
-                    'created_at' => '2026-03-18 09:21:36',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:21:36',
+                    'updated_at' => '2026-03-18 10:24:52',
                 ),
                 292 => 
                 array (
@@ -2980,8 +2980,8 @@ si në foto?',
                     'question_text' => 'Në cilat drejtime ju ndalohet të lëvizni sipas
 pozitës së policit?',
                     'image' => 'questions/u6N3dQWvrtfslL4Ajn54VSufc01JT9pZNlW6v7Hj.png',
-                    'created_at' => '2026-03-18 09:22:32',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:22:32',
+                    'updated_at' => '2026-03-18 10:25:00',
                 ),
                 293 => 
                 array (
@@ -2990,8 +2990,8 @@ pozitës së policit?',
                     'question_number' => 2501,
                     'question_text' => 'Çfarë paraqet vija e ndërprerë në rrugë?',
                     'image' => 'questions/IjYhq79xhCtLzbAFi4Cd4B0LKOgSWgUsNMX7dSIL.png',
-                    'created_at' => '2026-03-18 09:27:19',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:27:19',
+                    'updated_at' => '2026-03-18 10:27:19',
                 ),
                 294 => 
                 array (
@@ -3000,8 +3000,8 @@ pozitës së policit?',
                     'question_number' => 2502,
                     'question_text' => 'Çfarë paraqet vija e plotë në rrugë?',
                     'image' => 'questions/hVldwpXqxVeXTgZu1HQXurSxn0W2cnQGVSjowOct.png',
-                    'created_at' => '2026-03-18 09:28:05',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:28:05',
+                    'updated_at' => '2026-03-18 10:28:05',
                 ),
                 295 => 
                 array (
@@ -3010,8 +3010,8 @@ pozitës së policit?',
                     'question_number' => 2503,
                     'question_text' => 'Çfarë paraqet vija e dyfishtë e kombinuar?',
                     'image' => 'questions/oCPak5MP9nSWRKzPKIfk3EolRv8035uKnEqfd4lc.png',
-                    'created_at' => '2026-03-18 09:29:22',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:29:22',
+                    'updated_at' => '2026-03-18 10:30:40',
                 ),
                 296 => 
                 array (
@@ -3020,8 +3020,8 @@ pozitës së policit?',
                     'question_number' => 2504,
                     'question_text' => 'Çfar paraqet vija e dyfishtë e plotë?',
                     'image' => 'questions/cnzEoiF1SJoe9g84XPW2UqY12mvckuxfSKn7o3mt.png',
-                    'created_at' => '2026-03-18 09:30:25',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:30:25',
+                    'updated_at' => '2026-03-18 10:30:48',
                 ),
                 297 => 
                 array (
@@ -3030,8 +3030,8 @@ pozitës së policit?',
                     'question_number' => 2505,
                     'question_text' => 'Si do të veproni në situatën si në foto?',
                     'image' => 'questions/ZeOvFjRQrJthyrEaHzBCvKTJIjWF1ChmoXGPX9iN.png',
-                    'created_at' => '2026-03-18 09:32:00',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:32:00',
+                    'updated_at' => '2026-03-18 10:32:00',
                 ),
                 298 => 
                 array (
@@ -3040,8 +3040,8 @@ pozitës së policit?',
                     'question_number' => 2506,
                     'question_text' => 'Si do të veproni në situatën si në foto?',
                     'image' => 'questions/2bl7V6UZ1P9ZXgQU9fB02ELSr89zFvaXIIv2c3yi.png',
-                    'created_at' => '2026-03-18 09:32:48',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:32:48',
+                    'updated_at' => '2026-03-18 10:32:48',
                 ),
                 299 => 
                 array (
@@ -3050,8 +3050,8 @@ pozitës së policit?',
                     'question_number' => 2507,
                     'question_text' => 'Çfarë paraqet vija e dyfishtë e kombinuar?',
                     'image' => 'questions/iHWMsTwX9GRI3wVNun9wzDWo3IHGTSeoc6Km1cQZ.png',
-                    'created_at' => '2026-03-18 09:33:32',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:33:32',
+                    'updated_at' => '2026-03-18 10:33:32',
                 ),
                 300 => 
                 array (
@@ -3060,8 +3060,8 @@ pozitës së policit?',
                     'question_number' => 2508,
                     'question_text' => 'Çfarë paraqet vija e ndërprerë në rrugë?',
                     'image' => 'questions/yAUc70gb52yJF1F06I0AJ4YjBy78vo6F4x2Oeqc3.png',
-                    'created_at' => '2026-03-18 09:34:16',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:34:16',
+                    'updated_at' => '2026-03-18 10:34:16',
                 ),
                 301 => 
                 array (
@@ -3071,8 +3071,8 @@ pozitës së policit?',
                     'question_text' => 'Distanca e sigurisë ndërmjet mjeteve gjatë ngasjes
 duhet rritur dukshëm nëse rruga është e terur.',
                     'image' => 'questions/dvguSQkbGALeIEFL1GuF3lLJOSAzs549eiUHmxIq.png',
-                    'created_at' => '2026-03-18 09:36:05',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:36:05',
+                    'updated_at' => '2026-03-18 10:36:05',
                 ),
                 302 => 
                 array (
@@ -3083,8 +3083,8 @@ duhet rritur dukshëm nëse rruga është e terur.',
 burim drite, gjatë ngasjes në rrugë me dukshmëri të
 dobësuar.',
                     'image' => 'questions/FZ97yHyISsI4dCEMSx9PNW2XPZWfXtmlNmPqHeQF.png',
-                    'created_at' => '2026-03-18 09:36:42',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:36:42',
+                    'updated_at' => '2026-03-18 10:36:42',
                 ),
                 303 => 
                 array (
@@ -3094,8 +3094,8 @@ dobësuar.',
                     'question_text' => 'Shoferit i lejohet ta ndalë veturën në vendkalim të
 këmbësorëve për arsye të bllokadës në trafi',
                     'image' => 'questions/wAxwpIf67fQde0ZNelw7lQahSbXC2IeNpm3ZoZgn.png',
-                    'created_at' => '2026-03-18 09:37:17',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:37:17',
+                    'updated_at' => '2026-03-18 10:37:17',
                 ),
                 304 => 
                 array (
@@ -3105,8 +3105,8 @@ këmbësorëve për arsye të bllokadës në trafi',
                     'question_text' => 'Rruga ka dy shirita të trafikut në një kah të lëvizjës,
 lejohet tejkalimi në këtë situatë.',
                     'image' => 'questions/CYDB9gdmNWSaZJXDqYp4GfO3Tl94NagMHVCGbdEG.png',
-                    'created_at' => '2026-03-18 09:38:09',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:38:09',
+                    'updated_at' => '2026-03-18 10:38:09',
                 ),
                 305 => 
                 array (
@@ -3116,8 +3116,8 @@ lejohet tejkalimi në këtë situatë.',
                     'question_text' => 'Distanca e sigurisë ndërmjet automjeteve gjatë
 ngasjes jashtë vendbanimit duhet të jetë së paku 2 sekonda.',
                     'image' => 'questions/YrFx7zzFAu2W7sSyC5QvUriONRIPVkbgeALWBM5b.png',
-                    'created_at' => '2026-03-18 09:55:24',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:55:24',
+                    'updated_at' => '2026-03-18 10:55:24',
                 ),
                 306 => 
                 array (
@@ -3126,8 +3126,8 @@ ngasjes jashtë vendbanimit duhet të jetë së paku 2 sekonda.',
                     'question_number' => 3006,
                     'question_text' => 'Në këtë situatë nga shenja fillon rruga ku trafiku zhvillohet në dy kah.',
                     'image' => 'questions/ZcgnlphSfQNoCWDrFAGLIv6qHIzMvQSwRy3o720C.png',
-                    'created_at' => '2026-03-18 09:56:35',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:56:35',
+                    'updated_at' => '2026-03-18 10:56:35',
                 ),
                 307 => 
                 array (
@@ -3137,8 +3137,8 @@ ngasjes jashtë vendbanimit duhet të jetë së paku 2 sekonda.',
                     'question_text' => 'Në këtë situatë zgjatet koha e reagimit dhe mund të
 mos vërehet rreziku në trafik.',
                     'image' => 'questions/lfkfKhvjT4qjEIt56xLxRKGrCilEXn1Acz93PqB5.png',
-                    'created_at' => '2026-03-18 09:57:32',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:57:32',
+                    'updated_at' => '2026-03-18 10:57:32',
                 ),
                 308 => 
                 array (
@@ -3147,8 +3147,8 @@ mos vërehet rreziku në trafik.',
                     'question_number' => 3008,
                     'question_text' => 'Kthimi gjysëmrrethor lejohet në këtë situatë.',
                     'image' => 'questions/XmFRpYXrav7M4PIgY9LiwpDYXQdhQa9xpiPlNORW.png',
-                    'created_at' => '2026-03-18 09:58:24',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:58:24',
+                    'updated_at' => '2026-03-18 10:58:24',
                 ),
                 309 => 
                 array (
@@ -3158,8 +3158,8 @@ mos vërehet rreziku në trafik.',
                     'question_text' => 'Tufat e dritave të gjata e ndriqojnë rrugën në gjatësi
 së paku 40-80 m.',
                     'image' => 'questions/PtIt0ok9hdL6FC9SzDNPYKkeMObcmzW8D0xa8Wct.png',
-                    'created_at' => '2026-03-18 09:59:09',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:59:09',
+                    'updated_at' => '2026-03-18 10:59:09',
                 ),
                 310 => 
                 array (
@@ -3169,8 +3169,8 @@ së paku 40-80 m.',
                     'question_text' => 'Gjatë ndezjes së cigarës mund të vijë deri te situatat e
 rrezikshme në trafik dhe zgjatet koha e reagimit.',
                     'image' => 'questions/hngBXf9sKuib6E1kbLPD1FxQSBDdv4vKwIQXw8ff.png',
-                    'created_at' => '2026-03-18 09:59:49',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 10:59:49',
+                    'updated_at' => '2026-03-18 10:59:49',
                 ),
                 311 => 
                 array (
@@ -3180,8 +3180,8 @@ rrezikshme në trafik dhe zgjatet koha e reagimit.',
                     'question_text' => 'Këmbësori lëviz drejt jashtë vendbanimit, në anën e
 djathtë të rrugës në kah të lëvizjes.',
                     'image' => 'questions/LseVBC7sL7fcNAyWAzSbi259wdYjnHpF2N76FZub.png',
-                    'created_at' => '2026-03-18 10:00:28',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:00:28',
+                    'updated_at' => '2026-03-19 21:44:40',
                 ),
                 312 => 
                 array (
@@ -3190,8 +3190,8 @@ djathtë të rrugës në kah të lëvizjes.',
                     'question_number' => 3012,
                     'question_text' => 'Nuk lejohet ndalja dhe parkimi në këtë situatë.',
                     'image' => 'questions/m5b12KUk7oygwMvBOso7MhcPyYOFE5tqXdZomlOP.png',
-                    'created_at' => '2026-03-18 10:01:41',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:01:41',
+                    'updated_at' => '2026-03-18 11:01:41',
                 ),
                 313 => 
                 array (
@@ -3201,8 +3201,8 @@ djathtë të rrugës në kah të lëvizjes.',
                     'question_text' => 'Para se të hyni nga rruga e dheut në rrugën me asfalt
 duhet ta largoni baltën nga rrotat.',
                     'image' => 'questions/R1a6kqPUy13NGzLJBEIb5x9LPK7KCuXbDRPsogHz.png',
-                    'created_at' => '2026-03-18 10:02:23',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:02:23',
+                    'updated_at' => '2026-03-18 11:02:23',
                 ),
                 314 => 
                 array (
@@ -3212,8 +3212,8 @@ duhet ta largoni baltën nga rrotat.',
                     'question_text' => 'Këmbësori është duke lëvizur drejt jashtë vendbanimit,
 në anën e majtë të rrugës në kah të lëvizjes.',
                     'image' => 'questions/C1m8V5zx6jBBPglSUXuKaOzQ7SJgfN1hPaojkJhv.png',
-                    'created_at' => '2026-03-18 10:03:10',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:03:10',
+                    'updated_at' => '2026-03-18 11:03:10',
                 ),
                 315 => 
                 array (
@@ -3222,8 +3222,8 @@ në anën e majtë të rrugës në kah të lëvizjes.',
                     'question_number' => 3015,
                     'question_text' => 'Shenja e trafikut tregon drejtimin e obliguar për Kosovë.',
                     'image' => 'questions/iJF4Tsl17KEeEysx7cSkAMwXGHUjTOfAbYuCVt4t.png',
-                    'created_at' => '2026-03-18 10:03:50',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:03:50',
+                    'updated_at' => '2026-03-18 11:03:50',
                 ),
                 316 => 
                 array (
@@ -3233,8 +3233,8 @@ në anën e majtë të rrugës në kah të lëvizjes.',
                     'question_text' => 'Rruga prej momentit të shtypjes së pedaljes se frenimit
 e deri te ndalja e plotë e automjetit quhet rruga e ndaljes.',
                     'image' => 'questions/sz2HcuJxe91LOkZt3MmTqD8WF3H8VxNiJJ3E4j8w.png',
-                    'created_at' => '2026-03-18 10:04:23',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:04:23',
+                    'updated_at' => '2026-03-18 11:04:23',
                 ),
                 317 => 
                 array (
@@ -3244,8 +3244,8 @@ e deri te ndalja e plotë e automjetit quhet rruga e ndaljes.',
                     'question_text' => 'Në këtë situatë, shoferi do t’i mundësoj kalimin e
 rrugës këmbësorit edhe pse lëvizë në mënyrë jo të drejtë.',
                     'image' => 'questions/UtQMAhMVJfd0vRJ6gOKS0LX4tjL1QhsMyDw2Uyft.png',
-                    'created_at' => '2026-03-18 10:05:01',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:05:01',
+                    'updated_at' => '2026-03-18 11:05:01',
                 ),
                 318 => 
                 array (
@@ -3255,8 +3255,8 @@ rrugës këmbësorit edhe pse lëvizë në mënyrë jo të drejtë.',
                     'question_text' => 'Në këtë situatë më lejohet ndërrimi i shiritit për kthim
 majtas nëse nuk ka automjete nga prapa.',
                     'image' => 'questions/gKxZdHXU76qXNLl7vvUH6HgL1Nmr0U6iXK0FYQdW.png',
-                    'created_at' => '2026-03-18 10:05:48',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:05:48',
+                    'updated_at' => '2026-03-18 11:05:48',
                 ),
                 319 => 
                 array (
@@ -3266,8 +3266,8 @@ majtas nëse nuk ka automjete nga prapa.',
                     'question_text' => 'Lejohet tejkalimi i traktorit në këtë situatë edhe pse
 është vija e plotë gjatësore në rrugë.',
                     'image' => 'questions/6b7nIxTK15y1r3zapQIWgZks5zwIAonWuyHVJTqY.png',
-                    'created_at' => '2026-03-18 10:06:35',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:06:35',
+                    'updated_at' => '2026-03-18 11:06:47',
                 ),
                 320 => 
                 array (
@@ -3277,8 +3277,8 @@ majtas nëse nuk ka automjete nga prapa.',
                     'question_text' => 'Këmbësori mund ta kaloj rrugën jashtë vendbanimit,
 nëse vendkalimi i tyre është më larg se 100 metra.',
                     'image' => 'questions/hRWMVbmq8Bs7jsXU55PqIRaI4s4PipkVBcqrjtPm.png',
-                    'created_at' => '2026-03-18 10:07:28',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 11:07:28',
+                    'updated_at' => '2026-03-18 11:07:28',
                 ),
                 321 => 
                 array (
@@ -3288,8 +3288,8 @@ nëse vendkalimi i tyre është më larg se 100 metra.',
                     'question_text' => 'Në këtë situatë, do të ndali veturën dhe do të
 vëzhgoi sjelljet (veprimet) e fëmiut me biçikletë.',
                         'image' => 'questions/FB5J4ziGTKoIXSnjLwgIDb8dsE0hrPTC8FvUUv5h.png',
-                        'created_at' => '2026-03-18 10:14:12',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 11:14:12',
+                        'updated_at' => '2026-03-18 11:14:12',
                     ),
                     322 => 
                     array (
@@ -3299,8 +3299,8 @@ vëzhgoi sjelljet (veprimet) e fëmiut me biçikletë.',
                         'question_text' => 'Këmbësorët mund të kalojnë gjithmonë rrugën brenda
 vendbanimit ku nuk ka vendkalim të këmbësorëve.',
                         'image' => 'questions/SeQkFhRQE6QKB4pCbFryQaz2YExRnOBRuFriedN5.png',
-                        'created_at' => '2026-03-18 10:14:49',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 11:14:49',
+                        'updated_at' => '2026-03-18 11:14:49',
                     ),
                     323 => 
                     array (
@@ -3310,8 +3310,8 @@ vendbanimit ku nuk ka vendkalim të këmbësorëve.',
                         'question_text' => 'Personat e moshuar konsiderohen si pjesmarrës të
 rrezikuar në trafik sepse lëvizja e tyre janë të ngadalshme.',
                         'image' => 'questions/sYUa0CzeqYBwYKgmquySTRWsWNbz9SQlbeA5h461.png',
-                        'created_at' => '2026-03-18 10:15:34',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 11:15:34',
+                        'updated_at' => '2026-03-18 11:15:34',
                     ),
                     324 => 
                     array (
@@ -3321,8 +3321,8 @@ rrezikuar në trafik sepse lëvizja e tyre janë të ngadalshme.',
                         'question_text' => 'Automjeti i cili drejtohet nga personi me aftësi të
 kufizuar duhet të shënohet me shenjë përkatëse.',
                         'image' => 'questions/DwzL3QIOv9fo1UhuiqCEGsXcA5pVlqFIH5S8MnBQ.png',
-                        'created_at' => '2026-03-18 10:17:05',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 11:17:05',
+                        'updated_at' => '2026-03-18 11:17:05',
                     ),
                     325 => 
                     array (
@@ -3332,8 +3332,8 @@ kufizuar duhet të shënohet me shenjë përkatëse.',
                         'question_text' => 'Brenda dhe jashtë vendbanimit ndalohet ndalja dhe
 parkimi i mjeteve në vendndalje të autobusëve.',
                         'image' => 'questions/iSMghbeMLvHhgsSW6gl7sMEi3YjFjrgotLge7WMO.png',
-                        'created_at' => '2026-03-18 12:21:51',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:21:51',
+                        'updated_at' => '2026-03-18 13:21:51',
                     ),
                     326 => 
                     array (
@@ -3342,8 +3342,8 @@ parkimi i mjeteve në vendndalje të autobusëve.',
                         'question_number' => 3026,
                         'question_text' => 'Ndalohet ndalja dhe parkimi në këtë situatë.',
                         'image' => 'questions/0D5JWNRBVJ4zVCZhAf93oKXnuAnEbgI8QOzhfHHG.png',
-                        'created_at' => '2026-03-18 12:23:32',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:23:32',
+                        'updated_at' => '2026-03-18 13:23:32',
                     ),
                     327 => 
                     array (
@@ -3353,8 +3353,8 @@ parkimi i mjeteve në vendndalje të autobusëve.',
                         'question_text' => 'Lejohet kthimi gjysëmrrethor në tunel, nëse vija
 gjatësore është e ndërprerë.',
                         'image' => 'questions/lvee2DryX0kc6JdqUd0jFzyoBojF9wjzIvVEbP8x.png',
-                        'created_at' => '2026-03-18 12:24:16',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:24:16',
+                        'updated_at' => '2026-03-18 13:24:16',
                     ),
                     328 => 
                     array (
@@ -3364,8 +3364,8 @@ gjatësore është e ndërprerë.',
                         'question_text' => 'Do t’ja mundësoj kalimin e rrugës personit të verbër (i cili
 mban shkopin e bardhë) jashtë vendkalimit për këmbësorë.',
                         'image' => 'questions/117UaCK4u7gW3uNF8SQyAGo2l2l0L1cslCHhxlWX.png',
-                        'created_at' => '2026-03-18 12:25:13',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:25:13',
+                        'updated_at' => '2026-03-18 13:25:13',
                     ),
                     329 => 
                     array (
@@ -3375,8 +3375,8 @@ mban shkopin e bardhë) jashtë vendkalimit për këmbësorë.',
                         'question_text' => ' Kolona e organizuar e këmbësorve është duke lëvizur
 jo drejtë në kahun e djathtë të lëvizjës.',
                         'image' => 'questions/Vr3V5T6GEluzK4qw7LRH2eoIw4UBBpuwy4R7ZZso.png',
-                        'created_at' => '2026-03-18 12:26:07',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:26:07',
+                        'updated_at' => '2026-03-18 13:26:07',
                     ),
                     330 => 
                     array (
@@ -3386,8 +3386,8 @@ jo drejtë në kahun e djathtë të lëvizjës.',
                         'question_text' => 'Lejohet tejkalimi në këtë situatë, nëse kamioni lëvizë
 shumë ngadalë.',
                         'image' => 'questions/EcvRfCP7HTgUmKP6aqnPfvvc0VGk3bTpPVqGSDHe.png',
-                        'created_at' => '2026-03-18 12:26:46',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:26:46',
+                        'updated_at' => '2026-03-18 13:26:46',
                     ),
                     331 => 
                     array (
@@ -3398,8 +3398,8 @@ shumë ngadalë.',
 gjatë hapjes së derës së veturës (mos shikimi pasqyre dhe
 këndin e vdekur).',
                         'image' => 'questions/nxIy6ZTTCDAtXdYyy79qgDRIJuSV945SCvdio65z.png',
-                        'created_at' => '2026-03-18 12:27:20',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:27:20',
+                        'updated_at' => '2026-03-18 13:27:20',
                     ),
                     332 => 
                     array (
@@ -3409,8 +3409,8 @@ këndin e vdekur).',
                         'question_text' => 'Në pjerrtësi gjatësore jeni takuar me traktorin. Për ta
 mundësuar përballkalimin ju duhet të lëvizini prapa.',
                         'image' => 'questions/o75yZ7tmEY85DLbeY1Estm9WTlHXatxGdQnceSyB.png',
-                        'created_at' => '2026-03-18 12:28:12',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:28:12',
+                        'updated_at' => '2026-03-18 13:28:12',
                     ),
                     333 => 
                     array (
@@ -3420,8 +3420,8 @@ mundësuar përballkalimin ju duhet të lëvizini prapa.',
                         'question_text' => 'Lejohet parkimi i veturës nëse i ka të ndezur të gjitha
 treguesit të drejtimit.',
                         'image' => 'questions/U12wIBF7qoPLJomABiflv9URQFLYtYZ3OniQH63i.png',
-                        'created_at' => '2026-03-18 12:29:18',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:29:18',
+                        'updated_at' => '2026-03-18 13:29:18',
                     ),
                     334 => 
                     array (
@@ -3430,8 +3430,8 @@ treguesit të drejtimit.',
                         'question_number' => 3034,
                         'question_text' => 'Lejohet tejkalimi i dy mjeteve njëkohësisht.',
                         'image' => 'questions/zGfdC5UWR7Hb4yb4eAuwePKOer0qTF6fOEwYqc5q.png',
-                        'created_at' => '2026-03-18 12:29:48',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:29:48',
+                        'updated_at' => '2026-03-18 13:29:48',
                     ),
                     335 => 
                     array (
@@ -3441,8 +3441,8 @@ treguesit të drejtimit.',
                         'question_text' => ' Lejohet tejkalimi i tramvajit nga ana e djathtë dhe e majtë
 në këtë situatë.',
                         'image' => 'questions/JqCRlJ26hxKQy8YOkUuLBDcvAcLQyDOrHwtzMLp3.png',
-                        'created_at' => '2026-03-18 12:30:27',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:30:27',
+                        'updated_at' => '2026-03-18 13:31:57',
                     ),
                     336 => 
                     array (
@@ -3452,8 +3452,8 @@ në këtë situatë.',
                         'question_text' => 'Shenja e trafikut me tabelë plotësues ndalon trafikun
 në dy kahje të lëvizjës prej 20-24h.',
                         'image' => 'questions/jBfJCPocWFggIOFfyXRxkgV8VOyvR1LpH4n8fqqd.png',
-                        'created_at' => '2026-03-18 12:31:25',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:31:25',
+                        'updated_at' => '2026-03-18 13:31:25',
                     ),
                     337 => 
                     array (
@@ -3463,8 +3463,8 @@ në dy kahje të lëvizjës prej 20-24h.',
                         'question_text' => ' Në këtë situatë, lejohet tejkalimi nga dy anët pasi vija
 gjatësore është e ndërprerë.',
                         'image' => 'questions/jcQee74tFl0YDIUdF48HBMNeMKdAUD69FyBrkxGJ.png',
-                        'created_at' => '2026-03-18 12:32:51',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:32:51',
+                        'updated_at' => '2026-03-18 13:32:51',
                     ),
                     338 => 
                     array (
@@ -3474,8 +3474,8 @@ gjatësore është e ndërprerë.',
                         'question_text' => 'Shenja e trafikut tregon ngushtimin e
 pjesës së rrugës në kënd të drejtë nga dy anët.',
                         'image' => 'questions/rpbWhEbiywO4addApW2zM8woetOI7OApytX7HPzs.png',
-                        'created_at' => '2026-03-18 12:33:49',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:33:49',
+                        'updated_at' => '2026-03-18 13:33:49',
                     ),
                     339 => 
                     array (
@@ -3485,8 +3485,8 @@ pjesës së rrugës në kënd të drejtë nga dy anët.',
                         'question_text' => 'Në distancë më të vogël se 5 metra para vendkalimit
 për këmbësorë ndalohet ndalja dhe parkimi i mjetit.',
                         'image' => 'questions/5FzuimhoxZf099KvqDkQjd9lppfNpSO4IqXX7QOv.png',
-                        'created_at' => '2026-03-18 12:34:29',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:34:29',
+                        'updated_at' => '2026-03-18 13:34:29',
                     ),
                     340 => 
                     array (
@@ -3497,8 +3497,8 @@ për këmbësorë ndalohet ndalja dhe parkimi i mjetit.',
 gjatësore të ndërprerë sipas rregullave (shikimi pasqyre,
 këndi i vdekur dhe sinjalizimi).',
                         'image' => 'questions/t1LTT67Td0wJ9QyC8aW1kW7vBANKBvpAna88D1X2.png',
-                        'created_at' => '2026-03-18 12:35:07',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:35:07',
+                        'updated_at' => '2026-03-18 13:35:07',
                     ),
                     341 => 
                     array (
@@ -3507,8 +3507,8 @@ këndi i vdekur dhe sinjalizimi).',
                         'question_number' => 3041,
                         'question_text' => 'Në këtë situatë lejohet parkimi i mjetit deri 15 minuta.',
                         'image' => 'questions/DdmJW3vKBPTK90ldDlosVcv5KDFUJZL6F1aqc1TF.png',
-                        'created_at' => '2026-03-18 12:35:59',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:35:59',
+                        'updated_at' => '2026-03-18 13:35:59',
                     ),
                     342 => 
                     array (
@@ -3519,8 +3519,8 @@ këndi i vdekur dhe sinjalizimi).',
 malit (kurriz rruge) mund të hasi në ndonjë mjet duke lëvizur
 në shiritin tim.',
                         'image' => 'questions/oAHdwF30V1GhZYvf92bzifBMhfGP6Y0N4EZTJnm6.png',
-                        'created_at' => '2026-03-18 12:37:17',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:37:17',
+                        'updated_at' => '2026-03-18 13:37:17',
                     ),
                     343 => 
                     array (
@@ -3529,8 +3529,8 @@ në shiritin tim.',
                         'question_number' => 3043,
                         'question_text' => 'Në këtë situatë lejohet tejkalimi i motokultivatorit.',
                         'image' => 'questions/Noc6MZKwL2tiUTbIsJev9Z9Y5nANSdClZctI5rZb.png',
-                        'created_at' => '2026-03-18 12:38:00',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 13:38:00',
+                        'updated_at' => '2026-03-18 13:38:00',
                     ),
                     344 => 
                     array (
@@ -3540,8 +3540,8 @@ në shiritin tim.',
                         'question_text' => 'Nëse mjeti parkohet në përpjetëze, rrotat e para të
 veturës kthehen kah mesi i rrugës (majtas).',
                             'image' => 'questions/jnFQhDRT0aCS1vMieAnyZMCAKZfkjqd6YRa5Cylq.png',
-                            'created_at' => '2026-03-18 12:38:27',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:38:27',
+                            'updated_at' => '2026-03-18 13:38:27',
                         ),
                         345 => 
                         array (
@@ -3550,8 +3550,8 @@ veturës kthehen kah mesi i rrugës (majtas).',
                             'question_number' => 3045,
                             'question_text' => 'Nuk lejohet tejkalimi në këtë situatë.',
                             'image' => 'questions/RUcpin2W0gYg0qScBqHVqZezTCaALzmloASpEUHh.png',
-                            'created_at' => '2026-03-18 12:39:34',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:39:34',
+                            'updated_at' => '2026-03-18 13:39:34',
                         ),
                         346 => 
                         array (
@@ -3560,8 +3560,8 @@ veturës kthehen kah mesi i rrugës (majtas).',
                             'question_number' => 3046,
                             'question_text' => 'Lejohet anashkalimi, vetëm nga ana e djathtë.',
                             'image' => 'questions/i7PPCR8MoHCn3FhzHi6k7v6RFoL5xpk5lAbihZPs.png',
-                            'created_at' => '2026-03-18 12:40:10',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:40:10',
+                            'updated_at' => '2026-03-18 13:40:10',
                         ),
                         347 => 
                         array (
@@ -3571,8 +3571,8 @@ veturës kthehen kah mesi i rrugës (majtas).',
                             'question_text' => 'Shpejtësia e lejuar gjatë tërheqjes së veturës në
 defekt është 60km/h.',
                             'image' => 'questions/dO1tNXrvTWjXihNCjKppEDQUI22VaiBoqhIqKoxL.png',
-                            'created_at' => '2026-03-18 12:40:45',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:40:45',
+                            'updated_at' => '2026-03-18 13:40:45',
                         ),
                         348 => 
                         array (
@@ -3582,8 +3582,8 @@ defekt është 60km/h.',
                             'question_text' => 'Rruga prej momentit të vërejtjes së rrezikut deri te
 shtypja e pedaljes se frenimit quhet rruga e reagimit.',
                             'image' => 'questions/3qAgpWwjXwvNfFm32wwZZJ57XaOrc2Yjq7vkAcFU.png',
-                            'created_at' => '2026-03-18 12:41:25',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:41:25',
+                            'updated_at' => '2026-03-18 13:41:25',
                         ),
                         349 => 
                         array (
@@ -3593,8 +3593,8 @@ shtypja e pedaljes se frenimit quhet rruga e reagimit.',
                             'question_text' => 'Vendkalimi hekurudhor është i rregulluar me
 shenja ndriçuese dhe duhet të ndalem.',
                             'image' => 'questions/xdi1qX1T0h1PmwzqF67fINxlhz7USqAl4dVfMX63.png',
-                            'created_at' => '2026-03-18 12:42:19',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:42:19',
+                            'updated_at' => '2026-03-18 13:42:19',
                         ),
                         350 => 
                         array (
@@ -3603,8 +3603,8 @@ shenja ndriçuese dhe duhet të ndalem.',
                             'question_number' => 3050,
                             'question_text' => 'Nuk lejohet tejkalimi në këtë situatë.',
                             'image' => 'questions/HzYapiLounRdBOt7u7OdYb3ptmyfIVcCt2GExfgR.png',
-                            'created_at' => '2026-03-18 12:42:51',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:42:51',
+                            'updated_at' => '2026-03-18 13:42:51',
                         ),
                         351 => 
                         array (
@@ -3614,8 +3614,8 @@ shenja ndriçuese dhe duhet të ndalem.',
                             'question_text' => 'Lejohet ndalje ose parkimi i automjetit në fushën për
 orjentimin e trafikut rrugor.',
                             'image' => 'questions/bSLNNLiUdsjr3Y19UZifqaUzH0JC0fHyYdXCHjKO.png',
-                            'created_at' => '2026-03-18 12:47:37',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:47:37',
+                            'updated_at' => '2026-03-18 13:47:37',
                         ),
                         352 => 
                         array (
@@ -3625,8 +3625,8 @@ orjentimin e trafikut rrugor.',
                             'question_text' => 'Gjatë ngasjes do të kujdesem se mund të hasi në
 kolonën e ndaluar në rrugë.',
                             'image' => 'questions/b5aPuz67Bvs8vRtxqHUXtgbJR56pgclWQG0s8239.png',
-                            'created_at' => '2026-03-18 12:48:15',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:48:15',
+                            'updated_at' => '2026-03-18 13:48:15',
                         ),
                         353 => 
                         array (
@@ -3636,8 +3636,8 @@ kolonën e ndaluar në rrugë.',
                             'question_text' => 'Nëse nuk pengohet trafiku, shoferit të veturës i
 lejohet rritja e shpejtësisë deri sa jeni duke e tejkaluar.',
                             'image' => 'questions/d09U639kccNxIsYW6bUK9crE0lSfW4JyfTcfXVvH.png',
-                            'created_at' => '2026-03-18 12:48:50',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:48:50',
+                            'updated_at' => '2026-03-18 13:48:50',
                         ),
                         354 => 
                         array (
@@ -3647,8 +3647,8 @@ lejohet rritja e shpejtësisë deri sa jeni duke e tejkaluar.',
                             'question_text' => 'Në këtë situatë do të rris distancën anësore të
 sigurisë, pasi që këmbësori mund ta kaloj rrugën.',
                             'image' => 'questions/6fRAG2M6c7DVO2zbwiS2EvwrY4GhvZWdSO5iihgQ.png',
-                            'created_at' => '2026-03-18 12:49:30',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:49:30',
+                            'updated_at' => '2026-03-18 13:49:30',
                         ),
                         355 => 
                         array (
@@ -3658,8 +3658,8 @@ sigurisë, pasi që këmbësori mund ta kaloj rrugën.',
                             'question_text' => 'Ngarkesa në veturë mund të kalojë pjesën e përparme
 deri 1.5m.',
                             'image' => 'questions/h4GpcQ19B3ZCvP8A21Jn4MSsQBIYxTzMVOLRjIZw.png',
-                            'created_at' => '2026-03-18 12:50:07',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:50:07',
+                            'updated_at' => '2026-03-18 13:50:07',
                         ),
                         356 => 
                         array (
@@ -3668,8 +3668,8 @@ deri 1.5m.',
                             'question_number' => 3056,
                             'question_text' => 'Në këtë situatë nuk lejohet lëvizja drejtë.',
                             'image' => 'questions/HJ7IgfeC0ghpmji8D6oIGCvfOp4nfcuZTydvk71R.png',
-                            'created_at' => '2026-03-18 12:50:41',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:50:41',
+                            'updated_at' => '2026-03-18 13:50:41',
                         ),
                         357 => 
                         array (
@@ -3678,8 +3678,8 @@ deri 1.5m.',
                             'question_number' => 3057,
                             'question_text' => 'Lejohet tejkalimi në këtë situatë.',
                             'image' => 'questions/jx19tyiOxKTkmR9FZyUwEOAWBgpi8W07JUT6yi5e.png',
-                            'created_at' => '2026-03-18 12:51:19',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:51:19',
+                            'updated_at' => '2026-03-18 13:51:19',
                         ),
                         358 => 
                         array (
@@ -3689,8 +3689,8 @@ deri 1.5m.',
                             'question_text' => 'Rripi i sigurisë përdoret gjatë ngasjes vetëm brenda
 vendbanimit.',
                             'image' => 'questions/ATdrYicrxYijekPRt22MWY069wQVCu0pvl5xK11Z.png',
-                            'created_at' => '2026-03-18 12:52:28',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:52:28',
+                            'updated_at' => '2026-03-18 13:53:18',
                         ),
                         359 => 
                         array (
@@ -3700,8 +3700,8 @@ vendbanimit.',
                             'question_text' => 'Për dalje nga autostrada duhet ta shfrytëzoni shiritin
 për ngadalësim dhe te sinjalizoni me tregues të drejtimit.',
                             'image' => 'questions/hbKV6l6MUsAvgg3dqGVWcyeDWpWhvVDeExE0jf9Z.png',
-                            'created_at' => '2026-03-18 12:54:00',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:54:00',
+                            'updated_at' => '2026-03-18 13:54:00',
                         ),
                         360 => 
                         array (
@@ -3710,8 +3710,8 @@ për ngadalësim dhe te sinjalizoni me tregues të drejtimit.',
                             'question_number' => 3060,
                             'question_text' => 'Lejohet tejkalimi në këtë situatë.',
                             'image' => 'questions/K8ADuNS2zKgTdu8QXrKgaCuazLCxn3kNf5JX5nye.png',
-                            'created_at' => '2026-03-18 12:54:40',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:54:40',
+                            'updated_at' => '2026-03-18 13:54:40',
                         ),
                         361 => 
                         array (
@@ -3721,8 +3721,8 @@ për ngadalësim dhe te sinjalizoni me tregues të drejtimit.',
                             'question_text' => 'Nga vendi i vendosjes së shenjave nuk lejohet lëvizja
 me shpejtësi më të madhe se 50 km/h.',
                             'image' => 'questions/mzQV60FF4Zm1VjbwGovehxTzoc6wmaTAUS6Iqzu0.png',
-                            'created_at' => '2026-03-18 12:55:14',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:55:14',
+                            'updated_at' => '2026-03-18 13:55:14',
                         ),
                         362 => 
                         array (
@@ -3732,8 +3732,8 @@ me shpejtësi më të madhe se 50 km/h.',
                             'question_text' => 'Ngasja në rrugë të drejtë e gjatë, shoferin e nxit për
 shpejtësi të madhe.',
                             'image' => 'questions/1KkVvRGG9rEr8KMH0ej6S3kjx83Owd3rPo6VcuZI.png',
-                            'created_at' => '2026-03-18 12:55:42',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:55:42',
+                            'updated_at' => '2026-03-18 13:55:42',
                         ),
                         363 => 
                         array (
@@ -3743,8 +3743,8 @@ shpejtësi të madhe.',
                             'question_text' => 'Në këtë pjesë të rrugës nuk më lejohet të lëvizi me
 shpejtësi më të vogël se 20 km/h.',
                             'image' => 'questions/WVmqj5tdlJOWwL0ICzEO3L7UckB39DiYQ94QWwqd.png',
-                            'created_at' => '2026-03-18 12:56:24',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:56:24',
+                            'updated_at' => '2026-03-18 13:56:24',
                         ),
                         364 => 
                         array (
@@ -3753,8 +3753,8 @@ shpejtësi më të vogël se 20 km/h.',
                             'question_number' => 3064,
                             'question_text' => 'Në këtë situatë nuk lejohet tejkalimi i qerres.',
                             'image' => 'questions/RwgJMFHIf1VUtzDHb9ZZhKqSPnfj4eWKg8kFOwEm.png',
-                            'created_at' => '2026-03-18 12:56:57',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:56:57',
+                            'updated_at' => '2026-03-18 13:56:57',
                         ),
                         365 => 
                         array (
@@ -3765,8 +3765,8 @@ shpejtësi më të vogël se 20 km/h.',
 nëjejt duhet të veproni edhe ju, duke ndezur dritat e gjata
 që rruga të shihet më mirë.',
                             'image' => 'questions/NzpQ9Igsd3o8IEYNxgyqPsk41VD2cvcSOz77UceD.png',
-                            'created_at' => '2026-03-18 12:57:31',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:57:31',
+                            'updated_at' => '2026-03-18 13:57:31',
                         ),
                         366 => 
                         array (
@@ -3776,8 +3776,8 @@ që rruga të shihet më mirë.',
                             'question_text' => 'Ngasja në rrugë të gjatë e të drejtë nuk është asnjëher
 e rrezikshme, pasi që fushëpamja e rrugës është e mirë.',
                             'image' => 'questions/bm8KW6KgwoMtLwyi3xx18TC3Qvhx4tcSSa06oyWM.png',
-                            'created_at' => '2026-03-18 12:58:03',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:58:03',
+                            'updated_at' => '2026-03-18 13:58:03',
                         ),
                         367 => 
                         array (
@@ -3787,8 +3787,8 @@ e rrezikshme, pasi që fushëpamja e rrugës është e mirë.',
                             'question_text' => 'Shoferi është i obliguar ta ndal veturën dhe t’i largojë
 nga rruga sendet, të cilat i hasë në rrugë.',
                             'image' => 'questions/fxW8KMq3eIBd84E98kSrKdo99ZwQE3pX4Hl3ruUt.png',
-                            'created_at' => '2026-03-18 12:58:40',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:58:40',
+                            'updated_at' => '2026-03-18 13:58:40',
                         ),
                         368 => 
                         array (
@@ -3799,8 +3799,8 @@ nga rruga sendet, të cilat i hasë në rrugë.',
 vazhdoni lëvizjen me shpejtësi të njëjet, për shkak
 punimeve në rrugë.',
                             'image' => 'questions/IbjXjr1zFBoWI3OzFytttzkM3cB38tRxdbl9yENS.png',
-                            'created_at' => '2026-03-18 12:59:12',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:59:12',
+                            'updated_at' => '2026-03-18 13:59:12',
                         ),
                         369 => 
                         array (
@@ -3810,8 +3810,8 @@ punimeve në rrugë.',
                             'question_text' => 'Gjatë ngasjes në këtë situatë në rast frenimit rritet koha
 e reagimit',
                             'image' => 'questions/y9HXsnvsrnzCH9Tua4Qx1ZTSzPXLBNxgUV5RCNbw.png',
-                            'created_at' => '2026-03-18 12:59:47',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 13:59:47',
+                            'updated_at' => '2026-03-18 13:59:47',
                         ),
                         370 => 
                         array (
@@ -3822,8 +3822,8 @@ e reagimit',
 ka persona të lënduar, nuk duhet t’i bartë të lënduarit deri
 te instucionin shëndetësor, këtë e bënë ndihma e shpejtë.',
                             'image' => 'questions/mk0X9iQ4AjrUiKaBSZaGkuKK2sMT3hsJj6GRNQ8d.png',
-                            'created_at' => '2026-03-18 13:00:32',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 14:00:32',
+                            'updated_at' => '2026-03-18 14:00:32',
                         ),
                         371 => 
                         array (
@@ -3833,8 +3833,8 @@ te instucionin shëndetësor, këtë e bënë ndihma e shpejtë.',
                             'question_text' => 'Kufizimi i shpejtësisë deri 40 km/h, fillon nga vendi
 i vendosjes së shenjës dhe vlenë deri te kryqëzimi i parë.',
                             'image' => 'questions/zqmEpPYrRKUikYJDriCVkTgC6M8jsR8Uf8E1GbjC.png',
-                            'created_at' => '2026-03-18 13:01:08',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 14:01:08',
+                            'updated_at' => '2026-03-18 14:01:08',
                         ),
                         372 => 
                         array (
@@ -3844,8 +3844,8 @@ i vendosjes së shenjës dhe vlenë deri te kryqëzimi i parë.',
                             'question_text' => 'Lejohet tejkalimi i tramvajit nga ana e djathtë dhe e
 majtë në këtë situatë.',
                             'image' => 'questions/zKxMARz9TE58wXaGJzNmezXnnch5zWqoCkmLfPt9.png',
-                            'created_at' => '2026-03-18 13:01:44',
-                            'updated_at' => '2026-03-23 09:23:54',
+                            'created_at' => '2026-03-18 14:01:44',
+                            'updated_at' => '2026-03-18 14:01:44',
                         ),
                         373 => 
                         array (
@@ -3856,8 +3856,8 @@ majtë në këtë situatë.',
 intervenim, do të skajohem e sipas nevojës e zvogëloj
 shpejtësinë e lëvizjes.',
                         'image' => 'questions/wKH1muSTsBhySNlwo64KfKNiOsZE2SO2pVoiQzmw.png',
-                        'created_at' => '2026-03-18 13:02:19',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:02:19',
+                        'updated_at' => '2026-03-18 14:02:19',
                     ),
                     374 => 
                     array (
@@ -3867,8 +3867,8 @@ shpejtësinë e lëvizjes.',
                         'question_text' => 'Gjatë ngasjes në diell të fortë në këtë situatë, mund të
 mos vërehen situatat e rrezikshme në trafik.',
                         'image' => 'questions/hy4Ke2SVClz10CyDOYHEmNEMGBvDrJcpP8MKAQhs.png',
-                        'created_at' => '2026-03-18 13:02:49',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:02:49',
+                        'updated_at' => '2026-03-18 14:02:49',
                     ),
                     375 => 
                     array (
@@ -3878,8 +3878,8 @@ mos vërehen situatat e rrezikshme në trafik.',
                         'question_text' => 'Në këtë pjesë të rrugës duhet të lëvizni me kujdes të
 shtuar.',
                         'image' => 'questions/mGmtPSk7sHMUd6aRP8BcMF6oCsJT2OU0UWeQd9aQ.png',
-                        'created_at' => '2026-03-18 13:03:25',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:03:25',
+                        'updated_at' => '2026-03-18 14:03:25',
                     ),
                     376 => 
                     array (
@@ -3889,8 +3889,8 @@ shtuar.',
                         'question_text' => 'Ju lejohet vazhdimi i lëvizjes nëse nuk mundeni të
 ndaleni në mënyrë të sigurtë para kryqëzimit.',
                         'image' => 'questions/9Gfm4KsTVOqc9ISsdpvNSFzTwrqdTy1VPHsQkLiB.png',
-                        'created_at' => '2026-03-18 13:04:04',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:04:04',
+                        'updated_at' => '2026-03-18 14:04:04',
                     ),
                     377 => 
                     array (
@@ -3899,8 +3899,8 @@ ndaleni në mënyrë të sigurtë para kryqëzimit.',
                         'question_number' => 3077,
                         'question_text' => 'Lejohet tejkalimi në këtë situatë.',
                         'image' => 'questions/sbmFrWNHd8G8bmrbRaodLiQZAUZsto5hgqnYxPb5.png',
-                        'created_at' => '2026-03-18 13:05:35',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:05:35',
+                        'updated_at' => '2026-03-18 14:05:35',
                     ),
                     378 => 
                     array (
@@ -3910,8 +3910,8 @@ ndaleni në mënyrë të sigurtë para kryqëzimit.',
                         'question_text' => 'Fëmija deri 3 vjeç të bartet në veturë vetëm deri te
 çerdhja e fëmiëve.',
                         'image' => 'questions/0D7869GRZIUli93UTXHWsXTVNpEIe3BorISXAWdR.png',
-                        'created_at' => '2026-03-18 13:06:09',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:06:09',
+                        'updated_at' => '2026-03-18 14:06:09',
                     ),
                     379 => 
                     array (
@@ -3922,8 +3922,8 @@ ndaleni në mënyrë të sigurtë para kryqëzimit.',
 mjetet me dy rrota (biçikleta, mopeda, motoçikletat pa
 rimorikio anësore).',
                         'image' => 'questions/PikxGIlaXQudYqBg3rjCqd15MnJVVTJpkzl9YZkh.png',
-                        'created_at' => '2026-03-18 13:06:42',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:06:42',
+                        'updated_at' => '2026-03-18 14:06:42',
                     ),
                     380 => 
                     array (
@@ -3933,8 +3933,8 @@ rimorikio anësore).',
                         'question_text' => 'Në rrugën nacionale, nuk lejohet lëvizja mbrapa në
 asnjë rast.',
                         'image' => 'questions/FV75ddQEMjc03Y3tg5ZpvtZqwwHC0WmGm5IglMhp.png',
-                        'created_at' => '2026-03-18 13:07:25',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:07:25',
+                        'updated_at' => '2026-03-18 14:07:25',
                     ),
                     381 => 
                     array (
@@ -3943,8 +3943,8 @@ asnjë rast.',
                         'question_number' => 3081,
                         'question_text' => 'Lejohet tejkalimi i motoçikletës në këtë situatë.',
                         'image' => 'questions/YqjbjxH3QwcAYjwurEHb2BOhKXyt0AVthrE6IvV8.png',
-                        'created_at' => '2026-03-18 13:08:03',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:08:03',
+                        'updated_at' => '2026-03-18 14:08:03',
                     ),
                     382 => 
                     array (
@@ -3955,8 +3955,8 @@ asnjë rast.',
 shtëpisë, nuk duhet t’i lëshojë këmbësorët të cilët janë
 duke lëvizur nëpër trotuar.',
                         'image' => 'questions/DulcWtM0KH2F87XUA0y4UXI2t5OwZSSVRyveeCa2.png',
-                        'created_at' => '2026-03-18 13:08:44',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:08:44',
+                        'updated_at' => '2026-03-18 14:08:44',
                     ),
                     383 => 
                     array (
@@ -3966,8 +3966,8 @@ duke lëvizur nëpër trotuar.',
                         'question_text' => 'Obligohet shoferi para ngasjes të bëjë shikimin vizual
 për rreth veturës.',
                         'image' => 'questions/xfZ7eUZzM72De6nrqoFh2UzjLRVeEL4QDQpCXRO2.png',
-                        'created_at' => '2026-03-18 13:09:23',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:09:23',
+                        'updated_at' => '2026-03-18 14:09:23',
                     ),
                     384 => 
                     array (
@@ -3978,8 +3978,8 @@ për rreth veturës.',
 përparësi kalimi këmbësorit, pasi nuk ekziston vendkalimi
 i shënuar për këmbësorë.',
                         'image' => 'questions/atInuUdZuatSBRoa1IVDDNvwaGuwPAP5044o5Dfq.png',
-                        'created_at' => '2026-03-18 13:10:02',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:10:02',
+                        'updated_at' => '2026-03-18 14:10:02',
                     ),
                     385 => 
                     array (
@@ -3990,8 +3990,8 @@ i shënuar për këmbësorë.',
 rrezikun dhe mund të mos vërehen nga shoferët e
 automjeteve.',
                         'image' => 'questions/m50gmkeoDqSRnCIazxUPta5Rie0u3FBlTy9bmUDE.png',
-                        'created_at' => '2026-03-18 13:11:09',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:11:09',
+                        'updated_at' => '2026-03-18 14:11:09',
                     ),
                     386 => 
                     array (
@@ -4001,8 +4001,8 @@ automjeteve.',
                         'question_text' => 'Në këtë situatë kemi parasysh devijimit e drejtimit
 dhe jemi të obliguar të lëvizim vetëm djathtas.',
                         'image' => 'questions/tVTWHlFw1AP0foM3eXhnfdIqjgc9S6vy4H3Xb6rx.png',
-                        'created_at' => '2026-03-18 13:11:49',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:11:49',
+                        'updated_at' => '2026-03-18 14:11:49',
                     ),
                     387 => 
                     array (
@@ -4012,8 +4012,8 @@ dhe jemi të obliguar të lëvizim vetëm djathtas.',
                         'question_text' => 'Gjatë ngasjes nëpër rrugë me akull zvogëlohet rruga e
 frenimit.',
                         'image' => 'questions/SHmCPdRihvTO6Rl8bySBop5XqyDNY3gz84gkOkfP.png',
-                        'created_at' => '2026-03-18 13:12:47',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:12:47',
+                        'updated_at' => '2026-03-18 14:12:47',
                     ),
                     388 => 
                     array (
@@ -4024,8 +4024,8 @@ frenimit.',
 nga veturat e parkuar mund të del ndonjë këmbësorë në
 rrugë.',
                         'image' => 'questions/4lVcYMvJNOKWxrfgSi4N0m81OnC9ZudsFWoBWTAB.png',
-                        'created_at' => '2026-03-18 13:13:16',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:13:16',
+                        'updated_at' => '2026-03-18 14:13:16',
                     ),
                     389 => 
                     array (
@@ -4035,8 +4035,8 @@ rrugë.',
                         'question_text' => 'Nga vendi i vendosjes së shenjës së trafikut nuk lejohet
 tejkalim',
                         'image' => 'questions/uIbmWXt1Nmy2FsZUtndpbRGFhC4dWJpyoZFxUGeZ.png',
-                        'created_at' => '2026-03-18 13:13:50',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:13:50',
+                        'updated_at' => '2026-03-18 14:13:50',
                     ),
                     390 => 
                     array (
@@ -4046,8 +4046,8 @@ tejkalim',
                         'question_text' => 'Në këtë situatë, rreziku fillon nga vendi i vendosjes
 së shenjës.',
                         'image' => 'questions/q8eMN7dBXiP9BrQA1eWFerdaPnT4WS6cGT9KtXtC.png',
-                        'created_at' => '2026-03-18 13:14:23',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:14:23',
+                        'updated_at' => '2026-03-18 14:14:23',
                     ),
                     391 => 
                     array (
@@ -4056,8 +4056,8 @@ së shenjës.',
                         'question_number' => 3091,
                         'question_text' => 'Lejohet lëvizja mbrapa në tunel.',
                         'image' => 'questions/lhNYMWsjQDinCancwQNZO5AlEH6NQv61yYxCWMiX.png',
-                        'created_at' => '2026-03-18 13:15:21',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:15:21',
+                        'updated_at' => '2026-03-18 14:15:21',
                     ),
                     392 => 
                     array (
@@ -4067,8 +4067,8 @@ së shenjës.',
                         'question_text' => 'Nga vendi i vendosjes së shenjës së trafikut nuk
 lejohet tejkalimi.',
                         'image' => 'questions/EWrUU9UWKYiaY0c3fy5e4VQEnQkFhtMCbLY2U8Ij.png',
-                        'created_at' => '2026-03-18 13:15:45',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:15:45',
+                        'updated_at' => '2026-03-18 14:15:45',
                     ),
                     393 => 
                     array (
@@ -4077,8 +4077,8 @@ lejohet tejkalimi.',
                         'question_number' => 3093,
                         'question_text' => 'Lejohet kthimi gjysëm rrethor në këtë situatë.',
                         'image' => 'questions/bp6fCQxSsrQkiezCTyajFDVQDkWk1BOPOYSb1JAQ.png',
-                        'created_at' => '2026-03-18 13:16:16',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:16:16',
+                        'updated_at' => '2026-03-18 14:16:16',
                     ),
                     394 => 
                     array (
@@ -4089,8 +4089,8 @@ lejohet tejkalimi.',
 kalimin e rrugës përtej hekurudhës me dy a më shumë palë
 binar.',
                         'image' => 'questions/nnBGjatiZ6G0RrMDYMxkIpajoPg4sV2dPVN8ivwM.png',
-                        'created_at' => '2026-03-18 13:16:52',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:16:52',
+                        'updated_at' => '2026-03-18 14:16:52',
                     ),
                     395 => 
                     array (
@@ -4100,8 +4100,8 @@ binar.',
                         'question_text' => 'Në këtë situatë do të jam i kujdesshëm në
 distancën e sigurisë ndaj veturës së Auto Shkollës.',
                         'image' => 'questions/3Qi5XJMPkyGlFlKXZTtMMDFI80qhgEenUS2AL1nb.png',
-                        'created_at' => '2026-03-18 13:17:25',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:17:25',
+                        'updated_at' => '2026-03-18 14:17:25',
                     ),
                     396 => 
                     array (
@@ -4111,8 +4111,8 @@ distancën e sigurisë ndaj veturës së Auto Shkollës.',
                         'question_text' => 'Vetura e kyqe ka sinjalizuar për kthim majtas, ju duhet
 t’i jepni përparësi kalimi pasi vjen nga krahu i djatht',
                         'image' => 'questions/qt496KHVMY6ChuhcYoXDmXLva48ji3ZlaE5yqCFk.png',
-                        'created_at' => '2026-03-18 13:18:16',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:18:16',
+                        'updated_at' => '2026-03-18 14:18:16',
                     ),
                     397 => 
                     array (
@@ -4122,8 +4122,8 @@ t’i jepni përparësi kalimi pasi vjen nga krahu i djatht',
                         'question_text' => 'Gjatë përballkalimit natën i përdoren dritat e gjata që
 rruga të shihet ma mirë.',
                         'image' => 'questions/wKgiBTvUkrZTWXnwW5Z4e8y2cs6pPnvceScjcM07.png',
-                        'created_at' => '2026-03-18 13:19:01',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:19:01',
+                        'updated_at' => '2026-03-18 14:19:01',
                     ),
                     398 => 
                     array (
@@ -4133,8 +4133,8 @@ rruga të shihet ma mirë.',
                         'question_text' => 'Gjatë daljes nga vetura, shoferi duhet të shikon
 trafikun nga prapa, përmes pasqyrëve dhe këndit të vdekur.',
                         'image' => 'questions/iT8rvrqHmMT7GJI2LA2Nd2OtBHBsNdYDIVDbQb4X.png',
-                        'created_at' => '2026-03-18 13:19:55',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:19:55',
+                        'updated_at' => '2026-03-18 14:19:55',
                     ),
                     399 => 
                     array (
@@ -4143,8 +4143,8 @@ trafikun nga prapa, përmes pasqyrëve dhe këndit të vdekur.',
                         'question_number' => 3099,
                         'question_text' => 'Në këtë situatë kthimi gjysëmrrethor lejohet.',
                         'image' => 'questions/BywA7tilalfyLsK3P1ExeOahZR0c34jk9D4AEFaV.png',
-                        'created_at' => '2026-03-18 13:20:34',
-                        'updated_at' => '2026-03-23 09:23:54',
+                        'created_at' => '2026-03-18 14:20:34',
+                        'updated_at' => '2026-03-18 14:20:34',
                     ),
                     400 => 
                     array (
@@ -4154,8 +4154,8 @@ trafikun nga prapa, përmes pasqyrëve dhe këndit të vdekur.',
                     'question_text' => 'Për daljen e dytë (2) mund të vazhdoni lëvizjën vetëm
 nëpër trajektoren me ngjyrë të kaltër.',
                     'image' => 'questions/Jszb2iQZ1WKTxGYWdRtvF6DcmJKYMueyTLRnefl3.png',
-                    'created_at' => '2026-03-18 13:21:09',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:21:09',
+                    'updated_at' => '2026-03-18 14:21:09',
                 ),
                 401 => 
                 array (
@@ -4165,8 +4165,8 @@ nëpër trajektoren me ngjyrë të kaltër.',
                     'question_text' => 'Në këtë situatë, vendi ku kryhen punimet në rrugë
 fillon nga shenja e trafikut.',
                     'image' => 'questions/Pehtkw8ki8Fg8F4OQUxuCxzLpBEJ3bzSqqoOw5Nm.png',
-                    'created_at' => '2026-03-18 13:29:53',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:29:53',
+                    'updated_at' => '2026-03-18 14:29:53',
                 ),
                 402 => 
                 array (
@@ -4176,8 +4176,8 @@ fillon nga shenja e trafikut.',
                     'question_text' => 'Ngarkesa në veturë e cila kalon pjesën e pasme më
 shumë se 1 m, shënohet me pëlhur të kuqe.',
                     'image' => 'questions/IPA1Pc6z3vYlBTkNuVFGKBkn5weGK4NcUlUSZTiM.png',
-                    'created_at' => '2026-03-18 13:30:34',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:30:34',
+                    'updated_at' => '2026-03-18 14:30:34',
                 ),
                 403 => 
                 array (
@@ -4188,8 +4188,8 @@ shumë se 1 m, shënohet me pëlhur të kuqe.',
 vendbanimit me dy shirita për një kahje të lëvizjës me ndarje
 fizike është 80 km/h.',
                     'image' => 'questions/FKn9UdcSGquVr9mWbnLkVDa49G7CsoHgVKRkZM5t.png',
-                    'created_at' => '2026-03-18 13:31:02',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:31:02',
+                    'updated_at' => '2026-03-18 14:31:02',
                 ),
                 404 => 
                 array (
@@ -4199,8 +4199,8 @@ fizike është 80 km/h.',
                     'question_text' => ' Pajisja rrugore tregon vendkalimin hekurudhor me
 mbrojtëse.',
                     'image' => 'questions/8tV8UCr8wlDUTnKgReXS8a1uxpdViGEkevN2Plyb.png',
-                    'created_at' => '2026-03-18 13:31:41',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:31:41',
+                    'updated_at' => '2026-03-18 14:31:41',
                 ),
                 405 => 
                 array (
@@ -4209,8 +4209,8 @@ mbrojtëse.',
                     'question_number' => 4001,
                 'question_text' => 'Në këtë kryqëzim (situatë) vetura e kuqe lëviz e para',
                     'image' => 'questions/Bj9EquPEuhF3fjW2TeZWgh9nSN8OPQ9OOHD9nHhk.png',
-                    'created_at' => '2026-03-18 13:33:26',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:33:26',
+                    'updated_at' => '2026-03-18 14:33:26',
                 ),
                 406 => 
                 array (
@@ -4220,8 +4220,8 @@ mbrojtëse.',
                     'question_text' => 'Në këtë kryqëzim automjeti i kuq dhe biçiklisti kanë
 përparsi kalimi',
                     'image' => 'questions/4iAKvq4ZQ7hXLXvpBu3ZcK4ee6ELfnpnFdAcyeaV.png',
-                    'created_at' => '2026-03-18 13:34:17',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:34:17',
+                    'updated_at' => '2026-03-18 14:34:17',
                 ),
                 407 => 
                 array (
@@ -4230,8 +4230,8 @@ përparsi kalimi',
                     'question_number' => 4003,
                     'question_text' => 'Në këtë kryqëzim unë lëviz pas këmbësorit',
                     'image' => 'questions/wwM6akhX3V7eiXUGwfw6dAIuLQtOGgjQsCru3BKw.png',
-                    'created_at' => '2026-03-18 13:35:03',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:35:03',
+                    'updated_at' => '2026-03-18 14:35:03',
                 ),
                 408 => 
                 array (
@@ -4240,8 +4240,8 @@ përparsi kalimi',
                     'question_number' => 4004,
                     'question_text' => 'Në kryqëzim vetura e kaltër lëviz para biçiklistit',
                     'image' => 'questions/sT3fl96mEhemnmj1aWyR4v6pJSiA22LIyImNYsdG.png',
-                    'created_at' => '2026-03-18 13:35:47',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:35:47',
+                    'updated_at' => '2026-03-18 14:35:47',
                 ),
                 409 => 
                 array (
@@ -4251,8 +4251,8 @@ përparsi kalimi',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 biçiklisti, unë, vetura e kuqe',
                     'image' => 'questions/GXKrVP2vJk93uiWv97bOkU3yqXE8RwU8qrmMbNdI.png',
-                    'created_at' => '2026-03-18 13:36:28',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:36:28',
+                    'updated_at' => '2026-03-18 14:36:28',
                 ),
                 410 => 
                 array (
@@ -4261,8 +4261,8 @@ biçiklisti, unë, vetura e kuqe',
                     'question_number' => 4006,
                     'question_text' => 'Në këtë kryqëzim më lejohet lëvizja pa u ndalur drejt ose majtas',
                     'image' => 'questions/l4LFS0S7HrEYJJ87tVJnV23cFbQvlkhE0668ICAA.png',
-                    'created_at' => '2026-03-18 13:37:36',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:37:36',
+                    'updated_at' => '2026-03-18 14:37:36',
                 ),
                 411 => 
                 array (
@@ -4271,8 +4271,8 @@ biçiklisti, unë, vetura e kuqe',
                     'question_number' => 4007,
                     'question_text' => 'Në këtë kryqëzim unë do të lëviz i fundit',
                     'image' => 'questions/RACaUcNcGTWQaYOOv5OyoLU5yaIChNnQvuO6Jwve.png',
-                    'created_at' => '2026-03-18 13:38:07',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:38:07',
+                    'updated_at' => '2026-03-18 14:38:07',
                 ),
                 412 => 
                 array (
@@ -4282,8 +4282,8 @@ biçiklisti, unë, vetura e kuqe',
                     'question_text' => 'Në këtë kryqëzim më lejohet lëvizja drejt dhe
 djathtas',
                     'image' => 'questions/n479udNn7cYoOUuDjUeDVGStjFIkStIRz6kdOqCT.png',
-                    'created_at' => '2026-03-18 13:38:58',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:38:58',
+                    'updated_at' => '2026-03-18 14:46:44',
                 ),
                 413 => 
                 array (
@@ -4292,8 +4292,8 @@ djathtas',
                     'question_number' => 4009,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i dyti',
                     'image' => 'questions/b0akbW9Ku3j5iKEWzDnDVmloI7i6tdBWsc2mGa0B.png',
-                    'created_at' => '2026-03-18 13:39:31',
-                    'updated_at' => '2026-03-23 09:23:54',
+                    'created_at' => '2026-03-18 14:39:31',
+                    'updated_at' => '2026-03-18 14:39:31',
                 ),
                 414 => 
                 array (
@@ -4302,8 +4302,8 @@ djathtas',
                     'question_number' => 4010,
                     'question_text' => 'Në këtë kryqëzim unë do të lëviz i pari',
                     'image' => 'questions/u8IjjujKMVSAIlZa9Kt8usyMHCjUrrzXOmCVHV1J.png',
-                    'created_at' => '2026-03-18 13:40:03',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:40:03',
+                    'updated_at' => '2026-03-18 14:40:03',
                 ),
                 415 => 
                 array (
@@ -4312,8 +4312,8 @@ djathtas',
                     'question_number' => 4011,
                     'question_text' => 'Në këtë kryqëzim vetura e kuqe lëviz e para',
                     'image' => 'questions/xap9HLvIKZshFpShZEbrOdNOiPrZgLChj6pxbfPL.png',
-                    'created_at' => '2026-03-18 13:40:40',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:40:40',
+                    'updated_at' => '2026-03-18 14:40:40',
                 ),
                 416 => 
                 array (
@@ -4323,8 +4323,8 @@ djathtas',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 unë, kamioni, biçiklisti',
                     'image' => 'questions/3UpuSsVlG5xdkEWFgkMv8Jj5fScjt4oX6nLbdtDP.png',
-                    'created_at' => '2026-03-18 13:41:19',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:41:19',
+                    'updated_at' => '2026-03-18 14:41:19',
                 ),
                 417 => 
                 array (
@@ -4333,8 +4333,8 @@ unë, kamioni, biçiklisti',
                     'question_number' => 4013,
                     'question_text' => 'Në këtë kryqëzim do të vazhdoj lëvizjen i pari  ',
                     'image' => 'questions/HVnKBJuDTIfwNS8fye6GG5GDYIEKJXYHRWCws5yx.png',
-                    'created_at' => '2026-03-18 13:44:53',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:44:53',
+                    'updated_at' => '2026-03-18 14:44:53',
                 ),
                 418 => 
                 array (
@@ -4343,8 +4343,8 @@ unë, kamioni, biçiklisti',
                     'question_number' => 4014,
                     'question_text' => 'Në këtë kryqëzim vetura e gjelbër do të lëvizë e par',
                     'image' => 'questions/GaGkeKX6tcAW0MTGNtUWvs28NFgrMSIieEt93ycS.png',
-                    'created_at' => '2026-03-18 13:45:30',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:45:30',
+                    'updated_at' => '2026-03-18 14:45:30',
                 ),
                 419 => 
                 array (
@@ -4355,8 +4355,8 @@ unë, kamioni, biçiklisti',
 ndalur
 ',
                     'image' => 'questions/LbDj9lTTAiGGKYS32qRPFQSQmfLC0ifHZaooT6TB.png',
-                    'created_at' => '2026-03-18 13:46:20',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-18 14:46:20',
+                    'updated_at' => '2026-03-18 14:46:20',
                 ),
                 420 => 
                 array (
@@ -4365,8 +4365,8 @@ ndalur
                     'question_number' => 4016,
                     'question_text' => 'Në këtë kryqëzim vetura e kuqe lëviz e para',
                     'image' => 'questions/Y5qvavZVcbl7MrG6KAvDh7ABP0Hmfaw3sv90RTky.png',
-                    'created_at' => '2026-03-19 18:46:16',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:46:16',
+                    'updated_at' => '2026-03-19 19:46:16',
                 ),
                 421 => 
                 array (
@@ -4375,8 +4375,8 @@ ndalur
                     'question_number' => 4017,
                     'question_text' => 'Në këtë kryqëzim do të vazhdoj lëvizjen i pari',
                     'image' => 'questions/MWCQTJppX98bhv4ymqlhaQQZ4srwIyalLYoOAGDd.png',
-                    'created_at' => '2026-03-19 18:46:59',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:46:59',
+                    'updated_at' => '2026-03-19 19:46:59',
                 ),
                 422 => 
                 array (
@@ -4386,8 +4386,8 @@ ndalur
                     'question_text' => 'Në këtë kryqëzim unë kam përparësi kalimi ndaj
 këmbësorëve',
                     'image' => 'questions/33us3UnDgUqQSFhDs0r45G6xneU9NYEYqLgG92PT.png',
-                    'created_at' => '2026-03-19 18:47:39',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:47:39',
+                    'updated_at' => '2026-03-19 19:47:39',
                 ),
                 423 => 
                 array (
@@ -4396,8 +4396,8 @@ këmbësorëve',
                     'question_number' => 4019,
                     'question_text' => 'Në këtë kryqëzim kamioni do të lëvizë i fundit',
                     'image' => 'questions/V9Zq3WnDxiUYJdj6lXnFB8dBXaPjnIZ53bQFtrH2.png',
-                    'created_at' => '2026-03-19 18:48:29',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:48:29',
+                    'updated_at' => '2026-03-19 19:48:29',
                 ),
                 424 => 
                 array (
@@ -4406,8 +4406,8 @@ këmbësorëve',
                     'question_number' => 4020,
                     'question_text' => 'Në këtë kryqëzim vetura e kuqe lëviz e para',
                     'image' => 'questions/LxYvlpoXLIc5e7v93QWNnWl3PgDbhUik34hrIF6M.png',
-                    'created_at' => '2026-03-19 18:49:17',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:49:17',
+                    'updated_at' => '2026-03-19 19:49:17',
                 ),
                 425 => 
                 array (
@@ -4416,8 +4416,8 @@ këmbësorëve',
                     'question_number' => 4021,
                     'question_text' => 'Në këtë kryqëzim vetura e kuqe lëviz e fundit',
                     'image' => 'questions/kqvff5AUMbf9UDFUmq6gJ3qxKsmt1rnM6dANIdMa.png',
-                    'created_at' => '2026-03-19 18:50:20',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:50:20',
+                    'updated_at' => '2026-03-19 19:50:20',
                 ),
                 426 => 
                 array (
@@ -4427,8 +4427,8 @@ këmbësorëve',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 këmbësori, unë, vetura e kaltër',
                     'image' => 'questions/x27m7oxVFfALsKitmD53BZpFd0V3o0JGm7ZcaYNa.png',
-                    'created_at' => '2026-03-19 18:51:27',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:51:27',
+                    'updated_at' => '2026-03-19 19:52:22',
                 ),
                 427 => 
                 array (
@@ -4437,8 +4437,8 @@ këmbësori, unë, vetura e kaltër',
                     'question_number' => 4023,
                     'question_text' => 'Në këtë kryqëzim, vetura e kuqe lëvizë e dyta.',
                     'image' => 'questions/MT1EtLfHDZ1YPDH4SVihdcJ2jRCFUW8oGti1R6Fu.png',
-                    'created_at' => '2026-03-19 18:53:09',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:53:09',
+                    'updated_at' => '2026-03-19 19:53:09',
                 ),
                 428 => 
                 array (
@@ -4448,8 +4448,8 @@ këmbësori, unë, vetura e kaltër',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 biçiklisti, unë, kamioni.',
                     'image' => 'questions/qiNK2mEBfSp0TH957tPQPbMWV8l2DilEk1fsdAt3.png',
-                    'created_at' => '2026-03-19 18:56:34',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:56:34',
+                    'updated_at' => '2026-03-19 19:56:34',
                 ),
                 429 => 
                 array (
@@ -4458,8 +4458,8 @@ biçiklisti, unë, kamioni.',
                     'question_number' => 4025,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i pari',
                     'image' => 'questions/YKBXib9A37q6bW8mlaSPiU0u849rKUqZzgra6REq.png',
-                    'created_at' => '2026-03-19 18:57:12',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:57:12',
+                    'updated_at' => '2026-03-19 19:57:12',
                 ),
                 430 => 
                 array (
@@ -4470,8 +4470,8 @@ biçiklisti, unë, kamioni.',
 ndërprerje), do të pres deri sa të ndezet drita e gjelbër në
 samafor',
                     'image' => 'questions/QdjNP8JOxbZp7MaZjcki2LRRaW2EEzJhyQm2nsD4.png',
-                    'created_at' => '2026-03-19 18:57:45',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:57:45',
+                    'updated_at' => '2026-03-19 19:57:45',
                 ),
                 431 => 
                 array (
@@ -4480,8 +4480,8 @@ samafor',
                     'question_number' => 4027,
                     'question_text' => 'Në këtë kryqëzim vetura e kuqe lëviz e para',
                     'image' => 'questions/MVlN90rGQL94XXtIeVgZo78LRTEizWTnuIml3Gmk.png',
-                    'created_at' => '2026-03-19 18:58:34',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:58:34',
+                    'updated_at' => '2026-03-19 19:58:34',
                 ),
                 432 => 
                 array (
@@ -4490,8 +4490,8 @@ samafor',
                     'question_number' => 4028,
                     'question_text' => 'Në këtë kryqëzim vetura e verdhë lëviz e para',
                     'image' => 'questions/bqcetHoCbJej018zJe4VmQSa2XPAVZ1aGDT1MKCv.png',
-                    'created_at' => '2026-03-19 18:59:08',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:59:08',
+                    'updated_at' => '2026-03-19 19:59:08',
                 ),
                 433 => 
                 array (
@@ -4500,8 +4500,8 @@ samafor',
                     'question_number' => 4029,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i pari',
                     'image' => 'questions/XC4SqIDgZruo6x5SvN7LRTmdotvMOTdZApaJQD20.png',
-                    'created_at' => '2026-03-19 18:59:46',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 19:59:46',
+                    'updated_at' => '2026-03-19 19:59:46',
                 ),
                 434 => 
                 array (
@@ -4510,8 +4510,8 @@ samafor',
                     'question_number' => 4030,
                     'question_text' => 'Në këtë situatë vetura e kaltër do të lëvizë e fundit',
                     'image' => 'questions/DrkjiuS4flK7aNPnJwCqqmRwNb2niSQul11vxcp4.png',
-                    'created_at' => '2026-03-19 19:00:44',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:00:44',
+                    'updated_at' => '2026-03-19 20:00:44',
                 ),
                 435 => 
                 array (
@@ -4521,8 +4521,8 @@ samafor',
                     'question_text' => 'Në këtë kryqëzim unë duhet të kthehem majtas për
 shkak të tabelës plotësuese',
                     'image' => 'questions/pu3ZkxaKDwPkR6hGIJrjmjbl0mHn9U7eEOspdfl1.png',
-                    'created_at' => '2026-03-19 19:02:54',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:02:54',
+                    'updated_at' => '2026-03-19 20:02:54',
                 ),
                 436 => 
                 array (
@@ -4532,8 +4532,8 @@ shkak të tabelës plotësuese',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë: unë,
 kamioni, biçiklisti',
                     'image' => 'questions/bflKZzrFYqJGBqeweBcbmlTFWbOI7umVAfnQUmNe.png',
-                    'created_at' => '2026-03-19 19:03:31',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:03:31',
+                    'updated_at' => '2026-03-19 20:03:31',
                 ),
                 437 => 
                 array (
@@ -4542,8 +4542,8 @@ kamioni, biçiklisti',
                     'question_number' => 4033,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i dyti.',
                     'image' => 'questions/XZ9UNOc6UBIaFXrT5TEdbM8IZwW3ZDLDHa9pVO0L.png',
-                    'created_at' => '2026-03-19 19:04:19',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:04:19',
+                    'updated_at' => '2026-03-19 20:04:19',
                 ),
                 438 => 
                 array (
@@ -4553,8 +4553,8 @@ kamioni, biçiklisti',
                     'question_text' => 'Në këtë kryqëzim vetura është rreshtuar drejt për
 kthim majtas',
                     'image' => 'questions/cVRQBZHNQUl4RVA0mEFD0P76arB1WRniHn80SD3r.png',
-                    'created_at' => '2026-03-19 19:05:21',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:05:21',
+                    'updated_at' => '2026-03-19 20:05:21',
                 ),
                 439 => 
                 array (
@@ -4563,8 +4563,8 @@ kthim majtas',
                     'question_number' => 4035,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i pari',
                     'image' => 'questions/QwfPPO0lxu2KKUwQM2JsicGmW95T8Nwwstmgp9au.png',
-                    'created_at' => '2026-03-19 19:06:02',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:06:02',
+                    'updated_at' => '2026-03-19 20:06:02',
                 ),
                 440 => 
                 array (
@@ -4575,8 +4575,8 @@ kthim majtas',
 ndërprerje), në këtë situatë duhet të ndalem para shenjës së
 trafikut',
                     'image' => 'questions/vdWVrVF7XV1P27BrKBwZQ6l57wFBQTCmRHdkOj68.png',
-                    'created_at' => '2026-03-19 19:06:51',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:06:51',
+                    'updated_at' => '2026-03-19 20:06:51',
                 ),
                 441 => 
                 array (
@@ -4586,8 +4586,8 @@ trafikut',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 tramvaji, biçiklisti, unë',
                     'image' => 'questions/SyQMhRn8s8wXOdFpMznvVej8togH3dkSeKvERanm.png',
-                    'created_at' => '2026-03-19 19:08:31',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:08:31',
+                    'updated_at' => '2026-03-19 20:08:31',
                 ),
                 442 => 
                 array (
@@ -4596,8 +4596,8 @@ tramvaji, biçiklisti, unë',
                     'question_number' => 4038,
                     'question_text' => 'Në këtë kryqëzim unë lëviz i pari',
                     'image' => 'questions/bPrlwksYhURXXrlUCroAACgYgtOQ5hlJlDoE6c5d.png',
-                    'created_at' => '2026-03-19 19:08:59',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:08:59',
+                    'updated_at' => '2026-03-19 20:08:59',
                 ),
                 443 => 
                 array (
@@ -4607,8 +4607,8 @@ tramvaji, biçiklisti, unë',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 kamioni, këmbësori, unë',
                     'image' => 'questions/PnanXpntPMt1m4DPUGSVtRqPef623HryClqd07LV.png',
-                    'created_at' => '2026-03-19 19:09:31',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:09:31',
+                    'updated_at' => '2026-03-19 20:09:31',
                 ),
                 444 => 
                 array (
@@ -4617,8 +4617,8 @@ kamioni, këmbësori, unë',
                     'question_number' => 4040,
                     'question_text' => 'Në këtë kryqëzim unë do të vazhdoj lëvizjen i pari',
                     'image' => 'questions/gjI5x5mHeOBfv4KEcMfvRhdr89K3mGLzxAMT7NRe.png',
-                    'created_at' => '2026-03-19 19:10:13',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:10:13',
+                    'updated_at' => '2026-03-19 20:10:13',
                 ),
                 445 => 
                 array (
@@ -4627,8 +4627,8 @@ kamioni, këmbësori, unë',
                     'question_number' => 4041,
                     'question_text' => ' Në këtë kryqëzim mopedi lëviz i pari',
                     'image' => 'questions/PLXPPbhSeo3CUFBqL6GJMUOltN6Dt8KBNlAMdV3q.png',
-                    'created_at' => '2026-03-19 19:10:58',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:10:58',
+                    'updated_at' => '2026-03-19 20:10:58',
                 ),
                 446 => 
                 array (
@@ -4638,8 +4638,8 @@ kamioni, këmbësori, unë',
                     'question_text' => 'Në këtë kryqëzim më lejohet lëvizja majtas dhe
 djathtas',
                     'image' => 'questions/p99yoC4vRO3kE7OcHtv5vOFOsmZZyWz64puSkokL.png',
-                    'created_at' => '2026-03-19 19:12:01',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:12:01',
+                    'updated_at' => '2026-03-19 20:12:01',
                 ),
                 447 => 
                 array (
@@ -4649,8 +4649,8 @@ djathtas',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 vetura e kuqe, biçiklisti, unë',
                     'image' => 'questions/x7sNTEqN6F2I7FeHvEc7qk8uhOmc0g0otVnKjqWn.png',
-                    'created_at' => '2026-03-19 19:12:43',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:12:43',
+                    'updated_at' => '2026-03-19 20:12:43',
                 ),
                 448 => 
                 array (
@@ -4661,8 +4661,8 @@ vetura e kuqe, biçiklisti, unë',
 ndërprerje), në këtë situatë do të vazhdoj lëvizjen pa u
 ndalur.',
                     'image' => 'questions/czwxmGJkU6XXzanJHzrziHBQT7P7vn7KEy80IKWe.png',
-                    'created_at' => '2026-03-19 19:13:42',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:13:42',
+                    'updated_at' => '2026-03-19 20:13:42',
                 ),
                 449 => 
                 array (
@@ -4671,8 +4671,8 @@ ndalur.',
                     'question_number' => 4045,
                     'question_text' => 'Në këtë kryqëzim biçiklisti lëviz i pari',
                     'image' => 'questions/QcK63fXYWnXPyjbbFJSV0T327PRXHIMvbjULoZYi.png',
-                    'created_at' => '2026-03-19 19:14:36',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:14:36',
+                    'updated_at' => '2026-03-19 20:14:36',
                 ),
                 450 => 
                 array (
@@ -4681,8 +4681,8 @@ ndalur.',
                     'question_number' => 4046,
                     'question_text' => 'Në këtë kryqëzim më lejohet lëvizja drejt, majtas dhe djathtas pa u ndalur',
                     'image' => 'questions/F0mHsQ6hUOCq21KNesX4uWgmPleur0qMdKGeMxjF.png',
-                    'created_at' => '2026-03-19 19:15:47',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:15:47',
+                    'updated_at' => '2026-03-19 20:15:47',
                 ),
                 451 => 
                 array (
@@ -4692,8 +4692,8 @@ ndalur.',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 këmbësori, unë, kamioni',
                     'image' => 'questions/7leNFggdAJRo7kxvhjVUr379eaEJ4DSXQL1bNLr3.png',
-                    'created_at' => '2026-03-19 19:16:28',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:16:28',
+                    'updated_at' => '2026-03-19 20:16:28',
                 ),
                 452 => 
                 array (
@@ -4702,8 +4702,8 @@ këmbësori, unë, kamioni',
                     'question_number' => 4048,
                     'question_text' => 'Në këtë kryqëzim unë lëviz pas veturës së kuqe',
                     'image' => 'questions/oefB432aOX23A3myqLYSFYWxs4Qx7g8TSIKbz3Tv.png',
-                    'created_at' => '2026-03-19 19:17:15',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:17:15',
+                    'updated_at' => '2026-03-19 20:17:15',
                 ),
                 453 => 
                 array (
@@ -4713,8 +4713,8 @@ këmbësori, unë, kamioni',
                     'question_text' => 'Në këtë kryqëzim vetura e gjelbër duhet të ndalet para
 kryqëzimit',
                     'image' => 'questions/PmwOLYxajlHFhugYcNJB7doouX6nGJLvaJVw5Pmn.png',
-                    'created_at' => '2026-03-19 19:17:47',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:17:47',
+                    'updated_at' => '2026-03-19 20:17:47',
                 ),
                 454 => 
                 array (
@@ -4723,8 +4723,8 @@ kryqëzimit',
                     'question_number' => 4050,
                     'question_text' => 'Në këtë kryqëzim do të vazhdoj lëvizjen para biçiklistit',
                     'image' => 'questions/QBmKHU2h59DqZymXcUYsNG5WponRX27RdhuMQGxL.png',
-                    'created_at' => '2026-03-19 19:18:22',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:18:22',
+                    'updated_at' => '2026-03-19 20:18:22',
                 ),
                 455 => 
                 array (
@@ -4734,8 +4734,8 @@ kryqëzimit',
                     'question_text' => 'Në këtë kryqëzim vetura është rreshtuar drejt, për
 kthim majtas',
                     'image' => 'questions/VMduI3bwRhXt1yqiPdKZbIUVZJ0LfJnI3BtbJdx4.png',
-                    'created_at' => '2026-03-19 19:19:09',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:19:09',
+                    'updated_at' => '2026-03-19 20:19:09',
                 ),
                 456 => 
                 array (
@@ -4744,8 +4744,8 @@ kthim majtas',
                     'question_number' => 4052,
                     'question_text' => 'Në këtë kryqëzim vetura e verdhë lëviz e para',
                     'image' => 'questions/awVLpXUVDA5SUmIxmj3dbAmqFMnE8CUAPXCbv6fD.png',
-                    'created_at' => '2026-03-19 19:20:02',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:20:02',
+                    'updated_at' => '2026-03-19 20:20:02',
                 ),
                 457 => 
                 array (
@@ -4754,8 +4754,8 @@ kthim majtas',
                     'question_number' => 4053,
                     'question_text' => 'Në këtë kryqëzim vetura e kaltër lëviz e fundit',
                     'image' => 'questions/qemZOxUhHDZzM80TqsXIvScm9ItrbajMOrYfvI5n.png',
-                    'created_at' => '2026-03-19 19:20:33',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:20:33',
+                    'updated_at' => '2026-03-19 20:20:33',
                 ),
                 458 => 
                 array (
@@ -4765,8 +4765,8 @@ kthim majtas',
                     'question_text' => 'Në semafor ndriçon drita e verdhë vezulluese, në këtë
 situatë do të vazhdoj lëvizjen me kujdes të shtuar',
                     'image' => 'questions/yd1oRnIOQxfymYB7qvv9qvYOETlBxSTCS4TdJcJR.png',
-                    'created_at' => '2026-03-19 19:21:05',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:21:05',
+                    'updated_at' => '2026-03-19 20:21:05',
                 ),
                 459 => 
                 array (
@@ -4775,8 +4775,8 @@ situatë do të vazhdoj lëvizjen me kujdes të shtuar',
                     'question_number' => 4055,
                     'question_text' => 'Në kryqëzim, unë lëviz para veturës së kuqe',
                     'image' => 'questions/WlOa6uQqIioPmMpx2zDRUoDZWj0FTeFnV3WeIEU9.png',
-                    'created_at' => '2026-03-19 19:21:33',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:21:33',
+                    'updated_at' => '2026-03-19 20:21:33',
                 ),
                 460 => 
                 array (
@@ -4786,8 +4786,8 @@ situatë do të vazhdoj lëvizjen me kujdes të shtuar',
                     'question_text' => 'Në këtë kryqëzim radhitja e kalimit duhet të jetë:
 vetura e kaltër, unë, këmbësori',
                     'image' => 'questions/xQDk4igsVoB1wD6POVAivgAoBdFVRltwXmlggRoY.png',
-                    'created_at' => '2026-03-19 19:22:16',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:22:16',
+                    'updated_at' => '2026-03-19 20:22:16',
                 ),
                 461 => 
                 array (
@@ -4796,8 +4796,8 @@ vetura e kaltër, unë, këmbësori',
                     'question_number' => 4057,
                     'question_text' => 'Në këtë kryqëzim do të vazhdoj lëvizjen pa u ndalur',
                     'image' => 'questions/XoxHNVfm9oOZaDthM7CgBuwvzE9wmj92TitRKIRp.png',
-                    'created_at' => '2026-03-19 19:22:50',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:22:50',
+                    'updated_at' => '2026-03-19 20:22:50',
                 ),
                 462 => 
                 array (
@@ -4806,8 +4806,8 @@ vetura e kaltër, unë, këmbësori',
                     'question_number' => 4058,
                     'question_text' => 'Në këtë kryqëzim do të vazhdoj lëvizjen i pari',
                     'image' => 'questions/3uTJTFBagNFToQp1I1pMBxAsIs0QukHDF6frGx61.png',
-                    'created_at' => '2026-03-19 19:23:22',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:23:22',
+                    'updated_at' => '2026-03-19 20:23:22',
                 ),
                 463 => 
                 array (
@@ -4817,8 +4817,8 @@ vetura e kaltër, unë, këmbësori',
                     'question_text' => ' Në këtë kryqëzim radhitja e kalimit duhet të
 jetë: vetura e kuqe, policia, vetura e verdhë, unë',
                     'image' => 'questions/BBFCSyr9J7uE4tIi3WRKmi7xEGXyHpZkjnezMTSJ.png',
-                    'created_at' => '2026-03-19 19:23:55',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:23:55',
+                    'updated_at' => '2026-03-19 20:23:55',
                 ),
                 464 => 
                 array (
@@ -4827,8 +4827,8 @@ jetë: vetura e kuqe, policia, vetura e verdhë, unë',
                     'question_number' => 4060,
                     'question_text' => 'Në kryqëzim unë lëviz i pari',
                     'image' => 'questions/1zRgdOyZR27HwWGqyvwcyyFdTRXxIr4WzCEsA4uA.png',
-                    'created_at' => '2026-03-19 19:26:55',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:26:55',
+                    'updated_at' => '2026-03-19 20:26:55',
                 ),
                 465 => 
                 array (
@@ -4838,8 +4838,8 @@ jetë: vetura e kuqe, policia, vetura e verdhë, unë',
                     'question_text' => 'Në këtë kryqëzim, duhet të kujdesemi për këmbësorin edhe
 pse nuk është duke lëvizur drejt',
                     'image' => 'questions/HgTGYXJgZzS1mb4F2IQyMYsXYEkL0m6lG1ZGfnoX.png',
-                    'created_at' => '2026-03-19 19:27:36',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:27:36',
+                    'updated_at' => '2026-03-19 20:27:36',
                 ),
                 466 => 
                 array (
@@ -4848,8 +4848,8 @@ pse nuk është duke lëvizur drejt',
                     'question_number' => 4062,
                     'question_text' => 'Në këtë kryqëzim, do të vazhdoj lëvizjen pa u ndalur',
                     'image' => 'questions/1U4fimN8jSYrYRK4XXEw4Xh64hRjOEg8jC0oA6Wi.png',
-                    'created_at' => '2026-03-19 19:28:12',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:28:12',
+                    'updated_at' => '2026-03-19 20:28:12',
                 ),
                 467 => 
                 array (
@@ -4858,8 +4858,8 @@ pse nuk është duke lëvizur drejt',
                     'question_number' => 4063,
                     'question_text' => 'Në këtë kryqëzim biçiklisti lëviz i dyti',
                     'image' => 'questions/laLdAdOCsJPal8YocNc7BnVbMrc4VEE2DeuYvuq5.png',
-                    'created_at' => '2026-03-19 19:28:37',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:28:37',
+                    'updated_at' => '2026-03-19 20:28:37',
                 ),
                 468 => 
                 array (
@@ -4869,8 +4869,8 @@ pse nuk është duke lëvizur drejt',
                     'question_text' => 'Në këtë kryqëzim duhet të ndalem para shenjës
 STOP, pastaj do të vazhdoj lëvizjen me kujdes të shtuar',
                     'image' => 'questions/uYDgcl6smym3UyD1gFaHWRIS6hZdgfo4WKKPXavK.png',
-                    'created_at' => '2026-03-19 19:29:07',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:29:07',
+                    'updated_at' => '2026-03-19 20:29:07',
                 ),
                 469 => 
                 array (
@@ -4880,8 +4880,8 @@ STOP, pastaj do të vazhdoj lëvizjen me kujdes të shtuar',
                     'question_text' => 'Në këtë situatë, do t’i jap përparësi kalimi automjetit të
 verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'image' => 'questions/AbW1jM5878NT1roewpe0CfO2R2LFJhw5KR3vzgJJ.png',
-                    'created_at' => '2026-03-19 19:29:41',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:29:41',
+                    'updated_at' => '2026-03-19 20:29:41',
                 ),
                 470 => 
                 array (
@@ -4890,8 +4890,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_number' => 4066,
                     'question_text' => 'Në këtë situatë unë do të lëviz i pari',
                     'image' => 'questions/y2yOfwnUvVBpBkZeBPaTNTCeauprlHVCcTnOX02H.png',
-                    'created_at' => '2026-03-19 19:30:15',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:30:15',
+                    'updated_at' => '2026-03-19 20:30:15',
                 ),
                 471 => 
                 array (
@@ -4900,8 +4900,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_number' => 4067,
                     'question_text' => 'Në këtë situatë unë do të lëviz i pari.',
                     'image' => 'questions/AZvzSEVDVEEFX7yOkcsJVg6H57WDx38V0rwWeHNw.png',
-                    'created_at' => '2026-03-19 19:31:18',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:31:18',
+                    'updated_at' => '2026-03-19 20:31:18',
                 ),
                 472 => 
                 array (
@@ -4910,8 +4910,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_number' => 4068,
                     'question_text' => 'Në këtë situatë unë do të lëviz i pari',
                     'image' => 'questions/QAD4Xa2gxOCixZJRaD04Bw0ZXAB3XhYdtSxwrlOE.png',
-                    'created_at' => '2026-03-19 19:31:51',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:31:51',
+                    'updated_at' => '2026-03-19 20:31:51',
                 ),
                 473 => 
                 array (
@@ -4920,8 +4920,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_number' => 4069,
                     'question_text' => 'Në këtë situatë unë do të lëviz i pari',
                     'image' => 'questions/1ANP7k3aHkvE7NTDWhyKKH7RdHNPKwGebEYRgvtj.png',
-                    'created_at' => '2026-03-19 19:32:29',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:32:29',
+                    'updated_at' => '2026-03-19 20:32:29',
                 ),
                 474 => 
                 array (
@@ -4930,8 +4930,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_number' => 4070,
                     'question_text' => 'Në këtë kryqëzim vetura e verdhë lëviz e para',
                     'image' => 'questions/QpON9bWdxPgML5eLQuqt6FyGviHP9pc5sEkBM9MF.png',
-                    'created_at' => '2026-03-19 19:33:14',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:33:14',
+                    'updated_at' => '2026-03-19 20:33:14',
                 ),
                 475 => 
                 array (
@@ -4941,8 +4941,8 @@ verdhë, pasi që e mbanë drejtimin e lëvizjes',
                     'question_text' => 'Në kryqëzim radhitja e kalimit duhet të jetë:
 vetura e policisë, vetura e verdhë, unë, vetura e kuqe',
                     'image' => 'questions/FiFu8GufZOPzXiCGnWrZUd5DHHtAdAX7leZnuq67.png',
-                    'created_at' => '2026-03-19 19:33:44',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:33:44',
+                    'updated_at' => '2026-03-19 20:33:44',
                 ),
                 476 => 
                 array (
@@ -4951,8 +4951,8 @@ vetura e policisë, vetura e verdhë, unë, vetura e kuqe',
                     'question_number' => 4072,
                     'question_text' => 'Në këtë situatë unë do të lëviz i fundit',
                     'image' => 'questions/hbyoGEV7vqDoYIOrGQW60S6dvJFH2dbCcZxeTx1J.png',
-                    'created_at' => '2026-03-19 19:34:13',
-                    'updated_at' => '2026-03-23 09:23:55',
+                    'created_at' => '2026-03-19 20:34:13',
+                    'updated_at' => '2026-03-19 20:34:13',
                 ),
                 477 => 
                 array (
@@ -4961,8 +4961,8 @@ vetura e policisë, vetura e verdhë, unë, vetura e kuqe',
                     'question_number' => 5001,
                     'question_text' => 'Alkooli gjatë ngasjes nxit dëshirën për shpejtësi të madhe',
                     'image' => NULL,
-                    'created_at' => '2026-03-19 19:37:16',
-                    'updated_at' => '2026-03-19 19:37:16',
+                    'created_at' => '2026-03-19 20:37:16',
+                    'updated_at' => '2026-03-19 20:37:16',
                 ),
                 478 => 
                 array (
@@ -4971,8 +4971,8 @@ vetura e policisë, vetura e verdhë, unë, vetura e kuqe',
                     'question_number' => 5002,
                     'question_text' => 'Alkooli gjatë ngasjes ndikon negativisht në aftësitë psikofizike të shoferit',
                     'image' => NULL,
-                    'created_at' => '2026-03-19 19:37:38',
-                    'updated_at' => '2026-03-19 19:37:38',
+                    'created_at' => '2026-03-19 20:37:38',
+                    'updated_at' => '2026-03-19 20:37:38',
                 ),
                 479 => 
                 array (
@@ -4982,8 +4982,8 @@ vetura e policisë, vetura e verdhë, unë, vetura e kuqe',
                 'question_text' => 'Medikamentet (barërat) të cilat nuk lejohen të konsumohen para dhe gjatë ngasjes së mjetit
 ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:05',
-                'updated_at' => '2026-03-19 19:38:05',
+                'created_at' => '2026-03-19 20:38:05',
+                'updated_at' => '2026-03-19 20:38:05',
             ),
             480 => 
             array (
@@ -4992,8 +4992,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5004,
                 'question_text' => 'Shoferi nën ndikim të alkoolit i vlerëson drejt situatat në trafik',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:35',
-                'updated_at' => '2026-03-19 19:38:35',
+                'created_at' => '2026-03-19 20:38:35',
+                'updated_at' => '2026-03-19 20:38:35',
             ),
             481 => 
             array (
@@ -5002,8 +5002,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5005,
                 'question_text' => 'Lodhja ndikon pozitivisht në gjendjen psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:38:54',
-                'updated_at' => '2026-03-19 19:38:54',
+                'created_at' => '2026-03-19 20:38:54',
+                'updated_at' => '2026-03-19 20:38:54',
             ),
             482 => 
             array (
@@ -5012,8 +5012,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5006,
                 'question_text' => 'Lodhja ndikon negativisht në gjendjen psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:20',
-                'updated_at' => '2026-03-19 19:39:20',
+                'created_at' => '2026-03-19 20:39:20',
+                'updated_at' => '2026-03-19 20:39:20',
             ),
             483 => 
             array (
@@ -5022,8 +5022,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5007,
                 'question_text' => 'Pushimi i rregullt ndikon negativisht në gjendjen psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:39:47',
-                'updated_at' => '2026-03-19 19:39:47',
+                'created_at' => '2026-03-19 20:39:47',
+                'updated_at' => '2026-03-19 20:39:47',
             ),
             484 => 
             array (
@@ -5032,8 +5032,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5008,
                 'question_text' => 'Zhurma dhe vibracionet ndikojnë pozitivisht në gjendjen psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:12',
-                'updated_at' => '2026-03-19 19:40:12',
+                'created_at' => '2026-03-19 20:40:12',
+                'updated_at' => '2026-03-19 20:40:12',
             ),
             485 => 
             array (
@@ -5042,8 +5042,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5009,
             'question_text' => 'Narkotikët (droga) ndikojnë negativisht në aftësitë psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:32',
-                'updated_at' => '2026-03-19 19:40:32',
+                'created_at' => '2026-03-19 20:40:32',
+                'updated_at' => '2026-03-19 20:40:32',
             ),
             486 => 
             array (
@@ -5052,8 +5052,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5010,
                 'question_text' => 'Ushqimi i rregullt ndikon negativisht në aftësitë psiko-fizike të shoferit',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:40:57',
-                'updated_at' => '2026-03-19 19:40:57',
+                'created_at' => '2026-03-19 20:40:57',
+                'updated_at' => '2026-03-19 20:40:57',
             ),
             487 => 
             array (
@@ -5062,8 +5062,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_number' => 5011,
                 'question_text' => 'Nëse shoferi gjatë ngasjes bisedon me bashkëudhëtarin kjo ndikon negativisht në sigurinë rrugore',
                 'image' => NULL,
-                'created_at' => '2026-03-19 19:41:25',
-                'updated_at' => '2026-03-19 19:41:25',
+                'created_at' => '2026-03-19 20:41:25',
+                'updated_at' => '2026-03-19 20:41:25',
             ),
             488 => 
             array (
@@ -5073,8 +5073,8 @@ ndikojnë pozitivisht në aftësitë psikofizike të shoferit',
                 'question_text' => 'Ngasja e veturës me shpejtësi maksimale ndikon në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko-ngasja',
                     'image' => NULL,
-                    'created_at' => '2026-03-19 19:42:09',
-                    'updated_at' => '2026-03-19 19:42:09',
+                    'created_at' => '2026-03-19 20:42:09',
+                    'updated_at' => '2026-03-19 20:42:09',
                 ),
                 489 => 
                 array (
@@ -5084,8 +5084,8 @@ karburantit (Eko-ngasja',
                     'question_text' => 'Nëse mjetit të ndaluar i japim gaz, kjo ndikon në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko- ngasja)',
                         'image' => NULL,
-                        'created_at' => '2026-03-19 19:42:34',
-                        'updated_at' => '2026-03-19 19:42:34',
+                        'created_at' => '2026-03-19 20:42:34',
+                        'updated_at' => '2026-03-19 20:42:34',
                     ),
                     490 => 
                     array (
@@ -5095,8 +5095,8 @@ karburantit (Eko- ngasja)',
                         'question_text' => 'Ngasja pa nxitim dhe frenim të vrullshëm ndikon në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko- ngasja)',
                             'image' => NULL,
-                            'created_at' => '2026-03-19 19:42:59',
-                            'updated_at' => '2026-03-19 19:42:59',
+                            'created_at' => '2026-03-19 20:42:59',
+                            'updated_at' => '2026-03-19 20:42:59',
                         ),
                         491 => 
                         array (
@@ -5106,8 +5106,8 @@ karburantit (Eko- ngasja)',
                             'question_text' => 'Nëse gjatë pritjeve të gjata fiket motori do të ndikojë në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko- ngasja)',
                                 'image' => NULL,
-                                'created_at' => '2026-03-19 19:43:36',
-                                'updated_at' => '2026-03-19 19:43:36',
+                                'created_at' => '2026-03-19 20:43:36',
+                                'updated_at' => '2026-03-19 20:43:36',
                             ),
                             492 => 
                             array (
@@ -5117,8 +5117,8 @@ karburantit (Eko- ngasja)',
                                 'question_text' => 'Përdorimi i veturës në relacione të shkurtëra ndikon në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko- ngasja)',
                                     'image' => NULL,
-                                    'created_at' => '2026-03-19 19:44:02',
-                                    'updated_at' => '2026-03-19 19:44:02',
+                                    'created_at' => '2026-03-19 20:44:02',
+                                    'updated_at' => '2026-03-19 20:44:02',
                                 ),
                                 493 => 
                                 array (
@@ -5128,8 +5128,8 @@ karburantit (Eko- ngasja)',
                                     'question_text' => 'Shmangia e ngasjes gjatë trafikut të dendur ndikon në ruajtjen e mjedisit dhe kursimin e
 karburantit (Eko- ngasja)',
                                         'image' => NULL,
-                                        'created_at' => '2026-03-19 19:45:03',
-                                        'updated_at' => '2026-03-19 19:45:03',
+                                        'created_at' => '2026-03-19 20:45:03',
+                                        'updated_at' => '2026-03-19 20:45:03',
                                     ),
                                     494 => 
                                     array (
@@ -5139,8 +5139,8 @@ karburantit (Eko- ngasja)',
                                         'question_text' => 'Ngasja e veturës me numër maksimal të rrotullimeve të motorit ndikon në ruajtjen e mjedisit
 dhe kursimin e karburantit (Eko- ngasja)',
                                             'image' => NULL,
-                                            'created_at' => '2026-03-19 19:45:41',
-                                            'updated_at' => '2026-03-19 19:45:41',
+                                            'created_at' => '2026-03-19 20:45:41',
+                                            'updated_at' => '2026-03-19 20:45:41',
                                         ),
                                         495 => 
                                         array (
@@ -5149,8 +5149,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                                             'question_number' => 5108,
                                             'question_text' => 'Ngasjen ekonomike e karakterizon shpenzimi minimal i karburantit',
                                             'image' => NULL,
-                                            'created_at' => '2026-03-19 19:46:01',
-                                            'updated_at' => '2026-03-19 19:46:01',
+                                            'created_at' => '2026-03-19 20:46:01',
+                                            'updated_at' => '2026-03-19 20:46:01',
                                         ),
                                         496 => 
                                         array (
@@ -5159,8 +5159,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                                             'question_number' => 5109,
                                             'question_text' => 'Ngasjen ekonomike e karakterizon shpenzimi maksimal i karburantit',
                                             'image' => NULL,
-                                            'created_at' => '2026-03-19 19:46:22',
-                                            'updated_at' => '2026-03-19 19:46:22',
+                                            'created_at' => '2026-03-19 20:46:22',
+                                            'updated_at' => '2026-03-19 20:46:22',
                                         ),
                                         497 => 
                                         array (
@@ -5169,8 +5169,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                                             'question_number' => 5110,
                                             'question_text' => 'Eko ngasja karakterizohet me numër të mesëm të rrotullimeve të motorit',
                                             'image' => NULL,
-                                            'created_at' => '2026-03-19 19:46:50',
-                                            'updated_at' => '2026-03-19 19:46:50',
+                                            'created_at' => '2026-03-19 20:46:50',
+                                            'updated_at' => '2026-03-19 20:46:50',
                                         ),
                                         498 => 
                                         array (
@@ -5179,8 +5179,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                                             'question_number' => 5201,
                                             'question_text' => ' Punën e motorit e mundëson sistemi për ftohje',
                                             'image' => 'questions/foKfjveXoTNWwrkwfODUoTGAa2qhnjmQInZenIRQ.png',
-                                            'created_at' => '2026-03-19 19:57:16',
-                                            'updated_at' => '2026-03-23 09:23:55',
+                                            'created_at' => '2026-03-19 20:57:16',
+                                            'updated_at' => '2026-03-19 20:57:16',
                                         ),
                                         499 => 
                                         array (
@@ -5189,8 +5189,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                                             'question_number' => 5202,
                                             'question_text' => 'Trekëndëshi i sigurisë është pajisje rezervë që duhet të mbahet në veturë',
                                             'image' => 'questions/q7jsShJT4CwChyQDvM9oKlKzJ5je5RNeD73SCc9N.png',
-                                            'created_at' => '2026-03-19 19:57:49',
-                                            'updated_at' => '2026-03-23 09:23:55',
+                                            'created_at' => '2026-03-19 20:57:49',
+                                            'updated_at' => '2026-03-19 20:57:49',
                                         ),
                                     ));
         \DB::table('questions')->insert(array (
@@ -5202,8 +5202,8 @@ dhe kursimin e karburantit (Eko- ngasja)',
                 'question_text' => 'Treguesit e drejtimit duhet të përdoren gjatë veprimeve me automjet (tejkalimi,
 kthimi majtas ose djathtas, etj.)',
                 'image' => 'questions/Ltlwld79EeFwdsTL8b9tDMrm7zbN0XG09WysWksl.png',
-                'created_at' => '2026-03-19 19:58:23',
-                'updated_at' => '2026-03-23 09:23:55',
+                'created_at' => '2026-03-19 20:58:23',
+                'updated_at' => '2026-03-19 20:58:23',
             ),
             1 => 
             array (
@@ -5213,8 +5213,8 @@ kthimi majtas ose djathtas, etj.)',
                 'question_text' => 'Tabela kontrolluese e automjetit shërben për kontrollimin e numrit të
 udhëtarëve në automjet',
                 'image' => 'questions/JfHagn4THlcaoX8LWyaygF4vPuwbvfvgBvOJXmfR.png',
-                'created_at' => '2026-03-19 19:58:57',
-                'updated_at' => '2026-03-23 09:23:55',
+                'created_at' => '2026-03-19 20:58:57',
+                'updated_at' => '2026-03-19 20:58:57',
             ),
             2 => 
             array (
@@ -5224,8 +5224,8 @@ udhëtarëve në automjet',
             'question_text' => 'Shtypja e ulët e ajrit në pneumatikë (goma) zvogëlon stabilitetin e mjetit
 dhe dëmton pneumatikët',
             'image' => 'questions/e9wxFXidncvdyK0kW99wWGNdruv69l0ofqd5M3or.png',
-            'created_at' => '2026-03-19 19:59:32',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 20:59:32',
+            'updated_at' => '2026-03-19 20:59:32',
         ),
         3 => 
         array (
@@ -5234,8 +5234,8 @@ dhe dëmton pneumatikët',
             'question_number' => 5206,
             'question_text' => 'Timoni shërben për funksionimin e motorit',
             'image' => 'questions/iUdrfZ5jkHOm9qnyeEpr5ZFXiI9oFy1T0wFXFO2s.png',
-            'created_at' => '2026-03-19 20:00:09',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:00:09',
+            'updated_at' => '2026-03-19 21:00:09',
         ),
         4 => 
         array (
@@ -5244,8 +5244,8 @@ dhe dëmton pneumatikët',
             'question_number' => 5207,
         'question_text' => 'Shtypja e ulët e ajrit në pneumatikë (goma) rrit shpenzimet e karburantit',
             'image' => 'questions/D8SClHf0ThEFJQqafoTwuf9qB6xb3diGhOeJLVOQ.png',
-            'created_at' => '2026-03-19 20:00:54',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:00:54',
+            'updated_at' => '2026-03-19 21:00:54',
         ),
         5 => 
         array (
@@ -5254,8 +5254,8 @@ dhe dëmton pneumatikët',
             'question_number' => 5208,
             'question_text' => 'Në tabelën instrumentale është paraqitur aktivizimi i pajisjeve sinjalizuese',
             'image' => 'questions/fryPiWT4wLWl2kW3VYsFbRdmLVfcF0A6OsZFk7Ho.png',
-            'created_at' => '2026-03-19 20:01:37',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:01:37',
+            'updated_at' => '2026-03-19 21:01:37',
         ),
         6 => 
         array (
@@ -5265,8 +5265,8 @@ dhe dëmton pneumatikët',
             'question_text' => 'Sistemi ABS i automjetit mundëson mosbllokimin e rrotave gjatë frenimit
 të vrullshëm',
             'image' => 'questions/6uyQ6x4ZYGEgG2ewXsPKQVY1M25XlOnTDzO9Ozcf.png',
-            'created_at' => '2026-03-19 20:02:11',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:02:11',
+            'updated_at' => '2026-03-19 21:02:11',
         ),
         7 => 
         array (
@@ -5275,8 +5275,8 @@ të vrullshëm',
             'question_number' => 5210,
             'question_text' => 'Pedalja e friksionit shërben për ndaljen e vrullshme të automjetit',
             'image' => 'questions/HFuuDRXF2UaqZokIrOfgBxxjMysx7QP7AQXYrmFQ.png',
-            'created_at' => '2026-03-19 20:02:43',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:02:43',
+            'updated_at' => '2026-03-19 21:02:43',
         ),
         8 => 
         array (
@@ -5286,8 +5286,8 @@ të vrullshëm',
             'question_text' => 'Llamba kontrolluese në foto tregon se temperatura e motorit ka kaluar
 kufirin e lejuar - sistemi I ftohjes në defekt',
             'image' => 'questions/uH43X4ExJWiEnhCAKJc2UmSJMstAzW6ClyVVIB9r.png',
-            'created_at' => '2026-03-19 20:03:20',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:03:20',
+            'updated_at' => '2026-03-19 21:03:20',
         ),
         9 => 
         array (
@@ -5296,8 +5296,8 @@ kufirin e lejuar - sistemi I ftohjes në defekt',
             'question_number' => 5212,
             'question_text' => 'Llamba kontrolluese në foto sinjalizon se sistemi ABS nuk është funksional.',
             'image' => 'questions/4udU7nDFVTRYhy0qbX67oXzOcIKLehDJT08fTp9R.png',
-            'created_at' => '2026-03-19 20:04:20',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:04:20',
+            'updated_at' => '2026-03-19 21:04:20',
         ),
         10 => 
         array (
@@ -5307,8 +5307,8 @@ kufirin e lejuar - sistemi I ftohjes në defekt',
             'question_text' => 'Llampa kontrolluese në foto tregon se temperatura e motorit nuk e ka kaluar
 kufirin e lejuar-sistemi i ftohjes defekt.',
             'image' => 'questions/bjMdMmVWzGnVpAn866ATCmrdL7hEc14G1FNJat1c.png',
-            'created_at' => '2026-03-19 20:04:57',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:04:57',
+            'updated_at' => '2026-03-19 21:04:57',
         ),
         11 => 
         array (
@@ -5318,8 +5318,8 @@ kufirin e lejuar-sistemi i ftohjes defekt.',
             'question_text' => 'Llampa kontrolluese në foto tregon sasinë e pamjaftueshme të
 vajit në motor ose defektin në sistemin e lubrifikimit',
             'image' => 'questions/R80cc1ieYJK4wEJd5pMbvGYvA0mWJbjtpYdQiPnw.png',
-            'created_at' => '2026-03-19 20:05:28',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:05:28',
+            'updated_at' => '2026-03-19 21:05:28',
         ),
         12 => 
         array (
@@ -5328,8 +5328,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5222,
             'question_text' => 'Llamba kontrolluese tregon se freni i parkimit është funksional',
             'image' => 'questions/IoDZqaUe5z0Mq1RkT3Bm8girGX3s7YABVVrQjeSo.png',
-            'created_at' => '2026-03-19 20:06:25',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:06:25',
+            'updated_at' => '2026-03-19 21:06:25',
         ),
         13 => 
         array (
@@ -5338,8 +5338,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5223,
             'question_text' => 'Llamba kontrolluese tregon se rripi i sigurisë është aktivizuar',
             'image' => 'questions/LFBD4teb6kMLztIZSBuGit3KLab7iCMX6MQfkBtd.png',
-            'created_at' => '2026-03-19 20:06:58',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:06:58',
+            'updated_at' => '2026-03-19 21:06:58',
         ),
         14 => 
         array (
@@ -5348,8 +5348,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5224,
         'question_text' => 'Llamba kontrolluese paraqet ESP - në (Programi elektronik i stabilitetit)',
             'image' => 'questions/nUpN6qvPUSyM9A3ql4POTlqFaQLOYg9hmLL2FTZY.png',
-            'created_at' => '2026-03-19 20:07:52',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:07:52',
+            'updated_at' => '2026-03-19 21:07:52',
         ),
         15 => 
         array (
@@ -5358,8 +5358,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5225,
             'question_text' => 'Llamba kontrolluese tregon shpejtësinë e lëvizjes',
             'image' => 'questions/NNwwThr7Vb7w341H7cdKhdYPQlVdW6yDXLBnDeW2.png',
-            'created_at' => '2026-03-19 20:08:25',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:08:25',
+            'updated_at' => '2026-03-19 21:08:25',
         ),
         16 => 
         array (
@@ -5368,8 +5368,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5226,
             'question_text' => 'Llamba kontrolluese tregon temperaturën e motorit',
             'image' => 'questions/AoEjCoQ0rSWZrHR3a74HMPw6FgrbKGPJfY2MmkOc.png',
-            'created_at' => '2026-03-19 20:08:58',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:08:58',
+            'updated_at' => '2026-03-19 21:15:02',
         ),
         17 => 
         array (
@@ -5378,8 +5378,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5227,
             'question_text' => 'Llampa kontrolluese tregon se dritat janë jashtë funksionit',
             'image' => 'questions/twh7jhUPQcVvLQMIrZlqNSUEBq6ZGJJx5UR6fbPh.png',
-            'created_at' => '2026-03-19 20:09:45',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:09:45',
+            'updated_at' => '2026-03-19 21:09:45',
         ),
         18 => 
         array (
@@ -5388,8 +5388,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_number' => 5228,
             'question_text' => 'Llamba kontrolluese tregon problemet me jastëkun e ajrit',
             'image' => 'questions/roGuuPtTIME2Nk16NQ997qyMOVfImn46vYn1b6Zw.png',
-            'created_at' => '2026-03-19 20:11:54',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:11:54',
+            'updated_at' => '2026-03-19 21:11:54',
         ),
         19 => 
         array (
@@ -5399,8 +5399,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
             'question_text' => 'Llamba kontrolluese në foto tregon se në automjet janë të ndezura dritat e mjegullës
 ',
             'image' => 'questions/CoEWy1MT2gca904yHGn1CzE5nSXMQ07qdoFVIssf.png',
-            'created_at' => '2026-03-19 20:13:27',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:13:27',
+            'updated_at' => '2026-03-19 21:13:27',
         ),
         20 => 
         array (
@@ -5411,8 +5411,8 @@ vajit në motor ose defektin në sistemin e lubrifikimit',
 
 ',
             'image' => 'questions/fvI7qDhnL8gfIWz2y4aNQOyPEzFrXkmmZAJYX1ak.png',
-            'created_at' => '2026-03-19 20:14:20',
-            'updated_at' => '2026-03-23 09:23:55',
+            'created_at' => '2026-03-19 21:14:20',
+            'updated_at' => '2026-03-19 21:14:40',
         ),
         21 => 
         array (
@@ -5424,8 +5424,8 @@ ndezura të gjithë treguesit e drejtimit.
 
 ',
         'image' => 'questions/8eNlbfDM4HACI1aKU38fbQ9qYfh094Skqwu4wvzd.png',
-        'created_at' => '2026-03-19 20:15:35',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:15:35',
+        'updated_at' => '2026-03-19 21:16:11',
     ),
     22 => 
     array (
@@ -5437,8 +5437,8 @@ rregull
 
 ',
         'image' => 'questions/qKUTQVVrtZKmbbf7ZmsZdlUSnuFhTizRK0u5Ds8n.png',
-        'created_at' => '2026-03-19 20:16:41',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:16:41',
+        'updated_at' => '2026-03-19 21:16:41',
     ),
     23 => 
     array (
@@ -5449,8 +5449,8 @@ rregull
 
 ',
         'image' => 'questions/TNa145zFZr5TcBUXq5HeVCwpL8TuWbfwA2Ut8FGu.png',
-        'created_at' => '2026-03-19 20:17:19',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:17:19',
+        'updated_at' => '2026-03-19 21:17:19',
     ),
     24 => 
     array (
@@ -5461,8 +5461,8 @@ rregull
 
 ',
         'image' => 'questions/TnI3VHsvKWbw5hOZW78i6SCKhBeGYOZzyUffYLcZ.png',
-        'created_at' => '2026-03-19 20:17:59',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:17:59',
+        'updated_at' => '2026-03-19 21:17:59',
     ),
     25 => 
     array (
@@ -5473,8 +5473,8 @@ rregull
 
 ',
         'image' => 'questions/CEnYhxHBm9Xb0sLLWCyzMOCLk4nYlAvfZofSljkl.png',
-        'created_at' => '2026-03-19 20:18:43',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:18:43',
+        'updated_at' => '2026-03-19 21:18:43',
     ),
     26 => 
     array (
@@ -5483,8 +5483,8 @@ rregull
         'question_number' => 5229,
         'question_text' => 'Llamba kontrolluese tregon se dritat për mjegull janë të ndezura',
         'image' => 'questions/EWz92Wa3QMEGWsre0rqKrxlhbahP1FCyOvMTsKQS.png',
-        'created_at' => '2026-03-19 20:20:16',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:20:16',
+        'updated_at' => '2026-03-19 21:20:16',
     ),
     27 => 
     array (
@@ -5493,8 +5493,8 @@ rregull
         'question_number' => 5230,
         'question_text' => 'Llamba kontrolluese tregon se servo timoni është në rregull',
         'image' => 'questions/FjiTTOdYk5RtgpLM8eBlGUmSNi4B2cNjz9SkDMBJ.png',
-        'created_at' => '2026-03-19 20:20:49',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:20:49',
+        'updated_at' => '2026-03-19 21:20:49',
     ),
     28 => 
     array (
@@ -5503,8 +5503,8 @@ rregull
         'question_number' => 5231,
         'question_text' => 'Në figurë është paraqitur sistemi Ekologjik',
         'image' => 'questions/Xb04RFS7FTCu3Ng5D72fSJEy84Jrf3ivI5KDFiMQ.png',
-        'created_at' => '2026-03-19 20:21:21',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:21:21',
+        'updated_at' => '2026-03-19 21:21:21',
     ),
     29 => 
     array (
@@ -5513,8 +5513,8 @@ rregull
         'question_number' => 5232,
         'question_text' => 'Në figurë është paraqitur distanca e vogël e sigurisë',
         'image' => 'questions/Lej3d3XRxINuoMPc6ocyz8cgb2WrGCVDdpxvWs0P.png',
-        'created_at' => '2026-03-19 20:22:25',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:22:25',
+        'updated_at' => '2026-03-19 21:22:25',
     ),
     30 => 
     array (
@@ -5523,8 +5523,8 @@ rregull
         'question_number' => 5233,
         'question_text' => 'Në figurë është paraqitur matësi i kohës së ngasjes',
         'image' => 'questions/XVeX2UZBbFLalYimhStzSInJIy5m98PFtw9jpABb.png',
-        'created_at' => '2026-03-19 20:23:02',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:23:02',
+        'updated_at' => '2026-03-19 21:23:02',
     ),
     31 => 
     array (
@@ -5533,8 +5533,8 @@ rregull
         'question_number' => 5234,
         'question_text' => 'Në figurë është paraqitur vend - lulishtja',
         'image' => 'questions/GUSO82IExLdwx4Z3OYefNOUlpvgP99JTpLYfqOj0.png',
-        'created_at' => '2026-03-19 20:23:41',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:23:41',
+        'updated_at' => '2026-03-19 21:23:41',
     ),
     32 => 
     array (
@@ -5543,8 +5543,8 @@ rregull
         'question_number' => 5235,
         'question_text' => 'Në figurë është paraqitur mungesa e ujit për larjen e xhamave',
         'image' => 'questions/LXsgO3iNXSe3EMtDUkMqYxbl6T2VQpXrj8quTCXf.png',
-        'created_at' => '2026-03-19 20:24:08',
-        'updated_at' => '2026-03-23 09:23:55',
+        'created_at' => '2026-03-19 21:24:08',
+        'updated_at' => '2026-03-19 21:24:08',
     ),
     33 => 
     array (
@@ -5553,8 +5553,8 @@ rregull
         'question_number' => 5301,
         'question_text' => 'Çka e karakterizon sigurinë e shoferit në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:27:31',
-        'updated_at' => '2026-03-19 20:27:31',
+        'created_at' => '2026-03-19 21:27:31',
+        'updated_at' => '2026-03-19 21:27:31',
     ),
     34 => 
     array (
@@ -5563,8 +5563,8 @@ rregull
         'question_number' => 5302,
         'question_text' => 'Cilat janë parimet e ngasjes defanzive?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:28:39',
-        'updated_at' => '2026-03-19 20:28:39',
+        'created_at' => '2026-03-19 21:28:39',
+        'updated_at' => '2026-03-19 21:28:39',
     ),
     35 => 
     array (
@@ -5573,8 +5573,8 @@ rregull
         'question_number' => 5303,
         'question_text' => 'Çka nënkuptohet me kulturë në trafik?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:29:10',
-        'updated_at' => '2026-03-19 20:29:10',
+        'created_at' => '2026-03-19 21:29:10',
+        'updated_at' => '2026-03-19 21:29:10',
     ),
     36 => 
     array (
@@ -5583,8 +5583,8 @@ rregull
         'question_number' => 5304,
     'question_text' => 'Cilat janë parimet e ngasjes defanzive (mbrojtëse)?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:29:45',
-        'updated_at' => '2026-03-19 20:29:45',
+        'created_at' => '2026-03-19 21:29:45',
+        'updated_at' => '2026-03-19 21:29:45',
     ),
     37 => 
     array (
@@ -5593,8 +5593,8 @@ rregull
         'question_number' => 5305,
     'question_text' => 'Cilat janë parimet e ngasjes defanzive (mbrojtëse)?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:30:38',
-        'updated_at' => '2026-03-19 20:30:38',
+        'created_at' => '2026-03-19 21:30:38',
+        'updated_at' => '2026-03-19 21:30:38',
     ),
     38 => 
     array (
@@ -5603,8 +5603,8 @@ rregull
         'question_number' => 5306,
         'question_text' => 'Çka e karakterizon sigurinë e shoferit në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:31:21',
-        'updated_at' => '2026-03-19 20:31:21',
+        'created_at' => '2026-03-19 21:31:21',
+        'updated_at' => '2026-03-19 21:31:21',
     ),
     39 => 
     array (
@@ -5613,8 +5613,8 @@ rregull
         'question_number' => 5307,
         'question_text' => 'Ndaj cilëve pjesëmarrës në trafik nuk vlen parimi i besueshmërisë?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:32:01',
-        'updated_at' => '2026-03-19 20:32:01',
+        'created_at' => '2026-03-19 21:32:01',
+        'updated_at' => '2026-03-19 21:32:01',
     ),
     40 => 
     array (
@@ -5623,8 +5623,8 @@ rregull
         'question_number' => 5308,
         'question_text' => 'Çka konsiderohet sjellje e gabuar në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:32:42',
-        'updated_at' => '2026-03-19 20:32:42',
+        'created_at' => '2026-03-19 21:32:42',
+        'updated_at' => '2026-03-19 21:32:42',
     ),
     41 => 
     array (
@@ -5633,8 +5633,8 @@ rregull
         'question_number' => 5309,
         'question_text' => 'Pse nuk vlen parimi i besimit ndaj fëmijëve?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:33:10',
-        'updated_at' => '2026-03-19 20:33:10',
+        'created_at' => '2026-03-19 21:33:10',
+        'updated_at' => '2026-03-19 21:33:10',
     ),
     42 => 
     array (
@@ -5643,8 +5643,8 @@ rregull
         'question_number' => 5310,
         'question_text' => 'Çka duhet të kenë parasysh shoferët e rinj dhe të papërvojë?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:34:13',
-        'updated_at' => '2026-03-19 20:34:13',
+        'created_at' => '2026-03-19 21:34:13',
+        'updated_at' => '2026-03-19 21:34:13',
     ),
     43 => 
     array (
@@ -5653,8 +5653,8 @@ rregull
         'question_number' => 5311,
         'question_text' => 'Cilat janë shkaqet e përfshirjës së shoferëve të rinj në aksidente rrugore?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:34:52',
-        'updated_at' => '2026-03-19 20:34:52',
+        'created_at' => '2026-03-19 21:34:52',
+        'updated_at' => '2026-03-19 21:34:52',
     ),
     44 => 
     array (
@@ -5663,8 +5663,8 @@ rregull
         'question_number' => 5312,
         'question_text' => 'Çka është me rëndësi të dinë shoferët e rinj dhe të papërvojë?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:35:30',
-        'updated_at' => '2026-03-19 20:35:30',
+        'created_at' => '2026-03-19 21:35:30',
+        'updated_at' => '2026-03-19 21:35:30',
     ),
     45 => 
     array (
@@ -5673,8 +5673,8 @@ rregull
         'question_number' => 5313,
         'question_text' => 'Pse shoferët e rinj dhe të papërvojë e rrezikojnë sigurinë në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:36:12',
-        'updated_at' => '2026-03-19 20:36:12',
+        'created_at' => '2026-03-19 21:36:12',
+        'updated_at' => '2026-03-19 21:36:12',
     ),
     46 => 
     array (
@@ -5683,8 +5683,8 @@ rregull
         'question_number' => 5314,
         'question_text' => 'Pse shoferët e rinjë dhe ata pa përvojë e rrezikojnë sigurinë në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:36:58',
-        'updated_at' => '2026-03-19 20:36:58',
+        'created_at' => '2026-03-19 21:36:58',
+        'updated_at' => '2026-03-19 21:36:58',
     ),
     47 => 
     array (
@@ -5693,8 +5693,8 @@ rregull
         'question_number' => 5315,
         'question_text' => 'Cilët janë pjesëmarrësit më të rrezikuar në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:37:27',
-        'updated_at' => '2026-03-19 20:37:27',
+        'created_at' => '2026-03-19 21:37:27',
+        'updated_at' => '2026-03-19 21:37:27',
     ),
     48 => 
     array (
@@ -5703,8 +5703,8 @@ rregull
         'question_number' => 5316,
         'question_text' => ' Si reagojn fëmijët në rrugë?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:38:02',
-        'updated_at' => '2026-03-19 20:38:02',
+        'created_at' => '2026-03-19 21:38:02',
+        'updated_at' => '2026-03-19 21:38:02',
     ),
     49 => 
     array (
@@ -5713,8 +5713,8 @@ rregull
         'question_number' => 5317,
         'question_text' => 'Cilat janë obligimet dhe përgjegjësitë e pjesëmarrësve në trafik?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:38:47',
-        'updated_at' => '2026-03-19 20:38:47',
+        'created_at' => '2026-03-19 21:38:47',
+        'updated_at' => '2026-03-19 21:38:47',
     ),
     50 => 
     array (
@@ -5723,8 +5723,8 @@ rregull
         'question_number' => 5318,
         'question_text' => 'Në çka duhet të përqëndrojë vëmendjen shoferi gjatë ngasjes?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:39:29',
-        'updated_at' => '2026-03-19 20:39:29',
+        'created_at' => '2026-03-19 21:39:29',
+        'updated_at' => '2026-03-19 21:39:29',
     ),
     51 => 
     array (
@@ -5733,8 +5733,8 @@ rregull
         'question_number' => 5319,
         'question_text' => 'Në çka duhet të përqëndrojë vëmendjen shoferi gjatë ngasjes?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:39:59',
-        'updated_at' => '2026-03-19 20:39:59',
+        'created_at' => '2026-03-19 21:39:59',
+        'updated_at' => '2026-03-19 21:39:59',
     ),
     52 => 
     array (
@@ -5743,8 +5743,8 @@ rregull
         'question_number' => 5320,
         'question_text' => 'Çka e karakterizon sjelljen e rrezikshme në trafikun rrugor?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:40:31',
-        'updated_at' => '2026-03-19 20:40:31',
+        'created_at' => '2026-03-19 21:40:31',
+        'updated_at' => '2026-03-19 21:40:31',
     ),
     53 => 
     array (
@@ -5753,8 +5753,8 @@ rregull
         'question_number' => 5321,
     'question_text' => 'Cilat janë parimet e ngasjes defanzive (mbrojtëse)?',
         'image' => NULL,
-        'created_at' => '2026-03-19 20:41:16',
-        'updated_at' => '2026-03-19 20:41:16',
+        'created_at' => '2026-03-19 21:41:16',
+        'updated_at' => '2026-03-19 21:41:16',
     ),
 ));
         
