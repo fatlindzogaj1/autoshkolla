@@ -20,7 +20,7 @@ class DownloadQuestionImages extends Command
 
         Question::whereNotNull('image')
             ->where('image', '!=', '')
-            ->chunk(50, function ($questions) use ($baseUrl) {
+            ->chunk(10, function ($questions) use ($baseUrl) {
 
                 // Filter out images already downloaded
                 $questions = $questions->filter(fn($q) => !Storage::disk('public')->exists($q->image))
